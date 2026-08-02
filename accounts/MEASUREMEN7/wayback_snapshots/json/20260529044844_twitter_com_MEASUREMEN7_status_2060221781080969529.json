@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2059690583019725181",
+    "created_at": "2026-05-29T04:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060221781080969529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1584858268081352704",
+          "start": 0,
+          "username": "Medici63593415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060221781080969529",
+    "in_reply_to_user_id": "1584858268081352704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059690583019725181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Medici63593415 幸苦了，上班总是会遇到神人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2059690583019725181",
+        "created_at": "2026-05-29T04:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060221781080969529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584858268081352704",
+              "start": 0,
+              "username": "Medici63593415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060221781080969529",
+        "in_reply_to_user_id": "1584858268081352704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059690583019725181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Medici63593415 幸苦了，上班总是会遇到神人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584858268081352704",
+        "conversation_id": "2059690583019725181",
+        "created_at": "2026-05-27T17:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059690583019725181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059690583019725181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自从上班以来我一周至少两包利群。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 286,
+          "like_count": 25566,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 5247
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-25T10:44:42.000Z",
+        "description": "你好我是伍陆 这里是我的情绪垃圾场",
+        "id": "1584858268081352704",
+        "name": "伍陆",
+        "pinned_tweet_id": "1598907868933427200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815317507168935936/EoFurRaG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 295,
+          "like_count": 22753,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 627
+        },
+        "username": "Medici63593415",
+        "verified": false
+      }
+    ]
+  }
+}

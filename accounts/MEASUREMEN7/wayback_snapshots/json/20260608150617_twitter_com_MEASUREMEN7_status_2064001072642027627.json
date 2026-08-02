@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2063998795835429090",
+    "created_at": "2026-06-08T15:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064001072642027627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1744066021210923008",
+          "start": 0,
+          "username": "NekooOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064001072642027627",
+    "in_reply_to_user_id": "1744066021210923008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063998795835429090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekooOvO 我这辈子一定要研发出0糖0卡又好吃的玩意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2063998795835429090",
+        "created_at": "2026-06-08T15:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064001072642027627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1744066021210923008",
+              "start": 0,
+              "username": "NekooOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064001072642027627",
+        "in_reply_to_user_id": "1744066021210923008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063998795835429090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekooOvO 我这辈子一定要研发出0糖0卡又好吃的玩意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744066021210923008",
+        "conversation_id": "2063998795835429090",
+        "created_at": "2026-06-08T14:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063998795835429090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063998795835429090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎，我想知道有哪个女孩一辈子都没有减肥过的？哪怕只是有这个念头没有实行，为什么会这样，为什么为什么为什么，明明我们才吃饱饭没有多少年，我好想每天都能吃得饱饱的不在意身材不在意长相，但我做不到。😖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 245,
+          "like_count": 25956,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 5292
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T18:38:54.000Z",
+        "description": "遗言\n\nhttps://t.co/0EJFKd3vxs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo13236",
+                "end": 27,
+                "expanded_url": "https://ngl.link/ovo13236",
+                "start": 4,
+                "url": "https://t.co/0EJFKd3vxs"
+              }
+            ]
+          }
+        },
+        "id": "1744066021210923008",
+        "location": "🪦",
+        "name": "布偶猫",
+        "pinned_tweet_id": "1744145391279624691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744066352577658880/_WMwe_0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 102,
+          "like_count": 3154,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1011
+        },
+        "username": "NekooOvO",
+        "verified": false
+      }
+    ]
+  }
+}

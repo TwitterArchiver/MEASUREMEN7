@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2066063098243625200",
+    "created_at": "2026-06-14T10:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066106378989826142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2015195372457730048",
+          "start": 0,
+          "username": "od2856742024108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066106378989826142",
+    "in_reply_to_user_id": "2015195372457730048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066063098243625200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od2856742024108 有啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2066063098243625200",
+        "created_at": "2026-06-14T10:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066106378989826142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2015195372457730048",
+              "start": 0,
+              "username": "od2856742024108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066106378989826142",
+        "in_reply_to_user_id": "2015195372457730048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066063098243625200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od2856742024108 有啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015195372457730048",
+        "conversation_id": "2066063098243625200",
+        "created_at": "2026-06-14T07:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066063098243625200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066063098243625200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "為什麼沒人找我聊天 好無聊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 242,
+          "like_count": 26089,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 5312
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T22:50:04.000Z",
+        "description": "那只好再見吧",
+        "id": "2015195372457730048",
+        "name": "Столетнее яйцо反od",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015195548098416640/u-pn3SkV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 56,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 42
+        },
+        "username": "od2856742024108",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2003542174991032717",
+    "created_at": "2025-12-24T05:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T06:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003697242050560170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1938824940012347392",
+          "start": 0,
+          "username": "Rinnyaneko69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003697242050560170",
+    "in_reply_to_user_id": "1938824940012347392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003542174991032717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinnyaneko69 我来养琳酱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2003542174991032717",
+        "created_at": "2025-12-24T05:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T06:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003697242050560170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1938824940012347392",
+              "start": 0,
+              "username": "Rinnyaneko69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003697242050560170",
+        "in_reply_to_user_id": "1938824940012347392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003542174991032717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinnyaneko69 我来养琳酱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938824940012347392",
+        "conversation_id": "2003542174991032717",
+        "created_at": "2025-12-23T19:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T20:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003542174991032717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003542174991032717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“我不想养一个不会读书还连自己房间都收拾不好的废材”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 366,
+          "like_count": 17018,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3488
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T05:01:18.000Z",
+        "description": "♡Scara and Kangel \n散兵正牌女友 \n地雷系jirai ||cosplayer||148cm||15y||ENTP\n中文/ENG\n\n#shtwt #edtwt #nsotwt #jiraitwt\nADHD,BPD, DEPRESSION \n 我就是个废物怎么割都不够深\n多互动就多机会被互关 也可以直接问",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "shtwt"
+              },
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "edtwt"
+              },
+              {
+                "end": 95,
+                "start": 88,
+                "tag": "nsotwt"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "tag": "jiraitwt"
+              }
+            ]
+          }
+        },
+        "id": "1938824940012347392",
+        "location": "🇲🇾 kys",
+        "name": "Rin琳酱没有未来⁽⁠⁽⁠ଘ⁠(⁠ ⁠ˊ⁠ᵕ⁠ˋ⁠ ⁠)⁠ଓ⁠⁾⁠⁾",
+        "pinned_tweet_id": "1995655194722574638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995561930233446400/YEUjp9Pk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 73,
+          "like_count": 1186,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 484
+        },
+        "username": "Rinnyaneko69",
+        "verified": false
+      }
+    ]
+  }
+}

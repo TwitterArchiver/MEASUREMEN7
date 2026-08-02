@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1970807420311249329",
+    "created_at": "2025-09-24T11:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T12:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970809007775617128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916086363608518657",
+          "start": 0,
+          "username": "CandlishLa81993"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970809007775617128",
+    "in_reply_to_user_id": "1916086363608518657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970807420311249329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CandlishLa81993 那很惨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1970807420311249329",
+        "created_at": "2025-09-24T11:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T12:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970809007775617128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916086363608518657",
+              "start": 0,
+              "username": "CandlishLa81993"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970809007775617128",
+        "in_reply_to_user_id": "1916086363608518657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970807420311249329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CandlishLa81993 那很惨了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916086363608518657",
+        "conversation_id": "1970807420311249329",
+        "created_at": "2025-09-24T11:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T12:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970807420311249329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970807420311249329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吧这是一个患有上呼吸道感染且伴有神经痛的阿兹海默症患者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 409,
+          "like_count": 10436,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1806
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T11:06:12.000Z",
+        "description": "有缘再见",
+        "id": "1916086363608518657",
+        "location": "♡",
+        "name": "創口貼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962065017592770560/TGNf_4d1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 57,
+          "like_count": 1261,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 116
+        },
+        "username": "CandlishLa81993",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1989160932451446959",
+    "created_at": "2025-11-14T04:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T05:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989183856633872543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847153221900685312",
+          "start": 0,
+          "username": "weiheyaokanwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989183856633872543",
+    "in_reply_to_user_id": "1847153221900685312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989160932451446959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiheyaokanwo 我没绷住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989160927523205120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5rrUxYbcAAulZN.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989160927544111110",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5rrUxdacAYhSzt.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1989160932451446959",
+        "created_at": "2025-11-14T04:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989183856633872543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847153221900685312",
+              "start": 0,
+              "username": "weiheyaokanwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989183856633872543",
+        "in_reply_to_user_id": "1847153221900685312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989160932451446959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiheyaokanwo 我没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989160927523205120",
+            "3_1989160927544111110"
+          ]
+        },
+        "author_id": "1847153221900685312",
+        "conversation_id": "1989160932451446959",
+        "created_at": "2025-11-14T02:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T03:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989160932451446959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3A47xHqCK",
+              "end": 37,
+              "expanded_url": "https://x.com/weiheyaokanwo/status/1989160932451446959/photo/1",
+              "media_key": "3_1989160927523205120",
+              "start": 14,
+              "url": "https://t.co/j3A47xHqCK"
+            },
+            {
+              "display_url": "pic.x.com/j3A47xHqCK",
+              "end": 37,
+              "expanded_url": "https://x.com/weiheyaokanwo/status/1989160932451446959/photo/1",
+              "media_key": "3_1989160927544111110",
+              "start": 14,
+              "url": "https://t.co/j3A47xHqCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989160932451446959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 724,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的很诡异啊有人懂吗... https://t.co/j3A47xHqCK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 350,
+          "like_count": 16631,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 3224
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "病み垢/陰キャ/ダメ女 请你把我吃掉吧 提问箱: https://t.co/MhyZBZn8Ai",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/noi48823",
+                "end": 48,
+                "expanded_url": "https://ngl.link/noi48823",
+                "start": 25,
+                "url": "https://t.co/MhyZBZn8Ai"
+              }
+            ]
+          }
+        },
+        "id": "1847153221900685312",
+        "name": "匿名同学@提不起劲",
+        "pinned_tweet_id": "1939932328668565864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927445670220247040/w5rEe2HV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 561,
+          "like_count": 1342,
+          "listed_count": 1,
+          "media_count": 426,
+          "tweet_count": 2426
+        },
+        "username": "weiheyaokanwo",
+        "verified": false
+      }
+    ]
+  }
+}

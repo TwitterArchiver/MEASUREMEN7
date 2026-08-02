@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1953499907639136695",
+    "created_at": "2025-08-07T16:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T17:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953500591423950894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1640701918535372800",
+          "start": 0,
+          "username": "bei_liang9700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953500591423950894",
+    "in_reply_to_user_id": "1640701918535372800",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953499907639136695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bei_liang9700 2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1953499907639136695",
+        "created_at": "2025-08-07T16:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T17:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953500591423950894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1640701918535372800",
+              "start": 0,
+              "username": "bei_liang9700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953500591423950894",
+        "in_reply_to_user_id": "1640701918535372800",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953499907639136695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bei_liang9700 2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640701918535372800",
+        "conversation_id": "1953499907639136695",
+        "created_at": "2025-08-07T16:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T17:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953499907639136695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953499907639136695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要不要开空间来陪我🤲🤲🤲扣1就开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 365,
+          "like_count": 6927,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1222
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T13:06:47.000Z",
+        "description": "一枚人/平时上线碎碎念/泛性恋/自残/ENFP/穿孔爱好/🚪52纯🟢/🚪52：喜欢我 /188：非常喜欢我 /520：超级喜欢我",
+        "id": "1640701918535372800",
+        "location": "Kansas City, MO",
+        "name": "湫湫",
+        "pinned_tweet_id": "1951146971638489357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950831453920788480/Tfk28QOP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 127,
+          "like_count": 2691,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 698
+        },
+        "username": "bei_liang9700",
+        "verified": false
+      }
+    ]
+  }
+}

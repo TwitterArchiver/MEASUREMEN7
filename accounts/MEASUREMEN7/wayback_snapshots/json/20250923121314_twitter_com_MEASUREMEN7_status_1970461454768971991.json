@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1970457944685953033",
+    "created_at": "2025-09-23T12:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T13:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970461454768971991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1897159279670362112",
+          "start": 0,
+          "username": "wngll128718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970461454768971991",
+    "in_reply_to_user_id": "1897159279670362112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970457944685953033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngll128718 我会被吹走的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1970452111705133056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1hzwXUaUAA90Cq.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1970457944685953033",
+        "created_at": "2025-09-23T12:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T13:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970461454768971991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1897159279670362112",
+              "start": 0,
+              "username": "wngll128718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970461454768971991",
+        "in_reply_to_user_id": "1897159279670362112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970457944685953033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngll128718 我会被吹走的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970452111705133056"
+          ]
+        },
+        "author_id": "1897159279670362112",
+        "conversation_id": "1970457944685953033",
+        "created_at": "2025-09-23T11:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T12:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970457944685953033"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "想打想"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0V6OR0fJC0",
+              "end": 40,
+              "expanded_url": "https://x.com/wngll128718/status/1970457944685953033/photo/1",
+              "media_key": "3_1970452111705133056",
+              "start": 17,
+              "url": "https://t.co/0V6OR0fJC0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970457944685953033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "颱風天\n有哥哥想陪我嗎\n#想打想 https://t.co/0V6OR0fJC0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 406,
+          "like_count": 10260,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1780
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T05:36:45.000Z",
+        "description": "好色之徒，哈哈哈.\nGleezy：kmgGHiqQ\nTG：https://t.co/dGPMTHqiTd \n小小的可可愛愛的色色的都是我\nInstagram : wsl.6565.2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/kkpwwLw",
+                "end": 52,
+                "expanded_url": "https://t.me/kkpwwLw",
+                "start": 29,
+                "url": "https://t.co/dGPMTHqiTd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yyki33",
+                "end": 23,
+                "expanded_url": "https://t.me/yyki33",
+                "start": 0,
+                "url": "https://t.co/zsKEEjJfs2"
+              }
+            ]
+          }
+        },
+        "id": "1897159279670362112",
+        "location": "台灣",
+        "name": "海鈴",
+        "pinned_tweet_id": "1915344081959698502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911460421820616705/ZJA0Vng4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10602,
+          "following_count": 3,
+          "like_count": 18,
+          "listed_count": 27,
+          "media_count": 38,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/zsKEEjJfs2",
+        "username": "wngll128718",
+        "verified": false
+      }
+    ]
+  }
+}

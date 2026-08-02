@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1956726510607593521",
+    "created_at": "2025-08-16T15:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T16:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956739788154765531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847153221900685312",
+          "start": 0,
+          "username": "weiheyaokanwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956739788154765531",
+    "in_reply_to_user_id": "1847153221900685312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956726510607593521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiheyaokanwo 好文案，偷了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956726504316125184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyewY3RawAAV-np.jpg",
+        "width": 1128
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1956726510607593521",
+        "created_at": "2025-08-16T15:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956739788154765531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847153221900685312",
+              "start": 0,
+              "username": "weiheyaokanwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956739788154765531",
+        "in_reply_to_user_id": "1847153221900685312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956726510607593521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiheyaokanwo 好文案，偷了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956726504316125184"
+          ]
+        },
+        "author_id": "1847153221900685312",
+        "conversation_id": "1956726510607593521",
+        "created_at": "2025-08-16T14:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T15:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956726510607593521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RpYJodpWT5",
+              "end": 117,
+              "expanded_url": "https://x.com/weiheyaokanwo/status/1956726510607593521/photo/1",
+              "media_key": "3_1956726504316125184",
+              "start": 94,
+              "url": "https://t.co/RpYJodpWT5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956726510607593521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们之间到底是不是可以吃醋的关系那来点酱油可以吗？芥末呢？蛋黄酱呢？番茄酱呢？沙拉酱呢？白砂糖呢？黄豆粉呢？芝麻粉呢？抹茶粉呢？可可粉呢？烧烤酱呢？果酱呢？蛋挞液呢？鸡蛋液呢？面包糠呢？ https://t.co/RpYJodpWT5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 388,
+          "like_count": 8238,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1471
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "病み垢/陰キャ 剥离表达欲中/提问箱: https://t.co/MhyZBZnGpQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/noi48823",
+                "end": 43,
+                "expanded_url": "https://ngl.link/noi48823",
+                "start": 20,
+                "url": "https://t.co/MhyZBZnGpQ"
+              }
+            ]
+          }
+        },
+        "id": "1847153221900685312",
+        "name": "匿名同学@提不起劲",
+        "pinned_tweet_id": "1939932328668565864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927445670220247040/w5rEe2HV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 496,
+          "like_count": 1100,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 2041
+        },
+        "username": "weiheyaokanwo",
+        "verified": false
+      }
+    ]
+  }
+}

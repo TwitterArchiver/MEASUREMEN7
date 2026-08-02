@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2068653750076555604",
+    "created_at": "2026-06-23T03:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T04:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069267771939250607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1833100001180098560",
+          "start": 0,
+          "username": "hxjcrhvgJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069267771939250607",
+    "in_reply_to_user_id": "1833100001180098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068653750076555604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hxjcrhvgJ 神秘三棱镜封面"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2068653740702220288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVVnfHWwAA_olS.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2068653750076555604",
+        "created_at": "2026-06-23T03:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T04:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069267771939250607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1833100001180098560",
+              "start": 0,
+              "username": "hxjcrhvgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069267771939250607",
+        "in_reply_to_user_id": "1833100001180098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068653750076555604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hxjcrhvgJ 神秘三棱镜封面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068653740702220288"
+          ]
+        },
+        "author_id": "1833100001180098560",
+        "conversation_id": "2068653750076555604",
+        "created_at": "2026-06-21T11:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068653750076555604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CNQvgkwYYh",
+              "end": 26,
+              "expanded_url": "https://x.com/hxjcrhvgJ/status/2068653750076555604/photo/1",
+              "media_key": "3_2068653740702220288",
+              "start": 3,
+              "url": "https://t.co/CNQvgkwYYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068653750076555604",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死贵 https://t.co/CNQvgkwYYh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 245,
+          "like_count": 26391,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 5354
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T11:08:05.000Z",
+        "description": "请给我点钱 谢谢",
+        "id": "1833100001180098560",
+        "name": "小狱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947767470389137412/WhX8waeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 230,
+          "like_count": 5443,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "hxjcrhvgJ",
+        "verified": false
+      }
+    ]
+  }
+}

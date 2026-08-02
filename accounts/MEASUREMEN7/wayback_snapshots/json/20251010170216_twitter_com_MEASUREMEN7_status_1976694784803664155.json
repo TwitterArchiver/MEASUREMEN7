@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1976694009373638768",
+    "created_at": "2025-10-10T17:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T18:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976694784803664155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758683580299939840",
+          "start": 0,
+          "username": "ChunMu51861"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976694784803664155",
+    "in_reply_to_user_id": "1758683580299939840",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976694527663481208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChunMu51861 🥵🥵🥵🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_1976694515013455876",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26hMDzXEAQfnog.png",
+        "width": 300
+      },
+      {
+        "height": 300,
+        "media_key": "3_1976694515017650176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26hMD0XEAA_Pxj.png",
+        "width": 300
+      },
+      {
+        "height": 300,
+        "media_key": "3_1976694514988298240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26hMDtXMAA5lxj.png",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1976694009373638768",
+        "created_at": "2025-10-10T17:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T18:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976694784803664155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758683580299939840",
+              "start": 0,
+              "username": "ChunMu51861"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976694784803664155",
+        "in_reply_to_user_id": "1758683580299939840",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976694527663481208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChunMu51861 🥵🥵🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976694515013455876",
+            "3_1976694515017650176",
+            "3_1976694514988298240"
+          ]
+        },
+        "author_id": "1758683580299939840",
+        "conversation_id": "1976694009373638768",
+        "created_at": "2025-10-10T17:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T18:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976694527663481208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/paC5les5wu",
+              "end": 36,
+              "expanded_url": "https://x.com/ChunMu51861/status/1976694527663481208/photo/1",
+              "media_key": "3_1976694515013455876",
+              "start": 13,
+              "url": "https://t.co/paC5les5wu"
+            },
+            {
+              "display_url": "pic.x.com/paC5les5wu",
+              "end": 36,
+              "expanded_url": "https://x.com/ChunMu51861/status/1976694527663481208/photo/1",
+              "media_key": "3_1976694515017650176",
+              "start": 13,
+              "url": "https://t.co/paC5les5wu"
+            },
+            {
+              "display_url": "pic.x.com/paC5les5wu",
+              "end": 36,
+              "expanded_url": "https://x.com/ChunMu51861/status/1976694527663481208/photo/1",
+              "media_key": "3_1976694514988298240",
+              "start": 13,
+              "url": "https://t.co/paC5les5wu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976694527663481208",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976694251900502118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 https://t.co/paC5les5wu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 443,
+          "like_count": 13257,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 2374
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T02:43:45.000Z",
+        "description": "🉑➕🛰️（🚪） 私信我哦*\\(^o^)/*",
+        "id": "1758683580299939840",
+        "name": "零點陆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910167312088326144/lVlzi_uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 313,
+          "like_count": 1495,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 35
+        },
+        "username": "ChunMu51861",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1956751807755304981",
+    "created_at": "2025-08-16T16:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T17:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956759944419828118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845844455095762944",
+          "start": 0,
+          "username": "Ankyo127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956759944419828118",
+    "in_reply_to_user_id": "1845844455095762944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956751807755304981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ankyo127 好多这种开高仿小号到处找人加line的，好烦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956751803493879808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyfHZeDbkAA7PjJ.jpg",
+        "width": 922
+      },
+      {
+        "height": 1516,
+        "media_key": "3_1956751803292491776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyfHZdTaoAA4hgW.jpg",
+        "width": 1260
+      },
+      {
+        "height": 688,
+        "media_key": "3_1956751797818953728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyfHZI6bEAAm01R.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1956751807755304981",
+        "created_at": "2025-08-16T16:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T17:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956759944419828118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845844455095762944",
+              "start": 0,
+              "username": "Ankyo127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956759944419828118",
+        "in_reply_to_user_id": "1845844455095762944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956751807755304981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ankyo127 好多这种开高仿小号到处找人加line的，好烦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956751803493879808",
+            "3_1956751803292491776",
+            "3_1956751797818953728"
+          ]
+        },
+        "author_id": "1845844455095762944",
+        "conversation_id": "1956751807755304981",
+        "created_at": "2025-08-16T16:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T17:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956751807755304981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1845844455095762944",
+              "start": 21,
+              "username": "Ankyo127"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8RLYw04bu",
+              "end": 128,
+              "expanded_url": "https://x.com/Ankyo127/status/1956751807755304981/photo/1",
+              "media_key": "3_1956751803493879808",
+              "start": 105,
+              "url": "https://t.co/J8RLYw04bu"
+            },
+            {
+              "display_url": "pic.x.com/J8RLYw04bu",
+              "end": 128,
+              "expanded_url": "https://x.com/Ankyo127/status/1956751807755304981/photo/1",
+              "media_key": "3_1956751803292491776",
+              "start": 105,
+              "url": "https://t.co/J8RLYw04bu"
+            },
+            {
+              "display_url": "pic.x.com/J8RLYw04bu",
+              "end": 128,
+              "expanded_url": "https://x.com/Ankyo127/status/1956751807755304981/photo/1",
+              "media_key": "3_1956751797818953728",
+              "start": 105,
+              "url": "https://t.co/J8RLYw04bu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956751807755304981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们我被做局了，有人高仿我。\n请认准正版@Ankyo127\n桉秋仅此一号，没有小号！\n桉秋仅此一号，没有小号！\n桉秋仅此一号，没有小号！\n高仿已经骚扰我的好几个粉丝了，请不要相信他们说的任何话！那都不是我！ https://t.co/J8RLYw04bu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 388,
+          "like_count": 8258,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1474
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T15:10:13.000Z",
+        "description": "桉秋🩷可简称AQ丨非典型ENTP丨已确诊：精分+重抑+中焦+强迫丨黄毒血自避丨喜欢所有性少数群体🏳️‍🌈╹ヮ╹丨几乎不主动发消息，但给我发消息大欢迎喵",
+        "id": "1845844455095762944",
+        "name": "Ankyo𖤐.⸸",
+        "pinned_tweet_id": "1919415446970998867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845846041545019392/2n5ZnMZ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 60,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 259
+        },
+        "username": "Ankyo127",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1969022914776191451",
+    "created_at": "2025-09-19T14:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T15:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969052592702406804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1833100001180098560",
+          "start": 0,
+          "username": "hxjcrhvgJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969052592702406804",
+    "in_reply_to_user_id": "1833100001180098560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969022914776191451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hxjcrhvgJ 好啊好啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1969022914776191451",
+        "created_at": "2025-09-19T14:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T15:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969052592702406804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1833100001180098560",
+              "start": 0,
+              "username": "hxjcrhvgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969052592702406804",
+        "in_reply_to_user_id": "1833100001180098560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969022914776191451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hxjcrhvgJ 好啊好啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833100001180098560",
+        "conversation_id": "1969022914776191451",
+        "created_at": "2025-09-19T12:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T13:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969022914776191451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969022914776191451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来个人陪我聊天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 398,
+          "like_count": 9728,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1722
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T11:08:05.000Z",
+        "description": "给我钱",
+        "id": "1833100001180098560",
+        "name": "小狱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947767470389137412/WhX8waeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 152,
+          "like_count": 2317,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 56
+        },
+        "username": "hxjcrhvgJ",
+        "verified": false
+      }
+    ]
+  }
+}

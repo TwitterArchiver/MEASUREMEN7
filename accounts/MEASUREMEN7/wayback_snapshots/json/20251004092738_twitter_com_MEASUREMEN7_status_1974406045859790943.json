@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1974403458985001295",
+    "created_at": "2025-10-04T09:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T10:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974406045859790943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1744066021210923008",
+          "start": 0,
+          "username": "NekooOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974406045859790943",
+    "in_reply_to_user_id": "1744066021210923008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974403779178254621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekooOvO 我我我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1974403458985001295",
+        "created_at": "2025-10-04T09:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T10:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974406045859790943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1744066021210923008",
+              "start": 0,
+              "username": "NekooOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974406045859790943",
+        "in_reply_to_user_id": "1744066021210923008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974403779178254621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekooOvO 我我我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744066021210923008",
+        "conversation_id": "1974403458985001295",
+        "created_at": "2025-10-04T09:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T10:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974403779178254621"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974403779178254621",
+        "in_reply_to_user_id": "1744066021210923008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974403458985001295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "歌瘾犯了谁想听我唱歌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 438,
+          "like_count": 11927,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 2031
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T18:38:54.000Z",
+        "description": "遗言",
+        "id": "1744066021210923008",
+        "location": "🪦",
+        "name": "布偶猫",
+        "pinned_tweet_id": "1877039380944060581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744066352577658880/_WMwe_0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 100,
+          "like_count": 1774,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 454
+        },
+        "username": "NekooOvO",
+        "verified": false
+      }
+    ]
+  }
+}

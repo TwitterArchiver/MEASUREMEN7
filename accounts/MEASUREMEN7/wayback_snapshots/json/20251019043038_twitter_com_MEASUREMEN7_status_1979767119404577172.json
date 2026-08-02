@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1979760270370345241",
+    "created_at": "2025-10-19T04:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T05:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979767119404577172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1744066021210923008",
+          "start": 0,
+          "username": "NekooOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979767119404577172",
+    "in_reply_to_user_id": "1744066021210923008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979760270370345241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekooOvO 结束挂壁生活了主播"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979760258508615681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mFd0TXcAEdq4a.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979760258537897984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mFd0aWQAArGbh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1979760270370345241",
+        "created_at": "2025-10-19T04:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979767119404577172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1744066021210923008",
+              "start": 0,
+              "username": "NekooOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979767119404577172",
+        "in_reply_to_user_id": "1744066021210923008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979760270370345241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekooOvO 结束挂壁生活了主播"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979760258508615681",
+            "3_1979760258537897984"
+          ]
+        },
+        "author_id": "1744066021210923008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1979760270370345241",
+        "created_at": "2025-10-19T04:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979760270370345241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CxbEMhxDc2",
+              "end": 54,
+              "expanded_url": "https://x.com/NekooOvO/status/1979760270370345241/photo/1",
+              "media_key": "3_1979760258508615681",
+              "start": 31,
+              "url": "https://t.co/CxbEMhxDc2"
+            },
+            {
+              "display_url": "pic.x.com/CxbEMhxDc2",
+              "end": 54,
+              "expanded_url": "https://x.com/NekooOvO/status/1979760270370345241/photo/1",
+              "media_key": "3_1979760258537897984",
+              "start": 31,
+              "url": "https://t.co/CxbEMhxDc2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979760270370345241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上肠粉加豆浆8.5，中午库迪6.9\n今天发生活费了很开心😋 https://t.co/CxbEMhxDc2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 462,
+          "like_count": 14539,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 2647
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T18:38:54.000Z",
+        "description": "遗言",
+        "id": "1744066021210923008",
+        "location": "🪦",
+        "name": "布偶猫",
+        "pinned_tweet_id": "1877039380944060581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744066352577658880/_WMwe_0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 104,
+          "like_count": 1945,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 523
+        },
+        "username": "NekooOvO",
+        "verified": false
+      }
+    ]
+  }
+}

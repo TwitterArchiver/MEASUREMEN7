@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2026884177115885870",
+    "created_at": "2026-02-26T05:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T06:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026886952629264845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1915431589024325634",
+          "start": 0,
+          "username": "yuumian7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026886952629264845",
+    "in_reply_to_user_id": "1915431589024325634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026886818344611944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuumian7 虽然很爽但是有点疼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2026884177115885870",
+        "created_at": "2026-02-26T05:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026886952629264845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1915431589024325634",
+              "start": 0,
+              "username": "yuumian7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026886952629264845",
+        "in_reply_to_user_id": "1915431589024325634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026886818344611944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuumian7 虽然很爽但是有点疼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915431589024325634",
+        "conversation_id": "2026884177115885870",
+        "created_at": "2026-02-26T05:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026886818344611944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026886818344611944",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026885949993480220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 为什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 425,
+          "like_count": 22129,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4627
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T15:44:31.000Z",
+        "description": "记性不好睡眠也不好的一个入",
+        "id": "1915431589024325634",
+        "location": "床",
+        "name": "yuumian",
+        "pinned_tweet_id": "2023353138447778120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020154358659526656/HDbJpKQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 372,
+          "like_count": 6071,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 764
+        },
+        "username": "yuumian7",
+        "verified": false
+      }
+    ]
+  }
+}

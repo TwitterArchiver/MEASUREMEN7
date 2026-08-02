@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1959892282532147690",
+    "created_at": "2025-10-01T05:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T06:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973251580284772517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1670857991598510080",
+          "start": 0,
+          "username": "River046819"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973251580284772517",
+    "in_reply_to_user_id": "1670857991598510080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959892282532147690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@River046819 我好久没玩过了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1959892282532147690",
+        "created_at": "2025-10-01T05:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T06:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973251580284772517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1670857991598510080",
+              "start": 0,
+              "username": "River046819"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973251580284772517",
+        "in_reply_to_user_id": "1670857991598510080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959892282532147690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@River046819 我好久没玩过了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670857991598510080",
+        "conversation_id": "1959892282532147690",
+        "created_at": "2025-08-25T08:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T09:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959892282532147690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959892282532147690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人愿意和我这个菜逼玩平安京"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 432,
+          "like_count": 11473,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 1960
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T18:16:19.000Z",
+        "description": "我一直在哭",
+        "id": "1670857991598510080",
+        "location": "我好孤独",
+        "name": "y",
+        "pinned_tweet_id": "1670867185751965696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968332653394087936/mEsTrUAd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 12,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "River046819",
+        "verified": false
+      }
+    ]
+  }
+}

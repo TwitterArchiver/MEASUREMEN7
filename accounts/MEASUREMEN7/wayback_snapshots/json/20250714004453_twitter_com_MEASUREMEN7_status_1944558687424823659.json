@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944244702192037888"
+      ],
+      "media_source_tweet_id": [
+        "1944244708445913241"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1944558687424823659",
+    "created_at": "2025-07-14T00:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T01:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944558687424823659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1243898324882575361",
+          "start": 3,
+          "username": "iYDsNopINiAmG1M"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YxDD0SVi4G",
+          "end": 52,
+          "expanded_url": "https://x.com/iYDsNopINiAmG1M/status/1944244708445913241/photo/1",
+          "media_key": "3_1944244702192037888",
+          "start": 29,
+          "url": "https://t.co/YxDD0SVi4G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944558687424823659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 189
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944244708445913241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iYDsNopINiAmG1M: 沒邊界感的人桑 https://t.co/YxDD0SVi4G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1146,
+        "media_key": "3_1944244702192037888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvtYQW6XcAAsebh.jpg",
+        "width": 899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944244702192037888"
+          ],
+          "media_source_tweet_id": [
+            "1944244708445913241"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1944558687424823659",
+        "created_at": "2025-07-14T00:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T01:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944558687424823659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1243898324882575361",
+              "start": 3,
+              "username": "iYDsNopINiAmG1M"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxDD0SVi4G",
+              "end": 52,
+              "expanded_url": "https://x.com/iYDsNopINiAmG1M/status/1944244708445913241/photo/1",
+              "media_key": "3_1944244702192037888",
+              "start": 29,
+              "url": "https://t.co/YxDD0SVi4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944558687424823659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944244708445913241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iYDsNopINiAmG1M: 沒邊界感的人桑 https://t.co/YxDD0SVi4G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944244702192037888"
+          ]
+        },
+        "author_id": "1243898324882575361",
+        "conversation_id": "1944244708445913241",
+        "created_at": "2025-07-13T03:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T04:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944244708445913241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxDD0SVi4G",
+              "end": 31,
+              "expanded_url": "https://x.com/iYDsNopINiAmG1M/status/1944244708445913241/photo/1",
+              "media_key": "3_1944244702192037888",
+              "start": 8,
+              "url": "https://t.co/YxDD0SVi4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944244708445913241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 167317,
+          "like_count": 3159,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "沒邊界感的人桑 https://t.co/YxDD0SVi4G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 246,
+          "like_count": 3367,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 680
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T13:50:58.000Z",
+        "description": "",
+        "id": "1243898324882575361",
+        "name": "捕魚貓",
+        "pinned_tweet_id": "1862019642807758979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862801648101511168/PE4qB_ih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 320,
+          "like_count": 29725,
+          "listed_count": 4,
+          "media_count": 2976,
+          "tweet_count": 16335
+        },
+        "username": "iYDsNopINiAmG1M",
+        "verified": false
+      }
+    ]
+  }
+}

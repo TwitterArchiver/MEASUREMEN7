@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2032082320329482300",
+    "created_at": "2026-03-12T13:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T14:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032082320329482300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916827882183360512",
+          "start": 3,
+          "username": "weizhanershen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032082320329482300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031969950051811529",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weizhanershen: 死的死，残的残，疯的疯了，关精神病院的出不来了，坐牢的坐牢，脑子坏掉的坏了，回不来了，曾经的朋友一个接一个的坏掉，这就是磕药和系度的结局。这就是中国精神病人的结局。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2032082320329482300",
+        "created_at": "2026-03-12T13:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032082320329482300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916827882183360512",
+              "start": 3,
+              "username": "weizhanershen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032082320329482300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031969950051811529",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @weizhanershen: 死的死，残的残，疯的疯了，关精神病院的出不来了，坐牢的坐牢，脑子坏掉的坏了，回不来了，曾经的朋友一个接一个的坏掉，这就是磕药和系度的结局。这就是中国精神病人的结局。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916827882183360512",
+        "conversation_id": "2031969950051811529",
+        "created_at": "2026-03-12T05:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031969950051811529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031969950051811529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 629,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "死的死，残的残，疯的疯了，关精神病院的出不来了，坐牢的坐牢，脑子坏掉的坏了，回不来了，曾经的朋友一个接一个的坏掉，这就是磕药和系度的结局。这就是中国精神病人的结局。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 249,
+          "like_count": 23609,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4852
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T12:12:45.000Z",
+        "description": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/RDgN9aswCI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.sbs",
+                "end": 64,
+                "expanded_url": "https://fayou.sbs/",
+                "start": 41,
+                "url": "https://t.co/RDgN9aswCI"
+              }
+            ]
+          }
+        },
+        "id": "1916827882183360512",
+        "name": "法友百科",
+        "pinned_tweet_id": "2031165228168393176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031163298104967168/n2DVSKSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 22,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 18
+        },
+        "username": "weizhanershen",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1953510859894038790",
+    "created_at": "2025-08-08T10:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T11:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953760716986470403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820412962479407104",
+          "start": 0,
+          "username": "Enaaaaa0122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953760716986470403",
+    "in_reply_to_user_id": "1820412962479407104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953510859894038790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enaaaaa0122 天堂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953510849542529024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxxDxHvaoAAzCR7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1953510859894038790",
+        "created_at": "2025-08-08T10:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T11:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953760716986470403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820412962479407104",
+              "start": 0,
+              "username": "Enaaaaa0122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953760716986470403",
+        "in_reply_to_user_id": "1820412962479407104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953510859894038790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enaaaaa0122 天堂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953510849542529024"
+          ]
+        },
+        "author_id": "1820412962479407104",
+        "conversation_id": "1953510859894038790",
+        "created_at": "2025-08-07T17:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T18:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953510859894038790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R72CbrAyZZ",
+              "end": 37,
+              "expanded_url": "https://x.com/Enaaaaa0122/status/1953510859894038790/photo/1",
+              "media_key": "3_1953510849542529024",
+              "start": 14,
+              "url": "https://t.co/R72CbrAyZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953510859894038790",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 441,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "糟糕我被猫咪包围了owo！ https://t.co/R72CbrAyZZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 363,
+          "like_count": 6943,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1227
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T10:54:15.000Z",
+        "description": "猫。",
+        "id": "1820412962479407104",
+        "location": "下水道",
+        "name": "Enaaaaa_",
+        "pinned_tweet_id": "1900187879902765070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949004781424676864/iwbF4N7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 78,
+          "like_count": 2251,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 374
+        },
+        "username": "Enaaaaa0122",
+        "verified": false
+      }
+    ]
+  }
+}

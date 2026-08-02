@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1983649584091164981",
+    "created_at": "2025-10-30T16:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T17:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983929575580041263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1731670068189114368",
+          "start": 0,
+          "username": "Oori_Tvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983929575580041263",
+    "in_reply_to_user_id": "1731670068189114368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983649584091164981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oori_Tvv 网址发我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1679,
+        "media_key": "3_1983649557117595650",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4dWwyra8AIIARG.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1983649584091164981",
+        "created_at": "2025-10-30T16:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T17:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983929575580041263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1731670068189114368",
+              "start": 0,
+              "username": "Oori_Tvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983929575580041263",
+        "in_reply_to_user_id": "1731670068189114368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983649584091164981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oori_Tvv 网址发我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983649557117595650"
+          ]
+        },
+        "author_id": "1731670068189114368",
+        "conversation_id": "1983649584091164981",
+        "created_at": "2025-10-29T21:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T22:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983649584091164981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZimCHBXuCw",
+              "end": 79,
+              "expanded_url": "https://x.com/Oori_Tvv/status/1983649584091164981/photo/1",
+              "media_key": "3_1983649557117595650",
+              "start": 56,
+              "url": "https://t.co/ZimCHBXuCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983649584091164981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊奧利帝瓦你不要再進來了😳這已經是極限了😥你說不進來就不進來嗎🥺那我偏要進呢🤨不要啊奧利帝瓦大人😣乖，叫主人🤫 https://t.co/ZimCHBXuCw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 347,
+          "like_count": 15697,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 2961
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T13:42:14.000Z",
+        "description": "知道嗎懟友 說白了老弟你有啥實力啊 隊友別 說話別說話 直接給我掉 不是哥們兒站起來叫 你無敵了孩子 拳你你就受着 都給我低調點 懂沒懂 不是這都不死 大殘大殘差一槍 不是你是個蛋啊說白了 我去太有實力了 那咋了 今天開不出你大頭我從這跳下去行嗎 傻孩子 想偷學我的uzi跳槍教程嗎老弟 包的包的",
+        "id": "1731670068189114368",
+        "location": "東京 新宿区",
+        "name": "少羽·uzi跳槍學習中",
+        "pinned_tweet_id": "1967636798655565988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983548588925026304/guHJ8ygv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 584,
+          "like_count": 68486,
+          "listed_count": 2,
+          "media_count": 624,
+          "tweet_count": 7246
+        },
+        "username": "Oori_Tvv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978770039747788801"
+      ],
+      "media_source_tweet_id": [
+        "1978770044143219098"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1979054647839973879",
+    "created_at": "2025-10-17T05:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T06:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979054647839973879"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "しずかちゃん",
+          "probability": 0.8043,
+          "start": 32,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 14,
+          "tag": "これでフォロワーさんが増えました"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1660141675430449152",
+          "start": 3,
+          "username": "buzz_nou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zi7S7reGQU",
+          "end": 62,
+          "expanded_url": "https://x.com/buzz_nou/status/1978770044143219098/photo/1",
+          "media_key": "3_1978770039747788801",
+          "start": 39,
+          "url": "https://t.co/zi7S7reGQU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979054647839973879",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 102
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978770044143219098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @buzz_nou: #これでフォロワーさんが増えました\nしずかちゃん https://t.co/zi7S7reGQU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 842,
+        "media_key": "3_1978770039747788801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3YA3f9aQAERp6r.jpg",
+        "width": 508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978770039747788801"
+          ],
+          "media_source_tweet_id": [
+            "1978770044143219098"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979054647839973879",
+        "created_at": "2025-10-17T05:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T06:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979054647839973879"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "しずかちゃん",
+              "probability": 0.8043,
+              "start": 32,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 14,
+              "tag": "これでフォロワーさんが増えました"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1660141675430449152",
+              "start": 3,
+              "username": "buzz_nou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zi7S7reGQU",
+              "end": 62,
+              "expanded_url": "https://x.com/buzz_nou/status/1978770044143219098/photo/1",
+              "media_key": "3_1978770039747788801",
+              "start": 39,
+              "url": "https://t.co/zi7S7reGQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979054647839973879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978770044143219098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @buzz_nou: #これでフォロワーさんが増えました\nしずかちゃん https://t.co/zi7S7reGQU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978770039747788801"
+          ]
+        },
+        "author_id": "1660141675430449152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1978770044143219098",
+        "created_at": "2025-10-16T10:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T11:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978770044143219098"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "しずかちゃん",
+              "probability": 0.826,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 0,
+              "tag": "これでフォロワーさんが増えました"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zi7S7reGQU",
+              "end": 48,
+              "expanded_url": "https://x.com/buzz_nou/status/1978770044143219098/photo/1",
+              "media_key": "3_1978770039747788801",
+              "start": 25,
+              "url": "https://t.co/zi7S7reGQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978770044143219098",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 13444,
+          "like_count": 2191,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "#これでフォロワーさんが増えました\nしずかちゃん https://t.co/zi7S7reGQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 454,
+          "like_count": 14318,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 2596
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T04:34:23.000Z",
+        "description": "絵垢/高校生/サブ垢→@GURE133241 skeb→ https://t.co/THBdvYb017 🚫無断転載・無断使用・AI学習禁止",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "GURE133241"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@buzz_nou",
+                "end": 52,
+                "expanded_url": "https://skeb.jp/@buzz_nou",
+                "start": 29,
+                "url": "https://t.co/THBdvYb017"
+              }
+            ]
+          }
+        },
+        "id": "1660141675430449152",
+        "name": "ﾍﾞﾍﾞ",
+        "pinned_tweet_id": "1946975785132458223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945776529776291840/xhNfhXEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8535,
+          "following_count": 941,
+          "like_count": 49391,
+          "listed_count": 18,
+          "media_count": 490,
+          "tweet_count": 1528
+        },
+        "username": "buzz_nou",
+        "verified": false
+      }
+    ]
+  }
+}

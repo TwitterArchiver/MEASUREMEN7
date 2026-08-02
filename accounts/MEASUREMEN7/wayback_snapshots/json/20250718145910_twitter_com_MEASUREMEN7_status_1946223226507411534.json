@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946223207075176449"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1946223226507411534",
+    "created_at": "2025-07-18T14:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T15:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946223226507411534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zylEiBD48P",
+          "end": 39,
+          "expanded_url": "https://x.com/MEASUREMEN7/status/1946223226507411534/photo/1",
+          "media_key": "3_1946223207075176449",
+          "start": 16,
+          "url": "https://t.co/zylEiBD48P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946223226507411534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爱你，不要走，为什么把我扔下 https://t.co/zylEiBD48P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 453,
+        "media_key": "3_1946223207075176449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJfsf9WYAEKS5K.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946223207075176449"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1946223226507411534",
+        "created_at": "2025-07-18T14:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T15:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946223226507411534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zylEiBD48P",
+              "end": 39,
+              "expanded_url": "https://x.com/MEASUREMEN7/status/1946223226507411534/photo/1",
+              "media_key": "3_1946223207075176449",
+              "start": 16,
+              "url": "https://t.co/zylEiBD48P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946223226507411534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爱你，不要走，为什么把我扔下 https://t.co/zylEiBD48P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 314,
+          "like_count": 4441,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 852
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      }
+    ]
+  }
+}

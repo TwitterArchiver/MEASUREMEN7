@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1979486084297097252",
+    "created_at": "2025-10-18T10:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T11:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979488728704790596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1744066021210923008",
+          "start": 0,
+          "username": "NekooOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979488728704790596",
+    "in_reply_to_user_id": "1744066021210923008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979486084297097252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekooOvO 这个煲仔饭可以啊感觉，才16给的东西还不少"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979486073475473408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3iMGJdWoAA13fL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1979486073517490176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3iMGJnXwAAwidj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979486073488084992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3iMGJgXEAALBBw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979486073488064512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3iMGJgWwAA_PE-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1979486084297097252",
+        "created_at": "2025-10-18T10:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T11:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979488728704790596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1744066021210923008",
+              "start": 0,
+              "username": "NekooOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979488728704790596",
+        "in_reply_to_user_id": "1744066021210923008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979486084297097252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekooOvO 这个煲仔饭可以啊感觉，才16给的东西还不少"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979486073475473408",
+            "3_1979486073517490176",
+            "3_1979486073488084992",
+            "3_1979486073488064512"
+          ]
+        },
+        "author_id": "1744066021210923008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1979486084297097252",
+        "created_at": "2025-10-18T09:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T10:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979486084297097252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gEs3wYkEbC",
+              "end": 69,
+              "expanded_url": "https://x.com/NekooOvO/status/1979486084297097252/photo/1",
+              "media_key": "3_1979486073475473408",
+              "start": 46,
+              "url": "https://t.co/gEs3wYkEbC"
+            },
+            {
+              "display_url": "pic.x.com/gEs3wYkEbC",
+              "end": 69,
+              "expanded_url": "https://x.com/NekooOvO/status/1979486084297097252/photo/1",
+              "media_key": "3_1979486073517490176",
+              "start": 46,
+              "url": "https://t.co/gEs3wYkEbC"
+            },
+            {
+              "display_url": "pic.x.com/gEs3wYkEbC",
+              "end": 69,
+              "expanded_url": "https://x.com/NekooOvO/status/1979486084297097252/photo/1",
+              "media_key": "3_1979486073488084992",
+              "start": 46,
+              "url": "https://t.co/gEs3wYkEbC"
+            },
+            {
+              "display_url": "pic.x.com/gEs3wYkEbC",
+              "end": 69,
+              "expanded_url": "https://x.com/NekooOvO/status/1979486084297097252/photo/1",
+              "media_key": "3_1979486073488064512",
+              "start": 46,
+              "url": "https://t.co/gEs3wYkEbC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979486084297097252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上库迪6.9，中午煲仔饭15.9，下午出门买菜9.5，买菜路上看到雪糕奖励自己一个4.5 https://t.co/gEs3wYkEbC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 460,
+          "like_count": 14474,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 2630
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T18:38:54.000Z",
+        "description": "遗言",
+        "id": "1744066021210923008",
+        "location": "🪦",
+        "name": "布偶猫",
+        "pinned_tweet_id": "1877039380944060581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744066352577658880/_WMwe_0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 104,
+          "like_count": 1917,
+          "listed_count": 3,
+          "media_count": 81,
+          "tweet_count": 520
+        },
+        "username": "NekooOvO",
+        "verified": false
+      }
+    ]
+  }
+}

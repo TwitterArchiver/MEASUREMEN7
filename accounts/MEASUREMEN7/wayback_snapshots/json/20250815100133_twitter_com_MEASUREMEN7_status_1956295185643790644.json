@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956295173866242048"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1956292938239016969",
+    "created_at": "2025-08-15T10:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T11:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956295185643790644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "xiaoyu_xiaoyang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d2UpXkFbNv",
+          "end": 40,
+          "expanded_url": "https://x.com/MEASUREMEN7/status/1956295185643790644/photo/1",
+          "media_key": "3_1956295173866242048",
+          "start": 17,
+          "url": "https://t.co/d2UpXkFbNv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956295185643790644",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956292938239016969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyu_xiaoyang https://t.co/d2UpXkFbNv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 615,
+        "media_key": "3_1956295173866242048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyYoGIIbwAA97A0.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1758,
+        "media_key": "3_1956292924985229312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyYmDOZawAAgoZe.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1781,
+        "media_key": "3_1956292924993626112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyYmDOba4AA_l47.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956295173866242048"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1956292938239016969",
+        "created_at": "2025-08-15T10:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T11:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956295185643790644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "xiaoyu_xiaoyang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d2UpXkFbNv",
+              "end": 40,
+              "expanded_url": "https://x.com/MEASUREMEN7/status/1956295185643790644/photo/1",
+              "media_key": "3_1956295173866242048",
+              "start": 17,
+              "url": "https://t.co/d2UpXkFbNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956295185643790644",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956292938239016969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyu_xiaoyang https://t.co/d2UpXkFbNv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956292924985229312",
+            "3_1956292924993626112"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "1956292938239016969",
+        "created_at": "2025-08-15T09:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T10:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956292938239016969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b7pwiAc21t",
+              "end": 27,
+              "expanded_url": "https://x.com/xiaoyu_xiaoyang/status/1956292938239016969/photo/1",
+              "media_key": "3_1956292924985229312",
+              "start": 4,
+              "url": "https://t.co/b7pwiAc21t"
+            },
+            {
+              "display_url": "pic.x.com/b7pwiAc21t",
+              "end": 27,
+              "expanded_url": "https://x.com/xiaoyu_xiaoyang/status/1956292938239016969/photo/1",
+              "media_key": "3_1956292924993626112",
+              "start": 4,
+              "url": "https://t.co/b7pwiAc21t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956292938239016969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我 https://t.co/b7pwiAc21t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 382,
+          "like_count": 8016,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1426
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "死",
+        "id": "1857335218673483776",
+        "location": "鹿儿岛",
+        "name": "雨",
+        "pinned_tweet_id": "1948984348008743316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956101802446692353/2RVbXwBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 309,
+          "like_count": 2881,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1540
+        },
+        "username": "xiaoyu_xiaoyang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2024330900516065367",
+    "created_at": "2026-02-19T03:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T04:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024331661324804301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943265070294929408",
+          "start": 0,
+          "username": "wangz43780"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024331661324804301",
+    "in_reply_to_user_id": "1943265070294929408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024330900516065367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangz43780 初中就开了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024330886830051330",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfeN1lbUAIaiFi.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2024330900516065367",
+        "created_at": "2026-02-19T03:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024331661324804301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943265070294929408",
+              "start": 0,
+              "username": "wangz43780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024331661324804301",
+        "in_reply_to_user_id": "1943265070294929408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024330900516065367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangz43780 初中就开了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024330886830051330"
+          ]
+        },
+        "author_id": "1943265070294929408",
+        "conversation_id": "2024330900516065367",
+        "created_at": "2026-02-19T03:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024330900516065367"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "女高"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "女初"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQy7W0gWfv",
+              "end": 55,
+              "expanded_url": "https://x.com/wangz43780/status/2024330900516065367/photo/1",
+              "media_key": "3_2024330886830051330",
+              "start": 32,
+              "url": "https://t.co/DQy7W0gWfv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024330900516065367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻到了初中的视频🥲那会儿好嫩 #女高 #女初 #门槛妹 #母狗 https://t.co/DQy7W0gWfv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 420,
+          "like_count": 20940,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4430
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T11:04:41.000Z",
+        "description": "绫波丽重度依赖症 只有这一个号喔，被骗概不负责 私信只回口令 坐标10r 一个问题5r",
+        "id": "1943265070294929408",
+        "location": "只有一个🚪30加qq，送视频加偶尔掉落照片视频，妹宝免费",
+        "name": "羽毛的羽（重生版）",
+        "pinned_tweet_id": "2016161526781247743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016159903329746944/LEamUjF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 54,
+          "like_count": 924,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 72
+        },
+        "username": "wangz43780",
+        "verified": false
+      }
+    ]
+  }
+}

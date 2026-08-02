@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2060295659597840588",
+    "created_at": "2026-05-29T10:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060301141511217175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1870561542821089280",
+          "start": 0,
+          "username": "wlfkfwnd3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060301141511217175",
+    "in_reply_to_user_id": "1870561542821089280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060295659597840588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wlfkfwnd3 要送过去韩国比较难啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2060295659597840588",
+        "created_at": "2026-05-29T10:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060301141511217175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1870561542821089280",
+              "start": 0,
+              "username": "wlfkfwnd3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060301141511217175",
+        "in_reply_to_user_id": "1870561542821089280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060295659597840588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlfkfwnd3 要送过去韩国比较难啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870561542821089280",
+        "conversation_id": "2060295659597840588",
+        "created_at": "2026-05-29T09:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060295659597840588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060295659597840588",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "중국 담배 댈구 가능한 사람 있나??"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 287,
+          "like_count": 25590,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 5251
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T20:06:53.000Z",
+        "description": "@tlwlqkf111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "tlwlqkf111"
+              }
+            ]
+          }
+        },
+        "id": "1870561542821089280",
+        "name": "xowlfkx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055653287622496256/8xzD9Obe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 35,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 43
+        },
+        "username": "wlfkfwnd3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2024280671553016004",
+    "created_at": "2026-02-19T03:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T04:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024331353806823708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2009331605949833216",
+          "start": 0,
+          "username": "uim886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024331353806823708",
+    "in_reply_to_user_id": "2009331605949833216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024280671553016004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uim886 饭盒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024280659880292353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBewiPnbsAEi2UB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024280659880263680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBewiPnbQAAwSEj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024280659880267776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBewiPnbUAATmXl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024280659876069376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBewiPmbQAAnPJv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2024280671553016004",
+        "created_at": "2026-02-19T03:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024331353806823708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2009331605949833216",
+              "start": 0,
+              "username": "uim886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024331353806823708",
+        "in_reply_to_user_id": "2009331605949833216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024280671553016004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uim886 饭盒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024280659880292353",
+            "3_2024280659880263680",
+            "3_2024280659880267776",
+            "3_2024280659876069376"
+          ]
+        },
+        "author_id": "2009331605949833216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2024280671553016004",
+        "created_at": "2026-02-19T00:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T01:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024280671553016004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JjIvCZgfvh",
+              "end": 30,
+              "expanded_url": "https://x.com/uim886/status/2024280671553016004/photo/1",
+              "media_key": "3_2024280659880292353",
+              "start": 7,
+              "url": "https://t.co/JjIvCZgfvh"
+            },
+            {
+              "display_url": "pic.x.com/JjIvCZgfvh",
+              "end": 30,
+              "expanded_url": "https://x.com/uim886/status/2024280671553016004/photo/1",
+              "media_key": "3_2024280659880263680",
+              "start": 7,
+              "url": "https://t.co/JjIvCZgfvh"
+            },
+            {
+              "display_url": "pic.x.com/JjIvCZgfvh",
+              "end": 30,
+              "expanded_url": "https://x.com/uim886/status/2024280671553016004/photo/1",
+              "media_key": "3_2024280659880267776",
+              "start": 7,
+              "url": "https://t.co/JjIvCZgfvh"
+            },
+            {
+              "display_url": "pic.x.com/JjIvCZgfvh",
+              "end": 30,
+              "expanded_url": "https://x.com/uim886/status/2024280671553016004/photo/1",
+              "media_key": "3_2024280659876069376",
+              "start": 7,
+              "url": "https://t.co/JjIvCZgfvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024280671553016004",
+        "lang": "ka",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 340,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "૮₍♡♡₎ა https://t.co/JjIvCZgfvh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 420,
+          "like_count": 20930,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4428
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T18:29:35.000Z",
+        "description": "已满16 身高158，体重48🈶🚪欢迎投喂qvq只看口令♡ 蟹蟹喜欢 (ᐥᐜᐥ)♡︎ᐝ",
+        "id": "2009331605949833216",
+        "name": "dog🦴",
+        "pinned_tweet_id": "2018206598154645819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021617497280311296/IkjxvJyj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 0,
+          "like_count": 1341,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 141
+        },
+        "username": "uim886",
+        "verified": false
+      }
+    ]
+  }
+}

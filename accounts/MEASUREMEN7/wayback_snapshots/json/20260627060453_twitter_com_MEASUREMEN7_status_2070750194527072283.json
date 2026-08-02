@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2070747421160935897",
+    "created_at": "2026-06-27T06:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070750194527072283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058944024078409728",
+          "start": 0,
+          "username": "Suhdhhxdmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070750194527072283",
+    "in_reply_to_user_id": "2058944024078409728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070747421160935897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suhdhhxdmo 萌萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2070747406619357184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzFy4cbsAAi2pw.jpg",
+        "width": 1399
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2070747421160935897",
+        "created_at": "2026-06-27T06:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070750194527072283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058944024078409728",
+              "start": 0,
+              "username": "Suhdhhxdmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070750194527072283",
+        "in_reply_to_user_id": "2058944024078409728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070747421160935897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suhdhhxdmo 萌萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070747406619357184"
+          ]
+        },
+        "author_id": "2058944024078409728",
+        "conversation_id": "2070747421160935897",
+        "created_at": "2026-06-27T05:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070747421160935897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cn1AifKD9U",
+              "end": 23,
+              "expanded_url": "https://x.com/Suhdhhxdmo/status/2070747421160935897/photo/1",
+              "media_key": "3_2070747406619357184",
+              "start": 0,
+              "url": "https://t.co/cn1AifKD9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070747421160935897",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cn1AifKD9U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 174,
+          "like_count": 27194,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 5447
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T16:11:54.000Z",
+        "description": "重生。",
+        "id": "2058944024078409728",
+        "name": "骂我的没妈我骂的没妈。",
+        "pinned_tweet_id": "2065255390770786789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065254202356695041/Z1wu6Ia9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 24,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "Suhdhhxdmo",
+        "verified": false
+      }
+    ]
+  }
+}

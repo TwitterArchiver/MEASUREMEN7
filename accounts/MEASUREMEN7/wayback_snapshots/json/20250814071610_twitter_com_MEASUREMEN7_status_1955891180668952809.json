@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1955850971965178135",
+    "created_at": "2025-08-14T07:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T08:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955891180668952809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1938935139461144582",
+          "start": 0,
+          "username": "efa777227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955891180668952809",
+    "in_reply_to_user_id": "1938935139461144582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955850971965178135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@efa777227 甚至没有人评论你的推文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1955850971965178135",
+        "created_at": "2025-08-14T07:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T08:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955891180668952809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1938935139461144582",
+              "start": 0,
+              "username": "efa777227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955891180668952809",
+        "in_reply_to_user_id": "1938935139461144582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955850971965178135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@efa777227 甚至没有人评论你的推文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938935139461144582",
+        "conversation_id": "1955850971965178135",
+        "created_at": "2025-08-14T04:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T05:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955850971965178135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955850971965178135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果能多点流量就好了 唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 381,
+          "like_count": 7777,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1359
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T12:19:04.000Z",
+        "description": "🚪188 可以验证",
+        "id": "1938935139461144582",
+        "name": "e fa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938936540996292609/aZK-V_kN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 0,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 22
+        },
+        "username": "efa777227",
+        "verified": false
+      }
+    ]
+  }
+}

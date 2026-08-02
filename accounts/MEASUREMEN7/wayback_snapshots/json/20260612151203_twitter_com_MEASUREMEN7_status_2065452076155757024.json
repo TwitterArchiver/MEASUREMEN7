@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2065379771689873447",
+    "created_at": "2026-06-12T15:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065452076155757024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874445693424910336",
+          "start": 0,
+          "username": "nosaki640495202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065452076155757024",
+    "in_reply_to_user_id": "1874445693424910336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065379771689873447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nosaki640495202 帅哥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065379762009509888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmz82DbkAAXiVv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2065379771689873447",
+        "created_at": "2026-06-12T15:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065452076155757024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874445693424910336",
+              "start": 0,
+              "username": "nosaki640495202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065452076155757024",
+        "in_reply_to_user_id": "1874445693424910336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065379771689873447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nosaki640495202 帅哥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065379762009509888"
+          ]
+        },
+        "author_id": "1874445693424910336",
+        "conversation_id": "2065379771689873447",
+        "created_at": "2026-06-12T10:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065379771689873447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pc2BVFwMoh",
+              "end": 29,
+              "expanded_url": "https://x.com/nosaki640495202/status/2065379771689873447/photo/1",
+              "media_key": "3_2065379762009509888",
+              "start": 6,
+              "url": "https://t.co/Pc2BVFwMoh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065379771689873447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好懵逼呀 https://t.co/Pc2BVFwMoh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 242,
+          "like_count": 25964,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 5295
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T13:21:03.000Z",
+        "description": "INFP｜坐标中国广州｜VO.SHAKUKIRU｜少女喪失\n@mam0_0fficialt 🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "mam0_0fficialt"
+              }
+            ]
+          }
+        },
+        "id": "1874445693424910336",
+        "name": "刖裂",
+        "pinned_tweet_id": "2062558578117054846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064687948776284160/XIm4ynul_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 97,
+          "like_count": 4167,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 235
+        },
+        "username": "nosaki640495202",
+        "verified": false
+      }
+    ]
+  }
+}

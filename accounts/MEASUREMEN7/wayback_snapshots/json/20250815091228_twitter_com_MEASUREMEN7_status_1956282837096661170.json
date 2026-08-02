@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1956281091976757672",
+    "created_at": "2025-08-15T09:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T10:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956282837096661170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1495386210977517568",
+          "start": 0,
+          "username": "CapelaLoveLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956282837096661170",
+    "in_reply_to_user_id": "1495386210977517568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956281091976757672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CapelaLoveLove 或许是缺了点什么自己都不知道的东西吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1956281089275957248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyYbSS8bkAASGWn.jpg",
+        "width": 869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1956281091976757672",
+        "created_at": "2025-08-15T09:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T10:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956282837096661170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1495386210977517568",
+              "start": 0,
+              "username": "CapelaLoveLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956282837096661170",
+        "in_reply_to_user_id": "1495386210977517568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956281091976757672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CapelaLoveLove 或许是缺了点什么自己都不知道的东西吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956281089275957248"
+          ]
+        },
+        "author_id": "1495386210977517568",
+        "conversation_id": "1956281091976757672",
+        "created_at": "2025-08-15T09:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T10:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956281091976757672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q1519Jy8et",
+              "end": 64,
+              "expanded_url": "https://x.com/CapelaLoveLove/status/1956281091976757672/photo/1",
+              "media_key": "3_1956281089275957248",
+              "start": 41,
+              "url": "https://t.co/Q1519Jy8et"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956281091976757672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本小姐现在觉得一切都索然无味，无欲无求的原因不是出于苦闷与失落，而是太过满足。。 https://t.co/Q1519Jy8et"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 382,
+          "like_count": 7999,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1419
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T13:14:08.000Z",
+        "description": "Name：卡佩拉/信仰：基督新教/性格：温良仅限对人/Like：阿尔迪巴兰，蹂躏与虐杀，爱，好吃的东西，格斗游戏/Hate：阿尔迪巴兰，傻逼，失败/\n『本小姐对你们的感情不是书的指示，是真心的，是纯爱』\n/除了没几个推文，回复或全键政全黄的号都会回fo/\n请爱上我",
+        "id": "1495386210977517568",
+        "location": "露格尼卡王国",
+        "name": "色欲大罪司教: 卡佩拉.艾梅拉妲.露格尼卡✝",
+        "pinned_tweet_id": "1951895889322357112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953798828446093312/JpEjmatP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 440,
+          "like_count": 16473,
+          "listed_count": 1,
+          "media_count": 1379,
+          "tweet_count": 6572
+        },
+        "username": "CapelaLoveLove",
+        "verified": false
+      }
+    ]
+  }
+}

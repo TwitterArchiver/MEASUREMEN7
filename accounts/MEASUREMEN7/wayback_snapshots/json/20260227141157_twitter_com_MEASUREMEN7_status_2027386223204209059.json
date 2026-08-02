@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2027378453897461965",
+    "created_at": "2026-02-27T14:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027386223204209059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1446470666161508354",
+          "start": 0,
+          "username": "0812xxx_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027386223204209059",
+    "in_reply_to_user_id": "1446470666161508354",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027378453897461965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0812xxx_ 性感"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11888,
+        "height": 1280,
+        "media_key": "7_2027378399539322881",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2027378399539322881/pu/img/ZPlglv3dqG22sQ3q.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027378399539322881/pu/vid/avc1/320x568/MaqKzXACvIpnsQRf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027378399539322881/pu/vid/avc1/480x852/UOkZ8u8vIPxdxZPZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027378399539322881/pu/vid/avc1/720x1280/6Q2IWj3nd-3Z5MXh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2027378399539322881/pu/pl/87cBlA29F6vdcAqh.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2027378453897461965",
+        "created_at": "2026-02-27T14:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027386223204209059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1446470666161508354",
+              "start": 0,
+              "username": "0812xxx_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027386223204209059",
+        "in_reply_to_user_id": "1446470666161508354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027378453897461965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0812xxx_ 性感"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027378399539322881"
+          ]
+        },
+        "author_id": "1446470666161508354",
+        "conversation_id": "2027378453897461965",
+        "created_at": "2026-02-27T13:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027378453897461965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wrGnW7AeV1",
+              "end": 28,
+              "expanded_url": "https://x.com/0812xxx_/status/2027378453897461965/video/1",
+              "media_key": "7_2027378399539322881",
+              "start": 5,
+              "url": "https://t.co/wrGnW7AeV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027378453897461965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯，热舞 https://t.co/wrGnW7AeV1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 428,
+          "like_count": 22357,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4676
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-08T13:41:10.000Z",
+        "description": "＝ukin 素质很低脑子有病 门槛1888因为我朋友圈很高质穷人不配看 线下1888888因为我逼是金子做的不解释",
+        "id": "1446470666161508354",
+        "name": "/ᐠ - ˕ -マ Ⳋ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023815083365974016/P9hSovSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 266,
+          "like_count": 1542,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 425
+        },
+        "username": "0812xxx_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1990009561030521289",
+    "created_at": "2025-11-16T13:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T14:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990047408278081751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1815588883482165248",
+          "start": 0,
+          "username": "Cheese_yogurt33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990047408278081751",
+    "in_reply_to_user_id": "1815588883482165248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990009561030521289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_yogurt33 可以不要背对着我们吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5317,
+        "height": 960,
+        "media_key": "7_1990009544160976896",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1990009544160976896/pu/img/YJKXb8fts3KYLn3P.jpg",
+        "public_metrics": {
+          "view_count": 963
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990009544160976896/pu/vid/avc1/320x426/thDlIClBrfPJLiLK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990009544160976896/pu/vid/avc1/480x640/IM5SqGaKJ3hD9cNw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990009544160976896/pu/vid/avc1/720x960/-E5-adXf2d0YzbHY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1990009544160976896/pu/pl/2J4sIM3SvxnJTH58.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1990009561030521289",
+        "created_at": "2025-11-16T13:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T14:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990047408278081751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1815588883482165248",
+              "start": 0,
+              "username": "Cheese_yogurt33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990047408278081751",
+        "in_reply_to_user_id": "1815588883482165248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990009561030521289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_yogurt33 可以不要背对着我们吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1990009544160976896"
+          ]
+        },
+        "author_id": "1815588883482165248",
+        "conversation_id": "1990009561030521289",
+        "created_at": "2025-11-16T10:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T11:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990009561030521289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFbMMANU1B",
+              "end": 35,
+              "expanded_url": "https://x.com/Cheese_yogurt33/status/1990009561030521289/video/1",
+              "media_key": "7_1990009544160976896",
+              "start": 12,
+              "url": "https://t.co/uFbMMANU1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990009561030521289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 2988,
+          "like_count": 208,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "博士你再说一句贫瘠呢😡 https://t.co/uFbMMANU1B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 350,
+          "like_count": 16744,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 3253
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T03:25:04.000Z",
+        "description": "I know you're tired of loving",
+        "id": "1815588883482165248",
+        "location": "你心里",
+        "name": "芝士酸奶",
+        "pinned_tweet_id": "1955984844204507185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954050784116797440/s5plBH2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15353,
+          "following_count": 754,
+          "like_count": 10901,
+          "listed_count": 47,
+          "media_count": 369,
+          "tweet_count": 960
+        },
+        "username": "Cheese_yogurt33",
+        "verified": false
+      }
+    ]
+  }
+}

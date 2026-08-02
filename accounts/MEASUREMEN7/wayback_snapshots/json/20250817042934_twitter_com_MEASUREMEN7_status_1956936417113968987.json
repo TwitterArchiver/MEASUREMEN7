@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956601083083816960"
+      ],
+      "media_source_tweet_id": [
+        "1956601085705191717"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1956936417113968987",
+    "created_at": "2025-08-17T04:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T05:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956936417113968987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1753348784573001728",
+          "start": 3,
+          "username": "Cheshire_kwine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qp3gDqg9Qv",
+          "end": 59,
+          "expanded_url": "https://x.com/Cheshire_kwine/status/1956601085705191717/photo/1",
+          "media_key": "3_1956601083083816960",
+          "start": 36,
+          "url": "https://t.co/qp3gDqg9Qv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956936417113968987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956601085705191717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cheshire_kwine: 水泥地：看起来像是免费的exp https://t.co/qp3gDqg9Qv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 532,
+        "media_key": "3_1956601083083816960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyc-UYxbAAAOfHx.jpg",
+        "width": 717
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956601083083816960"
+          ],
+          "media_source_tweet_id": [
+            "1956601085705191717"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1956936417113968987",
+        "created_at": "2025-08-17T04:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T05:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956936417113968987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1753348784573001728",
+              "start": 3,
+              "username": "Cheshire_kwine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qp3gDqg9Qv",
+              "end": 59,
+              "expanded_url": "https://x.com/Cheshire_kwine/status/1956601085705191717/photo/1",
+              "media_key": "3_1956601083083816960",
+              "start": 36,
+              "url": "https://t.co/qp3gDqg9Qv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956936417113968987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956601085705191717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cheshire_kwine: 水泥地：看起来像是免费的exp https://t.co/qp3gDqg9Qv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956601083083816960"
+          ]
+        },
+        "author_id": "1753348784573001728",
+        "conversation_id": "1956601085705191717",
+        "created_at": "2025-08-16T06:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T07:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956601085705191717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qp3gDqg9Qv",
+              "end": 39,
+              "expanded_url": "https://x.com/Cheshire_kwine/status/1956601085705191717/photo/1",
+              "media_key": "3_1956601083083816960",
+              "start": 16,
+              "url": "https://t.co/qp3gDqg9Qv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956601085705191717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4637,
+          "like_count": 119,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "水泥地：看起来像是免费的exp https://t.co/qp3gDqg9Qv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 388,
+          "like_count": 8343,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1488
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:25:33.000Z",
+        "description": "随机掉落抽象系列；接占卜接算命，代接心理疏导/咨询，有意者私🙇🏻‍♂️🙇🏻‍♀️",
+        "id": "1753348784573001728",
+        "name": "大猫猫归来，看便利店魔爪土崩瓦解，冰峰时代已然到来，陕西视觉系崛起",
+        "pinned_tweet_id": "1945416937082696121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932085518961176577/thMyIA3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3559,
+          "following_count": 1261,
+          "like_count": 78276,
+          "listed_count": 11,
+          "media_count": 2161,
+          "tweet_count": 14159
+        },
+        "username": "Cheshire_kwine",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2017974125214728268",
+    "created_at": "2026-02-01T18:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T19:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018024461660823652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1909124132203376640",
+          "start": 0,
+          "username": "rhianno57144031"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018024461660823652",
+    "in_reply_to_user_id": "1909124132203376640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017974125214728268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rhianno57144031 那很坏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2017974125214728268",
+        "created_at": "2026-02-01T18:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T19:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018024461660823652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1909124132203376640",
+              "start": 0,
+              "username": "rhianno57144031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018024461660823652",
+        "in_reply_to_user_id": "1909124132203376640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017974125214728268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rhianno57144031 那很坏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909124132203376640",
+        "conversation_id": "2017974125214728268",
+        "created_at": "2026-02-01T14:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T15:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017974125214728268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017974125214728268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "➕V门槛52   什么福利都没有 纯圈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 389,
+          "like_count": 18404,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 3844
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T06:00:45.000Z",
+        "description": "08intp♏️ https://t.co/kQQ0baaxu4 只回复有礼貌的bb。鬼图打码谢谢",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rhiannon74925",
+                "end": 32,
+                "expanded_url": "https://ngl.link/rhiannon74925",
+                "start": 9,
+                "url": "https://t.co/kQQ0baaxu4"
+              }
+            ]
+          }
+        },
+        "id": "1909124132203376640",
+        "location": "🚪52",
+        "name": "rhiannon",
+        "pinned_tweet_id": "2017974125214728268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016210298093633543/j35QOmuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 13,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "rhianno57144031",
+        "verified": false
+      }
+    ]
+  }
+}

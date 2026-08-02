@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1943717636837138665",
+    "created_at": "2025-07-12T00:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T01:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943831574740709684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699421377520951296",
+          "start": 0,
+          "username": "Maorou_K8M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943831574740709684",
+    "in_reply_to_user_id": "1699421377520951296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943717636837138665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maorou_K8M 肉肉的非常可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15833,
+        "height": 960,
+        "media_key": "13_1943716943909048320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1943716943909048320/img/QrY98bbmeLy-wwNx.jpg",
+        "public_metrics": {
+          "view_count": 22883
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943716943909048320/vid/avc1/320x426/cRHK7VXMjNg_TaUT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943716943909048320/vid/avc1/480x640/CAfTuH9dFJaCfFfq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943716943909048320/vid/avc1/720x960/E-A1EQ6HwOLDvElR.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1943716943909048320/pl/EpdJEVUWRwGosC_w.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 7366,
+        "height": 960,
+        "media_key": "13_1943716944063991808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1943716944063991808/img/CYo5uinUMBfEyxvr.jpg",
+        "public_metrics": {
+          "view_count": 10875
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943716944063991808/vid/avc1/320x426/90hxmP0Qp_baG61m.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943716944063991808/vid/avc1/480x640/nNwXzk7N-IcxcGNL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943716944063991808/vid/avc1/720x960/AZFe3FWm9JU_x1RR.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1943716944063991808/pl/XIUIHH_nwvg9tz7C.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1943717636837138665",
+        "created_at": "2025-07-12T00:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T01:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943831574740709684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699421377520951296",
+              "start": 0,
+              "username": "Maorou_K8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943831574740709684",
+        "in_reply_to_user_id": "1699421377520951296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943717636837138665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maorou_K8M 肉肉的非常可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1943716943909048320",
+            "13_1943716944063991808"
+          ]
+        },
+        "author_id": "1699421377520951296",
+        "conversation_id": "1943717636837138665",
+        "created_at": "2025-07-11T17:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T18:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943717636837138665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Vbwsh7L8S",
+              "end": 41,
+              "expanded_url": "https://x.com/Maorou_K8M/status/1943717636837138665/video/1",
+              "media_key": "13_1943716943909048320",
+              "start": 18,
+              "url": "https://t.co/6Vbwsh7L8S"
+            },
+            {
+              "display_url": "pic.x.com/6Vbwsh7L8S",
+              "end": 41,
+              "expanded_url": "https://x.com/Maorou_K8M/status/1943717636837138665/video/1",
+              "media_key": "13_1943716944063991808",
+              "start": 18,
+              "url": "https://t.co/6Vbwsh7L8S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943717636837138665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 987,
+          "impression_count": 47116,
+          "like_count": 3679,
+          "quote_count": 2,
+          "reply_count": 69,
+          "retweet_count": 238
+        },
+        "reply_settings": "everyone",
+        "text": "这个肚子.. 我真的不想说了🥹…… https://t.co/6Vbwsh7L8S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 230,
+          "like_count": 2980,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 614
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T13:56:58.000Z",
+        "description": "请叫我民子 人体改造/自私/穿刺/分舌/药物依赖/纹身/焦虑/畏惧死亡/埋钉/身高172 ➕lx🚪520/888zfb口令红包带姓（8可以聊天➕解锁菜单 ）私信只回复门槛💗只接绿色线下陪玩 一日女友～～本人只玩X/ins x唯二小号：@minminshummk8 @mingmingshummk8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 117,
+                "username": "minminshummk8"
+              },
+              {
+                "end": 148,
+                "start": 132,
+                "username": "mingmingshummk8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/minminshummk8?…",
+                "end": 23,
+                "expanded_url": "https://x.com/minminshummk8?s=21",
+                "start": 0,
+                "url": "https://t.co/nxyoMtRyLF"
+              }
+            ]
+          }
+        },
+        "id": "1699421377520951296",
+        "location": "ins：maorou_k8m",
+        "name": "樁山民子",
+        "pinned_tweet_id": "1850225196147597323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907057618428018688/B5puhO_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212713,
+          "following_count": 43,
+          "like_count": 362,
+          "listed_count": 531,
+          "media_count": 236,
+          "tweet_count": 1380
+        },
+        "url": "https://t.co/nxyoMtRyLF",
+        "username": "Maorou_K8M",
+        "verified": false
+      }
+    ]
+  }
+}

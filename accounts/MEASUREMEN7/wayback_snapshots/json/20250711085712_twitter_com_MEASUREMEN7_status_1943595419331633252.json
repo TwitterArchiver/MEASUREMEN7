@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1943594608962773212",
+    "created_at": "2025-07-11T08:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T09:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943595419331633252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1937796186767077376",
+          "start": 0,
+          "username": "_xlom_tn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943595419331633252",
+    "in_reply_to_user_id": "1937796186767077376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943594608962773212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_xlom_tn なぜですか"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1943594608962773212",
+        "created_at": "2025-07-11T08:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T09:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943595419331633252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1937796186767077376",
+              "start": 0,
+              "username": "_xlom_tn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943595419331633252",
+        "in_reply_to_user_id": "1937796186767077376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943594608962773212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_xlom_tn なぜですか"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937796186767077376",
+        "conversation_id": "1943594608962773212",
+        "created_at": "2025-07-11T08:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T09:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943594608962773212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943594608962773212",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "がこおわだよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 225,
+          "like_count": 2855,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 582
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T08:53:14.000Z",
+        "description": "1o￤♀￤病み垢￤依存￤DM〇￤通話△",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/_xlom_tn/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/_xlom_tn/",
+                "start": 0,
+                "url": "https://t.co/HyjTnLCiSQ"
+              }
+            ]
+          }
+        },
+        "id": "1937796186767077376",
+        "location": "ｸﾘｵﾈ",
+        "name": "むむｻﾝ",
+        "pinned_tweet_id": "1937868891130355977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937861700734386176/38X9J7Ix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 41,
+          "like_count": 446,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 207
+        },
+        "url": "https://t.co/HyjTnLCiSQ",
+        "username": "_xlom_tn",
+        "verified": false
+      }
+    ]
+  }
+}

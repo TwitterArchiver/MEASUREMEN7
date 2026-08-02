@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2070633635347382511",
+    "created_at": "2026-06-26T22:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T23:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070633635347382511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863473278247141376",
+          "start": 3,
+          "username": "qaq5777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070633635347382511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070530106737758544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qaq5777: 人不会无缘无故上瘾。\n性、酒、消费，甚至熬夜刷手机。\n很多时候上瘾的不是这些东西，而是自身无法处理好的情绪痛苦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2070633635347382511",
+        "created_at": "2026-06-26T22:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T23:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070633635347382511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863473278247141376",
+              "start": 3,
+              "username": "qaq5777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070633635347382511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070530106737758544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qaq5777: 人不会无缘无故上瘾。\n性、酒、消费，甚至熬夜刷手机。\n很多时候上瘾的不是这些东西，而是自身无法处理好的情绪痛苦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863473278247141376",
+        "conversation_id": "2070530106737758544",
+        "created_at": "2026-06-26T15:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070530106737758544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070530106737758544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2534,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "人不会无缘无故上瘾。\n性、酒、消费，甚至熬夜刷手机。\n很多时候上瘾的不是这些东西，而是自身无法处理好的情绪痛苦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 173,
+          "like_count": 27134,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 5442
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T06:40:37.000Z",
+        "description": "如果你骂我 我就关机 然后去睡觉",
+        "id": "1863473278247141376",
+        "name": "不加冰",
+        "pinned_tweet_id": "2067902295594144087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005925336308146176/Hk0tumbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42739,
+          "following_count": 267,
+          "like_count": 13097,
+          "listed_count": 79,
+          "media_count": 244,
+          "tweet_count": 5660
+        },
+        "url": "",
+        "username": "qaq5777",
+        "verified": false
+      }
+    ]
+  }
+}

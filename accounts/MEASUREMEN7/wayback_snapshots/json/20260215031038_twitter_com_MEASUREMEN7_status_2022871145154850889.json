@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2022869836951601447",
+    "created_at": "2026-02-15T03:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T04:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022871145154850889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019354507814268931",
+          "start": 0,
+          "username": "winter999days"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022871145154850889",
+    "in_reply_to_user_id": "2019354507814268931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022869836951601447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@winter999days 这是真想不到了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022869832820256768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKtZTQa8AACAUW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022869832459534336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKtZR6awAAV3mX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2022869836951601447",
+        "created_at": "2026-02-15T03:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022871145154850889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019354507814268931",
+              "start": 0,
+              "username": "winter999days"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022871145154850889",
+        "in_reply_to_user_id": "2019354507814268931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022869836951601447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winter999days 这是真想不到了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022869832820256768",
+            "3_2022869832459534336"
+          ]
+        },
+        "author_id": "2019354507814268931",
+        "conversation_id": "2022869836951601447",
+        "created_at": "2026-02-15T03:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022869836951601447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/erxSmpqS1j",
+              "end": 47,
+              "expanded_url": "https://x.com/winter999days/status/2022869836951601447/photo/1",
+              "media_key": "3_2022869832820256768",
+              "start": 24,
+              "url": "https://t.co/erxSmpqS1j"
+            },
+            {
+              "display_url": "pic.x.com/erxSmpqS1j",
+              "end": 47,
+              "expanded_url": "https://x.com/winter999days/status/2022869836951601447/photo/1",
+              "media_key": "3_2022869832459534336",
+              "start": 24,
+              "url": "https://t.co/erxSmpqS1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022869836951601447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是谁能想到我高中是一个穿jk制服的日系萌妹！ https://t.co/erxSmpqS1j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 423,
+          "like_count": 20435,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4297
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T10:16:59.000Z",
+        "description": "双/s倾向/4i=i≥3i/互攻\n💓年上男or年下女\n                                                                                \n会回有介绍/有趣的私信^^点赞就是喜欢你！评论就是超级喜欢你！",
+        "id": "2019354507814268931",
+        "name": "咚咚",
+        "pinned_tweet_id": "2020500577000825189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019373075549315073/oG1uktM3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 23,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 27
+        },
+        "username": "winter999days",
+        "verified": false
+      }
+    ]
+  }
+}

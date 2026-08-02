@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1956760383336952120",
+    "created_at": "2025-08-16T16:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T17:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956760631702679555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813786364930064384",
+          "start": 0,
+          "username": "zhngxny48875771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956760631702679555",
+    "in_reply_to_user_id": "1813786364930064384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956760383336952120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngxny48875771 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1956760367742541826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyfPL-XbYAIWYUW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1956760383336952120",
+        "created_at": "2025-08-16T16:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T17:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956760631702679555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813786364930064384",
+              "start": 0,
+              "username": "zhngxny48875771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956760631702679555",
+        "in_reply_to_user_id": "1813786364930064384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956760383336952120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngxny48875771 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956760367742541826"
+          ]
+        },
+        "author_id": "1813786364930064384",
+        "conversation_id": "1956760383336952120",
+        "created_at": "2025-08-16T16:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T17:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956760383336952120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o2T3seSfn3",
+              "end": 23,
+              "expanded_url": "https://x.com/zhngxny48875771/status/1956760383336952120/photo/1",
+              "media_key": "3_1956760367742541826",
+              "start": 0,
+              "url": "https://t.co/o2T3seSfn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956760383336952120",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/o2T3seSfn3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 388,
+          "like_count": 8263,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1475
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T04:02:31.000Z",
+        "description": "我是一只精神病小猫女孩呼吸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nzl.com",
+                "end": 23,
+                "expanded_url": "http://nzl.com",
+                "start": 0,
+                "url": "https://t.co/sHwAlSJT0v"
+              }
+            ]
+          }
+        },
+        "id": "1813786364930064384",
+        "location": "泰拉大陸",
+        "name": "猫呼吸",
+        "pinned_tweet_id": "1953360987983073752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954909787281596416/SLouJirq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 120,
+          "like_count": 9053,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/sHwAlSJT0v",
+        "username": "zhngxny48875771",
+        "verified": false
+      }
+    ]
+  }
+}

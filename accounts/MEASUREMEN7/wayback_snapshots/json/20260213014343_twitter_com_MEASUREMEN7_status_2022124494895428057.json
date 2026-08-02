@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2022008511404945439",
+    "created_at": "2026-02-13T01:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T02:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022124494895428057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1362692280738537475",
+          "start": 0,
+          "username": "A5m0d3u5S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022124494895428057",
+    "in_reply_to_user_id": "1362692280738537475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022008511404945439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A5m0d3u5S 我懂我懂！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2022008511404945439",
+        "created_at": "2026-02-13T01:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T02:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022124494895428057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1362692280738537475",
+              "start": 0,
+              "username": "A5m0d3u5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022124494895428057",
+        "in_reply_to_user_id": "1362692280738537475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022008511404945439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A5m0d3u5S 我懂我懂！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362692280738537475",
+        "conversation_id": "2022008511404945439",
+        "created_at": "2026-02-12T18:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T19:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022008511404945439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gutwix/status/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/gutwix/status/1832772674730291687",
+              "start": 18,
+              "url": "https://t.co/dLMJnju9tU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022008511404945439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832772674730291687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好萌。。谁懂，好萌好喜欢，，好有爱 https://t.co/dLMJnju9tU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 419,
+          "like_count": 20136,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4247
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T09:15:44.000Z",
+        "description": "臭画画的",
+        "id": "1362692280738537475",
+        "location": "nowhere",
+        "name": "任さん",
+        "pinned_tweet_id": "1577925803819470848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000076999554195456/ZjFDa-7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 1148,
+          "like_count": 1417,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1765
+        },
+        "username": "A5m0d3u5S",
+        "verified": false
+      }
+    ]
+  }
+}

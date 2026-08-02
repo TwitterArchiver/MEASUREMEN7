@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2017404641928220991",
+    "created_at": "2026-01-31T09:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T10:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017528144094183443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979293441294213120",
+          "start": 0,
+          "username": "Dumpling666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017528144094183443",
+    "in_reply_to_user_id": "1979293441294213120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017407722673815987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dumpling666666 明明挺好看的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2017404641928220991",
+        "created_at": "2026-01-31T09:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T10:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017528144094183443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979293441294213120",
+              "start": 0,
+              "username": "Dumpling666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017528144094183443",
+        "in_reply_to_user_id": "1979293441294213120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017407722673815987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dumpling666666 明明挺好看的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979293441294213120",
+        "conversation_id": "2017404641928220991",
+        "created_at": "2026-01-31T01:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T02:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017407722673815987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017407722673815987",
+        "in_reply_to_user_id": "1979293441294213120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 970,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017404641928220991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抽烟和颜值有什么关联，抽烟能美颜吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 380,
+          "like_count": 18076,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 3779
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T21:08:42.000Z",
+        "description": "我 自言自语(𖦹.𖦹)",
+        "id": "1979293441294213120",
+        "name": "饺子鼠",
+        "pinned_tweet_id": "1987071077143707776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007332819744530432/rDIIZXv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3186,
+          "following_count": 129,
+          "like_count": 1763,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 650
+        },
+        "username": "Dumpling666666",
+        "verified": false
+      }
+    ]
+  }
+}

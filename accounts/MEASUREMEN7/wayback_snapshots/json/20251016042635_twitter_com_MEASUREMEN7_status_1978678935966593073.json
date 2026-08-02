@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1978675541105381456",
+    "created_at": "2025-10-16T04:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T05:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978678935966593073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761106331896033283",
+          "start": 0,
+          "username": "nemurikamisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978678935966593073",
+    "in_reply_to_user_id": "1761106331896033283",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978675541105381456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemurikamisama 好诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1978675536949116928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Wq6tmbgAAa0xA.jpg",
+        "width": 771
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1978675538161209344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Wq6yHakAAyGsk.jpg",
+        "width": 771
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1978675541105381456",
+        "created_at": "2025-10-16T04:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T05:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978678935966593073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761106331896033283",
+              "start": 0,
+              "username": "nemurikamisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978678935966593073",
+        "in_reply_to_user_id": "1761106331896033283",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978675541105381456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemurikamisama 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978675536949116928",
+            "3_1978675538161209344"
+          ]
+        },
+        "author_id": "1761106331896033283",
+        "conversation_id": "1978675541105381456",
+        "created_at": "2025-10-16T04:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T05:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978675541105381456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRbeXxYgiG",
+              "end": 33,
+              "expanded_url": "https://x.com/nemurikamisama/status/1978675541105381456/photo/1",
+              "media_key": "3_1978675536949116928",
+              "start": 10,
+              "url": "https://t.co/xRbeXxYgiG"
+            },
+            {
+              "display_url": "pic.x.com/xRbeXxYgiG",
+              "end": 33,
+              "expanded_url": "https://x.com/nemurikamisama/status/1978675541105381456/photo/1",
+              "media_key": "3_1978675538161209344",
+              "start": 10,
+              "url": "https://t.co/xRbeXxYgiG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978675541105381456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你跪下我求你點事唄 https://t.co/xRbeXxYgiG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 451,
+          "like_count": 14173,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 2560
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T19:10:51.000Z",
+        "description": "永い眠りにつく\n性別是神\n發言如讓您感到不適我很榮幸....人類殲滅計劃進行中...! @kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1761106331896033283",
+        "location": "表世界",
+        "name": "海眠大人🪦⑨",
+        "pinned_tweet_id": "1878098084397478005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942260066700099592/iGACmyZ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14524,
+          "following_count": 38,
+          "like_count": 8366,
+          "listed_count": 26,
+          "media_count": 377,
+          "tweet_count": 4012
+        },
+        "username": "nemurikamisama",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1972841974924451960",
+    "created_at": "2025-09-30T04:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T05:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972882095048720817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845844455095762944",
+          "start": 0,
+          "username": "Ankyo127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972882095048720817",
+    "in_reply_to_user_id": "1845844455095762944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972841974924451960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ankyo127 毕竟生活费都没有了，收门槛的话也没办法吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_1972841971917148160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2DxUiYaUAAlyM8.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1972841974924451960",
+        "created_at": "2025-09-30T04:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T05:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972882095048720817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845844455095762944",
+              "start": 0,
+              "username": "Ankyo127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972882095048720817",
+        "in_reply_to_user_id": "1845844455095762944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972841974924451960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ankyo127 毕竟生活费都没有了，收门槛的话也没办法吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972841971917148160"
+          ]
+        },
+        "author_id": "1845844455095762944",
+        "conversation_id": "1972841974924451960",
+        "created_at": "2025-09-30T01:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T02:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972841974924451960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghYVnIdAbD",
+              "end": 90,
+              "expanded_url": "https://x.com/Ankyo127/status/1972841974924451960/photo/1",
+              "media_key": "3_1972841971917148160",
+              "start": 67,
+              "url": "https://t.co/ghYVnIdAbD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972841974924451960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起各位因为我坚持无🚪而喜欢我的推友们，未来我也要设门槛了。\n我承认确实遇到了经济困难，但更是因为，我真的不再有精力回复所有人了。 https://t.co/ghYVnIdAbD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 424,
+          "like_count": 11309,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 1931
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T15:10:13.000Z",
+        "description": "桉秋/アンキョ/Ankyo/AQ(简称)丨已确诊:BPD+精分+重抑+中焦丨自伤/drug自避丨坚定的性少数支持者🏳️‍🌈友跨🏳️‍⚧️丨国破山河在 城春草木深",
+        "id": "1845844455095762944",
+        "name": "Ankyo𖤐.🩷",
+        "pinned_tweet_id": "1919415446970998867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971892817447526400/CWJp7sjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014,
+          "following_count": 65,
+          "like_count": 197,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 298
+        },
+        "username": "Ankyo127",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1946066228348620802",
+    "created_at": "2025-07-18T04:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T05:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946071647468830837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1858186854526562304",
+          "start": 0,
+          "username": "meiyujijie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946071647468830837",
+    "in_reply_to_user_id": "1858186854526562304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946066228348620802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiyujijie 要看要看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946066211785117699",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwHQ6K7XkAMZCUg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1946066228348620802",
+        "created_at": "2025-07-18T04:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T05:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946071647468830837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858186854526562304",
+              "start": 0,
+              "username": "meiyujijie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946071647468830837",
+        "in_reply_to_user_id": "1858186854526562304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946066228348620802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiyujijie 要看要看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946066211785117699"
+          ]
+        },
+        "author_id": "1858186854526562304",
+        "conversation_id": "1946066228348620802",
+        "created_at": "2025-07-18T04:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T05:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946066228348620802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ky6NF8lEgu",
+              "end": 35,
+              "expanded_url": "https://x.com/meiyujijie/status/1946066228348620802/photo/1",
+              "media_key": "3_1946066211785117699",
+              "start": 12,
+              "url": "https://t.co/Ky6NF8lEgu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946066228348620802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 901,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "男厕露出\n有人想看嘛🙋 https://t.co/Ky6NF8lEgu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 305,
+          "like_count": 4195,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 825
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T16:34:14.000Z",
+        "description": "是一颗仙人球",
+        "id": "1858186854526562304",
+        "name": "何六诚",
+        "pinned_tweet_id": "1892435541817257985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903015542522515459/m-tuWDTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83580,
+          "following_count": 89,
+          "like_count": 1447,
+          "listed_count": 175,
+          "media_count": 136,
+          "tweet_count": 403
+        },
+        "username": "meiyujijie",
+        "verified": false
+      }
+    ]
+  }
+}

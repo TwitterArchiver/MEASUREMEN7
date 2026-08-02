@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1978322653963334060",
+    "created_at": "2025-10-15T05:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T06:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978324963674173933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1694188552308068352",
+          "start": 0,
+          "username": "xiong2_yctf_ylg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978324963674173933",
+    "in_reply_to_user_id": "1694188552308068352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978322653963334060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiong2_yctf_ylg 汗流浃背了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978322647567278080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Rp92NboAA5GB1.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1978322653963334060",
+        "created_at": "2025-10-15T05:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T06:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978324963674173933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1694188552308068352",
+              "start": 0,
+              "username": "xiong2_yctf_ylg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978324963674173933",
+        "in_reply_to_user_id": "1694188552308068352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978322653963334060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiong2_yctf_ylg 汗流浃背了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978322647567278080"
+          ]
+        },
+        "author_id": "1694188552308068352",
+        "conversation_id": "1978322653963334060",
+        "created_at": "2025-10-15T04:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T05:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978322653963334060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kA3l1S68PP",
+              "end": 36,
+              "expanded_url": "https://x.com/xiong2_yctf_ylg/status/1978322653963334060/photo/1",
+              "media_key": "3_1978322647567278080",
+              "start": 13,
+              "url": "https://t.co/kA3l1S68PP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978322653963334060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我休学的事还没告诉我爸💦 https://t.co/kA3l1S68PP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 450,
+          "like_count": 14054,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 2533
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T03:23:33.000Z",
+        "description": "感谢你的出现😊",
+        "id": "1694188552308068352",
+        "location": "妈妈生的",
+        "name": "くま2🧸",
+        "pinned_tweet_id": "1977443235086905619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854202928661442560/z-odWv-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 241,
+          "like_count": 4796,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 435
+        },
+        "username": "xiong2_yctf_ylg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2069781762298024366",
+    "created_at": "2026-06-25T08:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T09:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070063004973146400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976201118826057728",
+          "start": 0,
+          "username": "yunaiiiwww344"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070063004973146400",
+    "in_reply_to_user_id": "1976201118826057728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069781762298024366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunaiiiwww344 我可以吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2069781762298024366",
+        "created_at": "2026-06-25T08:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070063004973146400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976201118826057728",
+              "start": 0,
+              "username": "yunaiiiwww344"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070063004973146400",
+        "in_reply_to_user_id": "1976201118826057728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069781762298024366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunaiiiwww344 我可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976201118826057728",
+        "conversation_id": "2069781762298024366",
+        "created_at": "2026-06-24T13:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T14:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069781762298024366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069781762298024366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 541,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还挺喜欢说话听别人跟我分享日常的为什么都没有几个人主动找我说过？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 165,
+          "like_count": 26782,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 5413
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T08:21:45.000Z",
+        "description": "08 低浮上 互转三天后取 转太多容易被封号  小号@Rinn380657Rinn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "Rinn380657Rinn"
+              }
+            ]
+          }
+        },
+        "id": "1976201118826057728",
+        "name": "☦︎",
+        "pinned_tweet_id": "2065403698696847623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065868512720211968/4U1S-wI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 9,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "yunaiiiwww344",
+        "verified": false
+      }
+    ]
+  }
+}

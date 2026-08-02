@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1955490448799367186",
+    "created_at": "2025-08-13T04:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T05:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955490448799367186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1952785613436141570",
+          "start": 3,
+          "username": "Xl3499716783678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955490448799367186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955130087617204517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xl3499716783678: 我知道你愚蠢、轻佻、头脑空虚，然而我爱你。我知道你的企图、理想，你势利、庸俗，然而我爱你。我知道你只是个二流货色，但是我爱你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1955490448799367186",
+        "created_at": "2025-08-13T04:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T05:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955490448799367186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1952785613436141570",
+              "start": 3,
+              "username": "Xl3499716783678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955490448799367186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955130087617204517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xl3499716783678: 我知道你愚蠢、轻佻、头脑空虚，然而我爱你。我知道你的企图、理想，你势利、庸俗，然而我爱你。我知道你只是个二流货色，但是我爱你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952785613436141570",
+        "conversation_id": "1955130087617204517",
+        "created_at": "2025-08-12T04:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955130087617204517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955130087617204517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 895,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我知道你愚蠢、轻佻、头脑空虚，然而我爱你。我知道你的企图、理想，你势利、庸俗，然而我爱你。我知道你只是个二流货色，但是我爱你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 376,
+          "like_count": 7581,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1320
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T17:35:53.000Z",
+        "description": "",
+        "id": "1952785613436141570",
+        "name": "Xl",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "Xl3499716783678",
+        "verified": false
+      }
+    ]
+  }
+}

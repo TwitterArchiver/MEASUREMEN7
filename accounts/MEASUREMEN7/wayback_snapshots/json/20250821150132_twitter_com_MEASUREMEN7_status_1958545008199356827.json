@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1958496993367519266",
+    "created_at": "2025-08-21T15:01:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T16:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958545008199356827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845844455095762944",
+          "start": 0,
+          "username": "Ankyo127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958545008199356827",
+    "in_reply_to_user_id": "1845844455095762944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958496993367519266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ankyo127 正确的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1958496993367519266",
+        "created_at": "2025-08-21T15:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T16:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958545008199356827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845844455095762944",
+              "start": 0,
+              "username": "Ankyo127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958545008199356827",
+        "in_reply_to_user_id": "1845844455095762944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958496993367519266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ankyo127 正确的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845844455095762944",
+        "conversation_id": "1958496993367519266",
+        "created_at": "2025-08-21T11:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T12:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958496993367519266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958496993367519266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 465,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "未来我不会再回复每一条私信了，选择性回复吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 389,
+          "like_count": 8689,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1553
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T15:10:13.000Z",
+        "description": "桉秋🩷可简称AQ丨非典型ENTP丨已确诊：精分+重抑+中焦+强迫丨黄毒血自避丨喜欢所有性少数群体🏳️‍🌈╹ヮ╹丨几乎不主动发消息，但给我发消息大欢迎喵",
+        "id": "1845844455095762944",
+        "name": "Ankyo𖤐.⸸",
+        "pinned_tweet_id": "1919415446970998867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845846041545019392/2n5ZnMZ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2107,
+          "following_count": 62,
+          "like_count": 193,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 315
+        },
+        "username": "Ankyo127",
+        "verified": false
+      }
+    ]
+  }
+}

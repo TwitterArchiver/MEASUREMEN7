@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1945603633447670050",
+    "created_at": "2025-07-17T23:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T00:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945994357028352312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1886593038014930944",
+          "start": 0,
+          "username": "tatsuko1107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945994357028352312",
+    "in_reply_to_user_id": "1886593038014930944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945603633447670050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tatsuko1107 cos好像啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1945603626396741633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwAsMKEW8AEwyG8.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1945603633447670050",
+        "created_at": "2025-07-17T23:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T00:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945994357028352312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1886593038014930944",
+              "start": 0,
+              "username": "tatsuko1107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945994357028352312",
+        "in_reply_to_user_id": "1886593038014930944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945603633447670050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatsuko1107 cos好像啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945603626396741633"
+          ]
+        },
+        "author_id": "1886593038014930944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1945603633447670050",
+        "created_at": "2025-07-16T21:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T22:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945603633447670050"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "七草ナズナコスプレ"
+            },
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "七草ナズナ"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5z1hBYbuxj",
+              "end": 57,
+              "expanded_url": "https://x.com/tatsuko1107/status/1945603633447670050/photo/1",
+              "media_key": "3_1945603626396741633",
+              "start": 34,
+              "url": "https://t.co/5z1hBYbuxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945603633447670050",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 634,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#七草ナズナコスプレ \n#七草ナズナ \n#コスプレ \n#自撮り界隈 https://t.co/5z1hBYbuxj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 304,
+          "like_count": 4152,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 815
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T01:50:16.000Z",
+        "description": "重生2.0｜病み垢｜#shtwt｜メンヘラ｜想讓我好那你應該打錢而不是逼逼賴賴｜🚪188/388/520/1314/5200｜六爻、塔罗、梅花、星盘、八字，占卜無需門檻直接私我｜先给钱再算牌｜支持usdt付款｜自用蜂鸟vpn⬇️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 10,
+                "tag": "shtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=U3clCESI",
+                "start": 0,
+                "url": "https://t.co/0E3oG3UCcW"
+              }
+            ]
+          }
+        },
+        "id": "1886593038014930944",
+        "location": "♑️isfp3w4",
+        "name": "愛恨相增",
+        "pinned_tweet_id": "1903212009266794679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921137203813429248/ONRu6gCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 90,
+          "like_count": 5536,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 826
+        },
+        "url": "https://t.co/0E3oG3UCcW",
+        "username": "tatsuko1107",
+        "verified": false
+      }
+    ]
+  }
+}

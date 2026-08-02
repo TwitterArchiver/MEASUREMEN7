@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1976678689455649239",
+    "created_at": "2025-10-10T16:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T17:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976682320183677218"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1976682320183677218",
+    "in_reply_to_user_id": "1888239230020661248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976681212979937620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我很对不起阿姨，辜负了她对我的期望和信任。我没能做到最好，给所有事情一个好结局，我曾以为我努力就可以改变一切改变你糟透的人生。后来我才发现自己的能力终究还是有限的，无论我多么努力我也没有办法帮助一个自愿当一辈子小孩子的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1976678689455649239",
+        "created_at": "2025-10-10T16:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976682320183677218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976682320183677218",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976681212979937620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很对不起阿姨，辜负了她对我的期望和信任。我没能做到最好，给所有事情一个好结局，我曾以为我努力就可以改变一切改变你糟透的人生。后来我才发现自己的能力终究还是有限的，无论我多么努力我也没有办法帮助一个自愿当一辈子小孩子的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1976678689455649239",
+        "created_at": "2025-10-10T16:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976681212979937620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976681212979937620",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976680581615194446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你说我是不成熟的小孩，我承认。我的脾气和耐心还有眼界谋略等等的确还算不上大人，可我在慢慢成长，向一个合格的成年人去靠拢，你为什么还是那么幼稚，在我们的关系里你才是不成熟的小孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 443,
+          "like_count": 13266,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 2360
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      }
+    ]
+  }
+}

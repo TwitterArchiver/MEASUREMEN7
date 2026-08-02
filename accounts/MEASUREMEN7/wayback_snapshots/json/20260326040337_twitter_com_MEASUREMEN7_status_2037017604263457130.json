@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2036842436107055446",
+    "created_at": "2026-03-26T04:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T05:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037017604263457130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2030304451127631872",
+          "start": 0,
+          "username": "foanax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037017604263457130",
+    "in_reply_to_user_id": "2030304451127631872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036842436107055446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foanax 我也在抽这个万宝路"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2036842431149477888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HERRZkQbkAA4lxc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2036842436107055446",
+        "created_at": "2026-03-26T04:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037017604263457130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2030304451127631872",
+              "start": 0,
+              "username": "foanax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037017604263457130",
+        "in_reply_to_user_id": "2030304451127631872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036842436107055446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foanax 我也在抽这个万宝路"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036842431149477888"
+          ]
+        },
+        "author_id": "2030304451127631872",
+        "conversation_id": "2036842436107055446",
+        "created_at": "2026-03-25T16:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036842436107055446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jLWfzV4jW8",
+              "end": 23,
+              "expanded_url": "https://x.com/foanax/status/2036842436107055446/photo/1",
+              "media_key": "3_2036842431149477888",
+              "start": 0,
+              "url": "https://t.co/jLWfzV4jW8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036842436107055446",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jLWfzV4jW8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 279,
+          "like_count": 24377,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4975
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T15:28:12.000Z",
+        "description": "",
+        "id": "2030304451127631872",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030308606042886145/GIXuTPOO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 7,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 27
+        },
+        "username": "foanax",
+        "verified": false
+      }
+    ]
+  }
+}

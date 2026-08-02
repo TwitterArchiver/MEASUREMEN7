@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2069808048437338486",
+    "created_at": "2026-06-24T15:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T16:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069811405835186254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "913792211325558784",
+          "start": 0,
+          "username": "JR27676142"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069811405835186254",
+    "in_reply_to_user_id": "913792211325558784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069810610095915501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JR27676142 高举虾钳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2069808048437338486",
+        "created_at": "2026-06-24T15:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069811405835186254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "913792211325558784",
+              "start": 0,
+              "username": "JR27676142"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069811405835186254",
+        "in_reply_to_user_id": "913792211325558784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069810610095915501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JR27676142 高举虾钳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "913792211325558784",
+        "conversation_id": "2069808048437338486",
+        "created_at": "2026-06-24T15:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069810610095915501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069810610095915501",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069808048437338486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 🦞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 163,
+          "like_count": 26683,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 5399
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-29T15:46:55.000Z",
+        "description": "广东湛江男23/183/73   不是gay另外本人手上有几个湛兼职，有需要的可以烟钱换\n退圈了 \n可以加主页微信一起同好交流一下",
+        "id": "913792211325558784",
+        "location": "0759 in Guangzhou Nansha",
+        "name": "湛江左登",
+        "pinned_tweet_id": "2033935364445098144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/913995465019949056/g4y8U2qE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 117,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 513
+        },
+        "url": "",
+        "username": "JR27676142",
+        "verified": false
+      }
+    ]
+  }
+}

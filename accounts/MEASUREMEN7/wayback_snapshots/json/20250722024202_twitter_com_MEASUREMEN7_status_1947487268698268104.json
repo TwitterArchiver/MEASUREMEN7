@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1947487075546370182",
+    "created_at": "2025-07-22T02:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T03:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947487268698268104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1924456235581276160",
+          "start": 0,
+          "username": "rurutaro___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947487268698268104",
+    "in_reply_to_user_id": "1924456235581276160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 20,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947487075546370182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rurutaro___ アイスコーラだよ。私も飲みたい。"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1947487075546370182].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1947487075546370182",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1947487075546370182"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1947487075546370182",
+        "created_at": "2025-07-22T02:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T03:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947487268698268104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1924456235581276160",
+              "start": 0,
+              "username": "rurutaro___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947487268698268104",
+        "in_reply_to_user_id": "1924456235581276160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947487075546370182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rurutaro___ アイスコーラだよ。私も飲みたい。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 353,
+          "like_count": 5591,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 1074
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T13:25:25.000Z",
+        "description": "（L）GBT￤08￤DM◎￤ﾒﾝﾍﾗ￤ﾘｽｶ￤ﾎﾞｰｲｯｼｭ︎︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎彼女持ち㌨",
+        "id": "1924456235581276160",
+        "name": "るるﾀ◾︎",
+        "pinned_tweet_id": "1947318799872467169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944011853643784192/dUnjYNVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 91,
+          "like_count": 635,
+          "listed_count": 5,
+          "media_count": 78,
+          "tweet_count": 2227
+        },
+        "username": "rurutaro___",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2073506389876703504",
+    "created_at": "2026-07-04T20:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T21:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073507030586020025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1958823376539262976",
+          "start": 0,
+          "username": "O7Uywn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073507030586020025",
+    "in_reply_to_user_id": "1958823376539262976",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073506389876703504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O7Uywn no"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073506381307777024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMaTEWFbEAAq3AQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2073506389876703504",
+        "created_at": "2026-07-04T20:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T21:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073507030586020025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1958823376539262976",
+              "start": 0,
+              "username": "O7Uywn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073507030586020025",
+        "in_reply_to_user_id": "1958823376539262976",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073506389876703504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O7Uywn no"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073506381307777024"
+          ]
+        },
+        "author_id": "1958823376539262976",
+        "conversation_id": "2073506389876703504",
+        "created_at": "2026-07-04T20:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T21:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073506389876703504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ipBIN9yvD6",
+              "end": 29,
+              "expanded_url": "https://x.com/O7Uywn/status/2073506389876703504/photo/1",
+              "media_key": "3_2073506381307777024",
+              "start": 6,
+              "url": "https://t.co/ipBIN9yvD6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073506389876703504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抓拍蚊子🦟 https://t.co/ipBIN9yvD6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 176,
+          "like_count": 27626,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 5508
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T09:27:52.000Z",
+        "description": "我別無選擇",
+        "id": "1958823376539262976",
+        "name": "柏林",
+        "pinned_tweet_id": "2068062185247719870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027540187262373888/Z2DjNUeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 53,
+          "like_count": 941,
+          "listed_count": 0,
+          "media_count": 517,
+          "tweet_count": 2333
+        },
+        "url": "",
+        "username": "O7Uywn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2025788199038222804",
+    "created_at": "2026-02-23T04:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T05:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025789062112559333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723403735098138624",
+          "start": 0,
+          "username": "tianmeilen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025789062112559333",
+    "in_reply_to_user_id": "1723403735098138624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025788199038222804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianmeilen 不要啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26133,
+        "height": 1920,
+        "media_key": "13_2025788117857501184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025788117857501184/img/wHAhzBoIrEWXqNkq.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025788117857501184/vid/avc1/720x1280/mmd7g7Hbce0KKAsq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025788117857501184/pl/f32fkR-_SCViTALo.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025788117857501184/vid/avc1/320x568/uHywwMtMIRvf6bK5.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025788117857501184/vid/avc1/1080x1920/0bvuYZXRpNPVhfna.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025788117857501184/vid/avc1/480x852/aTB6_2l0ftSy5YBr.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2025788199038222804",
+        "created_at": "2026-02-23T04:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T05:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025789062112559333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723403735098138624",
+              "start": 0,
+              "username": "tianmeilen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025789062112559333",
+        "in_reply_to_user_id": "1723403735098138624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025788199038222804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianmeilen 不要啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025788117857501184"
+          ]
+        },
+        "author_id": "1723403735098138624",
+        "conversation_id": "2025788199038222804",
+        "created_at": "2026-02-23T04:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T05:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025788199038222804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VXuaaZ9ShU",
+              "end": 38,
+              "expanded_url": "https://x.com/tianmeilen/status/2025788199038222804/video/1",
+              "media_key": "13_2025788117857501184",
+              "start": 15,
+              "url": "https://t.co/VXuaaZ9ShU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025788199038222804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从今天起小金不再发r18了🤓 https://t.co/VXuaaZ9ShU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 423,
+          "like_count": 21678,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4554
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T18:14:16.000Z",
+        "description": "🇯🇵180/60 20⬆️ バイセクシュアル gayじゃない！不母，有些m、喜欢有安全感的哥哥姐姐，超反差，不约，私下里不乱。中国語上手、英語もいい ゲーム好き。没有对象。希望下辈子要开心啊",
+        "id": "1723403735098138624",
+        "location": "Tokyo-to, Japan",
+        "name": "小金コガネ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016033034504712192/UtsSqYFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13311,
+          "following_count": 557,
+          "like_count": 6729,
+          "listed_count": 52,
+          "media_count": 56,
+          "tweet_count": 235
+        },
+        "username": "tianmeilen",
+        "verified": true
+      }
+    ]
+  }
+}

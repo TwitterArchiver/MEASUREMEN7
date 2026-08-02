@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954489173743738881"
+      ],
+      "media_source_tweet_id": [
+        "1954489185009562052"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1954489666721505606",
+    "created_at": "2025-08-10T10:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T11:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954489666721505606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850566498412318720",
+          "start": 3,
+          "username": "luobo4444"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c98iKcrKpl",
+          "end": 38,
+          "expanded_url": "https://x.com/luobo4444/status/1954489185009562052/photo/1",
+          "media_key": "3_1954489173743738881",
+          "start": 15,
+          "url": "https://t.co/c98iKcrKpl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954489666721505606",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954489185009562052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luobo4444: https://t.co/c98iKcrKpl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1967,
+        "media_key": "3_1954489173743738881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx-9jFZXoAEeh2Z.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954489173743738881"
+          ],
+          "media_source_tweet_id": [
+            "1954489185009562052"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1954489666721505606",
+        "created_at": "2025-08-10T10:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T11:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954489666721505606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850566498412318720",
+              "start": 3,
+              "username": "luobo4444"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c98iKcrKpl",
+              "end": 38,
+              "expanded_url": "https://x.com/luobo4444/status/1954489185009562052/photo/1",
+              "media_key": "3_1954489173743738881",
+              "start": 15,
+              "url": "https://t.co/c98iKcrKpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954489666721505606",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954489185009562052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luobo4444: https://t.co/c98iKcrKpl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954489173743738881"
+          ]
+        },
+        "author_id": "1850566498412318720",
+        "conversation_id": "1954489185009562052",
+        "created_at": "2025-08-10T10:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T11:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954489185009562052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c98iKcrKpl",
+              "end": 23,
+              "expanded_url": "https://x.com/luobo4444/status/1954489185009562052/photo/1",
+              "media_key": "3_1954489173743738881",
+              "start": 0,
+              "url": "https://t.co/c98iKcrKpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954489185009562052",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/c98iKcrKpl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 369,
+          "like_count": 7217,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1265
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "ig： yanyan_kawa1｜中推圈的大家都叫我萝卜哥｜空蝉原｜06｜高中生｜日本語学习中｜里垢老被封等过段时间再整",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@yan_eiii",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@yan_eiii",
+                "start": 0,
+                "url": "https://t.co/6Vz4UqUSGw"
+              }
+            ]
+          }
+        },
+        "id": "1850566498412318720",
+        "location": "幸せが続きますように",
+        "name": "hara🥕（猫猫命梦女版）",
+        "pinned_tweet_id": "1952738818404012327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938181651831656448/nddFGYZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7453,
+          "following_count": 445,
+          "like_count": 3351,
+          "listed_count": 9,
+          "media_count": 433,
+          "tweet_count": 2375
+        },
+        "url": "https://t.co/6Vz4UqUSGw",
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

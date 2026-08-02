@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943901953739653120"
+      ],
+      "media_source_tweet_id": [
+        "1943901979333341314"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1944004427930906918",
+    "created_at": "2025-07-12T12:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T13:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944004427930906918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1427384347963928576",
+          "start": 3,
+          "username": "gatinarios"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AA2P0BMFSK",
+          "end": 43,
+          "expanded_url": "https://x.com/gatinarios/status/1943901979333341314/photo/1",
+          "media_key": "3_1943901953739653120",
+          "start": 20,
+          "url": "https://t.co/AA2P0BMFSK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944004427930906918",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27069
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943901979333341314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gatinarios: 🐈\n🚲 https://t.co/AA2P0BMFSK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1649,
+        "media_key": "3_1943901953739653120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvoghxbXAAAlWWO.jpg",
+        "width": 1241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943901953739653120"
+          ],
+          "media_source_tweet_id": [
+            "1943901979333341314"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1944004427930906918",
+        "created_at": "2025-07-12T12:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T13:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944004427930906918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1427384347963928576",
+              "start": 3,
+              "username": "gatinarios"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AA2P0BMFSK",
+              "end": 43,
+              "expanded_url": "https://x.com/gatinarios/status/1943901979333341314/photo/1",
+              "media_key": "3_1943901953739653120",
+              "start": 20,
+              "url": "https://t.co/AA2P0BMFSK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944004427930906918",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27069
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943901979333341314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gatinarios: 🐈\n🚲 https://t.co/AA2P0BMFSK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943901953739653120"
+          ]
+        },
+        "author_id": "1427384347963928576",
+        "conversation_id": "1943901979333341314",
+        "created_at": "2025-07-12T05:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T06:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943901979333341314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AA2P0BMFSK",
+              "end": 27,
+              "expanded_url": "https://x.com/gatinarios/status/1943901979333341314/photo/1",
+              "media_key": "3_1943901953739653120",
+              "start": 4,
+              "url": "https://t.co/AA2P0BMFSK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943901979333341314",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4982,
+          "impression_count": 3495887,
+          "like_count": 157191,
+          "quote_count": 414,
+          "reply_count": 221,
+          "retweet_count": 27069
+        },
+        "reply_settings": "everyone",
+        "text": "🐈\n🚲 https://t.co/AA2P0BMFSK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 230,
+          "like_count": 3092,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 630
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-16T21:38:55.000Z",
+        "description": "gatos que acho por aí!!! não são minhas imagens!!! manda miau na dm pra créditos/remoção!!!",
+        "id": "1427384347963928576",
+        "location": "Brasil",
+        "name": "gatos fazendo gatices",
+        "pinned_tweet_id": "1942330942560796736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911285752526229504/M7vBupxF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818222,
+          "following_count": 63,
+          "like_count": 449,
+          "listed_count": 1581,
+          "media_count": 2369,
+          "tweet_count": 3463
+        },
+        "username": "gatinarios",
+        "verified": true
+      }
+    ]
+  }
+}

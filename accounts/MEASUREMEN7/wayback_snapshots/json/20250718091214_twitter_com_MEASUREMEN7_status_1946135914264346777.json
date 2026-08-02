@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1946108982503845939",
+    "created_at": "2025-07-18T09:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T10:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946135914264346777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1870067454765838336",
+          "start": 0,
+          "username": "chessiia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946135914264346777",
+    "in_reply_to_user_id": "1870067454765838336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946108982503845939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chessiia 在到处找人聊天"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1946108867533828096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwH3tD-XcAAb_mp.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1946108982503845939",
+        "created_at": "2025-07-18T09:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T10:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946135914264346777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1870067454765838336",
+              "start": 0,
+              "username": "chessiia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946135914264346777",
+        "in_reply_to_user_id": "1870067454765838336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946108982503845939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chessiia 在到处找人聊天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946108867533828096"
+          ]
+        },
+        "author_id": "1870067454765838336",
+        "conversation_id": "1946108982503845939",
+        "created_at": "2025-07-18T07:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T08:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946108982503845939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eEvZO0QOyv",
+              "end": 30,
+              "expanded_url": "https://x.com/chessiia/status/1946108982503845939/photo/1",
+              "media_key": "3_1946108867533828096",
+              "start": 7,
+              "url": "https://t.co/eEvZO0QOyv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946108982503845939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1739,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泥萌在干嘛！ https://t.co/eEvZO0QOyv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 309,
+          "like_count": 4342,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 843
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T11:23:27.000Z",
+        "description": "脾气很坏/0社交能力求求你们别孤立我/xp混乱/不安。。/私信只回复过门相关 喜欢我请给我打钱 已婚 老公@航站楼",
+        "id": "1870067454765838336",
+        "location": "你来找我玩啦👁️",
+        "name": "生物损伤科（恩师tt",
+        "pinned_tweet_id": "1944641774057935066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891054663161565184/LboD5koF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 410,
+          "like_count": 5237,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 1568
+        },
+        "username": "chessiia",
+        "verified": false
+      }
+    ]
+  }
+}

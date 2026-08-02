@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2022349058879422715",
+    "created_at": "2026-02-14T03:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T04:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022515847617728647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1948811544747540486",
+          "start": 0,
+          "username": "azsrrk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022515847617728647",
+    "in_reply_to_user_id": "1948811544747540486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022349058879422715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@azsrrk 超级可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9333,
+        "height": 1280,
+        "media_key": "13_2022348995423825920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022348995423825920/img/Hu6OnHJO8IdImG3r.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022348995423825920/vid/avc1/320x568/-qkPhFC-QueWvnXt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022348995423825920/vid/avc1/480x852/RCyyzPofpcVVCVKo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022348995423825920/vid/avc1/720x1280/HwSKR0x66xojNayc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022348995423825920/pl/0LioKS2ssJCqpzO1.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2022349058879422715",
+        "created_at": "2026-02-14T03:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T04:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022515847617728647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1948811544747540486",
+              "start": 0,
+              "username": "azsrrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022515847617728647",
+        "in_reply_to_user_id": "1948811544747540486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022349058879422715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@azsrrk 超级可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022348995423825920"
+          ]
+        },
+        "author_id": "1948811544747540486",
+        "conversation_id": "2022349058879422715",
+        "created_at": "2026-02-13T16:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022349058879422715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lBc5rhmgDD",
+              "end": 30,
+              "expanded_url": "https://x.com/azsrrk/status/2022349058879422715/video/1",
+              "media_key": "13_2022348995423825920",
+              "start": 7,
+              "url": "https://t.co/lBc5rhmgDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022349058879422715",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Nanami https://t.co/lBc5rhmgDD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 421,
+          "like_count": 20300,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4272
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T18:24:39.000Z",
+        "description": "我支持你有私人空间又希望对我是毫无保留",
+        "id": "1948811544747540486",
+        "location": "Taiwan",
+        "name": "我有公主病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948812417271824389/DYZLKz-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 158
+        },
+        "username": "azsrrk",
+        "verified": false
+      }
+    ]
+  }
+}

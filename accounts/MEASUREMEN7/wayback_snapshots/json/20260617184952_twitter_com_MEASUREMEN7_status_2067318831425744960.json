@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2067117850347905204",
+    "created_at": "2026-06-17T18:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067318831425744960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2015195372457730048",
+          "start": 0,
+          "username": "od2856742024108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067318831425744960",
+    "in_reply_to_user_id": "2015195372457730048",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067117850347905204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od2856742024108 1111111"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2067117850347905204",
+        "created_at": "2026-06-17T18:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067318831425744960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2015195372457730048",
+              "start": 0,
+              "username": "od2856742024108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067318831425744960",
+        "in_reply_to_user_id": "2015195372457730048",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067117850347905204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od2856742024108 1111111"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015195372457730048",
+        "conversation_id": "2067117850347905204",
+        "created_at": "2026-06-17T05:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067117850347905204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/air_yukiha/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/air_yukiha/status/2066676950060646626",
+              "start": 3,
+              "url": "https://t.co/YzBIlYiFOe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067117850347905204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066676950060646626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好奇 https://t.co/YzBIlYiFOe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 243,
+          "like_count": 26224,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 5324
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T22:50:04.000Z",
+        "description": "可愛い日本の男の子とお話ししたいな、めっちゃ暇だから WeChatでビデオ通話しようよww 日本語はまだ全然上手じゃないけど、これから頑張って勉強する！私が一番本場の中国の方言を教えてあげられるよ、ふふ 天使みたいな男の子が現れますように🥺髪の長い男の子が好きです！これからもどうぞよろしくお願いします🥺",
+        "id": "2015195372457730048",
+        "name": "Столетнее яйцо反od",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015195548098416640/u-pn3SkV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 107,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "od2856742024108",
+        "verified": false
+      }
+    ]
+  }
+}

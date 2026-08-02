@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2020051045796233473",
+    "created_at": "2026-02-07T11:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T12:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020100632107999490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "743283237632380929",
+          "start": 0,
+          "username": "dearrX__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020100632107999490",
+    "in_reply_to_user_id": "743283237632380929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020051045796233473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dearrX__ 舔舔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2020051033502720000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAiptlgXIAAppJb.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2020051033477591040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAiptlaXsAA_CkA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2020051045796233473",
+        "created_at": "2026-02-07T11:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020100632107999490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "743283237632380929",
+              "start": 0,
+              "username": "dearrX__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020100632107999490",
+        "in_reply_to_user_id": "743283237632380929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020051045796233473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dearrX__ 舔舔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020051033502720000",
+            "3_2020051033477591040"
+          ]
+        },
+        "author_id": "743283237632380929",
+        "conversation_id": "2020051045796233473",
+        "created_at": "2026-02-07T08:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T09:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020051045796233473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k6ch9CFZz5",
+              "end": 26,
+              "expanded_url": "https://x.com/dearrX__/status/2020051045796233473/photo/1",
+              "media_key": "3_2020051033502720000",
+              "start": 3,
+              "url": "https://t.co/k6ch9CFZz5"
+            },
+            {
+              "display_url": "pic.x.com/k6ch9CFZz5",
+              "end": 26,
+              "expanded_url": "https://x.com/dearrX__/status/2020051045796233473/photo/1",
+              "media_key": "3_2020051033477591040",
+              "start": 3,
+              "url": "https://t.co/k6ch9CFZz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020051045796233473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "脚疼 https://t.co/k6ch9CFZz5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 396,
+          "like_count": 19137,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3993
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-16T03:25:08.000Z",
+        "description": "🚪",
+        "id": "743283237632380929",
+        "name": "Tinger",
+        "pinned_tweet_id": "1962800989096026338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985182403573547008/eRmnbzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5541,
+          "following_count": 456,
+          "like_count": 73249,
+          "listed_count": 9,
+          "media_count": 867,
+          "tweet_count": 1564
+        },
+        "username": "dearrX__",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2030535242621354105",
+    "created_at": "2026-03-08T07:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T08:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030544062722490527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2009331605949833216",
+          "start": 0,
+          "username": "uim886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030544062722490527",
+    "in_reply_to_user_id": "2009331605949833216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030535242621354105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uim886 广东是这样的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2030535231242145792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3pCNoakAAM-w-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030535231246323712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3pCNpaUAAU3jN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030535231250575360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3pCNqbMAAFz0E.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030535231242133504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3pCNoaYAAAnhP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2030535242621354105",
+        "created_at": "2026-03-08T07:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T08:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030544062722490527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2009331605949833216",
+              "start": 0,
+              "username": "uim886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030544062722490527",
+        "in_reply_to_user_id": "2009331605949833216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030535242621354105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uim886 广东是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030535231242145792",
+            "3_2030535231246323712",
+            "3_2030535231250575360",
+            "3_2030535231242133504"
+          ]
+        },
+        "author_id": "2009331605949833216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2030535242621354105",
+        "created_at": "2026-03-08T06:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030535242621354105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/46c7Iyv4NU",
+              "end": 64,
+              "expanded_url": "https://x.com/uim886/status/2030535242621354105/photo/1",
+              "media_key": "3_2030535231242145792",
+              "start": 41,
+              "url": "https://t.co/46c7Iyv4NU"
+            },
+            {
+              "display_url": "pic.x.com/46c7Iyv4NU",
+              "end": 64,
+              "expanded_url": "https://x.com/uim886/status/2030535242621354105/photo/1",
+              "media_key": "3_2030535231246323712",
+              "start": 41,
+              "url": "https://t.co/46c7Iyv4NU"
+            },
+            {
+              "display_url": "pic.x.com/46c7Iyv4NU",
+              "end": 64,
+              "expanded_url": "https://x.com/uim886/status/2030535242621354105/photo/1",
+              "media_key": "3_2030535231250575360",
+              "start": 41,
+              "url": "https://t.co/46c7Iyv4NU"
+            },
+            {
+              "display_url": "pic.x.com/46c7Iyv4NU",
+              "end": 64,
+              "expanded_url": "https://x.com/uim886/status/2030535242621354105/photo/1",
+              "media_key": "3_2030535231242133504",
+              "start": 41,
+              "url": "https://t.co/46c7Iyv4NU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030535242621354105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广东为什么这么热，我好想跳进这个池子里面🌚不过呢，前面就是麦当劳🍔，所以先不跳了 https://t.co/46c7Iyv4NU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 432,
+          "like_count": 23209,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4806
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T18:29:35.000Z",
+        "description": "你猜我几岁🐽身高158，体重48 欢迎投喂qvq ，蟹蟹喜欢 (ᐥᐜᐥ)♡︎ᐝ 欢迎来看我的成长汪(ˊo̴̶̷̤  ̫ o̴̶̷̤ˋ)玩推赚🥕吃~不线下哦 .发日常，喜欢的文案和我的爱宠ˋˏᰔᩚˎˊ˗♒️发癫发疯，这里是我的秘密🤫童言无忌，恶语伤狗心 ⸝⸝ʚ̴̶̷̆ ̯ʚ̴̶̷̆⸝⸝",
+        "id": "2009331605949833216",
+        "location": "🚪388/520/1314",
+        "name": "dog🦴",
+        "pinned_tweet_id": "2023159578691817924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028388115380084736/6fh5Dxzo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 0,
+          "like_count": 7568,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 175
+        },
+        "username": "uim886",
+        "verified": false
+      }
+    ]
+  }
+}

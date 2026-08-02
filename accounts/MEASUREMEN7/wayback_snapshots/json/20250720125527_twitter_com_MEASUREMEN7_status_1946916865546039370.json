@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1946909278608195890",
+    "created_at": "2025-07-20T12:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T13:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946916865546039370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1925197223656345601",
+          "start": 0,
+          "username": "qianye0130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946916865546039370",
+    "in_reply_to_user_id": "1925197223656345601",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946909278608195890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianye0130 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1946909264959950848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwTPqUva0AAKndl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1946909278608195890",
+        "created_at": "2025-07-20T12:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T13:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946916865546039370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1925197223656345601",
+              "start": 0,
+              "username": "qianye0130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946916865546039370",
+        "in_reply_to_user_id": "1925197223656345601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946909278608195890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianye0130 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946909264959950848"
+          ]
+        },
+        "author_id": "1925197223656345601",
+        "conversation_id": "1946909278608195890",
+        "created_at": "2025-07-20T12:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T13:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946909278608195890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/byc92AIFPo",
+              "end": 23,
+              "expanded_url": "https://x.com/qianye0130/status/1946909278608195890/photo/1",
+              "media_key": "3_1946909264959950848",
+              "start": 0,
+              "url": "https://t.co/byc92AIFPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946909278608195890",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/byc92AIFPo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 338,
+          "like_count": 5035,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 954
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-21T14:29:37.000Z",
+        "description": "21y 172cm/49kg",
+        "id": "1925197223656345601",
+        "location": "+v🚪188/288/520/1314",
+        "name": "夜姬",
+        "pinned_tweet_id": "1932118347732414673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928005024711593986/ejhLuklI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 322,
+          "like_count": 14133,
+          "listed_count": 6,
+          "media_count": 131,
+          "tweet_count": 1911
+        },
+        "username": "qianye0130",
+        "verified": false
+      }
+    ]
+  }
+}

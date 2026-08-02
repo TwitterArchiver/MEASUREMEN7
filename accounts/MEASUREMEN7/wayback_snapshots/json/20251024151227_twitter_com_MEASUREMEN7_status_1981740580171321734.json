@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1981732072952881649",
+    "created_at": "2025-10-24T15:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T16:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981740580171321734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1873335855701790720",
+          "start": 0,
+          "username": "anew_some"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981740580171321734",
+    "in_reply_to_user_id": "1873335855701790720",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981739776261992950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anew_some 💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1981732072952881649",
+        "created_at": "2025-10-24T15:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T16:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981740580171321734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1873335855701790720",
+              "start": 0,
+              "username": "anew_some"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981740580171321734",
+        "in_reply_to_user_id": "1873335855701790720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981739776261992950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anew_some 💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873335855701790720",
+        "conversation_id": "1981732072952881649",
+        "created_at": "2025-10-24T15:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T16:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981739776261992950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981739776261992950",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981735256865567142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 我爱你宝宝。。。😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 341,
+          "like_count": 15001,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 2786
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T11:51:15.000Z",
+        "description": "活过这个冬天   \nbpd/ed\n🚪52                                              \n目的性关注❌  \n互fo私",
+        "id": "1873335855701790720",
+        "location": "🚪 52",
+        "name": "X_¿где-то",
+        "pinned_tweet_id": "1981738488811679782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952085174344404993/sZeeXIlc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 47,
+          "like_count": 8028,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 851
+        },
+        "username": "anew_some",
+        "verified": false
+      }
+    ]
+  }
+}

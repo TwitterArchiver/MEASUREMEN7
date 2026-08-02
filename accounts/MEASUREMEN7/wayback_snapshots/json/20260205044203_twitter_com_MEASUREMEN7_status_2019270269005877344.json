@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2019233156499730551",
+    "created_at": "2026-02-05T04:42:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T05:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019270269005877344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946642385028718592",
+          "start": 0,
+          "username": "kurabakei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019270269005877344",
+    "in_reply_to_user_id": "1946642385028718592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019233156499730551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurabakei 我买了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18668,
+        "height": 1280,
+        "media_key": "7_2019233112144900100",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2019233112144900100/pu/img/GT1MlNQvGjfM8FZl.jpg",
+        "public_metrics": {
+          "view_count": 34
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019233112144900100/pu/vid/avc1/320x568/N34V9wz1nVJwfGpH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019233112144900100/pu/vid/avc1/480x852/M2Bfi78h7IDLNrbi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019233112144900100/pu/vid/avc1/720x1280/DCdcxy6_36g0Dwp8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2019233112144900100/pu/pl/CA3SPZsjVR-_4mXG.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2019233156499730551",
+        "created_at": "2026-02-05T04:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T05:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019270269005877344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946642385028718592",
+              "start": 0,
+              "username": "kurabakei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019270269005877344",
+        "in_reply_to_user_id": "1946642385028718592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019233156499730551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurabakei 我买了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2019233112144900100"
+          ]
+        },
+        "author_id": "1946642385028718592",
+        "conversation_id": "2019233156499730551",
+        "created_at": "2026-02-05T02:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T03:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019233156499730551"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "地雷系"
+            },
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 32,
+              "start": 20,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 45,
+              "start": 33,
+              "tag": "地雷系女子と繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7oRPrewyjL",
+              "end": 69,
+              "expanded_url": "https://x.com/kurabakei/status/2019233156499730551/video/1",
+              "media_key": "7_2019233112144900100",
+              "start": 46,
+              "url": "https://t.co/7oRPrewyjL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019233156499730551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "賣屁股不如賣萌\n#地雷系 #地雷系女子 #地雷系さんと繋がりたい #地雷系女子と繋がりたい https://t.co/7oRPrewyjL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 393,
+          "like_count": 18851,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3961
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T18:44:58.000Z",
+        "description": "病み垢/リスカ/09/地雷女子/メンヘラ🚪88\n都来过我门槛吧，我死了\n彼女 @afuai377 \n@yuyuYYUU0901",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "afuai377"
+              },
+              {
+                "end": 63,
+                "start": 50,
+                "username": "yuyuYYUU0901"
+              }
+            ]
+          }
+        },
+        "id": "1946642385028718592",
+        "location": "地獄",
+        "name": "闇葉",
+        "pinned_tweet_id": "1976750551363981816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969689671828680704/v3fvWkPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 350,
+          "like_count": 1541,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 410
+        },
+        "username": "kurabakei",
+        "verified": false
+      }
+    ]
+  }
+}

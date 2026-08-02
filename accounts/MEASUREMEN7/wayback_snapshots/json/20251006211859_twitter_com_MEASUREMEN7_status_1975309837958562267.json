@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1975283754160812112",
+    "created_at": "2025-10-06T21:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T22:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975309837958562267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771230355896561664",
+          "start": 0,
+          "username": "in2dkira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975309837958562267",
+    "in_reply_to_user_id": "1771230355896561664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975283754160812112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@in2dkira 好玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1975283723294941188",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2meFLGbIAQgYW5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1975283754160812112",
+        "created_at": "2025-10-06T21:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T22:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975309837958562267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771230355896561664",
+              "start": 0,
+              "username": "in2dkira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975309837958562267",
+        "in_reply_to_user_id": "1771230355896561664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975283754160812112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@in2dkira 好玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975283723294941188"
+          ]
+        },
+        "author_id": "1771230355896561664",
+        "conversation_id": "1975283754160812112",
+        "created_at": "2025-10-06T19:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T20:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975283754160812112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wcOhiVRpMA",
+              "end": 27,
+              "expanded_url": "https://x.com/in2dkira/status/1975283754160812112/photo/1",
+              "media_key": "3_1975283723294941188",
+              "start": 4,
+              "url": "https://t.co/wcOhiVRpMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975283754160812112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "開輪椅 https://t.co/wcOhiVRpMA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 439,
+          "like_count": 12550,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 2162
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T17:40:16.000Z",
+        "description": "前@Akira_10190208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 1,
+                "username": "Akira_10190208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/y20QcgJ",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/y20QcgJ",
+                "start": 0,
+                "url": "https://t.co/6QBGLH6G9I"
+              }
+            ]
+          }
+        },
+        "id": "1771230355896561664",
+        "location": "奈落",
+        "name": "Akira 源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966577490660605953/ofAloJra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 133,
+          "like_count": 5136,
+          "listed_count": 2,
+          "media_count": 441,
+          "tweet_count": 2052
+        },
+        "url": "https://t.co/6QBGLH6G9I",
+        "username": "in2dkira",
+        "verified": false
+      }
+    ]
+  }
+}

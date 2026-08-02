@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1986226533732876578",
+    "created_at": "2025-11-06T04:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T05:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986294063004266799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "464973118",
+          "start": 0,
+          "username": "kinoko525525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986294063004266799",
+    "in_reply_to_user_id": "464973118",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986226533732876578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kinoko525525 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1986226533732876578",
+        "created_at": "2025-11-06T04:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T05:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986294063004266799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "464973118",
+              "start": 0,
+              "username": "kinoko525525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986294063004266799",
+        "in_reply_to_user_id": "464973118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986226533732876578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kinoko525525 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "464973118",
+        "conversation_id": "1986226533732876578",
+        "created_at": "2025-11-06T00:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T01:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986226533732876578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986226533732876578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 313,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "……好想谈恋爱。好想休学。好想出去玩。。。。人生无望了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 344,
+          "like_count": 16080,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 3083
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-15T20:34:46.000Z",
+        "description": "我想结束痛苦，而不是生命\n欢迎找我玩，我一直很孤单",
+        "id": "464973118",
+        "name": "思诺思",
+        "pinned_tweet_id": "1985735837129253251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955662763533156352/NPpjYBNv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 83,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 151
+        },
+        "username": "kinoko525525",
+        "verified": false
+      }
+    ]
+  }
+}

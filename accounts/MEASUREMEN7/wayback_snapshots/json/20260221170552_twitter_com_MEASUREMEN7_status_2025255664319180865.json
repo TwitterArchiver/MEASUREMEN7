@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2025203865860096031",
+    "created_at": "2026-02-21T17:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T18:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025255664319180865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1517113519522873344",
+          "start": 0,
+          "username": "xxNYAS_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025255664319180865",
+    "in_reply_to_user_id": "1517113519522873344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025203865860096031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNYAS_ 小狗狗，我摸摸来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2025203861401567232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBr4LpSXAAAUwF5.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2025203865860096031",
+        "created_at": "2026-02-21T17:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025255664319180865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1517113519522873344",
+              "start": 0,
+              "username": "xxNYAS_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025255664319180865",
+        "in_reply_to_user_id": "1517113519522873344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025203865860096031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNYAS_ 小狗狗，我摸摸来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025203861401567232"
+          ]
+        },
+        "author_id": "1517113519522873344",
+        "conversation_id": "2025203865860096031",
+        "created_at": "2026-02-21T13:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025203865860096031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8SX13CqJU3",
+              "end": 25,
+              "expanded_url": "https://x.com/xxNYAS_/status/2025203865860096031/photo/1",
+              "media_key": "3_2025203861401567232",
+              "start": 2,
+              "url": "https://t.co/8SX13CqJU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025203865860096031",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 394,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐶 https://t.co/8SX13CqJU3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 421,
+          "like_count": 21410,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4506
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T12:10:42.000Z",
+        "description": "💉にゃんぱいあスキ/♀/AB型/うお座.雙魚/🧊🩹🩶⛓️🌧️❄️🥛🤍",
+        "id": "1517113519522873344",
+        "location": "ダンボール",
+        "name": "やすいなら.",
+        "pinned_tweet_id": "1864162686642344133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002762730193723392/3dQSwBek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2117,
+          "following_count": 1164,
+          "like_count": 19301,
+          "listed_count": 8,
+          "media_count": 496,
+          "tweet_count": 4041
+        },
+        "username": "xxNYAS_",
+        "verified": false
+      }
+    ]
+  }
+}

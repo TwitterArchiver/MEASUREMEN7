@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1955489943297593587",
+    "created_at": "2025-08-13T04:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T05:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955490341227991359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1564600032350720000",
+          "start": 0,
+          "username": "linliy_37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955490341227991359",
+    "in_reply_to_user_id": "1564600032350720000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955489943297593587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linliy_37 相比主动取关，更有可能是某人号被封了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1955489943297593587",
+        "created_at": "2025-08-13T04:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T05:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955490341227991359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1564600032350720000",
+              "start": 0,
+              "username": "linliy_37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955490341227991359",
+        "in_reply_to_user_id": "1564600032350720000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955489943297593587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linliy_37 相比主动取关，更有可能是某人号被封了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564600032350720000",
+        "conversation_id": "1955489943297593587",
+        "created_at": "2025-08-13T04:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T05:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955489943297593587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955489943297593587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "取關我我會很難過"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 376,
+          "like_count": 7580,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1319
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-30T13:04:59.000Z",
+        "description": "我叫初依或凛恹丨永远13岁丨08精神病女孩",
+        "id": "1564600032350720000",
+        "location": "天國",
+        "name": "linliy",
+        "pinned_tweet_id": "1954988751027048507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955000077619171329/nhrrw8aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 2507,
+          "like_count": 20031,
+          "listed_count": 8,
+          "media_count": 216,
+          "tweet_count": 1631
+        },
+        "username": "linliy_37",
+        "verified": false
+      }
+    ]
+  }
+}

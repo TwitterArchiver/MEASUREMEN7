@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2000801545429152211",
+    "created_at": "2025-12-16T10:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T11:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000878188596224446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "743283237632380929",
+          "start": 0,
+          "username": "dearrX__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000878188596224446",
+    "in_reply_to_user_id": "743283237632380929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000801545429152211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dearrX__ 我试试"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1613,
+        "media_key": "3_2000801532187697153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8RGZJAa4AEeiV9.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2000801545429152211",
+        "created_at": "2025-12-16T10:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T11:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000878188596224446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "743283237632380929",
+              "start": 0,
+              "username": "dearrX__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000878188596224446",
+        "in_reply_to_user_id": "743283237632380929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000801545429152211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dearrX__ 我试试"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000801532187697153"
+          ]
+        },
+        "author_id": "743283237632380929",
+        "conversation_id": "2000801545429152211",
+        "created_at": "2025-12-16T05:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T06:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000801545429152211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZRdBgAB8i",
+              "end": 27,
+              "expanded_url": "https://x.com/dearrX__/status/2000801545429152211/photo/1",
+              "media_key": "3_2000801532187697153",
+              "start": 4,
+              "url": "https://t.co/nZRdBgAB8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000801545429152211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 394,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁敢闻 https://t.co/nZRdBgAB8i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 363,
+          "like_count": 16773,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3454
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-16T03:25:08.000Z",
+        "description": "🚪",
+        "id": "743283237632380929",
+        "name": "Tinger",
+        "pinned_tweet_id": "1962800989096026338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985182403573547008/eRmnbzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5333,
+          "following_count": 495,
+          "like_count": 65165,
+          "listed_count": 9,
+          "media_count": 839,
+          "tweet_count": 1502
+        },
+        "username": "dearrX__",
+        "verified": false
+      }
+    ]
+  }
+}

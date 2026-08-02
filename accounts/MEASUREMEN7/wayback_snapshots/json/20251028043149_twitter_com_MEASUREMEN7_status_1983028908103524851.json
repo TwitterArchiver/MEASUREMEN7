@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1982876230505644118",
+    "created_at": "2025-10-28T04:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T05:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983028908103524851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1095933386865045505",
+          "start": 0,
+          "username": "xiaohanXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983028908103524851",
+    "in_reply_to_user_id": "1095933386865045505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982876230505644118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaohanXX 会"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2766,
+        "height": 1280,
+        "media_key": "13_1982876164306649088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1982876164306649088/img/khhtJ6wcicMK3e9u.jpg",
+        "public_metrics": {
+          "view_count": 45
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982876164306649088/vid/avc1/320x568/c9EE_KWO8t2f9kW0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982876164306649088/vid/avc1/480x852/6GVfgJvcnosm4VhZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982876164306649088/vid/avc1/720x1280/F6HR-HxiZ2Ba6Q5F.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1982876164306649088/pl/aGlZxoaQtzJQ6GAU.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1982876230505644118",
+        "created_at": "2025-10-28T04:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T05:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983028908103524851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1095933386865045505",
+              "start": 0,
+              "username": "xiaohanXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983028908103524851",
+        "in_reply_to_user_id": "1095933386865045505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982876230505644118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohanXX 会"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1982876164306649088"
+          ]
+        },
+        "author_id": "1095933386865045505",
+        "conversation_id": "1982876230505644118",
+        "created_at": "2025-10-27T18:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T19:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982876230505644118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aUpzavm7qG",
+              "end": 46,
+              "expanded_url": "https://x.com/xiaohanXX/status/1982876230505644118/video/1",
+              "media_key": "13_1982876164306649088",
+              "start": 23,
+              "url": "https://t.co/aUpzavm7qG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982876230505644118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像我这种小学生提出想和你交往的话你会报警吗? https://t.co/aUpzavm7qG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 349,
+          "like_count": 15443,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 2889
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-14T06:30:55.000Z",
+        "description": "",
+        "id": "1095933386865045505",
+        "name": "橡皮筋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959667275000348672/AVjo_NZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 26,
+          "like_count": 256,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 81
+        },
+        "username": "xiaohanXX",
+        "verified": false
+      }
+    ]
+  }
+}

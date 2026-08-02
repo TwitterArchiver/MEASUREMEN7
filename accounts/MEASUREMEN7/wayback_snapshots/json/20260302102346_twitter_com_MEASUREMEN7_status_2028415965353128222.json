@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2028394243002343898",
+    "created_at": "2026-03-02T10:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T11:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028415965353128222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986070487995428864",
+          "start": 0,
+          "username": "_moremore3ka9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028415965353128222",
+    "in_reply_to_user_id": "1986070487995428864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028394243002343898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_moremore3ka9 直接说哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2028394233619689472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZNzv9aMAAYJj1.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2028394243002343898",
+        "created_at": "2026-03-02T10:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028415965353128222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986070487995428864",
+              "start": 0,
+              "username": "_moremore3ka9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028415965353128222",
+        "in_reply_to_user_id": "1986070487995428864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028394243002343898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_moremore3ka9 直接说哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028394233619689472"
+          ]
+        },
+        "author_id": "1986070487995428864",
+        "conversation_id": "2028394243002343898",
+        "created_at": "2026-03-02T08:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028394243002343898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TeXfz9xCYP",
+              "end": 84,
+              "expanded_url": "https://x.com/_moremore3ka9/status/2028394243002343898/photo/1",
+              "media_key": "3_2028394233619689472",
+              "start": 61,
+              "url": "https://t.co/TeXfz9xCYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028394243002343898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2102,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有个问题想请教 怎么和熟人发展成炮友 或者说怎么和熟人做上爱？ 也不算熟人 就是很单纯的朋友关系  也从没聊过性方面话题 https://t.co/TeXfz9xCYP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 436,
+          "like_count": 22947,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4764
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T13:58:11.000Z",
+        "description": "这样的人生像过了一辈子那样漫长｜大号收不了私信 移步 @skk_minii｜小小号@sichuansanjiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "skk_minii"
+              },
+              {
+                "end": 56,
+                "start": 41,
+                "username": "sichuansanjiao"
+              }
+            ]
+          }
+        },
+        "id": "1986070487995428864",
+        "location": "🚪52/288/588/1388/5200",
+        "name": "三角ちゃん寝る",
+        "pinned_tweet_id": "1994727321631428653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986078092826447872/O_fq4Xot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3772,
+          "following_count": 99,
+          "like_count": 946,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 256
+        },
+        "username": "_moremore3ka9",
+        "verified": false
+      }
+    ]
+  }
+}

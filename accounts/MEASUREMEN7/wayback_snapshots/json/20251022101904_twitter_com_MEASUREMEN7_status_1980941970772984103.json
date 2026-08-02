@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1980940085580452317",
+    "created_at": "2025-10-22T10:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T11:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980941970772984103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1888259669338320896",
+          "start": 0,
+          "username": "wizgjaj197722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980941970772984103",
+    "in_reply_to_user_id": "1888259669338320896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980940085580452317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wizgjaj197722 右美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1980940085580452317",
+        "created_at": "2025-10-22T10:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T11:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980941970772984103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1888259669338320896",
+              "start": 0,
+              "username": "wizgjaj197722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980941970772984103",
+        "in_reply_to_user_id": "1888259669338320896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980940085580452317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wizgjaj197722 右美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888259669338320896",
+        "conversation_id": "1980940085580452317",
+        "created_at": "2025-10-22T10:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T11:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980940085580452317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980940085580452317",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回国o啥。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 336,
+          "like_count": 14786,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 2709
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T16:13:08.000Z",
+        "description": "招魂中。喜欢看碎碎念。不要攻击我。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/404__page_notf…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/404__page_notfound?igsh=MTNkcDBtOTMzdGZxcw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/BGSBCk6kIA"
+              }
+            ]
+          }
+        },
+        "id": "1888259669338320896",
+        "name": "？？？",
+        "pinned_tweet_id": "1965101658003968236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980285027641413632/iom1qSOa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 73,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/BGSBCk6kIA",
+        "username": "wizgjaj197722",
+        "verified": false
+      }
+    ]
+  }
+}

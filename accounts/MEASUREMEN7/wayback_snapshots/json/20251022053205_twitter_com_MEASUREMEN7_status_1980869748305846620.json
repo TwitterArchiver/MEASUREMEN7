@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1800950739193278464"
+      ],
+      "media_source_tweet_id": [
+        "1800950742641148161"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1980869748305846620",
+    "created_at": "2025-10-22T05:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T06:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980869748305846620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1530478330285371393",
+          "start": 3,
+          "username": "nei8447"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UHyK6mtZ84",
+          "end": 43,
+          "expanded_url": "https://x.com/nei8447/status/1800950742641148161/photo/1",
+          "media_key": "3_1800950739193278464",
+          "start": 20,
+          "url": "https://t.co/UHyK6mtZ84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980869748305846620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800950742641148161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nei8447: 苏格拉底之死 https://t.co/UHyK6mtZ84"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1029,
+        "media_key": "3_1800950739193278464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GP5DJ8uXsAA6r2U.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1800950739193278464"
+          ],
+          "media_source_tweet_id": [
+            "1800950742641148161"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1980869748305846620",
+        "created_at": "2025-10-22T05:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T06:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980869748305846620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1530478330285371393",
+              "start": 3,
+              "username": "nei8447"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UHyK6mtZ84",
+              "end": 43,
+              "expanded_url": "https://x.com/nei8447/status/1800950742641148161/photo/1",
+              "media_key": "3_1800950739193278464",
+              "start": 20,
+              "url": "https://t.co/UHyK6mtZ84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980869748305846620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800950742641148161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nei8447: 苏格拉底之死 https://t.co/UHyK6mtZ84"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1800950739193278464"
+          ]
+        },
+        "author_id": "1530478330285371393",
+        "conversation_id": "1800950742641148161",
+        "created_at": "2024-06-12T17:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T18:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800950742641148161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UHyK6mtZ84",
+              "end": 30,
+              "expanded_url": "https://x.com/nei8447/status/1800950742641148161/photo/1",
+              "media_key": "3_1800950739193278464",
+              "start": 7,
+              "url": "https://t.co/UHyK6mtZ84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800950742641148161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3927,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "苏格拉底之死 https://t.co/UHyK6mtZ84"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 338,
+          "like_count": 14774,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 2706
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T09:17:47.000Z",
+        "description": "",
+        "id": "1530478330285371393",
+        "name": ".",
+        "pinned_tweet_id": "1896282008432898468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909400417718697984/MZ6HHcVe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 60,
+          "like_count": 3039,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 328
+        },
+        "username": "nei8447",
+        "verified": false
+      }
+    ]
+  }
+}

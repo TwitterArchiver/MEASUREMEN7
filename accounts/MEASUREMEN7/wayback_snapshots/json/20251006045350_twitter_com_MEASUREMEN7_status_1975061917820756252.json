@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1972470376988090566",
+    "created_at": "2025-10-06T04:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T05:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975061917820756252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845844455095762944",
+          "start": 0,
+          "username": "Ankyo127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975061917820756252",
+    "in_reply_to_user_id": "1845844455095762944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975044305455808828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ankyo127 我就知道是几维鸟，这小家伙谁不喜欢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1972470376988090566",
+        "created_at": "2025-10-06T04:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T05:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975061917820756252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845844455095762944",
+              "start": 0,
+              "username": "Ankyo127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975061917820756252",
+        "in_reply_to_user_id": "1845844455095762944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975044305455808828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ankyo127 我就知道是几维鸟，这小家伙谁不喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845844455095762944",
+        "conversation_id": "1972470376988090566",
+        "created_at": "2025-10-06T03:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T04:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975044305455808828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975044305455808828",
+        "in_reply_to_user_id": "1845844455095762944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972470376988090566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "公布答案：没有对错之分啦，这些都是我很喜欢的小动物）\n最最最喜欢的是几维鸟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 437,
+          "like_count": 12252,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 2104
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T15:10:13.000Z",
+        "description": "桉秋/アンキョ/Ankyo/AQ(简称)丨已确诊:BPD+精分+重抑+中焦丨自伤/drug自避丨坚定的性少数支持者🏳️‍🌈友跨🏳️‍⚧️丨可以匿名向我：提问/建议/立场输出https://t.co/XJJrQNFc7Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ankyo",
+                "end": 109,
+                "expanded_url": "https://ngl.link/ankyo",
+                "start": 86,
+                "url": "https://t.co/XJJrQNFc7Z"
+              }
+            ]
+          }
+        },
+        "id": "1845844455095762944",
+        "name": "Ankyo𖤐.🩷",
+        "pinned_tweet_id": "1973212413160980767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971892817447526400/CWJp7sjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 66,
+          "like_count": 220,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 329
+        },
+        "username": "Ankyo127",
+        "verified": false
+      }
+    ]
+  }
+}

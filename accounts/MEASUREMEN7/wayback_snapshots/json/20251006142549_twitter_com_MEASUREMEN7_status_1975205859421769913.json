@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1975156561694888195",
+    "created_at": "2025-10-06T14:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T15:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975205859421769913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1886593038014930944",
+          "start": 0,
+          "username": "tatsuko1107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975205859421769913",
+    "in_reply_to_user_id": "1886593038014930944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975156561694888195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tatsuko1107 我帮你抱走了，不用谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4900,
+        "height": 1280,
+        "media_key": "13_1975156483601076224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1975156483601076224/img/rQWXCVD1X14XJE4Q.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975156483601076224/vid/avc1/320x694/3GbWXRlOuiZcNgVI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975156483601076224/vid/avc1/480x1040/dQeUc7LnPKhSJpMy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975156483601076224/vid/avc1/590x1280/H2ZKbBxfSMY_HCHS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1975156483601076224/pl/b4iUliayRqaU5DWT.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1975156561694888195",
+        "created_at": "2025-10-06T14:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975205859421769913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1886593038014930944",
+              "start": 0,
+              "username": "tatsuko1107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975205859421769913",
+        "in_reply_to_user_id": "1886593038014930944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975156561694888195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatsuko1107 我帮你抱走了，不用谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975156483601076224"
+          ]
+        },
+        "author_id": "1886593038014930944",
+        "conversation_id": "1975156561694888195",
+        "created_at": "2025-10-06T11:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T12:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975156561694888195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2vgRks3VID",
+              "end": 35,
+              "expanded_url": "https://x.com/tatsuko1107/status/1975156561694888195/video/1",
+              "media_key": "13_1975156483601076224",
+              "start": 12,
+              "url": "https://t.co/2vgRks3VID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975156561694888195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我家有夹子不让我出门啊 https://t.co/2vgRks3VID"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 439,
+          "like_count": 12403,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 2132
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T01:50:16.000Z",
+        "description": "重生2.0｜病み垢｜#shtwt｜メンヘラ｜家猫是主人",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 10,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1886593038014930944",
+        "name": "愛恨相增",
+        "pinned_tweet_id": "1903212009266794679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921137203813429248/ONRu6gCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 113,
+          "like_count": 12733,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 677
+        },
+        "username": "tatsuko1107",
+        "verified": false
+      }
+    ]
+  }
+}

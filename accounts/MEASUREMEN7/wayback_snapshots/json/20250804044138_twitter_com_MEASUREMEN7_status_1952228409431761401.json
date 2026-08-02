@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1951721274029613365",
+    "created_at": "2025-08-04T04:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T05:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952228409431761401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1885164250563293184",
+          "start": 0,
+          "username": "xurun250427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952228409431761401",
+    "in_reply_to_user_id": "1885164250563293184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951721274029613365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xurun250427 谢谢，终于解脱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1951721274029613365",
+        "created_at": "2025-08-04T04:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T05:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952228409431761401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1885164250563293184",
+              "start": 0,
+              "username": "xurun250427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952228409431761401",
+        "in_reply_to_user_id": "1885164250563293184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951721274029613365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xurun250427 谢谢，终于解脱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885164250563293184",
+        "conversation_id": "1951721274029613365",
+        "created_at": "2025-08-02T19:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T20:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951721274029613365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951721274029613365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2329,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在很难过，但是我不想只有我一个人难过，所以我想到了让大部分人难过的方法\n看到这条x的人\n你去死吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 362,
+          "like_count": 6667,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1200
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T03:12:47.000Z",
+        "description": "情感推主\n皮下\n我想成为毒品\n🚪3980385046",
+        "id": "1885164250563293184",
+        "location": "理发店",
+        "name": "窝要成为心理学糕手",
+        "pinned_tweet_id": "1895439292203405589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901327464070307840/1q1VBsh3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 160,
+          "like_count": 101,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 482
+        },
+        "username": "xurun250427",
+        "verified": false
+      }
+    ]
+  }
+}

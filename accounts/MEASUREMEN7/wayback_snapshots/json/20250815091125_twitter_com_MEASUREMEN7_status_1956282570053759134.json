@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1956280781757644914",
+    "created_at": "2025-08-15T09:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T10:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956282570053759134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1572252869923057664",
+          "start": 0,
+          "username": "h1kari_t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956282570053759134",
+    "in_reply_to_user_id": "1572252869923057664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956280781757644914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h1kari_t 吸烟真的能心情舒畅吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956280773839085572",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyYa_72a4AQhAsS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1956280773834936320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyYa_71bkAAXtaJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1956280773860020225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyYa_77aUAEBaYW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1956280781757644914",
+        "created_at": "2025-08-15T09:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T10:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956282570053759134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1572252869923057664",
+              "start": 0,
+              "username": "h1kari_t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956282570053759134",
+        "in_reply_to_user_id": "1572252869923057664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956280781757644914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h1kari_t 吸烟真的能心情舒畅吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956280773839085572",
+            "3_1956280773834936320",
+            "3_1956280773860020225"
+          ]
+        },
+        "author_id": "1572252869923057664",
+        "conversation_id": "1956280781757644914",
+        "created_at": "2025-08-15T09:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T10:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956280781757644914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TytNvUzxC8",
+              "end": 26,
+              "expanded_url": "https://x.com/h1kari_t/status/1956280781757644914/photo/1",
+              "media_key": "3_1956280773839085572",
+              "start": 3,
+              "url": "https://t.co/TytNvUzxC8"
+            },
+            {
+              "display_url": "pic.x.com/TytNvUzxC8",
+              "end": 26,
+              "expanded_url": "https://x.com/h1kari_t/status/1956280781757644914/photo/1",
+              "media_key": "3_1956280773834936320",
+              "start": 3,
+              "url": "https://t.co/TytNvUzxC8"
+            },
+            {
+              "display_url": "pic.x.com/TytNvUzxC8",
+              "end": 26,
+              "expanded_url": "https://x.com/h1kari_t/status/1956280781757644914/photo/1",
+              "media_key": "3_1956280773860020225",
+              "start": 3,
+              "url": "https://t.co/TytNvUzxC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956280781757644914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你啊 https://t.co/TytNvUzxC8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 382,
+          "like_count": 7998,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1418
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T15:54:40.000Z",
+        "description": "我是小光那個仲夏夜之光的小光｜我破碎的一生｜不是黃推😭",
+        "id": "1572252869923057664",
+        "location": "天国",
+        "name": "ひかり",
+        "pinned_tweet_id": "1933825423596773730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955691061940244481/_9ZKIZHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 88,
+          "like_count": 8900,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1205
+        },
+        "username": "h1kari_t",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1972711311554523634",
+    "created_at": "2025-09-29T19:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T20:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972739445532348786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1446470666161508354",
+          "start": 0,
+          "username": "0812xxx_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972739445532348786",
+    "in_reply_to_user_id": "1446470666161508354",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972711311554523634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0812xxx_ 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1972711307079016448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2B6e17XYAArVES.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1972711311554523634",
+        "created_at": "2025-09-29T19:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T20:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972739445532348786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1446470666161508354",
+              "start": 0,
+              "username": "0812xxx_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972739445532348786",
+        "in_reply_to_user_id": "1446470666161508354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972711311554523634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0812xxx_ 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972711307079016448"
+          ]
+        },
+        "author_id": "1446470666161508354",
+        "conversation_id": "1972711311554523634",
+        "created_at": "2025-09-29T17:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T18:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972711311554523634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DF6wRuhBis",
+              "end": 32,
+              "expanded_url": "https://x.com/0812xxx_/status/1972711311554523634/photo/1",
+              "media_key": "3_1972711307079016448",
+              "start": 9,
+              "url": "https://t.co/DF6wRuhBis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972711311554523634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没什么可发的了。 https://t.co/DF6wRuhBis"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 424,
+          "like_count": 11270,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 1926
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-08T13:41:10.000Z",
+        "description": "08 低强度玩推\n不是黄推 不聊骚不出原味\n我脑子有病 最好的关心是转账谢谢",
+        "id": "1446470666161508354",
+        "location": "🚪52",
+        "name": "/ᐠ - ˕ -マ Ⳋ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933157544580554752/d00A0N1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 284,
+          "like_count": 1145,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 238
+        },
+        "username": "0812xxx_",
+        "verified": false
+      }
+    ]
+  }
+}

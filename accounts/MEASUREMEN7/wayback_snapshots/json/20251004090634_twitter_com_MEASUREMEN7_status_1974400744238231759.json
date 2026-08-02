@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1974380200470458616",
+    "created_at": "2025-10-04T09:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T10:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974400744238231759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1744066021210923008",
+          "start": 0,
+          "username": "NekooOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974400744238231759",
+    "in_reply_to_user_id": "1744066021210923008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974380200470458616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekooOvO 很好看诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2633,
+        "height": 1280,
+        "media_key": "13_1974380117976662016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1974380117976662016/img/AEdmqO7ucpdMPxsQ.jpg",
+        "public_metrics": {
+          "view_count": 62
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974380117976662016/vid/avc1/320x568/pxNCXsjjGJjzUu_S.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974380117976662016/vid/avc1/480x852/cIjuGE_jK44bFUrU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974380117976662016/vid/avc1/720x1280/sYTeyi50o5fOJOUs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1974380117976662016/pl/Bv34iAmCQgMm5d8t.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1974380200470458616",
+        "created_at": "2025-10-04T09:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T10:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974400744238231759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1744066021210923008",
+              "start": 0,
+              "username": "NekooOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974400744238231759",
+        "in_reply_to_user_id": "1744066021210923008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974380200470458616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekooOvO 很好看诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974380117976662016"
+          ]
+        },
+        "author_id": "1744066021210923008",
+        "conversation_id": "1974380200470458616",
+        "created_at": "2025-10-04T07:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T08:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974380200470458616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dTAF6sxh30",
+              "end": 23,
+              "expanded_url": "https://x.com/NekooOvO/status/1974380200470458616/video/1",
+              "media_key": "13_1974380117976662016",
+              "start": 0,
+              "url": "https://t.co/dTAF6sxh30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974380200470458616",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dTAF6sxh30"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 438,
+          "like_count": 11921,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 2029
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T18:38:54.000Z",
+        "description": "遗言",
+        "id": "1744066021210923008",
+        "location": "🪦",
+        "name": "布偶猫",
+        "pinned_tweet_id": "1877039380944060581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744066352577658880/_WMwe_0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 100,
+          "like_count": 1773,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 451
+        },
+        "username": "NekooOvO",
+        "verified": false
+      }
+    ]
+  }
+}

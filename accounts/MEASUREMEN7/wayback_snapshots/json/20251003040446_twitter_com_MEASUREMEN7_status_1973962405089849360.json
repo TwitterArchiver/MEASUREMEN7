@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1973803250056143106",
+    "created_at": "2025-10-03T04:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T05:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973962405089849360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1888259669338320896",
+          "start": 0,
+          "username": "wizgjaj197722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973962405089849360",
+    "in_reply_to_user_id": "1888259669338320896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973803250056143106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wizgjaj197722 没有吧，不过我没看过你之前的照片，也许之前更好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1973803250056143106",
+        "created_at": "2025-10-03T04:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T05:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973962405089849360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1888259669338320896",
+              "start": 0,
+              "username": "wizgjaj197722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973962405089849360",
+        "in_reply_to_user_id": "1888259669338320896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973803250056143106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wizgjaj197722 没有吧，不过我没看过你之前的照片，也许之前更好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888259669338320896",
+        "conversation_id": "1973803250056143106",
+        "created_at": "2025-10-02T17:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T18:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973803250056143106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wizgjaj197722/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/wizgjaj197722/status/1973803091733721569",
+              "start": 17,
+              "url": "https://t.co/0dvNdsygsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973803250056143106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973803091733721569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和你们讲一件事。我头发剪毁了。 https://t.co/0dvNdsygsy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 436,
+          "like_count": 11651,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 1988
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T16:13:08.000Z",
+        "description": "招魂中。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/404__page_notf…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/404__page_notfound?igsh=MTNkcDBtOTMzdGZxcw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/BGSBCk6kIA"
+              }
+            ]
+          }
+        },
+        "id": "1888259669338320896",
+        "name": "？？？",
+        "pinned_tweet_id": "1965101658003968236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958541886127517697/A5CEYbuV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 62,
+          "like_count": 23,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/BGSBCk6kIA",
+        "username": "wizgjaj197722",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2082205246613545463",
+    "created_at": "2026-07-29T13:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082465347672940690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2055987687723839488",
+          "start": 0,
+          "username": "okokok333444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082465347672940690",
+    "in_reply_to_user_id": "2055987687723839488",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082205246613545463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@okokok333444 OK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2082205246613545463",
+        "created_at": "2026-07-29T13:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082465347672940690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055987687723839488",
+              "start": 0,
+              "username": "okokok333444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082465347672940690",
+        "in_reply_to_user_id": "2055987687723839488",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082205246613545463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@okokok333444 OK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055987687723839488",
+        "conversation_id": "2082205246613545463",
+        "created_at": "2026-07-28T20:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082205246613545463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082205246613545463",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3441,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老公，我尿床上了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 187,
+          "like_count": 27904,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 5560
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T12:27:00.000Z",
+        "description": "糖逼一个\n@boqiaoahm4\n杯子@zhoushashaff9n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "boqiaoahm4"
+              },
+              {
+                "end": 34,
+                "start": 19,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          }
+        },
+        "id": "2055987687723839488",
+        "name": "火乍玉",
+        "pinned_tweet_id": "2055989929193435641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055989447267864576/Zi8zfiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 131,
+          "like_count": 1119,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 472
+        },
+        "url": "",
+        "username": "okokok333444",
+        "verified": false
+      }
+    ]
+  }
+}

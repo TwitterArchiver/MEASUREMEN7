@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2025558702791790816",
+    "created_at": "2026-02-22T13:54:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T14:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025569846860075076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741308284416487424",
+          "start": 0,
+          "username": "tintinPPHf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025569846860075076",
+    "in_reply_to_user_id": "1741308284416487424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025558702791790816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tintinPPHf 花完了还会有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2025558702791790816",
+        "created_at": "2026-02-22T13:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T14:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025569846860075076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741308284416487424",
+              "start": 0,
+              "username": "tintinPPHf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025569846860075076",
+        "in_reply_to_user_id": "1741308284416487424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025558702791790816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tintinPPHf 花完了还会有的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741308284416487424",
+        "conversation_id": "2025558702791790816",
+        "created_at": "2026-02-22T13:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T14:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025558702791790816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025558702791790816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想把身上的钱全花完然后去死啊😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 423,
+          "like_count": 21604,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4536
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T04:00:22.000Z",
+        "description": "🟰蕾 160/50kg｜目前找回前世互关中ing…🚪88/188/288/520/1314 可验证 过门解锁视频图包（30多视频和图片共70多个文件）",
+        "id": "1741308284416487424",
+        "location": "Norway",
+        "name": "レイ（4.0",
+        "pinned_tweet_id": "2024841479303442810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020869891784630272/diKY722a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 24,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 15
+        },
+        "username": "tintinPPHf",
+        "verified": false
+      }
+    ]
+  }
+}

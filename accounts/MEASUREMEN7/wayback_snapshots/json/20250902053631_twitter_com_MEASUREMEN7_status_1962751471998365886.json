@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1962744120352653533",
+    "created_at": "2025-09-02T05:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T06:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962751471998365886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813786364930064384",
+          "start": 0,
+          "username": "zhngxny48875771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962751471998365886",
+    "in_reply_to_user_id": "1813786364930064384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962744120352653533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngxny48875771 躯体化导致的疼痛？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1962744120352653533",
+        "created_at": "2025-09-02T05:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T06:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962751471998365886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813786364930064384",
+              "start": 0,
+              "username": "zhngxny48875771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962751471998365886",
+        "in_reply_to_user_id": "1813786364930064384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962744120352653533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngxny48875771 躯体化导致的疼痛？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813786364930064384",
+        "conversation_id": "1962744120352653533",
+        "created_at": "2025-09-02T05:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T06:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962744120352653533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962744120352653533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 383,
+          "like_count": 9005,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1606
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T04:02:31.000Z",
+        "description": "我是一只精神病小猫女孩呼吸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nzl.com",
+                "end": 23,
+                "expanded_url": "http://nzl.com",
+                "start": 0,
+                "url": "https://t.co/sHwAlSJT0v"
+              }
+            ]
+          }
+        },
+        "id": "1813786364930064384",
+        "location": "泰拉大陸",
+        "name": "猫呼吸",
+        "pinned_tweet_id": "1957027606479450402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954909787281596416/SLouJirq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 142,
+          "like_count": 9127,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 730
+        },
+        "url": "https://t.co/sHwAlSJT0v",
+        "username": "zhngxny48875771",
+        "verified": false
+      }
+    ]
+  }
+}

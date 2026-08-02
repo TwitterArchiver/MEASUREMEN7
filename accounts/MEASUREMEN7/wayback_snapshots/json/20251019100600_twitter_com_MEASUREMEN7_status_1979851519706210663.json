@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1979848441137447282",
+    "created_at": "2025-10-19T10:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T11:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979851519706210663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799795163843436544",
+          "start": 0,
+          "username": "BeetiIsDog"
+        },
+        {
+          "end": 19,
+          "id": "1423220645383475200",
+          "start": 12,
+          "username": "sysjf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979851519706210663",
+    "in_reply_to_user_id": "1799795163843436544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979848441137447282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeetiIsDog @sysjf0 祝99"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_1979848437979099136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nVqibbMAAczNI.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1979848441137447282",
+        "created_at": "2025-10-19T10:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T11:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979851519706210663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799795163843436544",
+              "start": 0,
+              "username": "BeetiIsDog"
+            },
+            {
+              "end": 19,
+              "id": "1423220645383475200",
+              "start": 12,
+              "username": "sysjf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979851519706210663",
+        "in_reply_to_user_id": "1799795163843436544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979848441137447282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeetiIsDog @sysjf0 祝99"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979848437979099136"
+          ]
+        },
+        "author_id": "1799795163843436544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1979848441137447282",
+        "created_at": "2025-10-19T09:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T10:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979848441137447282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1423220645383475200",
+              "start": 16,
+              "username": "sysjf0"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infintytweet.me/secret-crush?l…",
+              "end": 51,
+              "expanded_url": "https://infintytweet.me/secret-crush?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1978665782881263616/xy51geTx?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1978665782881263616/xy51geTx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infintytweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/nnLtXl4EyJ"
+            },
+            {
+              "display_url": "pic.x.com/y8sDviTNkP",
+              "end": 75,
+              "expanded_url": "https://x.com/BeetiIsDog/status/1979848441137447282/photo/1",
+              "media_key": "3_1979848437979099136",
+              "start": 52,
+              "url": "https://t.co/y8sDviTNkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979848441137447282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @sysjf0\n\n➡️ https://t.co/nnLtXl4EyJ https://t.co/y8sDviTNkP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 467,
+          "like_count": 14567,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 2657
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "病み垢/demigirl/这是一个只会发布转发碎碎念画作内容的无脑仓鼠人的账号，互fo请留言。不参与争论和吵架，多点关心多点爱||escape：@5_HTIsUsagi   我老大：@sysjf0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "5_HTIsUsagi"
+              },
+              {
+                "end": 98,
+                "start": 91,
+                "username": "sysjf0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+vOQWVMQTr0Y2O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+vOQWVMQTr0Y2OGI1",
+                "start": 0,
+                "url": "https://t.co/n7w34dGNLl"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "≤ 1 km",
+        "name": "ビーチイ小犬 |๏ᆺ๏υ)",
+        "pinned_tweet_id": "1936770496970006587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976545137112367104/FcDJPG_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 599,
+          "like_count": 17674,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 3796
+        },
+        "url": "https://t.co/n7w34dGNLl",
+        "username": "BeetiIsDog",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T09:53:54.000Z",
+        "description": "最喜欢的推 @BeetiIsDog @umichen0502324",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "BeetiIsDog"
+              },
+              {
+                "end": 33,
+                "start": 18,
+                "username": "umichen0502324"
+              }
+            ]
+          }
+        },
+        "id": "1423220645383475200",
+        "location": "1",
+        "name": "十九方",
+        "pinned_tweet_id": "1862539669592031578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956994819726934016/GalXyNzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 911,
+          "like_count": 20731,
+          "listed_count": 5,
+          "media_count": 1594,
+          "tweet_count": 21361
+        },
+        "username": "sysjf0",
+        "verified": false
+      }
+    ]
+  }
+}

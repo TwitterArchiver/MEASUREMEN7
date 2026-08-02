@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2017610985977360416",
+    "created_at": "2026-01-31T15:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T16:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017618821306073517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557450235621695488",
+          "start": 0,
+          "username": "KBDYD555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017618821306073517",
+    "in_reply_to_user_id": "1557450235621695488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017610985977360416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBDYD555 小豆怎么变成这样了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3945,
+        "height": 1280,
+        "media_key": "7_2017610947419136000",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2017610947419136000/pu/img/yRItyGyKP3BDOLqV.jpg",
+        "public_metrics": {
+          "view_count": 24
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017610947419136000/pu/vid/avc1/320x568/RifwVrZU2I5KvlV_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017610947419136000/pu/vid/avc1/480x852/5RtNZcCG42tK_70D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017610947419136000/pu/vid/avc1/720x1280/I0FYZ9zGGmHcaOa3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2017610947419136000/pu/pl/koZgrP6OCuFHA_f1.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 5502,
+        "height": 1280,
+        "media_key": "7_2017610955040165888",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2017610955040165888/pu/img/haa8fCW22NYu85w0.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017610955040165888/pu/vid/avc1/320x568/WGN6tSJDDd-lEWSV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017610955040165888/pu/vid/avc1/480x852/TXQtsXmV4b2BQylc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017610955040165888/pu/vid/avc1/720x1280/zlmpdjL4EDrWvfsv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2017610955040165888/pu/pl/fD3DqM_oeIq3y8cI.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2017610985977360416",
+        "created_at": "2026-01-31T15:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T16:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017618821306073517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017618821306073517",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017610985977360416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 小豆怎么变成这样了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2017610947419136000",
+            "7_2017610955040165888"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2017610985977360416",
+        "created_at": "2026-01-31T14:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T15:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017610985977360416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WoaFjiL9iI",
+              "end": 59,
+              "expanded_url": "https://x.com/KBDYD555/status/2017610985977360416/video/1",
+              "media_key": "7_2017610947419136000",
+              "start": 36,
+              "url": "https://t.co/WoaFjiL9iI"
+            },
+            {
+              "display_url": "pic.x.com/WoaFjiL9iI",
+              "end": 59,
+              "expanded_url": "https://x.com/KBDYD555/status/2017610985977360416/video/1",
+              "media_key": "7_2017610955040165888",
+              "start": 36,
+              "url": "https://t.co/WoaFjiL9iI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017610985977360416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小豆状态不太好...就这样喘喘的一直趴着软软的一摊，我心疼死了.... https://t.co/WoaFjiL9iI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 383,
+          "like_count": 18179,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 3806
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/sh/花枝鼠....互关回来吧...（Eng🆗）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3406,
+          "following_count": 382,
+          "like_count": 3147,
+          "listed_count": 9,
+          "media_count": 815,
+          "tweet_count": 2898
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

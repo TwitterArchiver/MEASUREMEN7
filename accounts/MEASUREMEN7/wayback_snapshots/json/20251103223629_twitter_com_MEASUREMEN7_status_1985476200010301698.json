@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1984994410887819514",
+    "created_at": "2025-11-03T22:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T23:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985476200010301698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820412962479407104",
+          "start": 0,
+          "username": "Enaaaaa0122"
+        },
+        {
+          "end": 25,
+          "id": "1963605793577865217",
+          "start": 13,
+          "username": "kami2234523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985476200010301698",
+    "in_reply_to_user_id": "1820412962479407104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985382483547033891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enaaaaa0122 @kami2234523 很不错啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1984994410887819514",
+        "created_at": "2025-11-03T22:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T23:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985476200010301698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820412962479407104",
+              "start": 0,
+              "username": "Enaaaaa0122"
+            },
+            {
+              "end": 25,
+              "id": "1963605793577865217",
+              "start": 13,
+              "username": "kami2234523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985476200010301698",
+        "in_reply_to_user_id": "1820412962479407104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985382483547033891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enaaaaa0122 @kami2234523 很不错啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820412962479407104",
+        "conversation_id": "1984994410887819514",
+        "created_at": "2025-11-03T16:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985382483547033891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963605793577865217",
+              "start": 0,
+              "username": "kami2234523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985382483547033891",
+        "in_reply_to_user_id": "1963605793577865217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985337624865984930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami2234523 我现在是女人的玩物。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 345,
+          "like_count": 15963,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 3044
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T10:54:15.000Z",
+        "description": "猫。 ❤️@nimaemegu1019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "nimaemegu1019"
+              }
+            ]
+          }
+        },
+        "id": "1820412962479407104",
+        "location": "下水道",
+        "name": "Enaaaaa_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949004781424676864/iwbF4N7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 92,
+          "like_count": 2467,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 572
+        },
+        "username": "Enaaaaa0122",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T14:11:25.000Z",
+        "description": "",
+        "id": "1963605793577865217",
+        "location": "虛幻裡世界",
+        "name": "不眠日",
+        "pinned_tweet_id": "1979569615044059382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963607448977350656/1MVodKwb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 17,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 253
+        },
+        "username": "kami2234523",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1955217452264218964",
+    "created_at": "2025-08-13T04:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T05:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955486129811231218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1874882713913786368",
+          "start": 0,
+          "username": "kuwithsion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955486129811231218",
+    "in_reply_to_user_id": "1874882713913786368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955217452264218964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuwithsion 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1955217452264218964",
+        "created_at": "2025-08-13T04:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T05:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955486129811231218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1874882713913786368",
+              "start": 0,
+              "username": "kuwithsion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955486129811231218",
+        "in_reply_to_user_id": "1874882713913786368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955217452264218964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuwithsion 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874882713913786368",
+        "conversation_id": "1955217452264218964",
+        "created_at": "2025-08-12T10:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T11:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955217452264218964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955217452264218964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男的都是天生蠢猪吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 376,
+          "like_count": 7566,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1311
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T18:17:39.000Z",
+        "description": "＝栗 承認欲求おばけ/ 153cm / 痛い /시온",
+        "id": "1874882713913786368",
+        "location": "天国",
+        "name": "你會用你最喜歡的那把吉他打我",
+        "pinned_tweet_id": "1945852257272250515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950621400194056195/-NlV7M3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 166,
+          "like_count": 922,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 209
+        },
+        "username": "kuwithsion",
+        "verified": false
+      }
+    ]
+  }
+}

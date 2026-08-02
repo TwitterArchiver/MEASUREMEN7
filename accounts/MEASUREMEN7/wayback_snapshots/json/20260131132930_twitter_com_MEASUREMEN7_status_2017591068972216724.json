@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2017583979113943393",
+    "created_at": "2026-01-31T13:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T14:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017591068972216724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1547950839280439296",
+          "start": 0,
+          "username": "jiangdadianshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017591068972216724",
+    "in_reply_to_user_id": "1547950839280439296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017583979113943393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangdadianshen 竹荪真的好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017583853947523079",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__l01cbEAc-4Qu.jpg",
+        "width": 1283
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017583863141412864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__l1XsasAAH4C8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017583853771362306",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__l00ybEAI3q1x.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2017583979113943393",
+        "created_at": "2026-01-31T13:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T14:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017591068972216724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1547950839280439296",
+              "start": 0,
+              "username": "jiangdadianshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017591068972216724",
+        "in_reply_to_user_id": "1547950839280439296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017583979113943393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangdadianshen 竹荪真的好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017583853947523079",
+            "3_2017583863141412864",
+            "3_2017583853771362306"
+          ]
+        },
+        "author_id": "1547950839280439296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2017583979113943393",
+        "created_at": "2026-01-31T13:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T14:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017583979113943393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZh9VVxwyi",
+              "end": 164,
+              "expanded_url": "https://x.com/jiangdadianshen/status/2017583979113943393/photo/1",
+              "media_key": "3_2017583853947523079",
+              "start": 141,
+              "url": "https://t.co/TZh9VVxwyi"
+            },
+            {
+              "display_url": "pic.x.com/TZh9VVxwyi",
+              "end": 164,
+              "expanded_url": "https://x.com/jiangdadianshen/status/2017583979113943393/photo/1",
+              "media_key": "3_2017583863141412864",
+              "start": 141,
+              "url": "https://t.co/TZh9VVxwyi"
+            },
+            {
+              "display_url": "pic.x.com/TZh9VVxwyi",
+              "end": 164,
+              "expanded_url": "https://x.com/jiangdadianshen/status/2017583979113943393/photo/1",
+              "media_key": "3_2017583853771362306",
+              "start": 141,
+              "url": "https://t.co/TZh9VVxwyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017583979113943393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出门，开心\n和很久没见的朋友吃了火锅，菌汤锅底不符合想象。竹荪虾滑好嫩呀，最美味的菜品\n喝了很久舍不得喝的贵贵的奶茶，下次不点标准糖了\n第一次尝试了拼豆，拼好后烫的时候老板把我的豆撒了，所以我拼了第二遍，终于萍琪派生出来了！\n走的时候朋友塞给我四个草莓奶贝……好好味\n原谅世界一秒 https://t.co/TZh9VVxwyi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 383,
+          "like_count": 18174,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 3803
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T14:27:03.000Z",
+        "description": "鸟在唱歌",
+        "id": "1547950839280439296",
+        "location": "₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "name": "MING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007611709557747713/OoS2OsY__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 276,
+          "like_count": 8757,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 1362
+        },
+        "username": "jiangdadianshen",
+        "verified": false
+      }
+    ]
+  }
+}

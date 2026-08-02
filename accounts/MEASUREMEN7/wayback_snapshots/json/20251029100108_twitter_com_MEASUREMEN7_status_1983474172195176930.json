@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1983353377045229903",
+    "created_at": "2025-10-29T10:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T11:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983474172195176930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1958823376539262976",
+          "start": 0,
+          "username": "O7Uywn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983474172195176930",
+    "in_reply_to_user_id": "1958823376539262976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983353377045229903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O7Uywn 心碎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1983353377045229903",
+        "created_at": "2025-10-29T10:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983474172195176930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1958823376539262976",
+              "start": 0,
+              "username": "O7Uywn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983474172195176930",
+        "in_reply_to_user_id": "1958823376539262976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983353377045229903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O7Uywn 心碎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958823376539262976",
+        "conversation_id": "1983353377045229903",
+        "created_at": "2025-10-29T02:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T03:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983353377045229903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983353377045229903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不敢想 你也会让另一个女孩躺在怀里 也会捏她的脸让她留下牙印 你会和别的女生牵手和她拥抱接吻想想心口就会泛起细密的痛 你会把头埋在她的颈窝你会看着她把嘴撅的高高的跟你撒娇 你会背着她走很长的一段路你会在意她的情绪不厌其烦的回答她那些很蠢的问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 348,
+          "like_count": 15572,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 2925
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T09:27:52.000Z",
+        "description": "你好！我的精神状态很差 交流时请自带微笑服务谢谢！感谢配合🥰",
+        "id": "1958823376539262976",
+        "name": "你救了我 我将娶你为妻",
+        "pinned_tweet_id": "1982137125223952724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959972828431917056/l04cyw6W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 8,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 395
+        },
+        "username": "O7Uywn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945799139771514881"
+      ],
+      "media_source_tweet_id": [
+        "1945799144012189872"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1946007638149333315",
+    "created_at": "2025-07-18T00:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T01:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946007638149333315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1487537956974108672",
+          "start": 3,
+          "username": "dhskKnslQn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jA7ZeNfu0H",
+          "end": 52,
+          "expanded_url": "https://x.com/dhskKnslQn/status/1945799144012189872/photo/1",
+          "media_key": "3_1945799139771514881",
+          "start": 29,
+          "url": "https://t.co/jA7ZeNfu0H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946007638149333315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945799144012189872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dhskKnslQn: 我讨厌小留\n可我就是小留 https://t.co/jA7ZeNfu0H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1945799139771514881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDeAiJXgAEZGEu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945799139771514881"
+          ],
+          "media_source_tweet_id": [
+            "1945799144012189872"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1946007638149333315",
+        "created_at": "2025-07-18T00:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T01:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946007638149333315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1487537956974108672",
+              "start": 3,
+              "username": "dhskKnslQn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jA7ZeNfu0H",
+              "end": 52,
+              "expanded_url": "https://x.com/dhskKnslQn/status/1945799144012189872/photo/1",
+              "media_key": "3_1945799139771514881",
+              "start": 29,
+              "url": "https://t.co/jA7ZeNfu0H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946007638149333315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945799144012189872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dhskKnslQn: 我讨厌小留\n可我就是小留 https://t.co/jA7ZeNfu0H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945799139771514881"
+          ]
+        },
+        "author_id": "1487537956974108672",
+        "conversation_id": "1945799144012189872",
+        "created_at": "2025-07-17T10:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T11:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945799144012189872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jA7ZeNfu0H",
+              "end": 36,
+              "expanded_url": "https://x.com/dhskKnslQn/status/1945799144012189872/photo/1",
+              "media_key": "3_1945799139771514881",
+              "start": 13,
+              "url": "https://t.co/jA7ZeNfu0H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945799144012189872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 7555,
+          "like_count": 146,
+          "quote_count": 7,
+          "reply_count": 10,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌小留\n可我就是小留 https://t.co/jA7ZeNfu0H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 304,
+          "like_count": 4171,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 818
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T21:27:59.000Z",
+        "description": "左翼民粹主义者\n崇尚力量和知识\n保护弱小和无助",
+        "id": "1487537956974108672",
+        "name": "内哈特拿求",
+        "pinned_tweet_id": "1603753864754528256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907352708711157760/AL280W4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 513,
+          "like_count": 143293,
+          "listed_count": 25,
+          "media_count": 1459,
+          "tweet_count": 27621
+        },
+        "username": "dhskKnslQn",
+        "verified": false
+      }
+    ]
+  }
+}

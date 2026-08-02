@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2022970143643746782",
+    "created_at": "2026-02-15T09:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T10:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022970244185371025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557450235621695488",
+          "start": 0,
+          "username": "KBDYD555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022970244185371025",
+    "in_reply_to_user_id": "1557450235621695488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022970143643746782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBDYD555 鼠好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2742,
+        "height": 960,
+        "media_key": "7_2022970129139777536",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2022970129139777536/pu/img/LwWE-vbdB_qj3A-E.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022970129139777536/pu/vid/avc1/320x426/q9a7Q28SCx2o5Nsv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022970129139777536/pu/vid/avc1/480x640/ac6Oc_SNRpKQ4mSN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022970129139777536/pu/vid/avc1/720x960/-odGCNn2y73VgGLH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2022970129139777536/pu/pl/eE5h3OIgiH86j7Fa.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022970130884661248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMInaqbEAAPbrA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2022970143643746782",
+        "created_at": "2026-02-15T09:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022970244185371025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022970244185371025",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022970143643746782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 鼠好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2022970129139777536",
+            "3_2022970130884661248"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2022970143643746782",
+        "created_at": "2026-02-15T09:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022970143643746782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdmeEciYcW",
+              "end": 23,
+              "expanded_url": "https://x.com/KBDYD555/status/2022970143643746782/video/1",
+              "media_key": "7_2022970129139777536",
+              "start": 0,
+              "url": "https://t.co/CdmeEciYcW"
+            },
+            {
+              "display_url": "pic.x.com/CdmeEciYcW",
+              "end": 23,
+              "expanded_url": "https://x.com/KBDYD555/status/2022970143643746782/video/1",
+              "media_key": "3_2022970130884661248",
+              "start": 0,
+              "url": "https://t.co/CdmeEciYcW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022970143643746782",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CdmeEciYcW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 423,
+          "like_count": 20537,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4322
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3473,
+          "following_count": 409,
+          "like_count": 3432,
+          "listed_count": 9,
+          "media_count": 861,
+          "tweet_count": 3064
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

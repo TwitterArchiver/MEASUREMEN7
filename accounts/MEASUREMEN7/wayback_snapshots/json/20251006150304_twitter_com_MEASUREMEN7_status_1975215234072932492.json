@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1975214518960800052",
+    "created_at": "2025-10-06T15:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T16:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975215234072932492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1495386210977517568",
+          "start": 0,
+          "username": "CapelaLoveLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975215234072932492",
+    "in_reply_to_user_id": "1495386210977517568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975215106721194113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CapelaLoveLove 喝进去很苦啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_1975215102493339648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2lfq6saMAAwH_C.jpg",
+        "width": 1017
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1975214518960800052",
+        "created_at": "2025-10-06T15:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T16:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975215234072932492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1495386210977517568",
+              "start": 0,
+              "username": "CapelaLoveLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975215234072932492",
+        "in_reply_to_user_id": "1495386210977517568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975215106721194113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CapelaLoveLove 喝进去很苦啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975215102493339648"
+          ]
+        },
+        "author_id": "1495386210977517568",
+        "conversation_id": "1975214518960800052",
+        "created_at": "2025-10-06T15:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T16:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975215106721194113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qgBWOCIbQk",
+              "end": 62,
+              "expanded_url": "https://x.com/CapelaLoveLove/status/1975215106721194113/photo/1",
+              "media_key": "3_1975215102493339648",
+              "start": 39,
+              "url": "https://t.co/qgBWOCIbQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975215106721194113",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975214673500000538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 噢...那样的话希望本小姐能抑制住喝沐浴露的冲动! https://t.co/qgBWOCIbQk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 439,
+          "like_count": 12410,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 2134
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T13:14:08.000Z",
+        "description": "爱我",
+        "id": "1495386210977517568",
+        "location": "露格尼卡王国",
+        "name": "色欲大罪司教: 卡佩拉.艾梅拉妲.露格尼卡✝",
+        "pinned_tweet_id": "1951895889322357112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953798828446093312/JpEjmatP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 464,
+          "like_count": 16966,
+          "listed_count": 2,
+          "media_count": 1452,
+          "tweet_count": 6751
+        },
+        "username": "CapelaLoveLove",
+        "verified": false
+      }
+    ]
+  }
+}

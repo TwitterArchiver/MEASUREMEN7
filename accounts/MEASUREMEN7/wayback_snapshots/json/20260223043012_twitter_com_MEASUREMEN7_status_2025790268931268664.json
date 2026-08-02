@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2023499617992949844",
+    "created_at": "2026-02-23T04:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T05:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025790268931268664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1677241488999354370",
+          "start": 0,
+          "username": "yi_0o0_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025790268931268664",
+    "in_reply_to_user_id": "1677241488999354370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025649850591883450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi_0o0_ 摸摸你"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2025649850591883450].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2025649850591883450",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2025649850591883450"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2023499617992949844",
+        "created_at": "2026-02-23T04:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T05:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025790268931268664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1677241488999354370",
+              "start": 0,
+              "username": "yi_0o0_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025790268931268664",
+        "in_reply_to_user_id": "1677241488999354370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025649850591883450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi_0o0_ 摸摸你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 423,
+          "like_count": 21681,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4556
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T09:02:11.000Z",
+        "description": "はいい｜07｜真话假话混着乱说 看个乐子就好 谢谢你们陪我玩",
+        "id": "1677241488999354370",
+        "location": "東京",
+        "name": "haii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741683166153424897/L3wa0_MU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 201,
+          "like_count": 728,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 516
+        },
+        "username": "yi_0o0_",
+        "verified": false
+      }
+    ]
+  }
+}

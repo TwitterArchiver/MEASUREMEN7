@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1956937320176943258",
+    "created_at": "2025-08-17T15:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T16:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957106506668601588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1865419581206208512",
+          "start": 0,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957106506668601588",
+    "in_reply_to_user_id": "1865419581206208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956937320176943258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDzhanshou5150 漫长的八月，我虽然在上课了但是可以一直循环吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_1956937052534317056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyhv4YgboAAWUxK.png",
+        "width": 374
+      },
+      {
+        "height": 449,
+        "media_key": "3_1956937097694359552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyhv7AvbMAA5OnG.png",
+        "width": 690
+      },
+      {
+        "height": 465,
+        "media_key": "3_1956937143370293249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyhv9q5aoAEZZD0.png",
+        "width": 690
+      },
+      {
+        "height": 509,
+        "media_key": "3_1956937179000930304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyhv_vobAAAZMz2.png",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1956937320176943258",
+        "created_at": "2025-08-17T15:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T16:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957106506668601588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957106506668601588",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956937320176943258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 漫长的八月，我虽然在上课了但是可以一直循环吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956937052534317056",
+            "3_1956937097694359552",
+            "3_1956937143370293249",
+            "3_1956937179000930304"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956937320176943258",
+        "created_at": "2025-08-17T04:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T05:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956937320176943258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4sGiPY5fi6",
+              "end": 69,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1956937320176943258/photo/1",
+              "media_key": "3_1956937052534317056",
+              "start": 46,
+              "url": "https://t.co/4sGiPY5fi6"
+            },
+            {
+              "display_url": "pic.x.com/4sGiPY5fi6",
+              "end": 69,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1956937320176943258/photo/1",
+              "media_key": "3_1956937097694359552",
+              "start": 46,
+              "url": "https://t.co/4sGiPY5fi6"
+            },
+            {
+              "display_url": "pic.x.com/4sGiPY5fi6",
+              "end": 69,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1956937320176943258/photo/1",
+              "media_key": "3_1956937143370293249",
+              "start": 46,
+              "url": "https://t.co/4sGiPY5fi6"
+            },
+            {
+              "display_url": "pic.x.com/4sGiPY5fi6",
+              "end": 69,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1956937320176943258/photo/1",
+              "media_key": "3_1956937179000930304",
+              "start": 46,
+              "url": "https://t.co/4sGiPY5fi6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956937320176943258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 508,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "『凉宫春日』 8月17日，是「漫无止境的八月」的第一天，轮回1万多次的两个星期就要开始了。 https://t.co/4sGiPY5fi6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 388,
+          "like_count": 8402,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1502
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5938,
+          "following_count": 5724,
+          "like_count": 19858,
+          "listed_count": 12,
+          "media_count": 3736,
+          "tweet_count": 28191
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1987888118239043634",
+    "created_at": "2025-11-10T14:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T15:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987890104330027187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1787714778116272128",
+          "start": 0,
+          "username": "La_reflexion000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987890104330027187",
+    "in_reply_to_user_id": "1787714778116272128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987888118239043634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@La_reflexion000 应该蛮不错的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6940,
+        "height": 960,
+        "media_key": "13_1987888023418322944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987888023418322944/img/uZDxSP7b4cT5AKSk.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987888023418322944/vid/avc1/320x426/N3fMCKUNbhg-dJY2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987888023418322944/vid/avc1/480x640/51APKYiErwgbA4Hs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987888023418322944/vid/avc1/720x960/OiED25dn_mWIvgC_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987888023418322944/pl/Q94xtzcShXe7fCzi.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 4733,
+        "height": 960,
+        "media_key": "13_1987888023867174912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987888023867174912/img/SfV2YTwlvIc-h9Tv.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987888023867174912/vid/avc1/320x426/L2zHvWPnhLQ3D9FT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987888023867174912/vid/avc1/480x640/tBtr6l1VkI05wcvD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987888023867174912/vid/avc1/720x960/op6Ekzsvj8n3-gBa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987888023867174912/pl/8V-HOHYGCTHgMvWQ.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 3706,
+        "height": 720,
+        "media_key": "13_1987888023409975296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987888023409975296/img/Giu5gNsIr45n6uiI.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987888023409975296/vid/avc1/360x270/-kpEeo6XAemnuT6N.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987888023409975296/vid/avc1/480x360/yUN7QZZNnox5aeey.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987888023409975296/vid/avc1/960x720/A5kGh7BXhR8Oj2Ff.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987888023409975296/pl/7DEbTgoV-QQgBMqs.m3u8"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "duration_ms": 6533,
+        "height": 720,
+        "media_key": "13_1987888023552573441",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987888023552573441/img/0EiE8eiX1Z87YgJB.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987888023552573441/vid/avc1/360x270/pKE4GlQzaxQ_rkVH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987888023552573441/vid/avc1/480x360/_hgAGtWUm6WY3uIB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987888023552573441/vid/avc1/960x720/i_7udJH8kXC-hfIt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987888023552573441/pl/eskNtAPud9rVqCKz.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1987888118239043634",
+        "created_at": "2025-11-10T14:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987890104330027187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1787714778116272128",
+              "start": 0,
+              "username": "La_reflexion000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987890104330027187",
+        "in_reply_to_user_id": "1787714778116272128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987888118239043634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@La_reflexion000 应该蛮不错的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987888023418322944",
+            "13_1987888023867174912",
+            "13_1987888023409975296",
+            "13_1987888023552573441"
+          ]
+        },
+        "author_id": "1787714778116272128",
+        "conversation_id": "1987888118239043634",
+        "created_at": "2025-11-10T14:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987888118239043634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DJwJI2Tf3D",
+              "end": 37,
+              "expanded_url": "https://x.com/La_reflexion000/status/1987888118239043634/video/1",
+              "media_key": "13_1987888023418322944",
+              "start": 14,
+              "url": "https://t.co/DJwJI2Tf3D"
+            },
+            {
+              "display_url": "pic.x.com/DJwJI2Tf3D",
+              "end": 37,
+              "expanded_url": "https://x.com/La_reflexion000/status/1987888118239043634/video/1",
+              "media_key": "13_1987888023867174912",
+              "start": 14,
+              "url": "https://t.co/DJwJI2Tf3D"
+            },
+            {
+              "display_url": "pic.x.com/DJwJI2Tf3D",
+              "end": 37,
+              "expanded_url": "https://x.com/La_reflexion000/status/1987888118239043634/video/1",
+              "media_key": "13_1987888023409975296",
+              "start": 14,
+              "url": "https://t.co/DJwJI2Tf3D"
+            },
+            {
+              "display_url": "pic.x.com/DJwJI2Tf3D",
+              "end": 37,
+              "expanded_url": "https://x.com/La_reflexion000/status/1987888118239043634/video/1",
+              "media_key": "13_1987888023552573441",
+              "start": 14,
+              "url": "https://t.co/DJwJI2Tf3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987888118239043634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位推油觉得我适合留长发吗 https://t.co/DJwJI2Tf3D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 350,
+          "like_count": 16509,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 3191
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T05:23:27.000Z",
+        "description": "psychoanalysis psycho",
+        "id": "1787714778116272128",
+        "location": "real",
+        "name": "mirroflets la reflexion",
+        "pinned_tweet_id": "1982376252368675164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852378891295318016/cvxy3szE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 171,
+          "like_count": 1968,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1180
+        },
+        "username": "La_reflexion000",
+        "verified": false
+      }
+    ]
+  }
+}

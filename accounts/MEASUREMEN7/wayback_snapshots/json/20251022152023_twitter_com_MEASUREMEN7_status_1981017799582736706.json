@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1981017515485737126",
+    "created_at": "2025-10-22T15:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T16:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981017799582736706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1697260425510035456",
+          "start": 0,
+          "username": "IzabellaAh60004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981017799582736706",
+    "in_reply_to_user_id": "1697260425510035456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981017515485737126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzabellaAh60004 所以什么时候有新问卷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1981017515485737126",
+        "created_at": "2025-10-22T15:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T16:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981017799582736706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1697260425510035456",
+              "start": 0,
+              "username": "IzabellaAh60004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981017799582736706",
+        "in_reply_to_user_id": "1697260425510035456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981017515485737126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzabellaAh60004 所以什么时候有新问卷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697260425510035456",
+        "conversation_id": "1981017515485737126",
+        "created_at": "2025-10-22T15:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T16:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981017515485737126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981017515485737126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么才能长头发啊😭😭😭😭\n最近掉头发掉的好焦虑😭😭😭\n为什么要离开我！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 337,
+          "like_count": 14853,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 2724
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T14:49:56.000Z",
+        "description": "不要上来就发鸡鸡（除非你与众不同） \n🚪52好友位\n🚪88好友位开放朋友圈\n🚪128以上➕看到就会回消息\n🚪188就。。。。\n以上都是纯绿，会随机主动发信息\n备注微信号或私聊带截图我加你吧！",
+        "id": "1697260425510035456",
+        "name": "超巨巨巨巨粘豆包",
+        "pinned_tweet_id": "1976642691351065002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719329810965839872/qzOyfKms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3965,
+          "following_count": 40,
+          "like_count": 104,
+          "listed_count": 8,
+          "media_count": 86,
+          "tweet_count": 234
+        },
+        "username": "IzabellaAh60004",
+        "verified": false
+      }
+    ]
+  }
+}

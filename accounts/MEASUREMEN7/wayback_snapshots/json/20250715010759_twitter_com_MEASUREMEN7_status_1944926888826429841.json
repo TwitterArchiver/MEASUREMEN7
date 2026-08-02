@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944926882182361088"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1944926888826429841",
+    "created_at": "2025-07-15T01:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T02:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944926888826429841"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O5e1I8Caqv",
+          "end": 30,
+          "expanded_url": "https://x.com/MEASUREMEN7/status/1944926888826429841/photo/1",
+          "media_key": "3_1944926882182361088",
+          "start": 7,
+          "url": "https://t.co/O5e1I8Caqv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944926888826429841",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "thanks https://t.co/O5e1I8Caqv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 342,
+        "media_key": "3_1944926882182361088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv3EsdaWcAAF9S9.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944926882182361088"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1944926888826429841",
+        "created_at": "2025-07-15T01:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T02:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944926888826429841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5e1I8Caqv",
+              "end": 30,
+              "expanded_url": "https://x.com/MEASUREMEN7/status/1944926888826429841/photo/1",
+              "media_key": "3_1944926882182361088",
+              "start": 7,
+              "url": "https://t.co/O5e1I8Caqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944926888826429841",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "thanks https://t.co/O5e1I8Caqv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 255,
+          "like_count": 3636,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 729
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1979410484542738633",
+    "created_at": "2025-10-18T13:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T14:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979538321153065130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916086363608518657",
+          "start": 0,
+          "username": "CandlishLa81993"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979538321153065130",
+    "in_reply_to_user_id": "1916086363608518657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979531128412442940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CandlishLa81993 我绝不卖肾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1979410484542738633",
+        "created_at": "2025-10-18T13:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T14:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979538321153065130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916086363608518657",
+              "start": 0,
+              "username": "CandlishLa81993"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979538321153065130",
+        "in_reply_to_user_id": "1916086363608518657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979531128412442940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CandlishLa81993 我绝不卖肾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916086363608518657",
+        "conversation_id": "1979410484542738633",
+        "created_at": "2025-10-18T12:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T13:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979531128412442940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979531128412442940",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979410484542738633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 好好笑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 461,
+          "like_count": 14508,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 2640
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T11:06:12.000Z",
+        "description": "有缘再见",
+        "id": "1916086363608518657",
+        "location": "♡",
+        "name": "創口貼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962065017592770560/TGNf_4d1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 60,
+          "like_count": 1290,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 124
+        },
+        "username": "CandlishLa81993",
+        "verified": false
+      }
+    ]
+  }
+}

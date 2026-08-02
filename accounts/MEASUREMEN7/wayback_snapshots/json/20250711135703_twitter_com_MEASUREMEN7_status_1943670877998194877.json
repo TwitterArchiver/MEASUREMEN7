@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1943670506332299555",
+    "created_at": "2025-07-11T13:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T14:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943670877998194877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1924680112743841799",
+          "start": 0,
+          "username": "Cookie_0u0"
+        },
+        {
+          "end": 24,
+          "id": "1924456235581276160",
+          "start": 12,
+          "username": "rurutaro___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943670877998194877",
+    "in_reply_to_user_id": "1924680112743841799",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943670760759005379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cookie_0u0 @rurutaro___ もう痩せているようですね"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1943670506332299555",
+        "created_at": "2025-07-11T13:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T14:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943670877998194877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1924680112743841799",
+              "start": 0,
+              "username": "Cookie_0u0"
+            },
+            {
+              "end": 24,
+              "id": "1924456235581276160",
+              "start": 12,
+              "username": "rurutaro___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943670877998194877",
+        "in_reply_to_user_id": "1924680112743841799",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943670760759005379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cookie_0u0 @rurutaro___ もう痩せているようですね"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924680112743841799",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1943670506332299555",
+        "created_at": "2025-07-11T13:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T14:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943670760759005379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1924456235581276160",
+              "start": 0,
+              "username": "rurutaro___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943670760759005379",
+        "in_reply_to_user_id": "1924456235581276160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943670506332299555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rurutaro___ 健康体が1番。腕細くなりたいデブです"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 226,
+          "like_count": 2925,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 591
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T04:14:46.000Z",
+        "description": "病み垢￤09￤♀￤めんへら￤od￤通話×￤DM◎\n LGBT(Q)￤ノリ￤彼女持ち",
+        "id": "1924680112743841799",
+        "name": "恋毒∵ｺﾄﾞｸ",
+        "pinned_tweet_id": "1942210820357996545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938221734307762178/VTvWz38I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 162,
+          "like_count": 931,
+          "listed_count": 10,
+          "media_count": 11,
+          "tweet_count": 613
+        },
+        "username": "Cookie_0u0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T13:25:25.000Z",
+        "description": "（L）GBT￤08￤DM◎￤ﾒﾝﾍﾗ￤ﾘｽｶ￤ﾎﾞｰｲｯｼｭ︎︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎彼女持ち㌨",
+        "id": "1924456235581276160",
+        "name": "るるたろ",
+        "pinned_tweet_id": "1942170776767259097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942038689728679936/azmLIv_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 168,
+          "like_count": 486,
+          "listed_count": 13,
+          "media_count": 76,
+          "tweet_count": 1760
+        },
+        "username": "rurutaro___",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2016044810688463061",
+    "created_at": "2026-01-27T10:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T11:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016092229949890862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557450235621695488",
+          "start": 0,
+          "username": "KBDYD555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016092229949890862",
+    "in_reply_to_user_id": "1557450235621695488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016044810688463061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBDYD555 有小肚子了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2388,
+        "height": 1280,
+        "media_key": "7_2016044789641445376",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2016044789641445376/pu/img/WhIPhen9FIZwapR5.jpg",
+        "public_metrics": {
+          "view_count": 33
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016044789641445376/pu/vid/avc1/320x568/2bX5HDOLNv8EHPHA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016044789641445376/pu/vid/avc1/480x852/LPwtlz2uBpxs_Q8I.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016044789641445376/pu/vid/avc1/720x1280/iMoBEjv_ocMrR79r.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2016044789641445376/pu/pl/br0lE_R3zm8WD687.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2016044810688463061",
+        "created_at": "2026-01-27T10:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T11:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016092229949890862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016092229949890862",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016044810688463061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 有小肚子了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2016044789641445376"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2016044810688463061",
+        "created_at": "2026-01-27T07:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T08:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016044810688463061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hnFcat4zlh",
+              "end": 30,
+              "expanded_url": "https://x.com/KBDYD555/status/2016044810688463061/video/1",
+              "media_key": "7_2016044789641445376",
+              "start": 7,
+              "url": "https://t.co/hnFcat4zlh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016044810688463061",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "胖嘟嘟的小豆 https://t.co/hnFcat4zlh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 367,
+          "like_count": 17530,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3674
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/sh/花枝鼠....互关回来吧...（Eng🆗）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3385,
+          "following_count": 352,
+          "like_count": 3023,
+          "listed_count": 9,
+          "media_count": 794,
+          "tweet_count": 2827
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

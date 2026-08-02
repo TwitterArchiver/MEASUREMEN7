@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2023850242773578090",
+    "created_at": "2026-02-18T03:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T04:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023962674539774037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1893169260387803137",
+          "start": 0,
+          "username": "Yana911y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023962674539774037",
+    "in_reply_to_user_id": "1893169260387803137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023850242773578090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yana911y 好纯情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2023850242773578090",
+        "created_at": "2026-02-18T03:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023962674539774037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1893169260387803137",
+              "start": 0,
+              "username": "Yana911y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023962674539774037",
+        "in_reply_to_user_id": "1893169260387803137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023850242773578090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yana911y 好纯情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893169260387803137",
+        "conversation_id": "2023850242773578090",
+        "created_at": "2026-02-17T20:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T21:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023850242773578090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023850242773578090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只想和你做那些羞耻的事情啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 420,
+          "like_count": 20897,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4413
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T05:21:58.000Z",
+        "description": "线下咨询 @074512my_i | age18 ｜上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "074512my_i"
+              }
+            ]
+          }
+        },
+        "id": "1893169260387803137",
+        "location": "🚪88",
+        "name": "lyanyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017538450141155331/7HtmCy28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 153,
+          "like_count": 1230,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 210
+        },
+        "username": "Yana911y",
+        "verified": false
+      }
+    ]
+  }
+}

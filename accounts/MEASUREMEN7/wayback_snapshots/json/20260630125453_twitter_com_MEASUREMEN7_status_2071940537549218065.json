@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2071664538844553529",
+    "created_at": "2026-06-30T12:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071940537549218065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2067204126874976256",
+          "start": 0,
+          "username": "zukeoq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071940537549218065",
+    "in_reply_to_user_id": "2067204126874976256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071664538844553529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zukeoq 接着抽烟可能可以变成肺癌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2071664538844553529",
+        "created_at": "2026-06-30T12:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071940537549218065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2067204126874976256",
+              "start": 0,
+              "username": "zukeoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071940537549218065",
+        "in_reply_to_user_id": "2067204126874976256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071664538844553529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zukeoq 接着抽烟可能可以变成肺癌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067204126874976256",
+        "conversation_id": "2071664538844553529",
+        "created_at": "2026-06-29T18:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T19:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071664538844553529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071664538844553529",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 416,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "기침너무나네\n폐암인가\n그랬음좋겠네"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 175,
+          "like_count": 27457,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 5480
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-17T11:14:58.000Z",
+        "description": "166/42",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/zukeoq?igsh=c3…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/zukeoq?igsh=c3BtZ3ZlcG5kb2kw&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/SzYg5bsUQQ"
+              }
+            ]
+          }
+        },
+        "id": "2067204126874976256",
+        "name": "Psol",
+        "pinned_tweet_id": "2068209632997425225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067284949691170816/J4gycRL7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 101,
+          "like_count": 187,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/SzYg5bsUQQ",
+        "username": "zukeoq",
+        "verified": false
+      }
+    ]
+  }
+}

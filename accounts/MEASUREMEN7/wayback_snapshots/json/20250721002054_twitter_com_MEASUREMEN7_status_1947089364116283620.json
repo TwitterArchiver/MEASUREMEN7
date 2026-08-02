@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1946996080484511764",
+    "created_at": "2025-07-21T00:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T01:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947089364116283620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1873626175706484736",
+          "start": 0,
+          "username": "Dark_d_b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947089364116283620",
+    "in_reply_to_user_id": "1873626175706484736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946996080484511764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dark_d_b 可愛い"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1099,
+        "media_key": "3_1946996074196959232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwUenSWXAAAH99K.jpg",
+        "width": 696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1946996080484511764",
+        "created_at": "2025-07-21T00:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T01:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947089364116283620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1873626175706484736",
+              "start": 0,
+              "username": "Dark_d_b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947089364116283620",
+        "in_reply_to_user_id": "1873626175706484736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946996080484511764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dark_d_b 可愛い"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946996074196959232"
+          ]
+        },
+        "author_id": "1873626175706484736",
+        "conversation_id": "1946996080484511764",
+        "created_at": "2025-07-20T18:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T19:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946996080484511764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMk9niVgcW",
+              "end": 41,
+              "expanded_url": "https://x.com/Dark_d_b/status/1946996080484511764/photo/1",
+              "media_key": "3_1946996074196959232",
+              "start": 18,
+              "url": "https://t.co/PMk9niVgcW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946996080484511764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "なんか、サイコパス味があるきがする https://t.co/PMk9niVgcW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 344,
+          "like_count": 5139,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 980
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T07:04:46.000Z",
+        "description": "\\自傷・病み・下ネタ垢/\\未成年/\\LGBTQ+/👧",
+        "id": "1873626175706484736",
+        "name": "くだです。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888724619475234816/nw9FO63C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 213,
+          "like_count": 1633,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 531
+        },
+        "username": "Dark_d_b",
+        "verified": false
+      }
+    ]
+  }
+}

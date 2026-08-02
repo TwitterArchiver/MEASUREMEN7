@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1974861612516524307",
+    "created_at": "2025-10-05T15:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T16:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974862270724538775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "TokiyukiSAMAAAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974862270724538775",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974861612516524307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TokiyukiSAMAAAA 不要难过，这证明他没和女孩子相处很多不是吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1974861612516524307",
+        "created_at": "2025-10-05T15:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974862270724538775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "TokiyukiSAMAAAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974862270724538775",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974861612516524307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TokiyukiSAMAAAA 不要难过，这证明他没和女孩子相处很多不是吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "1974861612516524307",
+        "created_at": "2025-10-05T15:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974861612516524307"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974861612516524307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我有一点伤心 今天把对象邀来大悦城出cos本来还玩的好好的 但是我手忙脚乱鞋带又掉的时候我希望他能帮我系个鞋带被拒绝了。。。想抱的时候他也是磨磨蹭蹭 他说是不好意思 \n虽然知道不是什么大事情 但我还是好难过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 437,
+          "like_count": 12192,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 2092
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "# 愛？ # 唉！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "時行の部屋",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971589404347990016/IkfSVmns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6455,
+          "following_count": 245,
+          "like_count": 29716,
+          "listed_count": 16,
+          "media_count": 162,
+          "tweet_count": 801
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "TokiyukiSAMAAAA",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1955990089978536372",
+    "created_at": "2025-08-14T14:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T15:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956000462823678353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847153221900685312",
+          "start": 0,
+          "username": "weiheyaokanwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956000462823678353",
+    "in_reply_to_user_id": "1847153221900685312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955990089978536372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiheyaokanwo 遇到真的凉宫春日了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955990083242483714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyUSng_a4AI5Tgz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955990083204792320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyUSng2bwAAIbE_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1955990089978536372",
+        "created_at": "2025-08-14T14:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T15:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956000462823678353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847153221900685312",
+              "start": 0,
+              "username": "weiheyaokanwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956000462823678353",
+        "in_reply_to_user_id": "1847153221900685312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955990089978536372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiheyaokanwo 遇到真的凉宫春日了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955990083242483714",
+            "3_1955990083204792320"
+          ]
+        },
+        "author_id": "1847153221900685312",
+        "conversation_id": "1955990089978536372",
+        "created_at": "2025-08-14T13:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T14:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955990089978536372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aOR6nNgOEB",
+              "end": 23,
+              "expanded_url": "https://x.com/weiheyaokanwo/status/1955990089978536372/photo/1",
+              "media_key": "3_1955990083242483714",
+              "start": 0,
+              "url": "https://t.co/aOR6nNgOEB"
+            },
+            {
+              "display_url": "pic.x.com/aOR6nNgOEB",
+              "end": 23,
+              "expanded_url": "https://x.com/weiheyaokanwo/status/1955990089978536372/photo/1",
+              "media_key": "3_1955990083204792320",
+              "start": 0,
+              "url": "https://t.co/aOR6nNgOEB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955990089978536372",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 172,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aOR6nNgOEB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 381,
+          "like_count": 7864,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1381
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "病み垢/陰キャ 剥离表达欲中/提问箱: https://t.co/MhyZBZnGpQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/noi48823",
+                "end": 43,
+                "expanded_url": "https://ngl.link/noi48823",
+                "start": 20,
+                "url": "https://t.co/MhyZBZnGpQ"
+              }
+            ]
+          }
+        },
+        "id": "1847153221900685312",
+        "name": "匿名同学@提不起劲",
+        "pinned_tweet_id": "1939932328668565864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927445670220247040/w5rEe2HV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2034,
+          "following_count": 494,
+          "like_count": 1095,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 2028
+        },
+        "username": "weiheyaokanwo",
+        "verified": false
+      }
+    ]
+  }
+}

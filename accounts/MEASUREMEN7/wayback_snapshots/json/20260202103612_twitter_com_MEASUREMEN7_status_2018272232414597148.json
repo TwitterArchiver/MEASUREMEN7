@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2018240544263270499",
+    "created_at": "2026-02-02T10:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T11:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018272232414597148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1947287158148288513",
+          "start": 0,
+          "username": "hanhanmi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018272232414597148",
+    "in_reply_to_user_id": "1947287158148288513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018240544263270499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanhanmi_ 我认为过程才是更重要的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2018240544263270499",
+        "created_at": "2026-02-02T10:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018272232414597148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1947287158148288513",
+              "start": 0,
+              "username": "hanhanmi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018272232414597148",
+        "in_reply_to_user_id": "1947287158148288513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018240544263270499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanhanmi_ 我认为过程才是更重要的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947287158148288513",
+        "conversation_id": "2018240544263270499",
+        "created_at": "2026-02-02T08:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018240544263270499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018240544263270499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说过程和结果哪个更重要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 390,
+          "like_count": 18571,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3874
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-21T13:27:00.000Z",
+        "description": "有时候很想辩驳什么 但又觉得这样会让一切绵延不断 算了吧 只看到我坏的一面也行",
+        "id": "1947287158148288513",
+        "name": "恋虐",
+        "pinned_tweet_id": "2001622577190707499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997227131026173952/IYH0MsLr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 143,
+          "like_count": 2087,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 23
+        },
+        "username": "hanhanmi_",
+        "verified": false
+      }
+    ]
+  }
+}

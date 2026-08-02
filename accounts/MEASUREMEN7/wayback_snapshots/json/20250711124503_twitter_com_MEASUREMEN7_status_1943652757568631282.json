@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1943651667263590868",
+    "created_at": "2025-07-11T12:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T13:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943652757568631282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1873626175706484736",
+          "start": 0,
+          "username": "Dark_d_b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943652757568631282",
+    "in_reply_to_user_id": "1873626175706484736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943651667263590868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dark_d_b 不思議ですね"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1943651667263590868",
+        "created_at": "2025-07-11T12:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T13:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943652757568631282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1873626175706484736",
+              "start": 0,
+              "username": "Dark_d_b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943652757568631282",
+        "in_reply_to_user_id": "1873626175706484736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943651667263590868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dark_d_b 不思議ですね"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873626175706484736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          }
+        ],
+        "conversation_id": "1943651667263590868",
+        "created_at": "2025-07-11T12:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T13:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943651667263590868"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943651667263590868",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近ねジンジャエールを\nお酒だと思いこんで\nカチコチに冷やした氷をコップに\n入れてから高めの位置から注いで\n飲むとちょっと酔うことに気づきました\n思い込みってすごい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 226,
+          "like_count": 2904,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 588
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T07:04:46.000Z",
+        "description": "\\自傷・病み・下ネタ垢/\\未成年/\\LGBTQ+/👧",
+        "id": "1873626175706484736",
+        "name": "くだです。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888724619475234816/nw9FO63C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 178,
+          "like_count": 1282,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 334
+        },
+        "username": "Dark_d_b",
+        "verified": false
+      }
+    ]
+  }
+}

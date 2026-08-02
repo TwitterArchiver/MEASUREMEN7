@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2048033445558030638",
+    "created_at": "2026-04-27T05:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048631166757196214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "743283237632380929",
+          "start": 0,
+          "username": "dearrX__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048631166757196214",
+    "in_reply_to_user_id": "743283237632380929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048033445558030638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dearrX__ 我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_2048033413840728065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwTifgbcAEC_9_.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2048033445558030638",
+        "created_at": "2026-04-27T05:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048631166757196214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "743283237632380929",
+              "start": 0,
+              "username": "dearrX__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048631166757196214",
+        "in_reply_to_user_id": "743283237632380929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048033445558030638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dearrX__ 我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048033413840728065"
+          ]
+        },
+        "author_id": "743283237632380929",
+        "conversation_id": "2048033445558030638",
+        "created_at": "2026-04-25T13:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048033445558030638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rdktTme8v4",
+              "end": 26,
+              "expanded_url": "https://x.com/dearrX__/status/2048033445558030638/photo/1",
+              "media_key": "3_2048033413840728065",
+              "start": 3,
+              "url": "https://t.co/rdktTme8v4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048033445558030638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1190,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谁吃 https://t.co/rdktTme8v4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 293,
+          "like_count": 25127,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 5180
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-16T03:25:08.000Z",
+        "description": "🚪",
+        "id": "743283237632380929",
+        "name": "Tinger",
+        "pinned_tweet_id": "1962800989096026338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985182403573547008/eRmnbzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5774,
+          "following_count": 331,
+          "like_count": 86484,
+          "listed_count": 9,
+          "media_count": 845,
+          "tweet_count": 1555
+        },
+        "username": "dearrX__",
+        "verified": false
+      }
+    ]
+  }
+}

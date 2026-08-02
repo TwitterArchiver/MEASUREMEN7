@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2016118318500086195",
+    "created_at": "2026-01-27T11:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T12:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016118850085863477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557450235621695488",
+          "start": 0,
+          "username": "KBDYD555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016118850085863477",
+    "in_reply_to_user_id": "1557450235621695488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016118318500086195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBDYD555 哇塞溏心的，这种好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5178,
+        "height": 720,
+        "media_key": "7_2016118290989346816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2016118290989346816/pu/img/NqoQyp61l32vbLSL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016118290989346816/pu/vid/avc1/480x270/nr3ftmhJKT5Sy2xY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016118290989346816/pu/vid/avc1/640x360/TSqj-3fu6Ku5tC8t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016118290989346816/pu/vid/avc1/1280x720/ddYe5z3G4P-_clTF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2016118290989346816/pu/pl/YVIX3gUWhrvTpJik.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2016118318500086195",
+        "created_at": "2026-01-27T11:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016118850085863477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016118850085863477",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016118318500086195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 哇塞溏心的，这种好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2016118290989346816"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2016118318500086195",
+        "created_at": "2026-01-27T11:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016118318500086195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqqrlZKdNt",
+              "end": 32,
+              "expanded_url": "https://x.com/KBDYD555/status/2016118318500086195/video/1",
+              "media_key": "7_2016118290989346816",
+              "start": 9,
+              "url": "https://t.co/cqqrlZKdNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016118318500086195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想吃我煮的蛋😏 https://t.co/cqqrlZKdNt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 367,
+          "like_count": 17595,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3691
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/sh/花枝鼠....互关回来吧...（Eng🆗）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3385,
+          "following_count": 353,
+          "like_count": 3035,
+          "listed_count": 9,
+          "media_count": 796,
+          "tweet_count": 2834
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

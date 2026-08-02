@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1974894870390362131",
+    "created_at": "2025-10-06T01:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T02:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975015354083762441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1920537994605551617",
+          "start": 0,
+          "username": "XwX777Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975015354083762441",
+    "in_reply_to_user_id": "1920537994605551617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974894870390362131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XwX777Yuki OK绷会电吉他诶，好强"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27286,
+        "height": 720,
+        "media_key": "13_1974894786823012354",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1974894786823012354/img/RN_37_LJJNurIWrI.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974894786823012354/vid/avc1/360x270/mkAZqrqEmKa_Dllw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974894786823012354/vid/avc1/480x360/XjW9Tu1fk_-rR33Z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974894786823012354/vid/avc1/960x720/CA231-ouwRbwHUCd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1974894786823012354/pl/QhCH_aNNnHBlJ5RP.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1974894870390362131",
+        "created_at": "2025-10-06T01:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T02:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975015354083762441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920537994605551617",
+              "start": 0,
+              "username": "XwX777Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975015354083762441",
+        "in_reply_to_user_id": "1920537994605551617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974894870390362131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XwX777Yuki OK绷会电吉他诶，好强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974894786823012354"
+          ]
+        },
+        "author_id": "1920537994605551617",
+        "conversation_id": "1974894870390362131",
+        "created_at": "2025-10-05T17:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T18:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974894870390362131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Sj6QLezhC",
+              "end": 23,
+              "expanded_url": "https://x.com/XwX777Yuki/status/1974894870390362131/video/1",
+              "media_key": "13_1974894786823012354",
+              "start": 0,
+              "url": "https://t.co/5Sj6QLezhC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974894870390362131",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5Sj6QLezhC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 437,
+          "like_count": 12240,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 2101
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T17:55:37.000Z",
+        "description": "",
+        "id": "1920537994605551617",
+        "name": "OK绷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963746294184505344/PgUUVHMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 67,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 89
+        },
+        "username": "XwX777Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

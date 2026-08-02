@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958209815404331008"
+      ],
+      "media_source_tweet_id": [
+        "1958209822253576394"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1958473256203059524",
+    "created_at": "2025-08-21T10:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T11:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958473256203059524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802735841368018944",
+          "start": 3,
+          "username": "23Rei_00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y7O7kZ9j7H",
+          "end": 48,
+          "expanded_url": "https://x.com/23Rei_00/status/1958209822253576394/photo/1",
+          "media_key": "3_1958209815404331008",
+          "start": 25,
+          "url": "https://t.co/Y7O7kZ9j7H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958473256203059524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958209822253576394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @23Rei_00: 失恋的晚上要怎么过啊 https://t.co/Y7O7kZ9j7H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 980,
+        "media_key": "3_1958209815404331008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyz1c7rbwAAiJju.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958209815404331008"
+          ],
+          "media_source_tweet_id": [
+            "1958209822253576394"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1958473256203059524",
+        "created_at": "2025-08-21T10:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T11:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958473256203059524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802735841368018944",
+              "start": 3,
+              "username": "23Rei_00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y7O7kZ9j7H",
+              "end": 48,
+              "expanded_url": "https://x.com/23Rei_00/status/1958209822253576394/photo/1",
+              "media_key": "3_1958209815404331008",
+              "start": 25,
+              "url": "https://t.co/Y7O7kZ9j7H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958473256203059524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958209822253576394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @23Rei_00: 失恋的晚上要怎么过啊 https://t.co/Y7O7kZ9j7H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958209815404331008"
+          ]
+        },
+        "author_id": "1802735841368018944",
+        "conversation_id": "1958209822253576394",
+        "created_at": "2025-08-20T16:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T17:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958209822253576394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y7O7kZ9j7H",
+              "end": 34,
+              "expanded_url": "https://x.com/23Rei_00/status/1958209822253576394/photo/1",
+              "media_key": "3_1958209815404331008",
+              "start": 11,
+              "url": "https://t.co/Y7O7kZ9j7H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958209822253576394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9166,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "失恋的晚上要怎么过啊 https://t.co/Y7O7kZ9j7H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 389,
+          "like_count": 8679,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1547
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T16:11:39.000Z",
+        "description": "黄色回收站｜小群🚪88r｜过门🉑️寄拍定制｜不露点不线下｜美女互关大欢迎｜推广自辨",
+        "id": "1802735841368018944",
+        "name": "0宝",
+        "pinned_tweet_id": "1958233216483238032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803820102552600576/lzIu0-bT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12676,
+          "following_count": 45,
+          "like_count": 8,
+          "listed_count": 54,
+          "media_count": 64,
+          "tweet_count": 94
+        },
+        "username": "23Rei_00",
+        "verified": false
+      }
+    ]
+  }
+}

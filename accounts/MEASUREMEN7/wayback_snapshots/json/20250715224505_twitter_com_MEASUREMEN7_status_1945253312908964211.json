@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1945045925401124870",
+    "created_at": "2025-07-15T22:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T23:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945253312908964211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3304290958",
+          "start": 0,
+          "username": "184cm_rara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945253312908964211",
+    "in_reply_to_user_id": "3304290958",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945045925401124870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@184cm_rara サンダルはあなたにぴったりです"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1945030017504960513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv4ifuba4AE5yV1.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1945045925401124870",
+        "created_at": "2025-07-15T22:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T23:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945253312908964211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3304290958",
+              "start": 0,
+              "username": "184cm_rara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945253312908964211",
+        "in_reply_to_user_id": "3304290958",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945045925401124870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@184cm_rara サンダルはあなたにぴったりです"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945030017504960513"
+          ]
+        },
+        "author_id": "3304290958",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401934144238604294",
+              "name": "Pixel art"
+            }
+          }
+        ],
+        "conversation_id": "1945045925401124870",
+        "created_at": "2025-07-15T09:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T10:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945045925401124870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXZKE6iwn0",
+              "end": 44,
+              "expanded_url": "https://x.com/184cm_rara/status/1945045925401124870/photo/1",
+              "media_key": "3_1945030017504960513",
+              "start": 21,
+              "url": "https://t.co/nXZKE6iwn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945045925401124870",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 27704,
+          "like_count": 1171,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "ドット絵にしても自販機より身長高いらしい https://t.co/nXZKE6iwn0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 285,
+          "like_count": 3858,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 762
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-31T01:07:56.000Z",
+        "description": "みら（21)\n自販機よりでかい女で覚えてください",
+        "id": "3304290958",
+        "name": "1.8m級巨人の生態。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944724889631367168/k5vRF24p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 5,
+          "media_count": 7,
+          "tweet_count": 11
+        },
+        "username": "184cm_rara",
+        "verified": false
+      }
+    ]
+  }
+}

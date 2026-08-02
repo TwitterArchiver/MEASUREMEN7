@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2059129384121061828",
+    "created_at": "2026-05-27T13:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059622254959550473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1169463957016330241",
+          "start": 0,
+          "username": "KyuukoQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059622254959550473",
+    "in_reply_to_user_id": "1169463957016330241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059179297664090535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KyuukoQ 是啊是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2059129384121061828",
+        "created_at": "2026-05-27T13:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059622254959550473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1169463957016330241",
+              "start": 0,
+              "username": "KyuukoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059622254959550473",
+        "in_reply_to_user_id": "1169463957016330241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059179297664090535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KyuukoQ 是啊是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1169463957016330241",
+        "conversation_id": "2059129384121061828",
+        "created_at": "2026-05-26T07:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059179297664090535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059179297664090535",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059159278527865264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 ！是嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 285,
+          "like_count": 25381,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 5235
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-05T04:15:20.000Z",
+        "description": "我是99 在这个号避难 主账户@KBDYD555",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "KBDYD555"
+              }
+            ]
+          }
+        },
+        "id": "1169463957016330241",
+        "name": "不安定鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058909547767709696/5wRHt3oi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 350,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 17
+        },
+        "username": "KyuukoQ",
+        "verified": false
+      }
+    ]
+  }
+}

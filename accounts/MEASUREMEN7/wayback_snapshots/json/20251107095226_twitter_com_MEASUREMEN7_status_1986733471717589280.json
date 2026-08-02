@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986712560964644864"
+      ],
+      "media_source_tweet_id": [
+        "1986712566299824281"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1986733471717589280",
+    "created_at": "2025-11-07T09:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T10:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986733471717589280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1758083893893427200",
+          "start": 3,
+          "username": "yangshangren114"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nA3I83kBlI",
+          "end": 52,
+          "expanded_url": "https://x.com/yangshangren114/status/1986712566299824281/photo/1",
+          "media_key": "3_1986712560964644864",
+          "start": 29,
+          "url": "https://t.co/nA3I83kBlI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986733471717589280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986712566299824281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yangshangren114: 真是对苦命鸳鸯 https://t.co/nA3I83kBlI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1092,
+        "media_key": "3_1986712560964644864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5I4jFMasAAxJHb.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986712560964644864"
+          ],
+          "media_source_tweet_id": [
+            "1986712566299824281"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1986733471717589280",
+        "created_at": "2025-11-07T09:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T10:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986733471717589280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1758083893893427200",
+              "start": 3,
+              "username": "yangshangren114"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nA3I83kBlI",
+              "end": 52,
+              "expanded_url": "https://x.com/yangshangren114/status/1986712566299824281/photo/1",
+              "media_key": "3_1986712560964644864",
+              "start": 29,
+              "url": "https://t.co/nA3I83kBlI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986733471717589280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986712566299824281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yangshangren114: 真是对苦命鸳鸯 https://t.co/nA3I83kBlI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986712560964644864"
+          ]
+        },
+        "author_id": "1758083893893427200",
+        "conversation_id": "1986712566299824281",
+        "created_at": "2025-11-07T08:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986712566299824281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nA3I83kBlI",
+              "end": 31,
+              "expanded_url": "https://x.com/yangshangren114/status/1986712566299824281/photo/1",
+              "media_key": "3_1986712560964644864",
+              "start": 8,
+              "url": "https://t.co/nA3I83kBlI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986712566299824281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "真是对苦命鸳鸯 https://t.co/nA3I83kBlI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 348,
+          "like_count": 16230,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 3131
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T11:00:56.000Z",
+        "description": "",
+        "id": "1758083893893427200",
+        "name": "Asuka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759431691859632129/fv1gUDSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 62,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "username": "yangshangren114",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2000932219481940198",
+    "created_at": "2025-12-16T15:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T16:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000952705440002142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1920537994605551617",
+          "start": 0,
+          "username": "XwX777Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000952705440002142",
+    "in_reply_to_user_id": "1920537994605551617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000932219481940198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XwX777Yuki 私发给我（bushi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2000932219481940198",
+        "created_at": "2025-12-16T15:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T16:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000952705440002142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920537994605551617",
+              "start": 0,
+              "username": "XwX777Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000952705440002142",
+        "in_reply_to_user_id": "1920537994605551617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000932219481940198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XwX777Yuki 私发给我（bushi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920537994605551617",
+        "conversation_id": "2000932219481940198",
+        "created_at": "2025-12-16T14:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T15:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000932219481940198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000932219481940198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拍了很多瑟瑟的图想发不敢发怎么办😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 365,
+          "like_count": 16830,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3460
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T17:55:37.000Z",
+        "description": "",
+        "id": "1920537994605551617",
+        "location": "奈落",
+        "name": "OK绷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963746294184505344/PgUUVHMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 73,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 140
+        },
+        "username": "XwX777Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

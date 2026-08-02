@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1955965071177474263",
+    "created_at": "2025-08-15T08:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T09:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956274070317883826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1865419581206208512",
+          "start": 0,
+          "username": "DDzhanshou5150"
+        },
+        {
+          "end": 25,
+          "id": "1425948421870039041",
+          "start": 16,
+          "username": "SinonHug"
+        },
+        {
+          "end": 34,
+          "id": "2550494587",
+          "start": 26,
+          "username": "vu_yoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956274070317883826",
+    "in_reply_to_user_id": "1865419581206208512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955965071177474263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDzhanshou5150 @SinonHug @vu_yoyo 脆肉皖真的好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1955965058967855114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyT726Ta4Ao81-B.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1955965058984632320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyT726Xa4AAJPPA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1955965058972049412",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyT726Ua4AQL5Gv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1955965058984632325",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyT726Xa4AU7WH6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1955965071177474263",
+        "created_at": "2025-08-15T08:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T09:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956274070317883826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            },
+            {
+              "end": 25,
+              "id": "1425948421870039041",
+              "start": 16,
+              "username": "SinonHug"
+            },
+            {
+              "end": 34,
+              "id": "2550494587",
+              "start": 26,
+              "username": "vu_yoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956274070317883826",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955965071177474263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 @SinonHug @vu_yoyo 脆肉皖真的好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955965058967855114",
+            "3_1955965058984632320",
+            "3_1955965058972049412",
+            "3_1955965058984632325"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1955965071177474263",
+        "created_at": "2025-08-14T12:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T13:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955965071177474263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1425948421870039041",
+              "start": 29,
+              "username": "SinonHug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y0OZFIbxuZ",
+              "end": 62,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1955965071177474263/photo/1",
+              "media_key": "3_1955965058967855114",
+              "start": 39,
+              "url": "https://t.co/y0OZFIbxuZ"
+            },
+            {
+              "display_url": "pic.x.com/y0OZFIbxuZ",
+              "end": 62,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1955965071177474263/photo/1",
+              "media_key": "3_1955965058984632320",
+              "start": 39,
+              "url": "https://t.co/y0OZFIbxuZ"
+            },
+            {
+              "display_url": "pic.x.com/y0OZFIbxuZ",
+              "end": 62,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1955965071177474263/photo/1",
+              "media_key": "3_1955965058972049412",
+              "start": 39,
+              "url": "https://t.co/y0OZFIbxuZ"
+            },
+            {
+              "display_url": "pic.x.com/y0OZFIbxuZ",
+              "end": 62,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1955965071177474263/photo/1",
+              "media_key": "3_1955965058984632325",
+              "start": 39,
+              "url": "https://t.co/y0OZFIbxuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955965071177474263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一起吃脆肉鲩QWQ\n这次面基下次不知道什么时候可以再见了\n@SinonHug https://t.co/y0OZFIbxuZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 382,
+          "like_count": 7993,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1417
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5783,
+          "following_count": 5582,
+          "like_count": 19483,
+          "listed_count": 12,
+          "media_count": 3663,
+          "tweet_count": 27741
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T22:33:08.000Z",
+        "description": "希望所有梦想都能够实现，希望所有幸福都会如约而至，希望有人找我玩，治愈我叭，这个世界~       偶尔会碎碎念就是~",
+        "id": "1425948421870039041",
+        "name": "诗乃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1571008217135874049/QBpRkPoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3611,
+          "following_count": 323,
+          "like_count": 13482,
+          "listed_count": 16,
+          "media_count": 75,
+          "tweet_count": 512
+        },
+        "username": "SinonHug",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-06T16:48:56.000Z",
+        "description": "住在香港的非常孤獨的MTF，很需要人陪…… /人工智能和全棧工程師/Research Assistant of HKUST/很溫順的！打遊戲從不罵人 /仍未srs的大齡MTF /外觀完全不pass/超級喜歡黑暗系的衣服！YOYO最愛的兔兔大冤種：@Rabbubble550W",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 123,
+                "username": "Rabbubble550W"
+              }
+            ]
+          }
+        },
+        "id": "2550494587",
+        "location": "HongKong",
+        "name": "VU yoyo～🏳️‍⚧️",
+        "pinned_tweet_id": "1884209970608234573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632352012879933443/QEWl4dAI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 1045,
+          "like_count": 3435,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 893
+        },
+        "username": "vu_yoyo",
+        "verified": false
+      }
+    ]
+  }
+}

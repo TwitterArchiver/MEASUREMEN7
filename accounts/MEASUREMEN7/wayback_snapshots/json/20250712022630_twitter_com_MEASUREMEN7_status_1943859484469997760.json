@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1943855531728548162",
+    "created_at": "2025-07-12T02:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T03:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943859484469997760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1917403238384689153",
+          "start": 0,
+          "username": "meganechan_555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943859484469997760",
+    "in_reply_to_user_id": "1917403238384689153",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943855531728548162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meganechan_555 できる人もいるよ、私も少し返事の遅れが我慢できないと思う"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1943855531728548162",
+        "created_at": "2025-07-12T02:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T03:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943859484469997760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1917403238384689153",
+              "start": 0,
+              "username": "meganechan_555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943859484469997760",
+        "in_reply_to_user_id": "1917403238384689153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943855531728548162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meganechan_555 できる人もいるよ、私も少し返事の遅れが我慢できないと思う"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917403238384689153",
+        "conversation_id": "1943855531728548162",
+        "created_at": "2025-07-12T02:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T03:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943855531728548162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943855531728548162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "時差リプって失礼に当たるの…？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 231,
+          "like_count": 3006,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 619
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-30T02:19:06.000Z",
+        "description": "病みと酒と絵|済|隣有💍|DM、discord◎|人選ありサブ垢🗝 @megane_nesan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "megane_nesan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2WFY4SVZ5XVH3?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/nbutvQGC2s"
+              }
+            ]
+          }
+        },
+        "id": "1917403238384689153",
+        "location": "関東",
+        "name": "眼鏡👓",
+        "pinned_tweet_id": "1939665792075002354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939566049076117504/im_3fHfe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 154,
+          "like_count": 3744,
+          "listed_count": 12,
+          "media_count": 42,
+          "tweet_count": 1037
+        },
+        "url": "https://t.co/nbutvQGC2s",
+        "username": "meganechan_555",
+        "verified": false
+      }
+    ]
+  }
+}

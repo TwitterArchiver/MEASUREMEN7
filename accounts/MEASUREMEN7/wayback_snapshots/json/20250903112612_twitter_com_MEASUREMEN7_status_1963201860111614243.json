@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1963193253576024196",
+    "created_at": "2025-09-03T11:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T12:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963201860111614243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916086363608518657",
+          "start": 0,
+          "username": "CandlishLa81993"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963201860111614243",
+    "in_reply_to_user_id": "1916086363608518657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963193253576024196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CandlishLa81993 别说了，我有朋友破防了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963193232361246720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz6p1-hX0AAhCYN.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1963193253576024196",
+        "created_at": "2025-09-03T11:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T12:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963201860111614243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916086363608518657",
+              "start": 0,
+              "username": "CandlishLa81993"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963201860111614243",
+        "in_reply_to_user_id": "1916086363608518657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963193253576024196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CandlishLa81993 别说了，我有朋友破防了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963193232361246720"
+          ]
+        },
+        "author_id": "1916086363608518657",
+        "conversation_id": "1963193253576024196",
+        "created_at": "2025-09-03T10:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T11:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963193253576024196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FFhGGEfWjs",
+              "end": 28,
+              "expanded_url": "https://x.com/CandlishLa81993/status/1963193253576024196/photo/1",
+              "media_key": "3_1963193232361246720",
+              "start": 5,
+              "url": "https://t.co/FFhGGEfWjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963193253576024196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊。 https://t.co/FFhGGEfWjs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 374,
+          "like_count": 9125,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1620
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T11:06:12.000Z",
+        "description": "",
+        "id": "1916086363608518657",
+        "location": "♡",
+        "name": "創口貼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962065017592770560/TGNf_4d1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 126,
+          "like_count": 1243,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 69
+        },
+        "username": "CandlishLa81993",
+        "verified": false
+      }
+    ]
+  }
+}

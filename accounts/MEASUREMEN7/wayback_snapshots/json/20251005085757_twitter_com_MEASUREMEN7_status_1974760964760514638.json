@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1974760767238099005",
+    "created_at": "2025-10-05T08:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T09:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974760964760514638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1572252869923057664",
+          "start": 0,
+          "username": "h1kari_t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974760964760514638",
+    "in_reply_to_user_id": "1572252869923057664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974760767238099005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h1kari_t 幸苦你了，还是多吃点巧克力吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1974760767238099005",
+        "created_at": "2025-10-05T08:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T09:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974760964760514638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1572252869923057664",
+              "start": 0,
+              "username": "h1kari_t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974760964760514638",
+        "in_reply_to_user_id": "1572252869923057664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974760767238099005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h1kari_t 幸苦你了，还是多吃点巧克力吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572252869923057664",
+        "conversation_id": "1974760767238099005",
+        "created_at": "2025-10-05T08:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T09:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974760767238099005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974760767238099005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是此號主的親友\n很沈重且遺憾的告訴大家\n\n小光與今日下午3點被發現於房內\n失眠且做了惡夢流了很多汗\n並打算把巧克力都吃光\n\n真糟糕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 436,
+          "like_count": 12072,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 2063
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T15:54:40.000Z",
+        "description": "光ひかり，也有可能消失了",
+        "id": "1572252869923057664",
+        "location": "天国",
+        "name": "⭐︎未来電波基地",
+        "pinned_tweet_id": "1974474380106448955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974451683242729472/xyJMZCxY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 109,
+          "like_count": 9320,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 1392
+        },
+        "username": "h1kari_t",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2023792888388481354",
+    "created_at": "2026-02-17T16:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T17:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023797029940740207"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "萌萌萌萌萌",
+          "probability": 0.4741,
+          "start": 10,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1893169260387803137",
+          "start": 0,
+          "username": "Yana911y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023797029940740207",
+    "in_reply_to_user_id": "1893169260387803137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023792888388481354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yana911y 萌萌萌萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6520,
+        "height": 1280,
+        "media_key": "13_2023792827403206656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023792827403206656/img/IWXEjtqUzdDnx0DV.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023792827403206656/vid/avc1/320x568/pl716edIq2Pl0W_k.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023792827403206656/vid/avc1/480x852/hKMKq7zZHkRATdnC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023792827403206656/vid/avc1/720x1280/AlG7D6Svak_aAWMQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023792827403206656/pl/iCTDCQiH1FqV4jeP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2023792888388481354",
+        "created_at": "2026-02-17T16:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T17:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023797029940740207"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "萌萌萌萌萌",
+              "probability": 0.4741,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1893169260387803137",
+              "start": 0,
+              "username": "Yana911y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023797029940740207",
+        "in_reply_to_user_id": "1893169260387803137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023792888388481354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yana911y 萌萌萌萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023792827403206656"
+          ]
+        },
+        "author_id": "1893169260387803137",
+        "conversation_id": "2023792888388481354",
+        "created_at": "2026-02-17T16:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T17:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023792888388481354"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2JRpkPUMQw",
+              "end": 27,
+              "expanded_url": "https://x.com/Yana911y/status/2023792888388481354/video/1",
+              "media_key": "13_2023792827403206656",
+              "start": 4,
+              "url": "https://t.co/2JRpkPUMQw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023792888388481354",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#门槛 https://t.co/2JRpkPUMQw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 420,
+          "like_count": 20892,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4408
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T05:21:58.000Z",
+        "description": "线下咨询 @074512my_i | age18 ｜上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "074512my_i"
+              }
+            ]
+          }
+        },
+        "id": "1893169260387803137",
+        "location": "🚪88",
+        "name": "lyanyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017538450141155331/7HtmCy28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 153,
+          "like_count": 1225,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 209
+        },
+        "username": "Yana911y",
+        "verified": false
+      }
+    ]
+  }
+}

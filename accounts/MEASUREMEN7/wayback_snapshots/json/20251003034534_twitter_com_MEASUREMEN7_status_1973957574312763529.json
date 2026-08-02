@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973627192161808384"
+      ],
+      "media_source_tweet_id": [
+        "1973627198163861556"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1973957574312763529",
+    "created_at": "2025-10-03T03:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T04:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973957574312763529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1489611149704192005",
+          "start": 3,
+          "username": "BiYebi1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KEAcXRdO5L",
+          "end": 36,
+          "expanded_url": "https://x.com/BiYebi1/status/1973627198163861556/photo/1",
+          "media_key": "3_1973627192161808384",
+          "start": 13,
+          "url": "https://t.co/KEAcXRdO5L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973957574312763529",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 228
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973627198163861556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BiYebi1: https://t.co/KEAcXRdO5L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1251,
+        "media_key": "3_1973627192161808384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2O7eXvbMAA5H6M.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973627192161808384"
+          ],
+          "media_source_tweet_id": [
+            "1973627198163861556"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1973957574312763529",
+        "created_at": "2025-10-03T03:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T04:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973957574312763529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1489611149704192005",
+              "start": 3,
+              "username": "BiYebi1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KEAcXRdO5L",
+              "end": 36,
+              "expanded_url": "https://x.com/BiYebi1/status/1973627198163861556/photo/1",
+              "media_key": "3_1973627192161808384",
+              "start": 13,
+              "url": "https://t.co/KEAcXRdO5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973957574312763529",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 228
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973627198163861556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BiYebi1: https://t.co/KEAcXRdO5L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973627192161808384"
+          ]
+        },
+        "author_id": "1489611149704192005",
+        "conversation_id": "1973627198163861556",
+        "created_at": "2025-10-02T05:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T06:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973627198163861556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KEAcXRdO5L",
+              "end": 23,
+              "expanded_url": "https://x.com/BiYebi1/status/1973627198163861556/photo/1",
+              "media_key": "3_1973627192161808384",
+              "start": 0,
+              "url": "https://t.co/KEAcXRdO5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973627198163861556",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 153121,
+          "like_count": 2122,
+          "quote_count": 19,
+          "reply_count": 6,
+          "retweet_count": 228
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KEAcXRdO5L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 435,
+          "like_count": 11649,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 1987
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T14:46:05.000Z",
+        "description": "原创/二创/meme 很高兴认识你/作品观点不代表本人观点 仅供娱乐",
+        "id": "1489611149704192005",
+        "name": "她",
+        "pinned_tweet_id": "1960276699410784320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973240061140541447/ZKbIY9eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7394,
+          "following_count": 22,
+          "like_count": 119,
+          "listed_count": 5,
+          "media_count": 203,
+          "tweet_count": 265
+        },
+        "username": "BiYebi1",
+        "verified": false
+      }
+    ]
+  }
+}

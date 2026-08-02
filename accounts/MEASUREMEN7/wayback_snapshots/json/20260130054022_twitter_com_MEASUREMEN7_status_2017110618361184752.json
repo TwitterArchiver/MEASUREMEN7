@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2017108097714835836",
+    "created_at": "2026-01-30T05:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T06:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017110618361184752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1964658951217446912",
+          "start": 0,
+          "username": "akrkrkrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017110618361184752",
+    "in_reply_to_user_id": "1964658951217446912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017108097714835836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akrkrkrc 很解压的感觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37500,
+        "height": 960,
+        "media_key": "7_2017107658084667395",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2017107658084667395/pu/img/Au6RxaYJkyavLPAq.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017107658084667395/pu/vid/avc1/320x426/8dN9JMJSa6IaX3Ai.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017107658084667395/pu/vid/avc1/480x640/vJxYRvMbZFd4paQy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017107658084667395/pu/vid/avc1/720x960/VkDdfRAmLT-9yLjJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2017107658084667395/pu/pl/AShqwzm4ZoCZM5kc.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2017108097714835836",
+        "created_at": "2026-01-30T05:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017110618361184752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1964658951217446912",
+              "start": 0,
+              "username": "akrkrkrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017110618361184752",
+        "in_reply_to_user_id": "1964658951217446912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017108097714835836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akrkrkrc 很解压的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2017107658084667395"
+          ]
+        },
+        "author_id": "1964658951217446912",
+        "conversation_id": "2017108097714835836",
+        "created_at": "2026-01-30T05:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017108097714835836"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vRI5A5g0iM",
+              "end": 30,
+              "expanded_url": "https://x.com/akrkrkrc/status/2017108097714835836/video/1",
+              "media_key": "7_2017107658084667395",
+              "start": 7,
+              "url": "https://t.co/vRI5A5g0iM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017108097714835836",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwt https://t.co/vRI5A5g0iM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 376,
+          "like_count": 17812,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3737
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T11:56:26.000Z",
+        "description": "#shtwt #edtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              },
+              {
+                "end": 13,
+                "start": 7,
+                "tag": "edtwt"
+              }
+            ]
+          }
+        },
+        "id": "1964658951217446912",
+        "location": "魔界",
+        "name": "Ария",
+        "pinned_tweet_id": "2009949751803072854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011098726430040064/AGcDNTS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 11,
+          "like_count": 797,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 64
+        },
+        "username": "akrkrkrc",
+        "verified": false
+      }
+    ]
+  }
+}

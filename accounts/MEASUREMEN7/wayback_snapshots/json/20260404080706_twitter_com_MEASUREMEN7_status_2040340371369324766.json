@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2040081049515143490",
+    "created_at": "2026-04-04T08:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T09:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040340371369324766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938824940012347392",
+          "start": 0,
+          "username": "RSO_cl1nicL0V3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040340371369324766",
+    "in_reply_to_user_id": "1938824940012347392",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040081049515143490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RSO_cl1nicL0V3 6767"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2040081044683341824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_S5r1bwAAPNVJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2040081049515143490",
+        "created_at": "2026-04-04T08:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040340371369324766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938824940012347392",
+              "start": 0,
+              "username": "RSO_cl1nicL0V3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040340371369324766",
+        "in_reply_to_user_id": "1938824940012347392",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040081049515143490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RSO_cl1nicL0V3 6767"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040081044683341824"
+          ]
+        },
+        "author_id": "1938824940012347392",
+        "conversation_id": "2040081049515143490",
+        "created_at": "2026-04-03T14:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040081049515143490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ghSxsUF1U",
+              "end": 26,
+              "expanded_url": "https://x.com/RSO_cl1nicL0V3/status/2040081049515143490/photo/1",
+              "media_key": "3_2040081044683341824",
+              "start": 3,
+              "url": "https://t.co/2ghSxsUF1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040081049515143490",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "67 https://t.co/2ghSxsUF1U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 288,
+          "like_count": 24936,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 5080
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T05:01:18.000Z",
+        "description": "#shtwt #edtwt #nsotwt #jiraitwt\nADHD,BPD, DEPRESSION \n\n去死",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              },
+              {
+                "end": 13,
+                "start": 7,
+                "tag": "edtwt"
+              },
+              {
+                "end": 21,
+                "start": 14,
+                "tag": "nsotwt"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "tag": "jiraitwt"
+              }
+            ]
+          }
+        },
+        "id": "1938824940012347392",
+        "location": "🇲🇾 kys",
+        "name": "琳酱的急救诊所Rin💉🩺",
+        "pinned_tweet_id": "1995655194722574638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037218534351409152/bSlyXNn7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 84,
+          "like_count": 1974,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 889
+        },
+        "username": "RSO_cl1nicL0V3",
+        "verified": false
+      }
+    ]
+  }
+}

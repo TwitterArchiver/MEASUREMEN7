@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2071464305812500494",
+    "created_at": "2026-06-29T14:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071596954770108922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2032744913981550595",
+          "start": 0,
+          "username": "yuyu177570"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071596954770108922",
+    "in_reply_to_user_id": "2032744913981550595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071464305812500494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyu177570 这里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2071464305812500494",
+        "created_at": "2026-06-29T14:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071596954770108922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2032744913981550595",
+              "start": 0,
+              "username": "yuyu177570"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071596954770108922",
+        "in_reply_to_user_id": "2032744913981550595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071464305812500494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyu177570 这里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032744913981550595",
+        "conversation_id": "2071464305812500494",
+        "created_at": "2026-06-29T05:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071464305812500494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071464305812500494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们都去哪了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 175,
+          "like_count": 27406,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 5475
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T09:06:30.000Z",
+        "description": "",
+        "id": "2032744913981550595",
+        "name": "ゆゆ",
+        "pinned_tweet_id": "2069378339543167367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068669843306672128/aqSecpOs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 210,
+          "like_count": 1691,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 189
+        },
+        "url": "",
+        "username": "yuyu177570",
+        "verified": false
+      }
+    ]
+  }
+}

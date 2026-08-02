@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1978023727003558104",
+    "created_at": "2025-10-14T09:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T10:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978037996323512429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761106331896033283",
+          "start": 0,
+          "username": "nemurikamisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978037996323512429",
+    "in_reply_to_user_id": "1761106331896033283",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978023727003558104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemurikamisama 好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1280,
+        "media_key": "7_1978023405204226048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1978023405204226048/pu/img/I6j345YqjU5Lx5RO.jpg",
+        "public_metrics": {
+          "view_count": 145
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978023405204226048/pu/vid/avc1/320x568/RRk-jXAECjhuOTZ5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978023405204226048/pu/vid/avc1/480x852/PARaQoO1hPlk1TrP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978023405204226048/pu/vid/avc1/720x1280/rRkl1PE7R1v8fdSB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1978023405204226048/pu/pl/2OVZJ87g4Rpf0mTu.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1978023727003558104",
+        "created_at": "2025-10-14T09:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T10:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978037996323512429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761106331896033283",
+              "start": 0,
+              "username": "nemurikamisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978037996323512429",
+        "in_reply_to_user_id": "1761106331896033283",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978023727003558104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemurikamisama 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1978023405204226048"
+          ]
+        },
+        "author_id": "1761106331896033283",
+        "conversation_id": "1978023727003558104",
+        "created_at": "2025-10-14T09:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T10:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978023727003558104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x8TqEs316Y",
+              "end": 38,
+              "expanded_url": "https://x.com/nemurikamisama/status/1978023727003558104/video/1",
+              "media_key": "7_1978023405204226048",
+              "start": 15,
+              "url": "https://t.co/x8TqEs316Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978023727003558104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 403,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各種形態的海眠大人（＞ｙ＜） https://t.co/x8TqEs316Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 452,
+          "like_count": 13856,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 2496
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T19:10:51.000Z",
+        "description": "永い眠りにつく\n性別是神\n發言如讓您感到不適我很榮幸....人類殲滅計劃進行中...! @kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1761106331896033283",
+        "location": "表世界",
+        "name": "海眠大人🪦⑨",
+        "pinned_tweet_id": "1964270050774249794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942260066700099592/iGACmyZ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14507,
+          "following_count": 38,
+          "like_count": 8347,
+          "listed_count": 26,
+          "media_count": 377,
+          "tweet_count": 4002
+        },
+        "username": "nemurikamisama",
+        "verified": false
+      }
+    ]
+  }
+}

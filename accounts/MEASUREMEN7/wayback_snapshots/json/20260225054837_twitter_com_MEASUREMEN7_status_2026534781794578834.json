@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2026533760297218557",
+    "created_at": "2026-02-25T05:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T06:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026534781794578834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1801277209044451328",
+          "start": 0,
+          "username": "chuhecher1201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026534781794578834",
+    "in_reply_to_user_id": "1801277209044451328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026534675766984863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuhecher1201 我一发就刷到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2026533760297218557",
+        "created_at": "2026-02-25T05:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T06:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026534781794578834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1801277209044451328",
+              "start": 0,
+              "username": "chuhecher1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026534781794578834",
+        "in_reply_to_user_id": "1801277209044451328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026534675766984863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuhecher1201 我一发就刷到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801277209044451328",
+        "conversation_id": "2026533760297218557",
+        "created_at": "2026-02-25T05:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T06:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026534675766984863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026534675766984863",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026533958981148724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 好快！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 425,
+          "like_count": 21975,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4599
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T15:35:36.000Z",
+        "description": "个人原因无法抑制厌世厌人，请谅解  地雷女精神病过激女别招惹我 看我好戏的都死了 但是其实我还是想好好的爱人",
+        "id": "1801277209044451328",
+        "name": "小糖",
+        "pinned_tweet_id": "1920721573629116733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001702010522079235/k6fK__D8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 31,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 159
+        },
+        "username": "chuhecher1201",
+        "verified": false
+      }
+    ]
+  }
+}

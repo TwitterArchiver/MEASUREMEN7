@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2023566849313772029",
+    "created_at": "2026-02-17T12:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T13:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023730713523015683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1964265669362667520",
+          "start": 0,
+          "username": "zuiaiyiyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023730713523015683",
+    "in_reply_to_user_id": "1964265669362667520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023566849313772029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuiaiyiyi 这不爽嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2023566846344265728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBUnU0-bgAAhPo4.jpg",
+        "width": 667
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2023566849313772029",
+        "created_at": "2026-02-17T12:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023730713523015683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1964265669362667520",
+              "start": 0,
+              "username": "zuiaiyiyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023730713523015683",
+        "in_reply_to_user_id": "1964265669362667520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023566849313772029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuiaiyiyi 这不爽嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023566846344265728"
+          ]
+        },
+        "author_id": "1964265669362667520",
+        "conversation_id": "2023566849313772029",
+        "created_at": "2026-02-17T01:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T02:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023566849313772029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yx3hoYpcB8",
+              "end": 92,
+              "expanded_url": "https://x.com/zuiaiyiyi/status/2023566849313772029/photo/1",
+              "media_key": "3_2023566846344265728",
+              "start": 69,
+              "url": "https://t.co/Yx3hoYpcB8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023566849313772029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 37046,
+          "like_count": 379,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚跟一个男亲友聊天发现\n居然会有人想和维什戴尔玩四爱吗\n维什戴尔，4i。这俩个词是怎么组成一句话的。\n草傻子犯法，被傻子草也犯法的亲。 https://t.co/Yx3hoYpcB8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 419,
+          "like_count": 20861,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4401
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T09:53:43.000Z",
+        "description": "止于推，只聊天。\n如果关注我，我很开心。\n回复看心情没礼貌我不回。\n只是一个会为五斗米折腰的资本主义受害者。\n标签纯引流，当真的那你这辈子有了。\n不加墙内联系方式，没有门槛，给一百万也不加vq\nx唯一亲友@羊奇羊https://t.co/uLfKv4ONH9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/cuteyangqi",
+                "end": 129,
+                "expanded_url": "https://x.com/cuteyangqi",
+                "start": 106,
+                "url": "https://t.co/uLfKv4ONH9"
+              }
+            ]
+          }
+        },
+        "id": "1964265669362667520",
+        "location": "亚特兰蒂斯",
+        "name": "熠熠舞",
+        "pinned_tweet_id": "2023337572500652104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004200904413925379/m3cu8rDM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12216,
+          "following_count": 9,
+          "like_count": 11,
+          "listed_count": 27,
+          "media_count": 128,
+          "tweet_count": 625
+        },
+        "username": "zuiaiyiyi",
+        "verified": false
+      }
+    ]
+  }
+}

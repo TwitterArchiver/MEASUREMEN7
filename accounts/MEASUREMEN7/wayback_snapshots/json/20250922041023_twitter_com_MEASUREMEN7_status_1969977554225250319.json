@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1969915761193099332",
+    "created_at": "2025-09-22T04:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T05:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969977554225250319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1874710728323829760",
+          "start": 0,
+          "username": "miaojiejiesz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969977554225250319",
+    "in_reply_to_user_id": "1874710728323829760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969915761193099332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaojiejiesz 早"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1969915705614381056",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G1aL5a6bsAAwrAw.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G1aL5a6bsAAwrAw.mp4"
+          }
+        ],
+        "width": 282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1969915761193099332",
+        "created_at": "2025-09-22T04:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T05:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969977554225250319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1874710728323829760",
+              "start": 0,
+              "username": "miaojiejiesz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969977554225250319",
+        "in_reply_to_user_id": "1874710728323829760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969915761193099332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaojiejiesz 早"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1969915705614381056"
+          ]
+        },
+        "author_id": "1874710728323829760",
+        "conversation_id": "1969915761193099332",
+        "created_at": "2025-09-22T00:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T01:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969915761193099332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R9e4OpMxYN",
+              "end": 25,
+              "expanded_url": "https://x.com/miaojiejiesz/status/1969915761193099332/photo/1",
+              "media_key": "16_1969915705614381056",
+              "start": 2,
+              "url": "https://t.co/R9e4OpMxYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969915761193099332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1903,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早 https://t.co/R9e4OpMxYN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 405,
+          "like_count": 9976,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1746
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T06:54:14.000Z",
+        "description": "00后创业姐姐 真实🉑线下 喜欢年下弟弟（体育生优先 ） 可长期 可验资 有需要的私信联系哦～ 缺钱的可联系（包机票）  推荐体育生的可领红包🧧",
+        "id": "1874710728323829760",
+        "location": "Hong Kong",
+        "name": "金主姐姐（喜欢体育生版）",
+        "pinned_tweet_id": "1930672387227529258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874861700014620672/9Q07Fijb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18184,
+          "following_count": 39,
+          "like_count": 669,
+          "listed_count": 8,
+          "media_count": 153,
+          "tweet_count": 281
+        },
+        "username": "miaojiejiesz",
+        "verified": false
+      }
+    ]
+  }
+}

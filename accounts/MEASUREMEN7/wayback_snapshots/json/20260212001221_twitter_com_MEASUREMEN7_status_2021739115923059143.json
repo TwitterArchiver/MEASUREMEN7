@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2021730213517046118",
+    "created_at": "2026-02-12T00:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T01:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021739115923059143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1786985558977523712",
+          "start": 0,
+          "username": "BaiQingMiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021739115923059143",
+    "in_reply_to_user_id": "1786985558977523712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021730213517046118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaiQingMiao 洗个冷水澡就当淬火了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2021730213517046118",
+        "created_at": "2026-02-12T00:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T01:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021739115923059143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1786985558977523712",
+              "start": 0,
+              "username": "BaiQingMiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021739115923059143",
+        "in_reply_to_user_id": "1786985558977523712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021730213517046118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaiQingMiao 洗个冷水澡就当淬火了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786985558977523712",
+        "conversation_id": "2021730213517046118",
+        "created_at": "2026-02-11T23:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T00:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021730213517046118"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021730213517046118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "红温了，然后发现自己红温了也不知道干啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 417,
+          "like_count": 19949,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4203
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T05:05:42.000Z",
+        "description": "胡言乱语，打扰到了抱歉",
+        "id": "1786985558977523712",
+        "name": "白音盒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886050268363788288/CBeDn6os_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 60,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 91
+        },
+        "username": "BaiQingMiao",
+        "verified": false
+      }
+    ]
+  }
+}

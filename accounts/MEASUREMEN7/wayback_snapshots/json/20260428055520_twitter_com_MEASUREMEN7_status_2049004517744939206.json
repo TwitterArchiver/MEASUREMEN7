@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2048774177390543305",
+    "created_at": "2026-04-28T05:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T06:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049004517744939206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2030304451127631872",
+          "start": 0,
+          "username": "foanax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049004517744939206",
+    "in_reply_to_user_id": "2030304451127631872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048774177390543305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foanax 其实看上去有点奇怪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2048774177390543305",
+        "created_at": "2026-04-28T05:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049004517744939206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2030304451127631872",
+              "start": 0,
+              "username": "foanax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049004517744939206",
+        "in_reply_to_user_id": "2030304451127631872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048774177390543305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foanax 其实看上去有点奇怪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030304451127631872",
+        "conversation_id": "2048774177390543305",
+        "created_at": "2026-04-27T14:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048774177390543305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foanax/status/…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/foanax/status/2046121776951017969",
+              "start": 43,
+              "url": "https://t.co/c0SWoZzzsW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048774177390543305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046121776951017969",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最好的朋友说我这张照片很丑说我拍全身就算了拍个半身看起来很怪。。真的假的说实话好吗。 https://t.co/c0SWoZzzsW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 299,
+          "like_count": 25150,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 5188
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T15:28:12.000Z",
+        "description": "",
+        "id": "2030304451127631872",
+        "name": "骂我的没妈我骂的没妈。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030308606042886145/GIXuTPOO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 12,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 54
+        },
+        "username": "foanax",
+        "verified": false
+      }
+    ]
+  }
+}

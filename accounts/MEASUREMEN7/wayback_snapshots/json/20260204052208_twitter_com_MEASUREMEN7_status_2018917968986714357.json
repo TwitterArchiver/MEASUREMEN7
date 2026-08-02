@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2018648441342362055",
+    "created_at": "2026-02-04T05:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T06:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018917968986714357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1879531417925001216",
+          "start": 0,
+          "username": "7kever9640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018917968986714357",
+    "in_reply_to_user_id": "1879531417925001216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018648441342362055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7kever9640 嚼碎我，吃掉我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2018648441342362055",
+        "created_at": "2026-02-04T05:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T06:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018917968986714357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1879531417925001216",
+              "start": 0,
+              "username": "7kever9640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018917968986714357",
+        "in_reply_to_user_id": "1879531417925001216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018648441342362055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7kever9640 嚼碎我，吃掉我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879531417925001216",
+        "conversation_id": "2018648441342362055",
+        "created_at": "2026-02-03T11:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018648441342362055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018648441342362055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呕吐呕吐 咀嚼呕吐 我要用你磨砺利爪我撕裂我重组我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 391,
+          "like_count": 18719,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3935
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T14:10:09.000Z",
+        "description": "🐌 🚪52入门解锁线下",
+        "id": "1879531417925001216",
+        "name": "克克煙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966296005646880768/AJdbSEGR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 42,
+          "like_count": 176,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 82
+        },
+        "username": "7kever9640",
+        "verified": false
+      }
+    ]
+  }
+}

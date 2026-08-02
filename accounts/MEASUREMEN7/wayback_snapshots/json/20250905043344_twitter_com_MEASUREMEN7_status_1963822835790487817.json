@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1963802025768165430",
+    "created_at": "2025-09-05T04:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T05:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963822835790487817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1873626175706484736",
+          "start": 0,
+          "username": "Dark_d_b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963822835790487817",
+    "in_reply_to_user_id": "1873626175706484736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963802025768165430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dark_d_b 可愛い"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1963802018361004033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0DTh_GaUAErRcW.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1963802025768165430",
+        "created_at": "2025-09-05T04:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T05:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963822835790487817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1873626175706484736",
+              "start": 0,
+              "username": "Dark_d_b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963822835790487817",
+        "in_reply_to_user_id": "1873626175706484736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963802025768165430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dark_d_b 可愛い"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963802018361004033"
+          ]
+        },
+        "author_id": "1873626175706484736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1963802025768165430",
+        "created_at": "2025-09-05T03:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T04:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963802025768165430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rKVcatyCJb",
+              "end": 28,
+              "expanded_url": "https://x.com/Dark_d_b/status/1963802025768165430/photo/1",
+              "media_key": "3_1963802018361004033",
+              "start": 5,
+              "url": "https://t.co/rKVcatyCJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963802025768165430",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ねむい、 https://t.co/rKVcatyCJb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 378,
+          "like_count": 9269,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1637
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T07:04:46.000Z",
+        "description": "\\①病み②暴言③自傷④下ネタ垢/\n\\未成年/\\LGBTQ+/\\ADHD_ASP/👧",
+        "id": "1873626175706484736",
+        "name": "くだです。",
+        "pinned_tweet_id": "1961013502945931342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888724619475234816/nw9FO63C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 281,
+          "like_count": 3843,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1212
+        },
+        "username": "Dark_d_b",
+        "verified": false
+      }
+    ]
+  }
+}

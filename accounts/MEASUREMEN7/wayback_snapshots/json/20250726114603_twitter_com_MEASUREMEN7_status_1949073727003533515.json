@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1949073727003533515",
+    "created_at": "2025-07-26T11:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T12:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949073727003533515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ddzhanshou5150…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/ddzhanshou5150/status/1948711359048224955",
+          "start": 12,
+          "url": "https://t.co/ufFZYYPJ7n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949073727003533515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948711359048224955",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不抽烟但是坏到骨子里了 https://t.co/ufFZYYPJ7n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1948711342199980032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gws2pBmawAALFIj.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1949073727003533515",
+        "created_at": "2025-07-26T11:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T12:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949073727003533515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ddzhanshou5150…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/ddzhanshou5150/status/1948711359048224955",
+              "start": 12,
+              "url": "https://t.co/ufFZYYPJ7n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949073727003533515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948711359048224955",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不抽烟但是坏到骨子里了 https://t.co/ufFZYYPJ7n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948711342199980032"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1948711359048224955",
+        "created_at": "2025-07-25T11:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T12:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948711359048224955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/spRjqdxd5H",
+              "end": 28,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1948711359048224955/photo/1",
+              "media_key": "3_1948711342199980032",
+              "start": 5,
+              "url": "https://t.co/spRjqdxd5H"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0151348954a4147f"
+        },
+        "id": "1948711359048224955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4562,
+          "like_count": 83,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "是好孩子 https://t.co/spRjqdxd5H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 352,
+          "like_count": 6012,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 1118
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4868,
+          "following_count": 4949,
+          "like_count": 16997,
+          "listed_count": 8,
+          "media_count": 3214,
+          "tweet_count": 24119
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

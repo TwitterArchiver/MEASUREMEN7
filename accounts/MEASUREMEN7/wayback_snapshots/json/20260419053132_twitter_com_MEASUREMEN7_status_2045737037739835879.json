@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2045459225585824155",
+    "created_at": "2026-04-19T05:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T06:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045737037739835879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944397553426128896",
+          "start": 0,
+          "username": "geiwoqianxwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045737037739835879",
+    "in_reply_to_user_id": "1944397553426128896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045459225585824155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geiwoqianxwx 我尝尝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045459179821821952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLuSWfXcAAY-6f.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045459179817562112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLuSWeWcAA2KQu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2045459225585824155",
+        "created_at": "2026-04-19T05:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045737037739835879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944397553426128896",
+              "start": 0,
+              "username": "geiwoqianxwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045737037739835879",
+        "in_reply_to_user_id": "1944397553426128896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045459225585824155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geiwoqianxwx 我尝尝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045459179821821952",
+            "3_2045459179817562112"
+          ]
+        },
+        "author_id": "1944397553426128896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045459225585824155",
+        "created_at": "2026-04-18T11:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045459225585824155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w4XT2b4lK0",
+              "end": 28,
+              "expanded_url": "https://x.com/geiwoqianxwx/status/2045459225585824155/photo/1",
+              "media_key": "3_2045459179821821952",
+              "start": 5,
+              "url": "https://t.co/w4XT2b4lK0"
+            },
+            {
+              "display_url": "pic.x.com/w4XT2b4lK0",
+              "end": 28,
+              "expanded_url": "https://x.com/geiwoqianxwx/status/2045459225585824155/photo/1",
+              "media_key": "3_2045459179817562112",
+              "start": 5,
+              "url": "https://t.co/w4XT2b4lK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045459225585824155",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "厨圣降世 https://t.co/w4XT2b4lK0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 287,
+          "like_count": 25273,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 5151
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T14:04:52.000Z",
+        "description": "给我钱",
+        "id": "1944397553426128896",
+        "name": "我不知道你知不知道诶",
+        "pinned_tweet_id": "2044144072508502508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974511584174358528/JsCgl042_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 38,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 83
+        },
+        "username": "geiwoqianxwx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2074197145817911699",
+    "created_at": "2026-07-07T15:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T16:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074518622945550581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768755544154845184",
+          "start": 0,
+          "username": "koitoyuuuuuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074518622945550581",
+    "in_reply_to_user_id": "1768755544154845184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074197145817911699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koitoyuuuuuuuuu 细说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2074197145817911699",
+        "created_at": "2026-07-07T15:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074518622945550581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768755544154845184",
+              "start": 0,
+              "username": "koitoyuuuuuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074518622945550581",
+        "in_reply_to_user_id": "1768755544154845184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074197145817911699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koitoyuuuuuuuuu 细说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768755544154845184",
+        "conversation_id": "2074197145817911699",
+        "created_at": "2026-07-06T18:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074197145817911699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074197145817911699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "，，，我一直以为操出屎这种事离我很远"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 175,
+          "like_count": 27769,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 5519
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T21:46:16.000Z",
+        "description": "",
+        "id": "1768755544154845184",
+        "name": "小糸悠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073571045903360000/tN6wPhqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 55,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "koitoyuuuuuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

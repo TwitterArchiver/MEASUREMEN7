@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2069778036015403310",
+    "created_at": "2026-06-24T13:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T14:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069780694709248103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1793059595155537920",
+          "start": 0,
+          "username": "fll5el"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069780694709248103",
+    "in_reply_to_user_id": "1793059595155537920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069778036015403310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fll5el 羡慕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2069777960702251008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlUFs-XEAAGA5S.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2069777960429830144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlUFr9aQAAy-c7.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2069778036015403310",
+        "created_at": "2026-06-24T13:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T14:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069780694709248103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1793059595155537920",
+              "start": 0,
+              "username": "fll5el"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069780694709248103",
+        "in_reply_to_user_id": "1793059595155537920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069778036015403310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fll5el 羡慕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069777960702251008",
+            "3_2069777960429830144"
+          ]
+        },
+        "author_id": "1793059595155537920",
+        "conversation_id": "2069778036015403310",
+        "created_at": "2026-06-24T13:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T14:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069778036015403310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nfjz9sGm93",
+              "end": 32,
+              "expanded_url": "https://x.com/fll5el/status/2069778036015403310/photo/1",
+              "media_key": "3_2069777960702251008",
+              "start": 9,
+              "url": "https://t.co/Nfjz9sGm93"
+            },
+            {
+              "display_url": "pic.x.com/Nfjz9sGm93",
+              "end": 32,
+              "expanded_url": "https://x.com/fll5el/status/2069778036015403310/photo/1",
+              "media_key": "3_2069777960429830144",
+              "start": 9,
+              "url": "https://t.co/Nfjz9sGm93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069778036015403310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想看什么自己画🤓 https://t.co/Nfjz9sGm93"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 163,
+          "like_count": 26645,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 5392
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T23:21:47.000Z",
+        "description": "",
+        "id": "1793059595155537920",
+        "name": "猫降日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066794466984202240/wCVwEdIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 13,
+          "like_count": 20893,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1228
+        },
+        "url": "",
+        "username": "fll5el",
+        "verified": false
+      }
+    ]
+  }
+}

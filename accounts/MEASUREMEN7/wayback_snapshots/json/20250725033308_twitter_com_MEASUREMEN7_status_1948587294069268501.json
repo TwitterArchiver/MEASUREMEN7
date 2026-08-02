@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1948383277951385932",
+    "created_at": "2025-07-25T03:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T04:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948587294069268501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761106331896033283",
+          "start": 0,
+          "username": "nemurikamisama"
+        },
+        {
+          "end": 24,
+          "id": "1286363668007882753",
+          "start": 16,
+          "username": "huyaopa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948587294069268501",
+    "in_reply_to_user_id": "1761106331896033283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948585785181306973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemurikamisama @huyaopa 好骂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1948383277951385932",
+        "created_at": "2025-07-25T03:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T04:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948587294069268501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761106331896033283",
+              "start": 0,
+              "username": "nemurikamisama"
+            },
+            {
+              "end": 24,
+              "id": "1286363668007882753",
+              "start": 16,
+              "username": "huyaopa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948587294069268501",
+        "in_reply_to_user_id": "1761106331896033283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948585785181306973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemurikamisama @huyaopa 好骂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761106331896033283",
+        "conversation_id": "1948383277951385932",
+        "created_at": "2025-07-25T03:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T04:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948585785181306973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1286363668007882753",
+              "start": 0,
+              "username": "huyaopa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948585785181306973",
+        "in_reply_to_user_id": "1286363668007882753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948383277951385932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huyaopa 一輩子被男人當飛機杯的東西 六花哪幾把來的魅魔紋傻B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 351,
+          "like_count": 5900,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 1105
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T19:10:51.000Z",
+        "description": "永い眠りにつく\n性別是神\n發言如讓您感到不適我很榮幸....人類殲滅計劃進行中...!",
+        "id": "1761106331896033283",
+        "location": "表世界",
+        "name": "海眠大人🪦⑨",
+        "pinned_tweet_id": "1878098084397478005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942260066700099592/iGACmyZ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14239,
+          "following_count": 36,
+          "like_count": 7509,
+          "listed_count": 22,
+          "media_count": 346,
+          "tweet_count": 3735
+        },
+        "username": "nemurikamisama",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T18:13:02.000Z",
+        "description": "置顶推广自辨 自用靠谱🪜https://t.co/FPFLDkuHJy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "so.sulink.life/#/register?cod…",
+                "end": 35,
+                "expanded_url": "https://so.sulink.life/#/register?code=jbEYEqVL",
+                "start": 12,
+                "url": "https://t.co/FPFLDkuHJy"
+              }
+            ]
+          }
+        },
+        "id": "1286363668007882753",
+        "name": "--",
+        "pinned_tweet_id": "1946976005589237883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780064761906085888/m6-1DmN__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16328,
+          "following_count": 74,
+          "like_count": 294,
+          "listed_count": 59,
+          "media_count": 87,
+          "tweet_count": 96
+        },
+        "username": "huyaopa",
+        "verified": false
+      }
+    ]
+  }
+}

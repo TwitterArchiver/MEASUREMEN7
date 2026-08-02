@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1986504054760218975",
+    "created_at": "2025-11-06T22:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T23:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986562063679074778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "464973118",
+          "start": 0,
+          "username": "kinoko525525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986562063679074778",
+    "in_reply_to_user_id": "464973118",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986504054760218975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kinoko525525 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1986504049924186113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5F66JCbIAEuFii.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1986504054760218975",
+        "created_at": "2025-11-06T22:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T23:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986562063679074778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "464973118",
+              "start": 0,
+              "username": "kinoko525525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986562063679074778",
+        "in_reply_to_user_id": "464973118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986504054760218975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kinoko525525 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986504049924186113"
+          ]
+        },
+        "author_id": "464973118",
+        "conversation_id": "1986504054760218975",
+        "created_at": "2025-11-06T18:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T19:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986504054760218975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XXnJdbcMrK",
+              "end": 25,
+              "expanded_url": "https://x.com/kinoko525525/status/1986504054760218975/photo/1",
+              "media_key": "3_1986504049924186113",
+              "start": 2,
+              "url": "https://t.co/XXnJdbcMrK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986504054760218975",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🕶 https://t.co/XXnJdbcMrK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 348,
+          "like_count": 16187,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 3112
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-15T20:34:46.000Z",
+        "description": "我想结束痛苦，而不是生命\n欢迎找我玩，我一直很孤单\n会占塔罗 15/1",
+        "id": "464973118",
+        "name": "思诺思",
+        "pinned_tweet_id": "1985735837129253251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986323230223966208/7BjaUFHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 97,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 173
+        },
+        "username": "kinoko525525",
+        "verified": false
+      }
+    ]
+  }
+}

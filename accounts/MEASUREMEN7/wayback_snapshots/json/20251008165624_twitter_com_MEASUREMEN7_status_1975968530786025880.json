@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1975966387995804001",
+    "created_at": "2025-10-08T16:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T17:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975968530786025880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946642385028718592",
+          "start": 0,
+          "username": "kurabakei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975968530786025880",
+    "in_reply_to_user_id": "1946642385028718592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975966387995804001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurabakei 不可以内射，必须要在外面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1975966387995804001",
+        "created_at": "2025-10-08T16:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T17:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975968530786025880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946642385028718592",
+              "start": 0,
+              "username": "kurabakei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975968530786025880",
+        "in_reply_to_user_id": "1946642385028718592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975966387995804001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurabakei 不可以内射，必须要在外面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946642385028718592",
+        "conversation_id": "1975966387995804001",
+        "created_at": "2025-10-08T16:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T17:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975966387995804001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975966387995804001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求你了内射我吧我就是个贱婊子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 440,
+          "like_count": 12908,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 2258
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T18:44:58.000Z",
+        "description": "病み垢/リスカ/09/地雷女子/メンヘラ🚪88",
+        "id": "1946642385028718592",
+        "location": "地獄",
+        "name": "闇葉(悪魔の転生)",
+        "pinned_tweet_id": "1946643601892806769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969689671828680704/v3fvWkPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 180,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 53
+        },
+        "username": "kurabakei",
+        "verified": false
+      }
+    ]
+  }
+}

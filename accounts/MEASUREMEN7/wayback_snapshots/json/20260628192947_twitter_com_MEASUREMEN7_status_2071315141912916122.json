@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2071314309318136198",
+    "created_at": "2026-06-28T19:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T20:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071315141912916122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1833100001180098560",
+          "start": 0,
+          "username": "hxjcrhvgJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071315141912916122",
+    "in_reply_to_user_id": "1833100001180098560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071314309318136198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hxjcrhvgJ 摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 372,
+        "media_key": "3_2071314296454123520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7JYNpWEAANde8.jpg",
+        "width": 669
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2071314309318136198",
+        "created_at": "2026-06-28T19:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071315141912916122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1833100001180098560",
+              "start": 0,
+              "username": "hxjcrhvgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071315141912916122",
+        "in_reply_to_user_id": "1833100001180098560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071314309318136198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hxjcrhvgJ 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071314296454123520"
+          ]
+        },
+        "author_id": "1833100001180098560",
+        "conversation_id": "2071314309318136198",
+        "created_at": "2026-06-28T19:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071314309318136198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cIwFiXSmah",
+              "end": 23,
+              "expanded_url": "https://x.com/hxjcrhvgJ/status/2071314309318136198/photo/1",
+              "media_key": "3_2071314296454123520",
+              "start": 0,
+              "url": "https://t.co/cIwFiXSmah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071314309318136198",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cIwFiXSmah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 175,
+          "like_count": 27367,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 5470
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T11:08:05.000Z",
+        "description": "请给我点钱 谢谢",
+        "id": "1833100001180098560",
+        "name": "小狱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947767470389137412/WhX8waeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 228,
+          "like_count": 5466,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 436
+        },
+        "url": "",
+        "username": "hxjcrhvgJ",
+        "verified": false
+      }
+    ]
+  }
+}

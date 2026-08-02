@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2071296843997474830",
+    "created_at": "2026-06-28T19:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T20:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071314721597477074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1874445693424910336",
+          "start": 0,
+          "username": "yuelie0_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071314721597477074",
+    "in_reply_to_user_id": "1874445693424910336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071296843997474830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuelie0_0 没关系的，幸福也好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 634,
+        "media_key": "3_2071296819892756480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL65e8YaoAAdWz0.jpg",
+        "width": 1169
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2071296819896983552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL65e8ZbIAAak2E.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2071296819892715520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL65e8YaAAAlfX7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1808,
+        "media_key": "3_2071296819897016320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL65e8ZboAAgM5S.jpg",
+        "width": 1015
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2071296843997474830",
+        "created_at": "2026-06-28T19:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071314721597477074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1874445693424910336",
+              "start": 0,
+              "username": "yuelie0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071314721597477074",
+        "in_reply_to_user_id": "1874445693424910336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071296843997474830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuelie0_0 没关系的，幸福也好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071296819892756480",
+            "3_2071296819896983552",
+            "3_2071296819892715520",
+            "3_2071296819897016320"
+          ]
+        },
+        "author_id": "1874445693424910336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071296843997474830",
+        "created_at": "2026-06-28T18:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T19:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071296843997474830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EFjOASKecG",
+              "end": 176,
+              "expanded_url": "https://x.com/yuelie0_0/status/2071296843997474830/photo/1",
+              "media_key": "3_2071296819892756480",
+              "start": 153,
+              "url": "https://t.co/EFjOASKecG"
+            },
+            {
+              "display_url": "pic.x.com/EFjOASKecG",
+              "end": 176,
+              "expanded_url": "https://x.com/yuelie0_0/status/2071296843997474830/photo/1",
+              "media_key": "3_2071296819896983552",
+              "start": 153,
+              "url": "https://t.co/EFjOASKecG"
+            },
+            {
+              "display_url": "pic.x.com/EFjOASKecG",
+              "end": 176,
+              "expanded_url": "https://x.com/yuelie0_0/status/2071296843997474830/photo/1",
+              "media_key": "3_2071296819892715520",
+              "start": 153,
+              "url": "https://t.co/EFjOASKecG"
+            },
+            {
+              "display_url": "pic.x.com/EFjOASKecG",
+              "end": 176,
+              "expanded_url": "https://x.com/yuelie0_0/status/2071296843997474830/photo/1",
+              "media_key": "3_2071296819897016320",
+              "start": 153,
+              "url": "https://t.co/EFjOASKecG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071296843997474830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天白天shakukiru在吉他手家烧烤，晚上又去了ktv给鼓手过生日，一天下来过的好幸福，好充实\n嗯…果然半夜开始戒断了。\n真的从来没有想过会和一群朋友会有以后，在shakukiru真的好幸福，幸福的让我不知所措，但过的太幸福了，心里不踏实（\n有时会想逃避这种幸福的生活，但是太幸福了，已经逃避不了了😌 https://t.co/EFjOASKecG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 175,
+          "like_count": 27357,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 5469
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T13:21:03.000Z",
+        "description": "VO.SHAKUKIRU｜中国广州\n@mam0_0fficialt 🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "mam0_0fficialt"
+              }
+            ]
+          }
+        },
+        "id": "1874445693424910336",
+        "name": "刖裂",
+        "pinned_tweet_id": "2062558578117054846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070613293128114176/966WsA1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 110,
+          "like_count": 4685,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "yuelie0_0",
+        "verified": false
+      }
+    ]
+  }
+}

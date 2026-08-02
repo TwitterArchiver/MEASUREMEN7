@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1956433457913184529",
+    "created_at": "2025-08-15T19:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T20:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956433761706328394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541224736214003712",
+          "start": 0,
+          "username": "tenshi_0210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956433761706328394",
+    "in_reply_to_user_id": "1541224736214003712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956433457913184529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tenshi_0210 不悔杀的太多\n只恨杀的太少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1956433457913184529",
+        "created_at": "2025-08-15T19:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T20:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956433761706328394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541224736214003712",
+              "start": 0,
+              "username": "tenshi_0210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956433761706328394",
+        "in_reply_to_user_id": "1541224736214003712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956433457913184529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tenshi_0210 不悔杀的太多\n只恨杀的太少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541224736214003712",
+        "conversation_id": "1956433457913184529",
+        "created_at": "2025-08-15T19:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T20:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956433457913184529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956433457913184529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道 好恨 男的女的都恨 女的一巴掌男的更是兩巴掌 好討厭 首先我沒惹你們任何人其次我沒惹你們任何人最後我沒惹你們任何人^^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 384,
+          "like_count": 8117,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1451
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T01:00:39.000Z",
+        "description": "痛いの痛いの飛んでいけ|サブ@mizuir0_0210",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "mizuir0_0210"
+              }
+            ]
+          }
+        },
+        "id": "1541224736214003712",
+        "name": "ましろ🦭",
+        "pinned_tweet_id": "1791161920411910619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936848691345678336/62Xn-6g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 4439,
+          "like_count": 135719,
+          "listed_count": 6,
+          "media_count": 189,
+          "tweet_count": 15280
+        },
+        "username": "tenshi_0210",
+        "verified": false
+      }
+    ]
+  }
+}

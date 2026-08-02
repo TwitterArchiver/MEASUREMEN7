@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1984990452987351173",
+    "created_at": "2025-11-02T14:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T15:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984992419595813209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1787714778116272128",
+          "start": 0,
+          "username": "La_reflexion000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984992419595813209",
+    "in_reply_to_user_id": "1787714778116272128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984990452987351173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@La_reflexion000 还真是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1984990452987351173",
+        "created_at": "2025-11-02T14:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T15:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984992419595813209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1787714778116272128",
+              "start": 0,
+              "username": "La_reflexion000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984992419595813209",
+        "in_reply_to_user_id": "1787714778116272128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984990452987351173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@La_reflexion000 还真是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787714778116272128",
+        "conversation_id": "1984990452987351173",
+        "created_at": "2025-11-02T14:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T15:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984990452987351173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984990452987351173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去学校的感觉就像吃了金刚烷胺一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 346,
+          "like_count": 15892,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 3020
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T05:23:27.000Z",
+        "description": "psychoanalysis psycho",
+        "id": "1787714778116272128",
+        "location": "real",
+        "name": "mirroflets la reflexion",
+        "pinned_tweet_id": "1982376252368675164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852378891295318016/cvxy3szE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 158,
+          "like_count": 1881,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1109
+        },
+        "username": "La_reflexion000",
+        "verified": false
+      }
+    ]
+  }
+}

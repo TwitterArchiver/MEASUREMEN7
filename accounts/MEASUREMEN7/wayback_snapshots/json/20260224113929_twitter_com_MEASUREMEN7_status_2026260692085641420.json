@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2026260136034242979",
+    "created_at": "2026-02-24T11:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T12:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026260692085641420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2009331605949833216",
+          "start": 0,
+          "username": "uim886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026260692085641420",
+    "in_reply_to_user_id": "2009331605949833216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026260136034242979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uim886 好腿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 350,
+        "media_key": "16_2026260081533407232",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HB64zv5aUAAyWA_.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HB64zv5aUAAyWA_.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2026260136034242979",
+        "created_at": "2026-02-24T11:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026260692085641420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2009331605949833216",
+              "start": 0,
+              "username": "uim886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026260692085641420",
+        "in_reply_to_user_id": "2009331605949833216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026260136034242979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uim886 好腿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2026260081533407232"
+          ]
+        },
+        "author_id": "2009331605949833216",
+        "conversation_id": "2026260136034242979",
+        "created_at": "2026-02-24T11:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026260136034242979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1gik5gl07",
+              "end": 37,
+              "expanded_url": "https://x.com/uim886/status/2026260136034242979/photo/1",
+              "media_key": "16_2026260081533407232",
+              "start": 14,
+              "url": "https://t.co/C1gik5gl07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026260136034242979",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ฅ(๑ ̀ㅅ ́๑)ฅ喂！ https://t.co/C1gik5gl07"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 423,
+          "like_count": 21829,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4581
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T18:29:35.000Z",
+        "description": "刚满16岁~身高158，体重48🈶🚪欢迎投喂qvq只看口令♡ 蟹蟹喜欢 (ᐥᐜᐥ)♡︎ᐝ 玩推赚🥕吃~",
+        "id": "2009331605949833216",
+        "name": "dog🦴",
+        "pinned_tweet_id": "2023159578691817924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025958923359113216/q-A8FlB8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 0,
+          "like_count": 1537,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 64
+        },
+        "username": "uim886",
+        "verified": false
+      }
+    ]
+  }
+}

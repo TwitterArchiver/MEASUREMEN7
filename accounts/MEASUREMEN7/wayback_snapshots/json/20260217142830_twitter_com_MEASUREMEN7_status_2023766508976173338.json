@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2023715259794813389",
+    "created_at": "2026-02-17T14:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T15:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023766508976173338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1907823299108978688",
+          "start": 0,
+          "username": "Tewi77nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023766508976173338",
+    "in_reply_to_user_id": "1907823299108978688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023715259794813389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tewi77nya 加一"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023715249787207680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWuTC4bgAAuD20.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2023715259794813389",
+        "created_at": "2026-02-17T14:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T15:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023766508976173338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1907823299108978688",
+              "start": 0,
+              "username": "Tewi77nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023766508976173338",
+        "in_reply_to_user_id": "1907823299108978688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023715259794813389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tewi77nya 加一"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023715249787207680"
+          ]
+        },
+        "author_id": "1907823299108978688",
+        "conversation_id": "2023715259794813389",
+        "created_at": "2026-02-17T11:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T12:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023715259794813389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cv1DGWhTDu",
+              "end": 26,
+              "expanded_url": "https://x.com/Tewi77nya/status/2023715259794813389/photo/1",
+              "media_key": "3_2023715249787207680",
+              "start": 3,
+              "url": "https://t.co/Cv1DGWhTDu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023715259794813389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情 https://t.co/Cv1DGWhTDu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 419,
+          "like_count": 20873,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4404
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T15:52:17.000Z",
+        "description": "低浮上｜骂我死爹烂娘全家暴毙｜我叫小鼠｜躁郁双相反社会｜闲聊过🚪52无福利｜家养白毛犬中",
+        "id": "1907823299108978688",
+        "location": "🕳️🐀",
+        "name": "老鼠神",
+        "pinned_tweet_id": "2004998593628045465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021656583554609152/HUlVkvIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 134,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 79
+        },
+        "username": "Tewi77nya",
+        "verified": false
+      }
+    ]
+  }
+}

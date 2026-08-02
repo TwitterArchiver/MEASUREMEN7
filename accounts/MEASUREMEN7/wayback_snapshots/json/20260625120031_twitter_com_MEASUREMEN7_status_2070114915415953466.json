@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2070111854186348667",
+    "created_at": "2026-06-25T12:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070114915415953466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1667059658002157571",
+          "start": 0,
+          "username": "yuri1000827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070114915415953466",
+    "in_reply_to_user_id": "1667059658002157571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070111854186348667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuri1000827 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1925,
+        "media_key": "3_2070111846594723840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqDwa2bQAAMAqv.jpg",
+        "width": 1055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2070111854186348667",
+        "created_at": "2026-06-25T12:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070114915415953466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667059658002157571",
+              "start": 0,
+              "username": "yuri1000827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070114915415953466",
+        "in_reply_to_user_id": "1667059658002157571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070111854186348667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri1000827 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070111846594723840"
+          ]
+        },
+        "author_id": "1667059658002157571",
+        "conversation_id": "2070111854186348667",
+        "created_at": "2026-06-25T11:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070111854186348667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZIi1sW28Lw",
+              "end": 26,
+              "expanded_url": "https://x.com/yuri1000827/status/2070111854186348667/photo/1",
+              "media_key": "3_2070111846594723840",
+              "start": 3,
+              "url": "https://t.co/ZIi1sW28Lw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070111854186348667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "花嫁 https://t.co/ZIi1sW28Lw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 166,
+          "like_count": 26827,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 5418
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T06:43:03.000Z",
+        "description": "おやすみなさい",
+        "id": "1667059658002157571",
+        "location": "歌舞伎町",
+        "name": "嘎抓",
+        "pinned_tweet_id": "1989856308330479992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069745307328327680/hOsfYzNc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 103,
+          "like_count": 782,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 488
+        },
+        "url": "",
+        "username": "yuri1000827",
+        "verified": false
+      }
+    ]
+  }
+}

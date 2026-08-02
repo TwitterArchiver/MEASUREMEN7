@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1976678689455649239",
+    "created_at": "2025-10-10T16:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T17:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976685982046183726"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1976685982046183726",
+    "in_reply_to_user_id": "1888239230020661248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976683612390207624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我遇到了很多愿意关心我的人，他们不像以前那个你能真正理解我的感受，但其实要求别人真正理解自己的感受是荒诞的。他们虽然不能完全理解我，但是愿意给予我足够的信任和支持。希望你以后能把你的精力留给身边那些需要你和支持你的人，而不是游戏里虚无的胜负，学着考虑一下阿姨的感受。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1976678689455649239",
+        "created_at": "2025-10-10T16:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976685982046183726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976685982046183726",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976683612390207624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我遇到了很多愿意关心我的人，他们不像以前那个你能真正理解我的感受，但其实要求别人真正理解自己的感受是荒诞的。他们虽然不能完全理解我，但是愿意给予我足够的信任和支持。希望你以后能把你的精力留给身边那些需要你和支持你的人，而不是游戏里虚无的胜负，学着考虑一下阿姨的感受。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1976678689455649239",
+        "created_at": "2025-10-10T16:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976683612390207624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976683612390207624",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976682320183677218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你总说你很爱你母亲，可是你的作为真的是爱你的母亲吗？我知道她一直希望你能好好学习，将来不要成为和她一样不幸的人，我也知道她对你有时过于苛刻，几乎算得上是无理取闹的要求。但你们之间真的没有办法好好交流吗，难道真的有什么事情不得不用争吵去解决吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 443,
+          "like_count": 13239,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 2363
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2013635816023536086",
+    "created_at": "2026-01-21T06:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T07:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013857222753718378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1888259669338320896",
+          "start": 0,
+          "username": "wizgjaj197722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013857222753718378",
+    "in_reply_to_user_id": "1888259669338320896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013635816023536086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wizgjaj197722 怎么买上这个了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013635802668961792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HfGAUXkAAqoBG.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2013635816023536086",
+        "created_at": "2026-01-21T06:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T07:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013857222753718378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1888259669338320896",
+              "start": 0,
+              "username": "wizgjaj197722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013857222753718378",
+        "in_reply_to_user_id": "1888259669338320896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013635816023536086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wizgjaj197722 怎么买上这个了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013635802668961792"
+          ]
+        },
+        "author_id": "1888259669338320896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2013635816023536086",
+        "created_at": "2026-01-20T15:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013635816023536086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0FjawiN572",
+              "end": 50,
+              "expanded_url": "https://x.com/wizgjaj197722/status/2013635816023536086/photo/1",
+              "media_key": "3_2013635802668961792",
+              "start": 27,
+              "url": "https://t.co/0FjawiN572"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013635816023536086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有咪有哥哥姐姐可以给我买这个呀…&gt;_&lt;… https://t.co/0FjawiN572"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 367,
+          "like_count": 17185,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 3629
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T16:13:08.000Z",
+        "description": "招魂中。不要攻击我。🚪50纯绿90半绿别攻击我。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/404__page_notf…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/404__page_notfound?igsh=MTNkcDBtOTMzdGZxcw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/BGSBCk5MT2"
+              }
+            ]
+          }
+        },
+        "id": "1888259669338320896",
+        "name": "？？？",
+        "pinned_tweet_id": "1965101658003968236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982523780904763392/_lwUgD9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 109,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 881
+        },
+        "url": "https://t.co/BGSBCk5MT2",
+        "username": "wizgjaj197722",
+        "verified": false
+      }
+    ]
+  }
+}

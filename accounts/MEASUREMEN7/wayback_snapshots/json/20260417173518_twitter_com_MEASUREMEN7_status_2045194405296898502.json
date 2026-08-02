@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1958684134530039895",
+    "created_at": "2026-04-17T17:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045194405296898502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942299471288602624",
+          "start": 0,
+          "username": "MentnechS32537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045194405296898502",
+    "in_reply_to_user_id": "1942299471288602624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045173552471756811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@MentnechS32537 有点难买哦，感觉不如烧炭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1958684134530039895",
+        "created_at": "2026-04-17T17:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045194405296898502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942299471288602624",
+              "start": 0,
+              "username": "MentnechS32537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045194405296898502",
+        "in_reply_to_user_id": "1942299471288602624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045173552471756811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@MentnechS32537 有点难买哦，感觉不如烧炭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942299471288602624",
+        "conversation_id": "1958684134530039895",
+        "created_at": "2026-04-17T16:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045173552471756811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045173552471756811",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045165925666566642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@MEASUREMEN7 咋搞到呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 286,
+          "like_count": 25214,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 5143
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T19:07:42.000Z",
+        "description": "看见她的忧愁 在不安的云烟之下变的朦胧\n🚪52",
+        "id": "1942299471288602624",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "美莎厨",
+        "pinned_tweet_id": "1959235983855227122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975256664346619904/KFvo2EFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 50,
+          "like_count": 1319,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 330
+        },
+        "username": "MentnechS32537",
+        "verified": false
+      }
+    ]
+  }
+}

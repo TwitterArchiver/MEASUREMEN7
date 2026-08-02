@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2021829612330962964",
+    "created_at": "2026-02-12T06:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T07:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021830508351807963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1419478915064664064",
+          "start": 0,
+          "username": "Zane66728136"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021830508351807963",
+    "in_reply_to_user_id": "1419478915064664064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021829612330962964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zane66728136 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2161,
+        "media_key": "3_2021829496664678400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA77NxEa4AAsNLm.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2154,
+        "media_key": "3_2021829493095280640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA77NjxaMAA_CMz.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2021829612330962964",
+        "created_at": "2026-02-12T06:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021830508351807963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1419478915064664064",
+              "start": 0,
+              "username": "Zane66728136"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021830508351807963",
+        "in_reply_to_user_id": "1419478915064664064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021829612330962964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zane66728136 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021829496664678400",
+            "3_2021829493095280640"
+          ]
+        },
+        "author_id": "1419478915064664064",
+        "conversation_id": "2021829612330962964",
+        "created_at": "2026-02-12T06:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021829612330962964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOiv9OHcWW",
+              "end": 43,
+              "expanded_url": "https://x.com/Zane66728136/status/2021829612330962964/photo/1",
+              "media_key": "3_2021829496664678400",
+              "start": 20,
+              "url": "https://t.co/jOiv9OHcWW"
+            },
+            {
+              "display_url": "pic.x.com/jOiv9OHcWW",
+              "end": 43,
+              "expanded_url": "https://x.com/Zane66728136/status/2021829612330962964/photo/1",
+              "media_key": "3_2021829493095280640",
+              "start": 20,
+              "url": "https://t.co/jOiv9OHcWW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021829612330962964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正经拍累了，拍个不正经的逗逗自己，嘿嘿 https://t.co/jOiv9OHcWW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 417,
+          "like_count": 20020,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4217
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-26T02:05:30.000Z",
+        "description": "网络一线牵，珍惜这段缘，\n喜欢的话点个关注，很开心你来看我🤗\nPS:抖音是93901163160，关注我一下嘛",
+        "id": "1419478915064664064",
+        "location": "距离你秒速五厘米",
+        "name": "Tke.",
+        "pinned_tweet_id": "1985666618647847200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980239170787315713/_VCTAipZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1820,
+          "following_count": 1291,
+          "like_count": 2837,
+          "listed_count": 6,
+          "media_count": 42,
+          "tweet_count": 297
+        },
+        "username": "Zane66728136",
+        "verified": false
+      }
+    ]
+  }
+}

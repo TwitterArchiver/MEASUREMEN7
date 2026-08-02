@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080992256610467840"
+      ],
+      "media_source_tweet_id": [
+        "2080992263484870844"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2081654562969288946",
+    "created_at": "2026-07-27T08:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081654562969288946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2058944024078409728",
+          "start": 3,
+          "username": "Suhdhhxdmo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xKGzBxkDPt",
+          "end": 90,
+          "expanded_url": "https://x.com/Suhdhhxdmo/status/2080992263484870844/photo/1",
+          "media_key": "3_2080992256610467840",
+          "start": 67,
+          "url": "https://t.co/xKGzBxkDPt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081654562969288946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080992263484870844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Suhdhhxdmo: 总之就是生活费断了、然后现在很需要钱。\n80纯绿\n150半绿\n300非绿\n520电子女友/可咨询线下 https://t.co/xKGzBxkDPt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2012,
+        "media_key": "3_2080992256610467840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOErboubAAAYHel.jpg",
+        "width": 1570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080992256610467840"
+          ]
+        },
+        "author_id": "2058944024078409728",
+        "conversation_id": "2080992263484870844",
+        "created_at": "2026-07-25T12:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080992263484870844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKGzBxkDPt",
+              "end": 74,
+              "expanded_url": "https://x.com/Suhdhhxdmo/status/2080992263484870844/photo/1",
+              "media_key": "3_2080992256610467840",
+              "start": 51,
+              "url": "https://t.co/xKGzBxkDPt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080992263484870844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总之就是生活费断了、然后现在很需要钱。\n80纯绿\n150半绿\n300非绿\n520电子女友/可咨询线下 https://t.co/xKGzBxkDPt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080992256610467840"
+          ],
+          "media_source_tweet_id": [
+            "2080992263484870844"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2081654562969288946",
+        "created_at": "2026-07-27T08:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081654562969288946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2058944024078409728",
+              "start": 3,
+              "username": "Suhdhhxdmo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKGzBxkDPt",
+              "end": 90,
+              "expanded_url": "https://x.com/Suhdhhxdmo/status/2080992263484870844/photo/1",
+              "media_key": "3_2080992256610467840",
+              "start": 67,
+              "url": "https://t.co/xKGzBxkDPt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081654562969288946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080992263484870844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Suhdhhxdmo: 总之就是生活费断了、然后现在很需要钱。\n80纯绿\n150半绿\n300非绿\n520电子女友/可咨询线下 https://t.co/xKGzBxkDPt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 179,
+          "like_count": 27720,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 5543
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T16:11:54.000Z",
+        "description": "重生。🚪80/150/300/520",
+        "id": "2058944024078409728",
+        "name": "骂我的没妈我骂的没妈。",
+        "pinned_tweet_id": "2065255390770786789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065254202356695041/Z1wu6Ia9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 28,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "Suhdhhxdmo",
+        "verified": true
+      }
+    ]
+  }
+}

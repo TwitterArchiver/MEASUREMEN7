@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044144056188510208",
+        "3_2044144056188710913"
+      ],
+      "media_source_tweet_id": [
+        "2044144072508502508",
+        "2044144072508502508"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2045118818695987339",
+    "created_at": "2026-04-17T12:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045118818695987339"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "门槛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1944397553426128896",
+          "start": 3,
+          "username": "geiwoqianxwx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qMjbkW7aJr",
+          "end": 70,
+          "expanded_url": "https://x.com/geiwoqianxwx/status/2044144072508502508/photo/1",
+          "media_key": "3_2044144056188510208",
+          "start": 47,
+          "url": "https://t.co/qMjbkW7aJr"
+        },
+        {
+          "display_url": "pic.x.com/qMjbkW7aJr",
+          "end": 70,
+          "expanded_url": "https://x.com/geiwoqianxwx/status/2044144072508502508/photo/1",
+          "media_key": "3_2044144056188710913",
+          "start": 47,
+          "url": "https://t.co/qMjbkW7aJr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045118818695987339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044144072508502508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @geiwoqianxwx: 你们好 我是尾巴草\n我没钱了 可不可以施舍我一点\n#门槛 https://t.co/qMjbkW7aJr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044144056188510208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF5CMFLXoAA0Ijk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 443,
+        "media_key": "3_2044144056188710913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF5CMFLasAEyPEA.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044144056188510208",
+            "3_2044144056188710913"
+          ],
+          "media_source_tweet_id": [
+            "2044144072508502508",
+            "2044144072508502508"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2045118818695987339",
+        "created_at": "2026-04-17T12:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045118818695987339"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "门槛"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1944397553426128896",
+              "start": 3,
+              "username": "geiwoqianxwx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qMjbkW7aJr",
+              "end": 70,
+              "expanded_url": "https://x.com/geiwoqianxwx/status/2044144072508502508/photo/1",
+              "media_key": "3_2044144056188510208",
+              "start": 47,
+              "url": "https://t.co/qMjbkW7aJr"
+            },
+            {
+              "display_url": "pic.x.com/qMjbkW7aJr",
+              "end": 70,
+              "expanded_url": "https://x.com/geiwoqianxwx/status/2044144072508502508/photo/1",
+              "media_key": "3_2044144056188710913",
+              "start": 47,
+              "url": "https://t.co/qMjbkW7aJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045118818695987339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044144072508502508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @geiwoqianxwx: 你们好 我是尾巴草\n我没钱了 可不可以施舍我一点\n#门槛 https://t.co/qMjbkW7aJr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044144056188510208",
+            "3_2044144056188710913"
+          ]
+        },
+        "author_id": "1944397553426128896",
+        "conversation_id": "2044144072508502508",
+        "created_at": "2026-04-14T20:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T21:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044144072508502508"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qMjbkW7aJr",
+              "end": 52,
+              "expanded_url": "https://x.com/geiwoqianxwx/status/2044144072508502508/photo/1",
+              "media_key": "3_2044144056188510208",
+              "start": 29,
+              "url": "https://t.co/qMjbkW7aJr"
+            },
+            {
+              "display_url": "pic.x.com/qMjbkW7aJr",
+              "end": 52,
+              "expanded_url": "https://x.com/geiwoqianxwx/status/2044144072508502508/photo/1",
+              "media_key": "3_2044144056188710913",
+              "start": 29,
+              "url": "https://t.co/qMjbkW7aJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044144072508502508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1024,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你们好 我是尾巴草\n我没钱了 可不可以施舍我一点\n#门槛 https://t.co/qMjbkW7aJr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 286,
+          "like_count": 25193,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 5139
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T14:04:52.000Z",
+        "description": "给我钱",
+        "id": "1944397553426128896",
+        "name": "我不知道你知不知道诶",
+        "pinned_tweet_id": "2044144072508502508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974511584174358528/JsCgl042_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 38,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 69
+        },
+        "username": "geiwoqianxwx",
+        "verified": false
+      }
+    ]
+  }
+}

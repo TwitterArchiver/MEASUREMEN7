@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1997141507648946287",
+    "created_at": "2025-12-06T06:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T07:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997188919256142317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979293441294213120",
+          "start": 0,
+          "username": "Dumpling666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997188919256142317",
+    "in_reply_to_user_id": "1979293441294213120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997141507648946287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dumpling666666 超级可爱啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997141491479986176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7dFmu3bwAA8X_q.jpg",
+        "width": 1059
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997141491471527936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7dFmu1asAAmVyP.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1997141507648946287",
+        "created_at": "2025-12-06T06:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T07:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997188919256142317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979293441294213120",
+              "start": 0,
+              "username": "Dumpling666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997188919256142317",
+        "in_reply_to_user_id": "1979293441294213120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997141507648946287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dumpling666666 超级可爱啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997141491479986176",
+            "3_1997141491471527936"
+          ]
+        },
+        "author_id": "1979293441294213120",
+        "conversation_id": "1997141507648946287",
+        "created_at": "2025-12-06T03:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T04:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997141507648946287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WjV4LM8l5O",
+              "end": 34,
+              "expanded_url": "https://x.com/Dumpling666666/status/1997141507648946287/photo/1",
+              "media_key": "3_1997141491479986176",
+              "start": 11,
+              "url": "https://t.co/WjV4LM8l5O"
+            },
+            {
+              "display_url": "pic.x.com/WjV4LM8l5O",
+              "end": 34,
+              "expanded_url": "https://x.com/Dumpling666666/status/1997141507648946287/photo/1",
+              "media_key": "3_1997141491471527936",
+              "start": 11,
+              "url": "https://t.co/WjV4LM8l5O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997141507648946287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "曾经的直播截图hhh https://t.co/WjV4LM8l5O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 365,
+          "like_count": 17001,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 3388
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T21:08:42.000Z",
+        "description": "我 自言自语(𖦹.𖦹)",
+        "id": "1979293441294213120",
+        "name": "饺子鼠",
+        "pinned_tweet_id": "1987071077143707776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979293613575012352/7wF-pCYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 32,
+          "like_count": 703,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 288
+        },
+        "username": "Dumpling666666",
+        "verified": false
+      }
+    ]
+  }
+}

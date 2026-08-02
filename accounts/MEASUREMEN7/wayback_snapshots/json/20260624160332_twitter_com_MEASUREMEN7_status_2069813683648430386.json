@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2069812605372522652",
+    "created_at": "2026-06-24T16:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069813683648430386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1958823376539262976",
+          "start": 0,
+          "username": "O7Uywn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069813683648430386",
+    "in_reply_to_user_id": "1958823376539262976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069812605372522652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O7Uywn 好好看的眼妆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 233,
+        "media_key": "3_2069812597218742272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlzl0DaEAAmOd1.jpg",
+        "width": 414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2069812605372522652",
+        "created_at": "2026-06-24T16:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069813683648430386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1958823376539262976",
+              "start": 0,
+              "username": "O7Uywn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069813683648430386",
+        "in_reply_to_user_id": "1958823376539262976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069812605372522652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O7Uywn 好好看的眼妆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069812597218742272"
+          ]
+        },
+        "author_id": "1958823376539262976",
+        "conversation_id": "2069812605372522652",
+        "created_at": "2026-06-24T15:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069812605372522652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pftLd8C2Ze",
+              "end": 23,
+              "expanded_url": "https://x.com/O7Uywn/status/2069812605372522652/photo/1",
+              "media_key": "3_2069812597218742272",
+              "start": 0,
+              "url": "https://t.co/pftLd8C2Ze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069812605372522652",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pftLd8C2Ze"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 163,
+          "like_count": 26686,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 5400
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T09:27:52.000Z",
+        "description": "我別無選擇",
+        "id": "1958823376539262976",
+        "name": "柏林",
+        "pinned_tweet_id": "2068062185247719870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027540187262373888/Z2DjNUeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 51,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 507,
+          "tweet_count": 2297
+        },
+        "url": "",
+        "username": "O7Uywn",
+        "verified": false
+      }
+    ]
+  }
+}

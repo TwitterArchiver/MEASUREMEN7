@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1977349376008745294",
+    "created_at": "2025-10-12T12:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T13:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977350776952357350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946642385028718592",
+          "start": 0,
+          "username": "kurabakei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977350776952357350",
+    "in_reply_to_user_id": "1946642385028718592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977349376008745294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurabakei 欸欸，会吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977349364122259456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3D0xS1aEAAXHRM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1977349376008745294",
+        "created_at": "2025-10-12T12:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T13:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977350776952357350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946642385028718592",
+              "start": 0,
+              "username": "kurabakei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977350776952357350",
+        "in_reply_to_user_id": "1946642385028718592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977349376008745294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurabakei 欸欸，会吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977349364122259456"
+          ]
+        },
+        "author_id": "1946642385028718592",
+        "conversation_id": "1977349376008745294",
+        "created_at": "2025-10-12T12:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T13:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977349376008745294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCFt7QTYtC",
+              "end": 30,
+              "expanded_url": "https://x.com/kurabakei/status/1977349376008745294/photo/1",
+              "media_key": "3_1977349364122259456",
+              "start": 7,
+              "url": "https://t.co/MCFt7QTYtC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977349376008745294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沒有人喜歡我 https://t.co/MCFt7QTYtC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 452,
+          "like_count": 13611,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 2442
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T18:44:58.000Z",
+        "description": "病み垢/リスカ/09/地雷女子/メンヘラ🚪88",
+        "id": "1946642385028718592",
+        "location": "地獄",
+        "name": "闇葉(悪魔の転生)",
+        "pinned_tweet_id": "1976750551363981816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969689671828680704/v3fvWkPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 195,
+          "like_count": 395,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 90
+        },
+        "username": "kurabakei",
+        "verified": false
+      }
+    ]
+  }
+}

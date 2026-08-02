@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2038932105145749915",
+    "created_at": "2026-03-31T10:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038932335739961382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874445693424910336",
+          "start": 0,
+          "username": "nosaki640495202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038932335739961382",
+    "in_reply_to_user_id": "1874445693424910336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038932105145749915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nosaki640495202 荣登内圈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2038932100645310464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEu98Vwa0AAOw0j.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2038932105145749915",
+        "created_at": "2026-03-31T10:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038932335739961382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874445693424910336",
+              "start": 0,
+              "username": "nosaki640495202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038932335739961382",
+        "in_reply_to_user_id": "1874445693424910336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038932105145749915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nosaki640495202 荣登内圈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038932100645310464"
+          ]
+        },
+        "author_id": "1874445693424910336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2038932105145749915",
+        "created_at": "2026-03-31T10:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038932105145749915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/UfCGBLFdhV"
+            },
+            {
+              "display_url": "pic.x.com/NvFdKaN3S1",
+              "end": 64,
+              "expanded_url": "https://x.com/nosaki640495202/status/2038932105145749915/photo/1",
+              "media_key": "3_2038932100645310464",
+              "start": 41,
+              "url": "https://t.co/NvFdKaN3S1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038932105145749915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/UfCGBLFdhV https://t.co/NvFdKaN3S1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 282,
+          "like_count": 24688,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 5046
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T13:21:03.000Z",
+        "description": "请叫我裂裂🤍｜158cm｜46kg｜INTP｜坐标广州｜负能量｜情感障碍｜地雷系｜焦虑｜",
+        "id": "1874445693424910336",
+        "name": "刖裂",
+        "pinned_tweet_id": "2027697008753184836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027584058662985728/KOclE0xY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 77,
+          "like_count": 2872,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 146
+        },
+        "username": "nosaki640495202",
+        "verified": false
+      }
+    ]
+  }
+}

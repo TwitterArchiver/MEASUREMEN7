@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1970549695308292318",
+    "created_at": "2025-09-24T01:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T02:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970668615059022030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1928630832165789696",
+          "start": 0,
+          "username": "si_an_1122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970668615059022030",
+    "in_reply_to_user_id": "1928630832165789696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970549695308292318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@si_an_1122 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1970549695308292318",
+        "created_at": "2025-09-24T01:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T02:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970668615059022030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1928630832165789696",
+              "start": 0,
+              "username": "si_an_1122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970668615059022030",
+        "in_reply_to_user_id": "1928630832165789696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970549695308292318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@si_an_1122 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928630832165789696",
+        "conversation_id": "1970549695308292318",
+        "created_at": "2025-09-23T18:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T19:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970549695308292318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970549695308292318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不仅拜金 恶毒 爱慕虚荣 等我有钱了还要把喜欢的人圈起来当狗养……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 407,
+          "like_count": 10304,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1786
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T01:53:27.000Z",
+        "description": "=四安/可以叫我小四/負能量廢話合集/一般路過女高中生/重抑中焦/滴淚女/雙偏直/歡迎互fo/粉紅我們無緣/請多和我玩/純綠🚪25+隨便給沒區別/我的好詭秘是@rainnnnn0423",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "rainnnnn0423"
+              }
+            ]
+          }
+        },
+        "id": "1928630832165789696",
+        "location": "小四的電子貓貓養殖基地",
+        "name": "四安_Yotsu",
+        "pinned_tweet_id": "1937888363287384183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939101864949149696/vdPpzvJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 60,
+          "like_count": 396,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 466
+        },
+        "username": "si_an_1122",
+        "verified": false
+      }
+    ]
+  }
+}

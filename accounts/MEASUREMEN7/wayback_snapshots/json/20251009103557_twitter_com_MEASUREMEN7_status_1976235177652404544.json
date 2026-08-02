@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1976234939319529601",
+    "created_at": "2025-10-09T10:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T11:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976235177652404544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1774858357381140480",
+          "start": 0,
+          "username": "_moremoreKona"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        },
+        {
+          "end": 26,
+          "id": "1720665183188922368",
+          "start": 21,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976235177652404544",
+    "in_reply_to_user_id": "1774858357381140480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976234939319529601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_moremoreKona @grok @grok 回答她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1976234939319529601",
+        "created_at": "2025-10-09T10:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T11:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976235177652404544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1774858357381140480",
+              "start": 0,
+              "username": "_moremoreKona"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            },
+            {
+              "end": 26,
+              "id": "1720665183188922368",
+              "start": 21,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976235177652404544",
+        "in_reply_to_user_id": "1774858357381140480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976234939319529601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_moremoreKona @grok @grok 回答她"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774858357381140480",
+        "conversation_id": "1976234939319529601",
+        "created_at": "2025-10-09T10:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T11:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976234939319529601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 53,
+              "id": "1720665183188922368",
+              "start": 48,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976234939319529601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在和我推特互相关注的人中考虑家庭构成，请参考与我互动的排名 ，直接用昵称的形式告诉我，不要用@\n@grok \n\n父亲：  \n母亲：  \n哥哥：  \n弟弟：  \n姐姐：  \n妹妹：  \n死党：  \n朋友：  \n宠物：  \n恋人：  \n死党：  \n老师：  \n前辈：  \n后辈：  \n一生一世的对手："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 441,
+          "like_count": 13048,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 2291
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T17:56:29.000Z",
+        "description": "100%承認欲求雌竞女｜🚪52/288/588/1388/5200｜过门🟰同意你喜欢我｜接收私信→@skk_minii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "skk_minii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sankaku_nyan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sankaku_nyan",
+                "start": 0,
+                "url": "https://t.co/enZvQnVLlh"
+              }
+            ]
+          }
+        },
+        "id": "1774858357381140480",
+        "location": "我的命運線",
+        "name": "三角可麗餅8964",
+        "pinned_tweet_id": "1897707695458992502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837454130128080896/t46mHRZZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9485,
+          "following_count": 182,
+          "like_count": 2142,
+          "listed_count": 17,
+          "media_count": 214,
+          "tweet_count": 1149
+        },
+        "url": "https://t.co/enZvQnVLlh",
+        "username": "_moremoreKona",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6415552,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5052,
+          "media_count": 2689617,
+          "tweet_count": 55125819
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

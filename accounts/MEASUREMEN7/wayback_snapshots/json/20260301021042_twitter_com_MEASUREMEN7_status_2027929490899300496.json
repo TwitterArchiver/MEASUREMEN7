@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2027727362171769187",
+    "created_at": "2026-03-01T02:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T03:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027929490899300496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "927568777",
+          "start": 0,
+          "username": "nana2026217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027929490899300496",
+    "in_reply_to_user_id": "927568777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027727362171769187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nana2026217 我要"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16737,
+        "height": 1920,
+        "media_key": "13_2027727142142857216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027727142142857216/img/h5BzCAJRz7-zUkX8.jpg",
+        "public_metrics": {
+          "view_count": 1764
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027727142142857216/vid/avc1/320x568/3YQFwx9VkLY0NI0-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027727142142857216/vid/avc1/480x852/VciyR_fshUDGHWAP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027727142142857216/vid/avc1/720x1280/YOiP5nENw9kLLEuw.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027727142142857216/pl/c_yK-LTpb6HNCqBo.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2027727362171769187",
+        "created_at": "2026-03-01T02:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027929490899300496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "927568777",
+              "start": 0,
+              "username": "nana2026217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027929490899300496",
+        "in_reply_to_user_id": "927568777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027727362171769187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nana2026217 我要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027727142142857216"
+          ]
+        },
+        "author_id": "927568777",
+        "conversation_id": "2027727362171769187",
+        "created_at": "2026-02-28T12:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027727362171769187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5eMXNdr2Yl",
+              "end": 39,
+              "expanded_url": "https://x.com/nana2026217/status/2027727362171769187/video/1",
+              "media_key": "13_2027727142142857216",
+              "start": 16,
+              "url": "https://t.co/5eMXNdr2Yl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027727362171769187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 5760,
+          "like_count": 264,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人想当我的第一个足交对象 https://t.co/5eMXNdr2Yl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 434,
+          "like_count": 22758,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4736
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-05T12:52:53.000Z",
+        "description": "hello啊 这里是娜娜酱 反差女高 🚪52 \n🚪后有惊喜 可接定制 原味啥的",
+        "id": "927568777",
+        "name": "娜娜酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027012204130951168/CeJKlbc2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 36,
+          "like_count": 11,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 4
+        },
+        "username": "nana2026217",
+        "verified": false
+      }
+    ]
+  }
+}

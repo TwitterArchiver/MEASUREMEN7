@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1944003059149156819",
+    "created_at": "2025-07-12T11:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T12:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944003259905323078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1873626175706484736",
+          "start": 0,
+          "username": "Dark_d_b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944003259905323078",
+    "in_reply_to_user_id": "1873626175706484736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944003059149156819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dark_d_b かわいそう"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1944003059149156819",
+        "created_at": "2025-07-12T11:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T12:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944003259905323078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1873626175706484736",
+              "start": 0,
+              "username": "Dark_d_b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944003259905323078",
+        "in_reply_to_user_id": "1873626175706484736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944003059149156819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dark_d_b かわいそう"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873626175706484736",
+        "conversation_id": "1944003059149156819",
+        "created_at": "2025-07-12T11:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T12:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944003059149156819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944003059149156819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "借金したのお前なのになんで\n借金会社のせいにしてんの？笑笑\n250万払わないといけないから\n金貸して？なんで？？？やだよ？\n僕あなたに育てられた覚えないもん\n殴られビンタされ蹴られ暴言はかれた\n思い出しかないもん\nぼくの親は養父だけなので笑笑\n自業自得ですね乙です笑笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 230,
+          "like_count": 3089,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 628
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T07:04:46.000Z",
+        "description": "\\自傷・病み・下ネタ垢/\\未成年/\\LGBTQ+/👧",
+        "id": "1873626175706484736",
+        "name": "くだです。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888724619475234816/nw9FO63C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 198,
+          "like_count": 1341,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 364
+        },
+        "username": "Dark_d_b",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1956676152669708695",
+    "created_at": "2025-08-16T11:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T12:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956678957224386747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1756998476985233408",
+          "start": 0,
+          "username": "Kana0930115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956678957224386747",
+    "in_reply_to_user_id": "1756998476985233408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956676152669708695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kana0930115 第一眼以为主播进去了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1956676135586336768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyeClBIbkAAVprQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1956676152669708695",
+        "created_at": "2025-08-16T11:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T12:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956678957224386747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1756998476985233408",
+              "start": 0,
+              "username": "Kana0930115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956678957224386747",
+        "in_reply_to_user_id": "1756998476985233408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956676152669708695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kana0930115 第一眼以为主播进去了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956676135586336768"
+          ]
+        },
+        "author_id": "1756998476985233408",
+        "conversation_id": "1956676152669708695",
+        "created_at": "2025-08-16T11:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T12:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956676152669708695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a7uLqoxJVO",
+              "end": 29,
+              "expanded_url": "https://x.com/Kana0930115/status/1956676152669708695/photo/1",
+              "media_key": "3_1956676135586336768",
+              "start": 6,
+              "url": "https://t.co/a7uLqoxJVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956676152669708695",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉！... https://t.co/a7uLqoxJVO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 384,
+          "like_count": 8207,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1466
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T11:07:41.000Z",
+        "description": "不打钱发私信不回 不接线下 没有图包",
+        "id": "1756998476985233408",
+        "location": "🚪188",
+        "name": "加奈絵",
+        "pinned_tweet_id": "1942199616700813517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938850182747262976/GMwt8AF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5840,
+          "following_count": 345,
+          "like_count": 4226,
+          "listed_count": 11,
+          "media_count": 305,
+          "tweet_count": 870
+        },
+        "username": "Kana0930115",
+        "verified": false
+      }
+    ]
+  }
+}

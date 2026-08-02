@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2058917922954006815",
+    "created_at": "2026-05-27T13:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059625409386541526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1942213637902348289",
+          "start": 0,
+          "username": "luobodoul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059625409386541526",
+    "in_reply_to_user_id": "1942213637902348289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058917922954006815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobodoul 萝卜复活了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1386,
+        "media_key": "3_2058917894348812288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJK-6pJbMAArxeh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2058917922954006815",
+        "created_at": "2026-05-27T13:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059625409386541526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1942213637902348289",
+              "start": 0,
+              "username": "luobodoul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059625409386541526",
+        "in_reply_to_user_id": "1942213637902348289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058917922954006815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobodoul 萝卜复活了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058917894348812288"
+          ]
+        },
+        "author_id": "1942213637902348289",
+        "conversation_id": "2058917922954006815",
+        "created_at": "2026-05-25T14:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058917922954006815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TP8ID7qthe",
+              "end": 39,
+              "expanded_url": "https://x.com/luobodoul/status/2058917922954006815/photo/1",
+              "media_key": "3_2058917894348812288",
+              "start": 16,
+              "url": "https://t.co/TP8ID7qthe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058917922954006815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "然后这个红头发的萌萌的就是我呀 https://t.co/TP8ID7qthe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 285,
+          "like_count": 25421,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 5237
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:26:36.000Z",
+        "description": "里垢｜偶尔发发照片和日常｜梦想是人类一起毁灭｜前世@luobo4444｜🚪128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "luobo4444"
+              }
+            ]
+          }
+        },
+        "id": "1942213637902348289",
+        "location": "0.2km",
+        "name": "萝卜🥕hara",
+        "pinned_tweet_id": "2056669411239698602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989301958667296768/0IsFMdJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 86,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 314
+        },
+        "username": "luobodoul",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2018654291029119075",
+    "created_at": "2026-02-04T05:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T06:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018915906269635028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1964658951217446912",
+          "start": 0,
+          "username": "akrkrkrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018915906269635028",
+    "in_reply_to_user_id": "1964658951217446912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018654291029119075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akrkrkrc 超可爱的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2018654287874895872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOzYSkaMAAskwr.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2018654291029119075",
+        "created_at": "2026-02-04T05:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T06:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018915906269635028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1964658951217446912",
+              "start": 0,
+              "username": "akrkrkrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018915906269635028",
+        "in_reply_to_user_id": "1964658951217446912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018654291029119075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akrkrkrc 超可爱的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018654287874895872"
+          ]
+        },
+        "author_id": "1964658951217446912",
+        "conversation_id": "2018654291029119075",
+        "created_at": "2026-02-03T11:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018654291029119075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/chxjB2hZ1P",
+              "end": 29,
+              "expanded_url": "https://x.com/akrkrkrc/status/2018654291029119075/photo/1",
+              "media_key": "3_2018654287874895872",
+              "start": 6,
+              "url": "https://t.co/chxjB2hZ1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018654291029119075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上忘記發 https://t.co/chxjB2hZ1P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 391,
+          "like_count": 18681,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3923
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T11:56:26.000Z",
+        "description": "#shtwt #edtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              },
+              {
+                "end": 13,
+                "start": 7,
+                "tag": "edtwt"
+              }
+            ]
+          }
+        },
+        "id": "1964658951217446912",
+        "location": "魔界",
+        "name": "Ария",
+        "pinned_tweet_id": "2009949751803072854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011098726430040064/AGcDNTS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 17,
+          "like_count": 1106,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 94
+        },
+        "username": "akrkrkrc",
+        "verified": false
+      }
+    ]
+  }
+}

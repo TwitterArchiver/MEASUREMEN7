@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2027572730263212494",
+    "created_at": "2026-02-28T04:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T05:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027596056918430136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1801277209044451328",
+          "start": 0,
+          "username": "chuhecher1201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027596056918430136",
+    "in_reply_to_user_id": "1801277209044451328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027572730263212494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuhecher1201 吸吸我的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027572723481001984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCNipkNbQAAm6WS.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2027572723472601090",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCNipkLbEAIizmN.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2027572730263212494",
+        "created_at": "2026-02-28T04:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T05:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027596056918430136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1801277209044451328",
+              "start": 0,
+              "username": "chuhecher1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027596056918430136",
+        "in_reply_to_user_id": "1801277209044451328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027572730263212494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuhecher1201 吸吸我的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027572723481001984",
+            "3_2027572723472601090"
+          ]
+        },
+        "author_id": "1801277209044451328",
+        "conversation_id": "2027572730263212494",
+        "created_at": "2026-02-28T02:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T03:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027572730263212494"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L51MBWZVVq",
+              "end": 35,
+              "expanded_url": "https://x.com/chuhecher1201/status/2027572730263212494/photo/1",
+              "media_key": "3_2027572723481001984",
+              "start": 12,
+              "url": "https://t.co/L51MBWZVVq"
+            },
+            {
+              "display_url": "pic.x.com/L51MBWZVVq",
+              "end": 35,
+              "expanded_url": "https://x.com/chuhecher1201/status/2027572730263212494/photo/1",
+              "media_key": "3_2027572723472601090",
+              "start": 12,
+              "url": "https://t.co/L51MBWZVVq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027572730263212494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 吸血鬼吧 https://t.co/L51MBWZVVq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 432,
+          "like_count": 22509,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4697
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T15:35:36.000Z",
+        "description": "个人原因无法抑制厌世厌人，请谅解  地雷女精神病过激女别招惹我 看我好戏的都死了 但是其实我还是想好好的爱人",
+        "id": "1801277209044451328",
+        "name": "小糖",
+        "pinned_tweet_id": "1920721573629116733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001702010522079235/k6fK__D8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 31,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 164
+        },
+        "username": "chuhecher1201",
+        "verified": false
+      }
+    ]
+  }
+}

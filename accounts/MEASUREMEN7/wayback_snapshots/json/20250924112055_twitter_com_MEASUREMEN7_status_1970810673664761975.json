@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970810650734604288"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1970810673664761975",
+    "created_at": "2025-09-24T11:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T12:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970810673664761975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "lovetype16.com/result/FCPE",
+          "end": 49,
+          "expanded_url": "http://lovetype16.com/result/FCPE",
+          "start": 26,
+          "status": 200,
+          "title": "Love Type 16 Quiz",
+          "unwound_url": "http://lovetype16.com/result/FCPE",
+          "url": "https://t.co/xUFNit5chp"
+        },
+        {
+          "display_url": "pic.x.com/F3SxpAxiSp",
+          "end": 73,
+          "expanded_url": "https://x.com/MEASUREMEN7/status/1970810673664761975/photo/1",
+          "media_key": "3_1970810650734604288",
+          "start": 50,
+          "url": "https://t.co/F3SxpAxiSp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970810673664761975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的恋爱类型是 FCPE！快来测试你的恋爱风格吧！ https://t.co/xUFNit5chp https://t.co/F3SxpAxiSp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1970810650734604288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1m52FSXsAAtARk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970810650734604288"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1970810673664761975",
+        "created_at": "2025-09-24T11:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T12:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970810673664761975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "lovetype16.com/result/FCPE",
+              "end": 49,
+              "expanded_url": "http://lovetype16.com/result/FCPE",
+              "start": 26,
+              "status": 200,
+              "title": "Love Type 16 Quiz",
+              "unwound_url": "http://lovetype16.com/result/FCPE",
+              "url": "https://t.co/xUFNit5chp"
+            },
+            {
+              "display_url": "pic.x.com/F3SxpAxiSp",
+              "end": 73,
+              "expanded_url": "https://x.com/MEASUREMEN7/status/1970810673664761975/photo/1",
+              "media_key": "3_1970810650734604288",
+              "start": 50,
+              "url": "https://t.co/F3SxpAxiSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970810673664761975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的恋爱类型是 FCPE！快来测试你的恋爱风格吧！ https://t.co/xUFNit5chp https://t.co/F3SxpAxiSp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 409,
+          "like_count": 10437,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 1807
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      }
+    ]
+  }
+}

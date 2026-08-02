@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1972817978380144655",
+    "created_at": "2025-09-30T04:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T05:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972881910889402605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1572252869923057664",
+          "start": 0,
+          "username": "h1kari_t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972881910889402605",
+    "in_reply_to_user_id": "1572252869923057664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972817978380144655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h1kari_t 看得出来小光真的很喜欢这个胡子特效"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972817969635094528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Dbfa6bcAAUF89.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1972817978380144655",
+        "created_at": "2025-09-30T04:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T05:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972881910889402605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1572252869923057664",
+              "start": 0,
+              "username": "h1kari_t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972881910889402605",
+        "in_reply_to_user_id": "1572252869923057664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972817978380144655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h1kari_t 看得出来小光真的很喜欢这个胡子特效"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972817969635094528"
+          ]
+        },
+        "author_id": "1572252869923057664",
+        "conversation_id": "1972817978380144655",
+        "created_at": "2025-09-30T00:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T01:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972817978380144655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OkCQ01gWBl",
+              "end": 33,
+              "expanded_url": "https://x.com/h1kari_t/status/1972817978380144655/photo/1",
+              "media_key": "3_1972817969635094528",
+              "start": 10,
+              "url": "https://t.co/OkCQ01gWBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972817978380144655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不可能被自己萌到。 https://t.co/OkCQ01gWBl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 424,
+          "like_count": 11307,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 1930
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T15:54:40.000Z",
+        "description": "光ひかり，也有可能消失了",
+        "id": "1572252869923057664",
+        "location": "天国",
+        "name": "别让悲伤延续下去",
+        "pinned_tweet_id": "1972357910350246360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972357616954417153/1JIBBvlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 115,
+          "like_count": 9293,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 1345
+        },
+        "username": "h1kari_t",
+        "verified": false
+      }
+    ]
+  }
+}

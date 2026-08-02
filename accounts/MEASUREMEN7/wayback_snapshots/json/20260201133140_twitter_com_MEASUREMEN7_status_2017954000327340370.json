@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2017909582010712272",
+    "created_at": "2026-02-01T13:31:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T14:31:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017954000327340370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1490159486006222852",
+          "start": 0,
+          "username": "iii_ixizey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017954000327340370",
+    "in_reply_to_user_id": "1490159486006222852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017909582010712272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iii_ixizey 没有微信的不能看吗😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2017909582010712272",
+        "created_at": "2026-02-01T13:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T14:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017954000327340370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1490159486006222852",
+              "start": 0,
+              "username": "iii_ixizey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017954000327340370",
+        "in_reply_to_user_id": "1490159486006222852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017909582010712272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iii_ixizey 没有微信的不能看吗😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490159486006222852",
+        "conversation_id": "2017909582010712272",
+        "created_at": "2026-02-01T10:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T11:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017909582010712272"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017909582010712272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚扎了一个特别可爱的双马尾有木有人想看^^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 389,
+          "like_count": 18380,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 3837
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T03:05:02.000Z",
+        "description": "眠/双相/06/pan/intp/纯话痨/互联网小猫/低社会化",
+        "id": "1490159486006222852",
+        "location": "heeeeeeell",
+        "name": "无眠",
+        "pinned_tweet_id": "1741466272272175515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957212660078084096/5q7ENt7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 266,
+          "like_count": 6304,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2770
+        },
+        "username": "iii_ixizey",
+        "verified": false
+      }
+    ]
+  }
+}

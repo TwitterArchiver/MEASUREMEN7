@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1977332556166291632",
+    "created_at": "2025-10-12T11:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T12:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977333169780351460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1731670068189114368",
+          "start": 0,
+          "username": "Lead_Uore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977333169780351460",
+    "in_reply_to_user_id": "1731670068189114368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977332556166291632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lead_Uore 蛮可爱的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1977332556166291632",
+        "created_at": "2025-10-12T11:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T12:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977333169780351460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1731670068189114368",
+              "start": 0,
+              "username": "Lead_Uore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977333169780351460",
+        "in_reply_to_user_id": "1731670068189114368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977332556166291632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lead_Uore 蛮可爱的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731670068189114368",
+        "conversation_id": "1977332556166291632",
+        "created_at": "2025-10-12T11:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T12:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977332556166291632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lead_uore/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/lead_uore/status/1977332472678687193",
+              "start": 18,
+              "url": "https://t.co/q88wLEmSTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977332556166291632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977332472678687193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我整個人像是被拉長了\n拉長加上拉寬 https://t.co/q88wLEmSTw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 452,
+          "like_count": 13578,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 2438
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T13:42:14.000Z",
+        "description": "喜歡聰明的人。EN/JP/CN｜尖酸刻薄｜不鍵政｜DM無視｜ENTP-T｜ボカロ｜精神疾患｜負能量爆表｜阿斯伯格｜低素質｜重度憂鬱｜重度焦慮｜輕躁狂｜精分｜討口子｜玻璃心｜低齡兒｜自殘｜賣慘｜ADHD｜生性不討喜｜低智商｜低知識儲備量｜",
+        "id": "1731670068189114368",
+        "location": "東京 新宿区",
+        "name": "理德",
+        "pinned_tweet_id": "1967636798655565988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974565134594080768/rWfWvmUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 574,
+          "like_count": 62877,
+          "listed_count": 2,
+          "media_count": 601,
+          "tweet_count": 6691
+        },
+        "username": "Lead_Uore",
+        "verified": false
+      }
+    ]
+  }
+}

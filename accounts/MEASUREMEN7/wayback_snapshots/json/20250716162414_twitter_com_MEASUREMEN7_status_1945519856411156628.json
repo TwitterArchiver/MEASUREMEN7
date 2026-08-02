@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1945518327037669764",
+    "created_at": "2025-07-16T16:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T17:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945519856411156628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1908697686917996547",
+          "start": 0,
+          "username": "wwwouo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945519856411156628",
+    "in_reply_to_user_id": "1908697686917996547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945518327037669764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwwouo_ 挺好的，被人需要的感觉很棒啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1945518327037669764",
+        "created_at": "2025-07-16T16:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T17:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945519856411156628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1908697686917996547",
+              "start": 0,
+              "username": "wwwouo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945519856411156628",
+        "in_reply_to_user_id": "1908697686917996547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945518327037669764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwouo_ 挺好的，被人需要的感觉很棒啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908697686917996547",
+        "conversation_id": "1945518327037669764",
+        "created_at": "2025-07-16T16:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T17:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945518327037669764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945518327037669764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "知道吗你们一定不要想着想和我认识一下想和我玩如果我们真的玩的好了你将会收获一个控制狂我就会一直看着你不让你和别人玩只许和我玩，不理我我就哭我就自残威胁然后我就被讨厌这种事情我已经重复经历太多次了，我当然知道是我自己的问题，但是淡淡的我感知不到幸福，就当我是嗑药把脑子磕坏了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 297,
+          "like_count": 3935,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 773
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T01:46:20.000Z",
+        "description": "爱说废话的女孩，社畜，想发什么发什么，照片全都是高p，不要骂我，欢迎和我交朋友",
+        "id": "1908697686917996547",
+        "name": "我只是个傻逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908697909039947778/stCdqnGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 162,
+          "like_count": 1517,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1896
+        },
+        "username": "wwwouo_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2026974283054919975",
+    "created_at": "2026-02-26T11:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T12:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026988561653026938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874445693424910336",
+          "start": 0,
+          "username": "nosaki640495202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026988561653026938",
+    "in_reply_to_user_id": "1874445693424910336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026988422141767825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nosaki640495202 和我家狗狗有点像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2026974283054919975",
+        "created_at": "2026-02-26T11:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026988561653026938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874445693424910336",
+              "start": 0,
+              "username": "nosaki640495202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026988561653026938",
+        "in_reply_to_user_id": "1874445693424910336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026988422141767825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nosaki640495202 和我家狗狗有点像"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874445693424910336",
+        "conversation_id": "2026974283054919975",
+        "created_at": "2026-02-26T11:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026988422141767825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026988422141767825",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026983020792832058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 很多人都说我是狗狗眼来着🤨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 428,
+          "like_count": 22177,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4641
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T13:21:03.000Z",
+        "description": "请叫我小裂裂🤍158cm｜46kg｜INTP｜坐标广州｜负能量｜情感障碍｜地雷系｜焦虑｜",
+        "id": "1874445693424910336",
+        "name": "刖烈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021678039382601729/aCSnwIlF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 36,
+          "like_count": 1039,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 68
+        },
+        "username": "nosaki640495202",
+        "verified": false
+      }
+    ]
+  }
+}

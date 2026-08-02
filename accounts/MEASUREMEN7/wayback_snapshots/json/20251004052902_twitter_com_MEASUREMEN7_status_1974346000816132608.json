@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1974344463012245587",
+    "created_at": "2025-10-04T05:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T06:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974346000816132608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1839576662343819264",
+          "start": 0,
+          "username": "Wwke1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974346000816132608",
+    "in_reply_to_user_id": "1839576662343819264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974344463012245587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wwke1111 好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2452,
+        "height": 960,
+        "media_key": "13_1974344404069724161",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1974344404069724161/img/ciqPEibCoHSHFWcH.jpg",
+        "public_metrics": {
+          "view_count": 80
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974344404069724161/vid/avc1/320x564/3Q-2zd-anIBTG4en.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974344404069724161/vid/avc1/480x846/qkAMh5uQCOdfVJac.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974344404069724161/vid/avc1/544x960/NHWlhIG37aQdMZxc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1974344404069724161/pl/-WtuH6dow1nIn76Y.m3u8"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 3408,
+        "height": 1280,
+        "media_key": "13_1974344404052946945",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1974344404052946945/img/U8C0xXZGFRxY5Dhe.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974344404052946945/vid/avc1/320x568/zZIb77ZlW6926iYS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974344404052946945/vid/avc1/480x852/o3mqml31onWtAbkq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974344404052946945/vid/avc1/720x1280/oSyr7LMAx11wNS3m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1974344404052946945/pl/qT_JvrZz-45Qh8WN.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1974344404078112771",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ZHxmVbMAMLibF.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1974344404065484800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ZHxmSagAAnhEo.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1974344463012245587",
+        "created_at": "2025-10-04T05:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T06:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974346000816132608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1839576662343819264",
+              "start": 0,
+              "username": "Wwke1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974346000816132608",
+        "in_reply_to_user_id": "1839576662343819264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974344463012245587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wwke1111 好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974344404069724161",
+            "13_1974344404052946945",
+            "3_1974344404078112771",
+            "3_1974344404065484800"
+          ]
+        },
+        "author_id": "1839576662343819264",
+        "conversation_id": "1974344463012245587",
+        "created_at": "2025-10-04T05:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T06:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974344463012245587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9XLYTHs0nW",
+              "end": 31,
+              "expanded_url": "https://x.com/Wwke1111/status/1974344463012245587/video/1",
+              "media_key": "13_1974344404069724161",
+              "start": 8,
+              "url": "https://t.co/9XLYTHs0nW"
+            },
+            {
+              "display_url": "pic.x.com/9XLYTHs0nW",
+              "end": 31,
+              "expanded_url": "https://x.com/Wwke1111/status/1974344463012245587/video/1",
+              "media_key": "13_1974344404052946945",
+              "start": 8,
+              "url": "https://t.co/9XLYTHs0nW"
+            },
+            {
+              "display_url": "pic.x.com/9XLYTHs0nW",
+              "end": 31,
+              "expanded_url": "https://x.com/Wwke1111/status/1974344463012245587/video/1",
+              "media_key": "3_1974344404078112771",
+              "start": 8,
+              "url": "https://t.co/9XLYTHs0nW"
+            },
+            {
+              "display_url": "pic.x.com/9XLYTHs0nW",
+              "end": 31,
+              "expanded_url": "https://x.com/Wwke1111/status/1974344463012245587/video/1",
+              "media_key": "3_1974344404065484800",
+              "start": 8,
+              "url": "https://t.co/9XLYTHs0nW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974344463012245587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的36码小脚 https://t.co/9XLYTHs0nW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 437,
+          "like_count": 11878,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 2027
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T08:04:00.000Z",
+        "description": "",
+        "id": "1839576662343819264",
+        "name": "。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943558321148981249/SZAabtuH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 406,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 7
+        },
+        "username": "Wwke1111",
+        "verified": false
+      }
+    ]
+  }
+}

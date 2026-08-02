@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1971786382223069663",
+    "created_at": "2025-09-27T04:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T05:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971790782496698471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845844455095762944",
+          "start": 0,
+          "username": "Ankyo127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971790782496698471",
+    "in_reply_to_user_id": "1845844455095762944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971786382223069663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ankyo127 父亲这边真的buff叠满了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1971786382223069663",
+        "created_at": "2025-09-27T04:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T05:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971790782496698471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845844455095762944",
+              "start": 0,
+              "username": "Ankyo127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971790782496698471",
+        "in_reply_to_user_id": "1845844455095762944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971786382223069663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ankyo127 父亲这边真的buff叠满了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845844455095762944",
+        "conversation_id": "1971786382223069663",
+        "created_at": "2025-09-27T03:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T04:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971786382223069663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971786382223069663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "越想越抽象\n我父亲：中医，心理咨询师，心率过缓，深红共产党，反毒，开后宫搞重婚\n我：半反中医，后天精神病，心率过速，反共不反中，毒虫，一夫一妻制坚守者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 409,
+          "like_count": 10764,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1860
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T15:10:13.000Z",
+        "description": "桉秋/アンキオ/Ankyo/AQ(简称)丨非典型ENTP丨已确诊:BPD+精分+重抑+中焦丨黄毒血自避丨坚定的性少数群体支持者🏳️‍🌈丨国破山河在 城春草木深",
+        "id": "1845844455095762944",
+        "name": "Ankyo𖤐.🩷",
+        "pinned_tweet_id": "1919415446970998867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845846041545019392/2n5ZnMZ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 63,
+          "like_count": 190,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 287
+        },
+        "username": "Ankyo127",
+        "verified": false
+      }
+    ]
+  }
+}

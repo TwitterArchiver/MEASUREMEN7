@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1978127448354005335",
+    "created_at": "2025-10-14T15:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T16:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978128661720027464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1495386210977517568",
+          "start": 0,
+          "username": "CapelaLoveLove"
+        },
+        {
+          "end": 24,
+          "id": "1858818548208144384",
+          "start": 16,
+          "username": "ccruaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978128661720027464",
+    "in_reply_to_user_id": "1495386210977517568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978127448354005335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CapelaLoveLove @ccruaaa 看看扔子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978127444797227009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3O4bjOXAAEa2Ew.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1978127448354005335",
+        "created_at": "2025-10-14T15:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T16:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978128661720027464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1495386210977517568",
+              "start": 0,
+              "username": "CapelaLoveLove"
+            },
+            {
+              "end": 24,
+              "id": "1858818548208144384",
+              "start": 16,
+              "username": "ccruaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978128661720027464",
+        "in_reply_to_user_id": "1495386210977517568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978127448354005335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CapelaLoveLove @ccruaaa 看看扔子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978127444797227009"
+          ]
+        },
+        "author_id": "1495386210977517568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1978127448354005335",
+        "created_at": "2025-10-14T15:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T16:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978127448354005335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1858818548208144384",
+              "start": 9,
+              "username": "ccruaaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nnN3FMz2Px",
+              "end": 55,
+              "expanded_url": "https://x.com/CapelaLoveLove/status/1978127448354005335/photo/1",
+              "media_key": "3_1978127444797227009",
+              "start": 32,
+              "url": "https://t.co/nnN3FMz2Px"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978127448354005335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家可以都来找这个@ccruaaa玩，虽然扔子很小但是天使女孩 https://t.co/nnN3FMz2Px"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 450,
+          "like_count": 14008,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 2527
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T13:14:08.000Z",
+        "description": "爱我",
+        "id": "1495386210977517568",
+        "location": "露格尼卡王国",
+        "name": "色欲大罪司教: 卡佩拉.艾梅拉妲.露格尼卡✝",
+        "pinned_tweet_id": "1951895889322357112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953798828446093312/JpEjmatP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 466,
+          "like_count": 17327,
+          "listed_count": 1,
+          "media_count": 1478,
+          "tweet_count": 6852
+        },
+        "username": "CapelaLoveLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T10:24:42.000Z",
+        "description": "你也要开心呀",
+        "id": "1858818548208144384",
+        "name": "rua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858818760326737924/JBcFwc9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 52,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 24
+        },
+        "username": "ccruaaa",
+        "verified": false
+      }
+    ]
+  }
+}

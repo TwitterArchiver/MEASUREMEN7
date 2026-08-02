@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1947042900220826010",
+    "created_at": "2025-07-21T03:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T04:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947132009245032616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1405339257435086855",
+          "start": 0,
+          "username": "cbsttst"
+        },
+        {
+          "end": 21,
+          "id": "1654908701772496896",
+          "start": 9,
+          "username": "Arpeggio514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947132009245032616",
+    "in_reply_to_user_id": "1405339257435086855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947127117751480652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cbsttst @Arpeggio514 那真的很棒哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1947042900220826010",
+        "created_at": "2025-07-21T03:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T04:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947132009245032616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1405339257435086855",
+              "start": 0,
+              "username": "cbsttst"
+            },
+            {
+              "end": 21,
+              "id": "1654908701772496896",
+              "start": 9,
+              "username": "Arpeggio514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947132009245032616",
+        "in_reply_to_user_id": "1405339257435086855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947127117751480652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cbsttst @Arpeggio514 那真的很棒哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1405339257435086855",
+        "conversation_id": "1947042900220826010",
+        "created_at": "2025-07-21T02:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T03:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947127117751480652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1654908701772496896",
+              "start": 0,
+              "username": "Arpeggio514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947127117751480652",
+        "in_reply_to_user_id": "1654908701772496896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947042900220826010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arpeggio514 甜甜不是地雷女（摇头）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 345,
+          "like_count": 5204,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 993
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-17T01:39:37.000Z",
+        "description": "您喜欢什么，我就是什么。\n美羽@miu_amamiya\n雀魂rank @Jantama_rank",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "miu_amamiya"
+              },
+              {
+                "end": 48,
+                "start": 35,
+                "username": "Jantama_rank"
+              }
+            ]
+          }
+        },
+        "id": "1405339257435086855",
+        "name": "甜甜cbstt",
+        "pinned_tweet_id": "1720853847818866984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1425634087927119873/g0q_pmbd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 27,
+          "like_count": 1331,
+          "listed_count": 4,
+          "media_count": 617,
+          "tweet_count": 5871
+        },
+        "username": "cbsttst",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T17:59:27.000Z",
+        "description": "如你所见 这里什么都没有",
+        "id": "1654908701772496896",
+        "location": "No.200 People Avenue, Shanghai",
+        "name": "Arpeggio",
+        "pinned_tweet_id": "1947042900220826010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926356005346070528/GzeRZ3sC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4610,
+          "following_count": 1099,
+          "like_count": 20176,
+          "listed_count": 8,
+          "media_count": 243,
+          "tweet_count": 3486
+        },
+        "username": "Arpeggio514",
+        "verified": false
+      }
+    ]
+  }
+}

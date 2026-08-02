@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1955579798618788141",
+    "created_at": "2025-08-13T13:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T14:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955624376054989303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1495386210977517568",
+          "start": 0,
+          "username": "CapelaLoveLove"
+        },
+        {
+          "end": 24,
+          "id": "1433678976564662273",
+          "start": 16,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955624376054989303",
+    "in_reply_to_user_id": "1495386210977517568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955596708819476806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CapelaLoveLove @hsn8086 左眼站岗右眼放哨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 939,
+        "media_key": "3_1955596705321439232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyOs16Cb0AAimzq.jpg",
+        "width": 747
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1955579798618788141",
+        "created_at": "2025-08-13T13:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T14:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955624376054989303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1495386210977517568",
+              "start": 0,
+              "username": "CapelaLoveLove"
+            },
+            {
+              "end": 24,
+              "id": "1433678976564662273",
+              "start": 16,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955624376054989303",
+        "in_reply_to_user_id": "1495386210977517568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955596708819476806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CapelaLoveLove @hsn8086 左眼站岗右眼放哨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955596705321439232"
+          ]
+        },
+        "author_id": "1495386210977517568",
+        "conversation_id": "1955579798618788141",
+        "created_at": "2025-08-13T11:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955596708819476806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hceUOL0syI",
+              "end": 63,
+              "expanded_url": "https://x.com/CapelaLoveLove/status/1955596708819476806/photo/1",
+              "media_key": "3_1955596705321439232",
+              "start": 40,
+              "url": "https://t.co/hceUOL0syI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955596708819476806",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955579798618788141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 来来来咱们看看这长得比本小姐创造的亚兽都猎奇的东西到底是什么 https://t.co/hceUOL0syI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 380,
+          "like_count": 7654,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1338
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T13:14:08.000Z",
+        "description": "Name：卡佩拉/信仰：基督新教/性格：温良仅限对人/Like：阿尔迪巴兰，蹂躏与虐杀，爱，好吃的东西，格斗游戏/Hate：阿尔迪巴兰，傻逼，失败/\n『本小姐对你们的感情不是书的指示，是真心的，是纯爱』\n/爱上本小姐所以fo了的话，除了奇怪的号本小姐基本都会回fo，因为本小姐全心全意的爱着大家噢😈💀（没回私我!）",
+        "id": "1495386210977517568",
+        "location": "露格尼卡王国",
+        "name": "色欲大罪司教: 卡佩拉.艾梅拉妲.露格尼卡✝",
+        "pinned_tweet_id": "1951895889322357112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953798828446093312/JpEjmatP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 456,
+          "like_count": 16108,
+          "listed_count": 1,
+          "media_count": 1348,
+          "tweet_count": 6500
+        },
+        "username": "CapelaLoveLove",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90258,
+          "following_count": 986,
+          "like_count": 43875,
+          "listed_count": 206,
+          "media_count": 14671,
+          "tweet_count": 21901
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

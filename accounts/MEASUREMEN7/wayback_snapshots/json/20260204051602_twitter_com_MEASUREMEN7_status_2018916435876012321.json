@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2018733600947232938",
+    "created_at": "2026-02-04T05:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T06:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018916435876012321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1984629468410101764",
+          "start": 0,
+          "username": "twntyfour7svn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018916435876012321",
+    "in_reply_to_user_id": "1984629468410101764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018733600947232938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twntyfour7svn 意思是其他人那边的感情都炸了，只能灰溜溜的回来找你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1733,
+        "media_key": "3_2018733584367157248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAP7f9BbAAAaT9E.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2018733600947232938",
+        "created_at": "2026-02-04T05:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T06:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018916435876012321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984629468410101764",
+              "start": 0,
+              "username": "twntyfour7svn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018916435876012321",
+        "in_reply_to_user_id": "1984629468410101764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018733600947232938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twntyfour7svn 意思是其他人那边的感情都炸了，只能灰溜溜的回来找你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018733584367157248"
+          ]
+        },
+        "author_id": "1984629468410101764",
+        "conversation_id": "2018733600947232938",
+        "created_at": "2026-02-03T17:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T18:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018733600947232938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GLYpNDkyj8",
+              "end": 48,
+              "expanded_url": "https://x.com/twntyfour7svn/status/2018733600947232938/photo/1",
+              "media_key": "3_2018733584367157248",
+              "start": 25,
+              "url": "https://t.co/GLYpNDkyj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018733600947232938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 348,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的意思是 周旋于不同的人 最后心还在我这里是吗 https://t.co/GLYpNDkyj8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 391,
+          "like_count": 18691,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3926
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T14:32:12.000Z",
+        "description": "我提前说一下 我是文盲 和我家小狗共用一个账号 如果这个账号发了不好的言论 那都是小狗发的对不起 我家小狗没上过学 刚学会上网三个月 请大家谅解 骂人的都是小狗 狗四个爪子比我打字快🫶🏻",
+        "id": "1984629468410101764",
+        "name": "屁屁",
+        "pinned_tweet_id": "2010053247202169223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010030643103838209/nLSjDjZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 57,
+          "like_count": 1172,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 646
+        },
+        "username": "twntyfour7svn",
+        "verified": false
+      }
+    ]
+  }
+}

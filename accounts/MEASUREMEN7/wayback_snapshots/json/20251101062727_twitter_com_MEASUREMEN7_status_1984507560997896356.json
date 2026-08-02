@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984502620141338627",
+        "3_1984502634200645637",
+        "3_1984502649014927361",
+        "3_1984502664013688833"
+      ],
+      "media_source_tweet_id": [
+        "1984502678718935536",
+        "1984502678718935536",
+        "1984502678718935536",
+        "1984502678718935536"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1984507560997896356",
+    "created_at": "2025-11-01T06:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T07:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984507560997896356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1358061535340290048",
+          "start": 3,
+          "username": "Uni_btt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MWmOh0E7m6",
+          "end": 82,
+          "expanded_url": "https://x.com/Uni_btt/status/1984502678718935536/photo/1",
+          "media_key": "3_1984502620141338627",
+          "start": 59,
+          "url": "https://t.co/MWmOh0E7m6"
+        },
+        {
+          "display_url": "pic.x.com/MWmOh0E7m6",
+          "end": 82,
+          "expanded_url": "https://x.com/Uni_btt/status/1984502678718935536/photo/1",
+          "media_key": "3_1984502634200645637",
+          "start": 59,
+          "url": "https://t.co/MWmOh0E7m6"
+        },
+        {
+          "display_url": "pic.x.com/MWmOh0E7m6",
+          "end": 82,
+          "expanded_url": "https://x.com/Uni_btt/status/1984502678718935536/photo/1",
+          "media_key": "3_1984502649014927361",
+          "start": 59,
+          "url": "https://t.co/MWmOh0E7m6"
+        },
+        {
+          "display_url": "pic.x.com/MWmOh0E7m6",
+          "end": 82,
+          "expanded_url": "https://x.com/Uni_btt/status/1984502678718935536/photo/1",
+          "media_key": "3_1984502664013688833",
+          "start": 59,
+          "url": "https://t.co/MWmOh0E7m6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984507560997896356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984502678718935536",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uni_btt: 重庆接线下\n只接纯绿、逛街牵手ok、150/h\n拜托了我是一个善良的小女孩我只是想挣一点钱 https://t.co/MWmOh0E7m6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1984507560997896356].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1984507560997896356",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1984507560997896356"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984502620141338627",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4penmFbQAMB_By.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984502634200645637",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4peoadbQAUNeiW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984502649014927361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4pepRpbQAEa8Y7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984502664013688833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4peqJhaMAE0aYc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984502620141338627",
+            "3_1984502634200645637",
+            "3_1984502649014927361",
+            "3_1984502664013688833"
+          ]
+        },
+        "author_id": "1358061535340290048",
+        "conversation_id": "1984502678718935536",
+        "created_at": "2025-11-01T06:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T07:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984502678718935536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MWmOh0E7m6",
+              "end": 69,
+              "expanded_url": "https://x.com/Uni_btt/status/1984502678718935536/photo/1",
+              "media_key": "3_1984502620141338627",
+              "start": 46,
+              "url": "https://t.co/MWmOh0E7m6"
+            },
+            {
+              "display_url": "pic.x.com/MWmOh0E7m6",
+              "end": 69,
+              "expanded_url": "https://x.com/Uni_btt/status/1984502678718935536/photo/1",
+              "media_key": "3_1984502634200645637",
+              "start": 46,
+              "url": "https://t.co/MWmOh0E7m6"
+            },
+            {
+              "display_url": "pic.x.com/MWmOh0E7m6",
+              "end": 69,
+              "expanded_url": "https://x.com/Uni_btt/status/1984502678718935536/photo/1",
+              "media_key": "3_1984502649014927361",
+              "start": 46,
+              "url": "https://t.co/MWmOh0E7m6"
+            },
+            {
+              "display_url": "pic.x.com/MWmOh0E7m6",
+              "end": 69,
+              "expanded_url": "https://x.com/Uni_btt/status/1984502678718935536/photo/1",
+              "media_key": "3_1984502664013688833",
+              "start": 46,
+              "url": "https://t.co/MWmOh0E7m6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984502678718935536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "重庆接线下\n只接纯绿、逛街牵手ok、150/h\n拜托了我是一个善良的小女孩我只是想挣一点钱 https://t.co/MWmOh0E7m6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 345,
+          "like_count": 15772,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 2991
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T14:34:47.000Z",
+        "description": "已成年 / 妈妈   @kanakosama0223f",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "kanakosama0223f"
+              }
+            ]
+          }
+        },
+        "id": "1358061535340290048",
+        "location": "垃圾堆",
+        "name": "🎀扁桃體🗑️😿momoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972287715543764992/45L4397V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10731,
+          "following_count": 521,
+          "like_count": 11854,
+          "listed_count": 17,
+          "media_count": 1531,
+          "tweet_count": 11387
+        },
+        "username": "Uni_btt",
+        "verified": false
+      }
+    ]
+  }
+}

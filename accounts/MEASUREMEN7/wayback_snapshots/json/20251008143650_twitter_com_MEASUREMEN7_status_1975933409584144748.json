@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975610325207805952"
+      ],
+      "media_source_tweet_id": [
+        "1975610328366129277"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1975933409584144748",
+    "created_at": "2025-10-08T14:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T15:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975933409584144748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1871631260574990336",
+          "start": 3,
+          "username": "userIL0VEY0U"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NXtx5xEFbd",
+          "end": 41,
+          "expanded_url": "https://x.com/userIL0VEY0U/status/1975610328366129277/photo/1",
+          "media_key": "3_1975610325207805952",
+          "start": 18,
+          "url": "https://t.co/NXtx5xEFbd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975933409584144748",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 164
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975610328366129277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @userIL0VEY0U: https://t.co/NXtx5xEFbd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1975610325207805952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2rHH6Ca8AAwFOz.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975610325207805952"
+          ],
+          "media_source_tweet_id": [
+            "1975610328366129277"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1975933409584144748",
+        "created_at": "2025-10-08T14:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T15:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975933409584144748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1871631260574990336",
+              "start": 3,
+              "username": "userIL0VEY0U"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXtx5xEFbd",
+              "end": 41,
+              "expanded_url": "https://x.com/userIL0VEY0U/status/1975610328366129277/photo/1",
+              "media_key": "3_1975610325207805952",
+              "start": 18,
+              "url": "https://t.co/NXtx5xEFbd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975933409584144748",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 164
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975610328366129277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @userIL0VEY0U: https://t.co/NXtx5xEFbd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975610325207805952"
+          ]
+        },
+        "author_id": "1871631260574990336",
+        "conversation_id": "1975610328366129277",
+        "created_at": "2025-10-07T17:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T18:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975610328366129277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXtx5xEFbd",
+              "end": 23,
+              "expanded_url": "https://x.com/userIL0VEY0U/status/1975610328366129277/photo/1",
+              "media_key": "3_1975610325207805952",
+              "start": 0,
+              "url": "https://t.co/NXtx5xEFbd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975610328366129277",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 9134,
+          "like_count": 1240,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NXtx5xEFbd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 439,
+          "like_count": 12866,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 2245
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T18:58:13.000Z",
+        "description": "bmi 15.2 // commander berry // finnix latinx 🐶\nevil art alt @wormcel00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "wormcel00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kittytard",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kittytard",
+                "start": 0,
+                "url": "https://t.co/kEwmAFmDji"
+              }
+            ]
+          }
+        },
+        "id": "1871631260574990336",
+        "location": "5'3",
+        "name": "ᕕʕ • ㉨ •ʔᕗ",
+        "pinned_tweet_id": "1889391812151775253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960726622987792384/bxs4Hyv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2753,
+          "following_count": 378,
+          "like_count": 60322,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/kEwmAFmDji",
+        "username": "userIL0VEY0U",
+        "verified": false
+      }
+    ]
+  }
+}

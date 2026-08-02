@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1947501776099545322",
+    "created_at": "2025-07-22T05:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T06:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947534201735065651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1572252869923057664",
+          "start": 0,
+          "username": "h1kari_t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947534201735065651",
+    "in_reply_to_user_id": "1572252869923057664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947501776099545322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h1kari_t 这个hg的确实不错，我也买了个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 727,
+        "media_key": "3_1947501767241105408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwbqifvaAAAA6ii.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1947501767253692416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwbqifyaEAAutR7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1947501776099545322",
+        "created_at": "2025-07-22T05:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T06:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947534201735065651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1572252869923057664",
+              "start": 0,
+              "username": "h1kari_t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947534201735065651",
+        "in_reply_to_user_id": "1572252869923057664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947501776099545322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h1kari_t 这个hg的确实不错，我也买了个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947501767241105408",
+            "3_1947501767253692416"
+          ]
+        },
+        "author_id": "1572252869923057664",
+        "conversation_id": "1947501776099545322",
+        "created_at": "2025-07-22T03:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T04:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947501776099545322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ULqdCeAY3H",
+              "end": 27,
+              "expanded_url": "https://x.com/h1kari_t/status/1947501776099545322/photo/1",
+              "media_key": "3_1947501767241105408",
+              "start": 4,
+              "url": "https://t.co/ULqdCeAY3H"
+            },
+            {
+              "display_url": "pic.x.com/ULqdCeAY3H",
+              "end": 27,
+              "expanded_url": "https://x.com/h1kari_t/status/1947501776099545322/photo/1",
+              "media_key": "3_1947501767253692416",
+              "start": 4,
+              "url": "https://t.co/ULqdCeAY3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947501776099545322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 296,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "噗嘰啪 https://t.co/ULqdCeAY3H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 351,
+          "like_count": 5547,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 1065
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T15:54:40.000Z",
+        "description": "@yuyuyu_ufh 命を燃やし、酒を飲む、overdose",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "yuyuyu_ufh"
+              }
+            ]
+          }
+        },
+        "id": "1572252869923057664",
+        "location": "天国",
+        "name": "光逝去的青春🪦",
+        "pinned_tweet_id": "1945361089887158322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945437429692837888/y2B21bwa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 89,
+          "like_count": 8375,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 929
+        },
+        "username": "h1kari_t",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2017620840771186900",
+    "created_at": "2026-02-01T11:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T12:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017924112186753515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926470312289304576",
+          "start": 0,
+          "username": "raxx945"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017924112186753515",
+    "in_reply_to_user_id": "1926470312289304576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017620840771186900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raxx945 超好的bass"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017620827408109568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAAHc-UXEAAPiZ4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2017620840771186900",
+        "created_at": "2026-02-01T11:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T12:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017924112186753515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926470312289304576",
+              "start": 0,
+              "username": "raxx945"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017924112186753515",
+        "in_reply_to_user_id": "1926470312289304576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017620840771186900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raxx945 超好的bass"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017620827408109568"
+          ]
+        },
+        "author_id": "1926470312289304576",
+        "conversation_id": "2017620840771186900",
+        "created_at": "2026-01-31T15:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T16:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017620840771186900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YPtcUrVeYY",
+              "end": 35,
+              "expanded_url": "https://x.com/raxx945/status/2017620840771186900/photo/1",
+              "media_key": "3_2017620827408109568",
+              "start": 12,
+              "url": "https://t.co/YPtcUrVeYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017620840771186900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 789,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "费老大劲把琴面弄干净了 https://t.co/YPtcUrVeYY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 385,
+          "like_count": 18278,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 3824
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T02:48:17.000Z",
+        "description": "@icraveoflove已出 可以叫我熊熊 私信只回有意思的和口令红包 纯绿128加v",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "icraveoflove"
+              }
+            ]
+          }
+        },
+        "id": "1926470312289304576",
+        "name": "Reflection",
+        "pinned_tweet_id": "2012944848190669202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014361190625845248/eaCQLQA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 46,
+          "like_count": 132,
+          "listed_count": 5,
+          "media_count": 54,
+          "tweet_count": 132
+        },
+        "username": "raxx945",
+        "verified": false
+      }
+    ]
+  }
+}

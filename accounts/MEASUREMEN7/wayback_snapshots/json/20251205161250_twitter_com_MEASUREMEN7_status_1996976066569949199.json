@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1996969568040796563",
+    "created_at": "2025-12-05T16:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T17:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996976066569949199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1648732578697072640",
+          "start": 0,
+          "username": "Dorcus39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996976066569949199",
+    "in_reply_to_user_id": "1648732578697072640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996974749239619899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dorcus39 真可惜啊，咖啡的风味真的非常丰富多变啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1996969568040796563",
+        "created_at": "2025-12-05T16:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T17:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996976066569949199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1648732578697072640",
+              "start": 0,
+              "username": "Dorcus39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996976066569949199",
+        "in_reply_to_user_id": "1648732578697072640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996974749239619899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dorcus39 真可惜啊，咖啡的风味真的非常丰富多变啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648732578697072640",
+        "conversation_id": "1996969568040796563",
+        "created_at": "2025-12-05T16:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T17:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996974749239619899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996974749239619899",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996973447314837804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 我咖啡因过敏，咖啡因对我来说的效果比普瑞巴林还牛逼，超过两杯甚至以上的咖啡甚至能让我一整天都瘫在床上动弹不得"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 365,
+          "like_count": 16994,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 3386
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T16:57:41.000Z",
+        "description": "我喜欢做一些饮品，拍摄一些好吃的和有意思的东西，欢迎和我交流任何有关饮品/食品制作以及各种有意思的东西，我会很高兴的…",
+        "id": "1648732578697072640",
+        "location": "Beijing",
+        "name": "泥头车",
+        "pinned_tweet_id": "1991456185564950905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996498187352436736/9C9WZLFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 981,
+          "like_count": 6163,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 951
+        },
+        "username": "Dorcus39",
+        "verified": false
+      }
+    ]
+  }
+}

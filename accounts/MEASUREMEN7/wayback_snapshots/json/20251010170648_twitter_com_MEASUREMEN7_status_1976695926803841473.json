@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1976570580011786520",
+    "created_at": "2025-10-10T17:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T18:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976695926803841473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "TokiyukiSAMAAAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976695926803841473",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976570580011786520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TokiyukiSAMAAAA 袜，还有骑乘"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4760,
+        "height": 960,
+        "media_key": "13_1976570395043004416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1976570395043004416/img/ex4HzZNTgsZyLsnp.jpg",
+        "public_metrics": {
+          "view_count": 89
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976570395043004416/vid/avc1/320x568/WGgMP8RPWdK8xycT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976570395043004416/vid/avc1/480x852/BISShqMc-LGnOpe4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976570395043004416/vid/avc1/540x960/O382mR0A7IZlariM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1976570395043004416/pl/nhpnva3rJZeqOvuU.m3u8"
+          }
+        ],
+        "width": 540
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1976570395051413504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G24wTU6X0AAfnPS.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1976570580011786520",
+        "created_at": "2025-10-10T17:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T18:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976695926803841473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "TokiyukiSAMAAAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976695926803841473",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976570580011786520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TokiyukiSAMAAAA 袜，还有骑乘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1976570395043004416",
+            "3_1976570395051413504"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "1976570580011786520",
+        "created_at": "2025-10-10T08:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T09:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976570580011786520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AEGe74Gunp",
+              "end": 23,
+              "expanded_url": "https://x.com/TokiyukiSAMAAAA/status/1976570580011786520/video/1",
+              "media_key": "13_1976570395043004416",
+              "start": 0,
+              "url": "https://t.co/AEGe74Gunp"
+            },
+            {
+              "display_url": "pic.x.com/AEGe74Gunp",
+              "end": 23,
+              "expanded_url": "https://x.com/TokiyukiSAMAAAA/status/1976570580011786520/video/1",
+              "media_key": "3_1976570395051413504",
+              "start": 0,
+              "url": "https://t.co/AEGe74Gunp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976570580011786520",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 206,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AEGe74Gunp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 443,
+          "like_count": 13257,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 2375
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "# 愛？ # 唉！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "時行の部屋",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971589404347990016/IkfSVmns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6520,
+          "following_count": 247,
+          "like_count": 29865,
+          "listed_count": 16,
+          "media_count": 165,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "TokiyukiSAMAAAA",
+        "verified": false
+      }
+    ]
+  }
+}

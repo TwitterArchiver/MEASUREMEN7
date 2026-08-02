@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1974343656300818906",
+    "created_at": "2025-10-04T05:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T06:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974345088974360785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1876597510682427392",
+          "start": 0,
+          "username": "mono_5210_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974345088974360785",
+    "in_reply_to_user_id": "1876597510682427392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974344707460509873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mono_5210_ 那还是直接杀了对方吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1974343656300818906",
+        "created_at": "2025-10-04T05:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T06:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974345088974360785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1876597510682427392",
+              "start": 0,
+              "username": "mono_5210_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974345088974360785",
+        "in_reply_to_user_id": "1876597510682427392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974344707460509873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mono_5210_ 那还是直接杀了对方吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876597510682427392",
+        "conversation_id": "1974343656300818906",
+        "created_at": "2025-10-04T05:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T06:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974344707460509873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974344707460509873",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974343950271197470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 我白白等了快有3個小時了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 437,
+          "like_count": 11874,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 2026
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T11:51:48.000Z",
+        "description": "高中生/女/地雷系/喜歡巧克力",
+        "id": "1876597510682427392",
+        "name": "水夜🫧",
+        "pinned_tweet_id": "1944633222211793127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974142554406043648/XSZKkU49_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 32,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 157
+        },
+        "username": "mono_5210_",
+        "verified": false
+      }
+    ]
+  }
+}

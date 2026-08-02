@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2045697649102246030",
+    "created_at": "2026-04-19T05:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T06:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045737925158044000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2028485400961171456",
+          "start": 0,
+          "username": "miu4373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045737925158044000",
+    "in_reply_to_user_id": "2028485400961171456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045697649102246030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miu4373 妈妈🤔？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2045697645641953280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPHK45XcAA1SZt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2045697649102246030",
+        "created_at": "2026-04-19T05:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045737925158044000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2028485400961171456",
+              "start": 0,
+              "username": "miu4373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045737925158044000",
+        "in_reply_to_user_id": "2028485400961171456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045697649102246030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miu4373 妈妈🤔？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045697645641953280"
+          ]
+        },
+        "author_id": "2028485400961171456",
+        "conversation_id": "2045697649102246030",
+        "created_at": "2026-04-19T02:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045697649102246030"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "反差"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mgw4cj2XFE",
+              "end": 32,
+              "expanded_url": "https://x.com/miu4373/status/2045697649102246030/photo/1",
+              "media_key": "3_2045697645641953280",
+              "start": 9,
+              "url": "https://t.co/Mgw4cj2XFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045697649102246030",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 626,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#反差 #cos https://t.co/Mgw4cj2XFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 287,
+          "like_count": 25280,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 5154
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T15:00:01.000Z",
+        "description": "",
+        "id": "2028485400961171456",
+        "name": "缪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029722565577691136/iujYMyZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 42,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "username": "miu4373",
+        "verified": false
+      }
+    ]
+  }
+}

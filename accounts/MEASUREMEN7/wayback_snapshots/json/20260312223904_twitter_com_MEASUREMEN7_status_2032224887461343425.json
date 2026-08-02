@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2031258052729659459",
+    "created_at": "2026-03-12T22:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T23:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032224887461343425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999321889559490560",
+          "start": 0,
+          "username": "o0Nly0oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032224887461343425",
+    "in_reply_to_user_id": "1999321889559490560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032148582263050715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o0Nly0oo 哼哼！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2031258052729659459",
+        "created_at": "2026-03-12T22:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T23:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032224887461343425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999321889559490560",
+              "start": 0,
+              "username": "o0Nly0oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032224887461343425",
+        "in_reply_to_user_id": "1999321889559490560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032148582263050715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o0Nly0oo 哼哼！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999321889559490560",
+        "conversation_id": "2031258052729659459",
+        "created_at": "2026-03-12T17:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032148582263050715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032148582263050715",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031376474226237846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 正确！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 251,
+          "like_count": 23616,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4855
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T03:34:30.000Z",
+        "description": "switch｜前世@onlyosne_絶対神死了 ｜我想要的是一种叫作幸福的恒久的东西｜不闲聊dm线下课表52可抵门槛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "onlyosne_"
+              }
+            ]
+          }
+        },
+        "id": "1999321889559490560",
+        "location": "nowhere",
+        "name": "絶対神",
+        "pinned_tweet_id": "2030879116262822137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023159615039672321/3KPfHj1o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 49,
+          "like_count": 132,
+          "listed_count": 3,
+          "media_count": 11,
+          "tweet_count": 138
+        },
+        "username": "o0Nly0oo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1946290533384777734",
+    "created_at": "2025-07-19T00:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T01:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946372764798955676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1583858559544332290",
+          "start": 0,
+          "username": "_sharkee1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946372764798955676",
+    "in_reply_to_user_id": "1583858559544332290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946290533384777734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_sharkee1024 鲨鱼好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1946290497187983360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwKc5TKbsAAqutI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1946290497192132608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwKc5TLbAAA7vun.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1124,
+        "media_key": "3_1946290497409998848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwKc5T_XYAAybUk.jpg",
+        "width": 1259
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1946290497422569473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwKc5UCXMAENQ7H.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1946290533384777734",
+        "created_at": "2025-07-19T00:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T01:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946372764798955676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1583858559544332290",
+              "start": 0,
+              "username": "_sharkee1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946372764798955676",
+        "in_reply_to_user_id": "1583858559544332290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946290533384777734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_sharkee1024 鲨鱼好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946290497187983360",
+            "3_1946290497192132608",
+            "3_1946290497409998848",
+            "3_1946290497422569473"
+          ]
+        },
+        "author_id": "1583858559544332290",
+        "conversation_id": "1946290533384777734",
+        "created_at": "2025-07-18T19:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T20:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946290533384777734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjoAdLvvUe",
+              "end": 137,
+              "expanded_url": "https://x.com/_sharkee1024/status/1946290533384777734/photo/1",
+              "media_key": "3_1946290497187983360",
+              "start": 114,
+              "url": "https://t.co/zjoAdLvvUe"
+            },
+            {
+              "display_url": "pic.x.com/zjoAdLvvUe",
+              "end": 137,
+              "expanded_url": "https://x.com/_sharkee1024/status/1946290533384777734/photo/1",
+              "media_key": "3_1946290497192132608",
+              "start": 114,
+              "url": "https://t.co/zjoAdLvvUe"
+            },
+            {
+              "display_url": "pic.x.com/zjoAdLvvUe",
+              "end": 137,
+              "expanded_url": "https://x.com/_sharkee1024/status/1946290533384777734/photo/1",
+              "media_key": "3_1946290497409998848",
+              "start": 114,
+              "url": "https://t.co/zjoAdLvvUe"
+            },
+            {
+              "display_url": "pic.x.com/zjoAdLvvUe",
+              "end": 137,
+              "expanded_url": "https://x.com/_sharkee1024/status/1946290533384777734/photo/1",
+              "media_key": "3_1946290497422569473",
+              "start": 114,
+              "url": "https://t.co/zjoAdLvvUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946290533384777734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 665,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挑了几张身材图和遮脸照 麻烦各位评评我这种一次援交能定多少价？是认真的🥲\n业务肯定不止援这一项 还能做一日女友 陪玩 线上聊天/疏导等等 甚至能帮应付家长催婚哦（？\n现在觉得心动的话欢迎关注哦～以后开放业务了不要忘记点村雨呀！ https://t.co/zjoAdLvvUe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 317,
+          "like_count": 4530,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 860
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T16:31:31.000Z",
+        "description": "快要奔2了我不要做老登呀啊啊啊啊QAQ",
+        "id": "1583858559544332290",
+        "location": "距您124m",
+        "name": "村雨",
+        "pinned_tweet_id": "1946290533384777734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852520211595038720/AiBYkHsK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 471,
+          "like_count": 3359,
+          "listed_count": 4,
+          "media_count": 234,
+          "tweet_count": 1518
+        },
+        "username": "_sharkee1024",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2036357677807440136",
+    "created_at": "2026-03-24T11:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T12:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036399054423466297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165329475514404864",
+          "start": 0,
+          "username": "notcal_car_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036399054423466297",
+    "in_reply_to_user_id": "1165329475514404864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036357677807440136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notcal_car_ 哇这个老板是人啊？这么没良心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2036357677807440136",
+        "created_at": "2026-03-24T11:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036399054423466297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165329475514404864",
+              "start": 0,
+              "username": "notcal_car_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036399054423466297",
+        "in_reply_to_user_id": "1165329475514404864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036357677807440136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notcal_car_ 哇这个老板是人啊？这么没良心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165329475514404864",
+        "conversation_id": "2036357677807440136",
+        "created_at": "2026-03-24T08:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T09:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036357677807440136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036357677807440136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "對自己旗下的藝人失蹤漠不關心\n我同其他女仔就處理到凌晨\n\n作為老闆淨係識關心另一個花生\n得話邊個篤灰，呢啲花生嘢 好心自己做過嘅嘢就唔好 要全世界陪你一齊講大話\n\n跟住無啦啦拉我落水\n攞我做替死鬼就算\n我又唔係入咗你公司\n而家幫緊你搵女啊😀唔想理你其他花生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 279,
+          "like_count": 24305,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4965
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-24T18:26:20.000Z",
+        "description": "coser/繪師/maid *不定期NSFW注意* ————————不約線下 要見就上maid cafe",
+        "id": "1165329475514404864",
+        "location": " ",
+        "name": "不是卡路里Notcal",
+        "pinned_tweet_id": "2014814107619492292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960439658988625920/V3vyFxhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 218,
+          "like_count": 13029,
+          "listed_count": 9,
+          "media_count": 240,
+          "tweet_count": 921
+        },
+        "username": "notcal_car_",
+        "verified": false
+      }
+    ]
+  }
+}

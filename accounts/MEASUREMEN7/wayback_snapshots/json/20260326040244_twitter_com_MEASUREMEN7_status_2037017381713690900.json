@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2036841782420648337",
+    "created_at": "2026-03-26T04:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T05:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037017381713690900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2030304451127631872",
+          "start": 0,
+          "username": "foanax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037017381713690900",
+    "in_reply_to_user_id": "2030304451127631872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036841782420648337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foanax 好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036841776527667201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HERQzdmbcAEiYSz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036841776502472704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HERQzdgbAAAcwlm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036841776540188672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HERQzdpagAAmnMn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036841776506671104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HERQzdhbEAAFsH7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2036841782420648337",
+        "created_at": "2026-03-26T04:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037017381713690900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2030304451127631872",
+              "start": 0,
+              "username": "foanax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037017381713690900",
+        "in_reply_to_user_id": "2030304451127631872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036841782420648337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foanax 好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036841776527667201",
+            "3_2036841776502472704",
+            "3_2036841776540188672",
+            "3_2036841776506671104"
+          ]
+        },
+        "author_id": "2030304451127631872",
+        "conversation_id": "2036841782420648337",
+        "created_at": "2026-03-25T16:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036841782420648337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSRlPe7zY7",
+              "end": 26,
+              "expanded_url": "https://x.com/foanax/status/2036841782420648337/photo/1",
+              "media_key": "3_2036841776527667201",
+              "start": 3,
+              "url": "https://t.co/cSRlPe7zY7"
+            },
+            {
+              "display_url": "pic.x.com/cSRlPe7zY7",
+              "end": 26,
+              "expanded_url": "https://x.com/foanax/status/2036841782420648337/photo/1",
+              "media_key": "3_2036841776502472704",
+              "start": 3,
+              "url": "https://t.co/cSRlPe7zY7"
+            },
+            {
+              "display_url": "pic.x.com/cSRlPe7zY7",
+              "end": 26,
+              "expanded_url": "https://x.com/foanax/status/2036841782420648337/photo/1",
+              "media_key": "3_2036841776540188672",
+              "start": 3,
+              "url": "https://t.co/cSRlPe7zY7"
+            },
+            {
+              "display_url": "pic.x.com/cSRlPe7zY7",
+              "end": 26,
+              "expanded_url": "https://x.com/foanax/status/2036841782420648337/photo/1",
+              "media_key": "3_2036841776506671104",
+              "start": 3,
+              "url": "https://t.co/cSRlPe7zY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036841782420648337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补。 https://t.co/cSRlPe7zY7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 279,
+          "like_count": 24375,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4974
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T15:28:12.000Z",
+        "description": "",
+        "id": "2030304451127631872",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030308606042886145/GIXuTPOO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 7,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 27
+        },
+        "username": "foanax",
+        "verified": false
+      }
+    ]
+  }
+}

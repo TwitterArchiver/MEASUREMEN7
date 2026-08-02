@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2012412518145347755",
+    "created_at": "2026-01-17T13:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T14:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012522330224775358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1938824940012347392",
+          "start": 0,
+          "username": "Rinnyaneko69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012522330224775358",
+    "in_reply_to_user_id": "1938824940012347392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012412518145347755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinnyaneko69 超级可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2012412508964040705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2Gg8JasAEY2X9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2012412518145347755",
+        "created_at": "2026-01-17T13:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T14:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012522330224775358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1938824940012347392",
+              "start": 0,
+              "username": "Rinnyaneko69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012522330224775358",
+        "in_reply_to_user_id": "1938824940012347392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012412518145347755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinnyaneko69 超级可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012412508964040705"
+          ]
+        },
+        "author_id": "1938824940012347392",
+        "conversation_id": "2012412518145347755",
+        "created_at": "2026-01-17T06:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T07:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012412518145347755"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "ame"
+            },
+            {
+              "end": 39,
+              "start": 17,
+              "tag": "needystreameroverload"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "糖糖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5WIc76pSND",
+              "end": 67,
+              "expanded_url": "https://x.com/Rinnyaneko69/status/2012412518145347755/photo/1",
+              "media_key": "3_2012412508964040705",
+              "start": 44,
+              "url": "https://t.co/5WIc76pSND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012412518145347755",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Lol old pic #ame #needystreameroverload #糖糖 https://t.co/5WIc76pSND"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 368,
+          "like_count": 17161,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 3615
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T05:01:18.000Z",
+        "description": "♡Scara and Kangel \n散兵正牌女友 \n地雷系jirai ||cosplayer||148cm||15y||ENTP\n中文/ENG\n\n#shtwt #edtwt #nsotwt #jiraitwt\nADHD,BPD, DEPRESSION \n 我就是个废物怎么割都不够深",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "shtwt"
+              },
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "edtwt"
+              },
+              {
+                "end": 95,
+                "start": 88,
+                "tag": "nsotwt"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "tag": "jiraitwt"
+              }
+            ]
+          }
+        },
+        "id": "1938824940012347392",
+        "location": "🇲🇾 kys",
+        "name": "Rin琳酱没有未来⁽⁠⁽⁠ଘ⁠(⁠ ⁠ˊ⁠ᵕ⁠ˋ⁠ ⁠)⁠ଓ⁠⁾⁠⁾",
+        "pinned_tweet_id": "1995655194722574638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012124679008645120/JaqJrUmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 76,
+          "like_count": 1423,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 582
+        },
+        "username": "Rinnyaneko69",
+        "verified": false
+      }
+    ]
+  }
+}

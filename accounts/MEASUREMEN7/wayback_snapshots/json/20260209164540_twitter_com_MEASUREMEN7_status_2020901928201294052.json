@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2020899229246665066",
+    "created_at": "2026-02-09T16:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T17:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020901928201294052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1419478915064664064",
+          "start": 0,
+          "username": "Zane66728136"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020901928201294052",
+    "in_reply_to_user_id": "1419478915064664064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020899229246665066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zane66728136 完全可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2020899229246665066",
+        "created_at": "2026-02-09T16:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T17:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020901928201294052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1419478915064664064",
+              "start": 0,
+              "username": "Zane66728136"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020901928201294052",
+        "in_reply_to_user_id": "1419478915064664064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020899229246665066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zane66728136 完全可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419478915064664064",
+        "conversation_id": "2020899229246665066",
+        "created_at": "2026-02-09T16:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T17:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020899229246665066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zane66728136/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Zane66728136/status/2019967912719827331",
+              "start": 28,
+              "url": "https://t.co/KqN5YRCMgv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020899229246665066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019967912719827331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的很喜欢这张助手，感觉可以打印出来当粉丝礼物的那种 https://t.co/KqN5YRCMgv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 410,
+          "like_count": 19651,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4136
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-26T02:05:30.000Z",
+        "description": "网络一线牵，珍惜这段缘，\n喜欢的话点个关注，很开心你来看我🤗\nPS:抖音是93901163160，关注我一下嘛",
+        "id": "1419478915064664064",
+        "location": "距离你秒速五厘米",
+        "name": "Tke.",
+        "pinned_tweet_id": "1985666618647847200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980239170787315713/_VCTAipZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 1306,
+          "like_count": 2787,
+          "listed_count": 6,
+          "media_count": 40,
+          "tweet_count": 277
+        },
+        "username": "Zane66728136",
+        "verified": false
+      }
+    ]
+  }
+}

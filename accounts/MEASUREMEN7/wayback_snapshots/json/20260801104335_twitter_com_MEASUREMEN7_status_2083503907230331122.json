@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2083287705442824387",
+    "created_at": "2026-08-01T10:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083503907230331122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2004554262756651009",
+          "start": 0,
+          "username": "M2uriceRave1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083503907230331122",
+    "in_reply_to_user_id": "2004554262756651009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083287705442824387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M2uriceRave1 现在我才是区"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6666,
+        "height": 1280,
+        "media_key": "13_2083287682273488896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083287682273488896/img/xS0dz_voM966VtdX.jpg",
+        "public_metrics": {
+          "view_count": 30
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083287682273488896/vid/avc1/320x694/q4ezVJ57Me21V84u.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083287682273488896/vid/avc1/480x1040/bjanRTuCw4-w8PlV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083287682273488896/vid/avc1/590x1280/WJgtzCkGlzt_AYvI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083287682273488896/pl/uCfp-P1ZxJZZdzvn.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2083287705442824387",
+        "created_at": "2026-08-01T10:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083503907230331122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2004554262756651009",
+              "start": 0,
+              "username": "M2uriceRave1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083503907230331122",
+        "in_reply_to_user_id": "2004554262756651009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083287705442824387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M2uriceRave1 现在我才是区"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083287682273488896"
+          ]
+        },
+        "author_id": "2004554262756651009",
+        "conversation_id": "2083287705442824387",
+        "created_at": "2026-07-31T20:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T21:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083287705442824387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6clCmv16Q",
+              "end": 27,
+              "expanded_url": "https://x.com/M2uriceRave1/status/2083287705442824387/video/1",
+              "media_key": "13_2083287682273488896",
+              "start": 4,
+              "url": "https://t.co/z6clCmv16Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083287705442824387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终成区 https://t.co/z6clCmv16Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 188,
+          "like_count": 28020,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 5586
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T14:06:07.000Z",
+        "description": "post-structuralism…｜純粹符號空轉中…｜🚪88｜申必",
+        "id": "2004554262756651009",
+        "name": "De lá grammatologie",
+        "pinned_tweet_id": "2060415728009007429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083288650322956288/12zGjylI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 46,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "M2uriceRave1",
+        "verified": false
+      }
+    ]
+  }
+}

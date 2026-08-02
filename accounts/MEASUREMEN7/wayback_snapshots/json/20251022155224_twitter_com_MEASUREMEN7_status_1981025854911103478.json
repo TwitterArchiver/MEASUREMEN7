@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980903771308773376"
+      ],
+      "media_source_tweet_id": [
+        "1980903780221874559"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1981025854911103478",
+    "created_at": "2025-10-22T15:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T16:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981025854911103478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1538814885923987456",
+          "start": 3,
+          "username": "mayamadesu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9GqxoxLGM4",
+          "end": 42,
+          "expanded_url": "https://x.com/mayamadesu/status/1980903780221874559/photo/1",
+          "media_key": "3_1980903771308773376",
+          "start": 19,
+          "url": "https://t.co/9GqxoxLGM4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981025854911103478",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1159
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980903780221874559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mayamadesu: 👄② https://t.co/9GqxoxLGM4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980903771308773376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32VfBcXUAAsR8M.jpg",
+        "width": 1449
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980903771308773376"
+          ],
+          "media_source_tweet_id": [
+            "1980903780221874559"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1981025854911103478",
+        "created_at": "2025-10-22T15:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T16:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981025854911103478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1538814885923987456",
+              "start": 3,
+              "username": "mayamadesu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9GqxoxLGM4",
+              "end": 42,
+              "expanded_url": "https://x.com/mayamadesu/status/1980903780221874559/photo/1",
+              "media_key": "3_1980903771308773376",
+              "start": 19,
+              "url": "https://t.co/9GqxoxLGM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981025854911103478",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1159
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980903780221874559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mayamadesu: 👄② https://t.co/9GqxoxLGM4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980903771308773376"
+          ]
+        },
+        "author_id": "1538814885923987456",
+        "conversation_id": "1980903780221874559",
+        "created_at": "2025-10-22T07:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T08:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980903780221874559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9GqxoxLGM4",
+              "end": 26,
+              "expanded_url": "https://x.com/mayamadesu/status/1980903780221874559/photo/1",
+              "media_key": "3_1980903771308773376",
+              "start": 3,
+              "url": "https://t.co/9GqxoxLGM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980903780221874559",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2474,
+          "impression_count": 148216,
+          "like_count": 14023,
+          "quote_count": 31,
+          "reply_count": 18,
+          "retweet_count": 1159
+        },
+        "reply_settings": "everyone",
+        "text": "👄② https://t.co/9GqxoxLGM4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 337,
+          "like_count": 14875,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 2739
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-20T09:24:31.000Z",
+        "description": "絵を描いてます skeb→https://t.co/EwT1BLouJE【停止中】bluesky→ https://t.co/l1H7NzxvFW FANBOX→https://t.co/AgRESlK2GF【準備中】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@mayamadesu",
+                "end": 36,
+                "expanded_url": "http://skeb.jp/@mayamadesu",
+                "start": 13,
+                "url": "https://t.co/EwT1BLouJE"
+              },
+              {
+                "display_url": "bsky.app/profile/mayama…",
+                "end": 73,
+                "expanded_url": "http://bsky.app/profile/mayamadesu.bsky.social",
+                "start": 50,
+                "url": "https://t.co/l1H7NzxvFW"
+              },
+              {
+                "display_url": "mayamafanbo.fanbox.cc",
+                "end": 104,
+                "expanded_url": "http://mayamafanbo.fanbox.cc/",
+                "start": 81,
+                "url": "https://t.co/AgRESlK2GF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/73512207…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/73512207/artworks",
+                "start": 0,
+                "url": "https://t.co/G6MCQQ2NGK"
+              }
+            ]
+          }
+        },
+        "id": "1538814885923987456",
+        "name": "真やま",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774996903358496768/alSXWEuZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35078,
+          "following_count": 153,
+          "like_count": 2605,
+          "listed_count": 202,
+          "media_count": 89,
+          "tweet_count": 653
+        },
+        "url": "https://t.co/G6MCQQ2NGK",
+        "username": "mayamadesu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2023951578915590643",
+    "created_at": "2026-02-18T03:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T04:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023960333031702628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019354507814268931",
+          "start": 0,
+          "username": "winter999days"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023960333031702628",
+    "in_reply_to_user_id": "2019354507814268931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023951578915590643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@winter999days 承认吧，就是变态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2023951578915590643",
+        "created_at": "2026-02-18T03:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023960333031702628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019354507814268931",
+              "start": 0,
+              "username": "winter999days"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023960333031702628",
+        "in_reply_to_user_id": "2019354507814268931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023951578915590643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winter999days 承认吧，就是变态"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019354507814268931",
+        "conversation_id": "2023951578915590643",
+        "created_at": "2026-02-18T02:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T03:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023951578915590643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023951578915590643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真服了这个破私信好容易误触，我像变态一样说着说着就给对面的话疯狂点赞……我只想引用而已……！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 420,
+          "like_count": 20888,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4410
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T10:16:59.000Z",
+        "description": "双/s倾向/4i=i≥3i/互攻❗私信前请看置顶🔝\n                         点赞就是喜欢你！评论就是超级喜欢你！",
+        "id": "2019354507814268931",
+        "name": "咚咚",
+        "pinned_tweet_id": "2023701163108192619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019373075549315073/oG1uktM3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 34,
+          "like_count": 361,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 93
+        },
+        "username": "winter999days",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2019804363750006939",
+    "created_at": "2026-02-06T16:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T17:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019814666344833374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1446470666161508354",
+          "start": 0,
+          "username": "0812xxx_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019814666344833374",
+    "in_reply_to_user_id": "1446470666161508354",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019804363750006939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0812xxx_ 期待"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019804360344260608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAfJXUYa0AAftl9.jpg",
+        "width": 1764
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2019804363750006939",
+        "created_at": "2026-02-06T16:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019814666344833374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1446470666161508354",
+              "start": 0,
+              "username": "0812xxx_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019814666344833374",
+        "in_reply_to_user_id": "1446470666161508354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019804363750006939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0812xxx_ 期待"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019804360344260608"
+          ]
+        },
+        "author_id": "1446470666161508354",
+        "conversation_id": "2019804363750006939",
+        "created_at": "2026-02-06T16:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019804363750006939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Zt5zvB8Rc",
+              "end": 80,
+              "expanded_url": "https://x.com/0812xxx_/status/2019804363750006939/photo/1",
+              "media_key": "3_2019804360344260608",
+              "start": 57,
+              "url": "https://t.co/1Zt5zvB8Rc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019804363750006939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的天呐，这个还是库存好吧，然后我告诉你们，我这个月底要出长春，期待ing。嗯，然后如果下个月有钱的话出下未花吧 https://t.co/1Zt5zvB8Rc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 393,
+          "like_count": 19018,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3979
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-08T13:41:10.000Z",
+        "description": "鸡那么美，我当然娶鸡",
+        "id": "1446470666161508354",
+        "name": "/ᐠ - ˕ -マ Ⳋ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984970675317284864/Cp2qTFGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 260,
+          "like_count": 1340,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 340
+        },
+        "username": "0812xxx_",
+        "verified": false
+      }
+    ]
+  }
+}

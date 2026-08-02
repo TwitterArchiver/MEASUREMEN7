@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2030888140140093747",
+    "created_at": "2026-03-09T06:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T07:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030888328250159401"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030888328250159401",
+    "in_reply_to_user_id": "1888239230020661248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030888140140093747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "曾经欢脱的童年总会闯进你的记忆里。现在，他们已经渐渐不再成为你世界里的一部分了。连带着你偶尔沉思的未来，也不再出现在你的世界和梦里了。你离开了过去和未来，住进了当下。一个不带感情的当下。说不上是好是坏，不过，并不为此感到欣喜。自言自语变成了你的必修课。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2030888140140093747",
+        "created_at": "2026-03-09T06:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T07:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030888328250159401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030888328250159401",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030888140140093747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "曾经欢脱的童年总会闯进你的记忆里。现在，他们已经渐渐不再成为你世界里的一部分了。连带着你偶尔沉思的未来，也不再出现在你的世界和梦里了。你离开了过去和未来，住进了当下。一个不带感情的当下。说不上是好是坏，不过，并不为此感到欣喜。自言自语变成了你的必修课。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2030888140140093747",
+        "created_at": "2026-03-09T06:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T07:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030888140140093747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030888140140093747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眼前是一条从未走过的道路，你如今的生活只能用奇怪来形容，情绪主按键消磨殆尽，你知道，你想要寻找按某种解脱，究竟是逃避还是自我保护？你好像也给不出答案。生活里总有意想不到的潜伏在阴影中的东西渐渐浮现出来，你明白自己只能直面并且接纳，你静静地等待着，好奇怪啊 你说。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 434,
+          "like_count": 23330,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4811
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      }
+    ]
+  }
+}

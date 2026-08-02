@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2038070336751804744",
+    "created_at": "2026-03-29T03:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T04:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038096250151620725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2032744913981550595",
+          "start": 0,
+          "username": "yuyu177570"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038096250151620725",
+    "in_reply_to_user_id": "2032744913981550595",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038096138805596575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyu177570 我要摸回去"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2038096138805596575].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2038096138805596575",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2038096138805596575"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2038070336751804744",
+        "created_at": "2026-03-29T03:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T04:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038096250151620725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2032744913981550595",
+              "start": 0,
+              "username": "yuyu177570"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038096250151620725",
+        "in_reply_to_user_id": "2032744913981550595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038096138805596575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyu177570 我要摸回去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 279,
+          "like_count": 24552,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 5004
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T09:06:30.000Z",
+        "description": "大号@yuyu52030\n只过喜欢的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "yuyu52030"
+              }
+            ]
+          }
+        },
+        "id": "2032744913981550595",
+        "name": "ゆゆ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037494999059947520/YWRcb-Ee_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 42,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 135
+        },
+        "username": "yuyu177570",
+        "verified": false
+      }
+    ]
+  }
+}

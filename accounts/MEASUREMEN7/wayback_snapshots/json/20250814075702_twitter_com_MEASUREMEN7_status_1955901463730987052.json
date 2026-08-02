@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955453493810200576"
+      ],
+      "media_source_tweet_id": [
+        "1955453502639296895"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1955901463730987052",
+    "created_at": "2025-08-14T07:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T08:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955901463730987052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1839708200628858880",
+          "start": 3,
+          "username": "sulimeow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XPfiYj4LxF",
+          "end": 46,
+          "expanded_url": "https://x.com/sulimeow/status/1955453502639296895/photo/1",
+          "media_key": "3_1955453493810200576",
+          "start": 23,
+          "url": "https://t.co/XPfiYj4LxF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955901463730987052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955453502639296895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sulimeow: 我们缺爱b就这样 https://t.co/XPfiYj4LxF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 733,
+        "media_key": "3_1955453493810200576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyMql5lagAAduGW.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955453493810200576"
+          ],
+          "media_source_tweet_id": [
+            "1955453502639296895"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1955901463730987052",
+        "created_at": "2025-08-14T07:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T08:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955901463730987052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1839708200628858880",
+              "start": 3,
+              "username": "sulimeow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XPfiYj4LxF",
+              "end": 46,
+              "expanded_url": "https://x.com/sulimeow/status/1955453502639296895/photo/1",
+              "media_key": "3_1955453493810200576",
+              "start": 23,
+              "url": "https://t.co/XPfiYj4LxF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955901463730987052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955453502639296895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sulimeow: 我们缺爱b就这样 https://t.co/XPfiYj4LxF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955453493810200576"
+          ]
+        },
+        "author_id": "1839708200628858880",
+        "conversation_id": "1955453502639296895",
+        "created_at": "2025-08-13T02:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T03:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955453502639296895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XPfiYj4LxF",
+              "end": 32,
+              "expanded_url": "https://x.com/sulimeow/status/1955453502639296895/photo/1",
+              "media_key": "3_1955453493810200576",
+              "start": 9,
+              "url": "https://t.co/XPfiYj4LxF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955453502639296895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1234,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我们缺爱b就这样 https://t.co/XPfiYj4LxF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 382,
+          "like_count": 7794,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1364
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T16:46:46.000Z",
+        "description": "其他人类我不关心 🚪40（接纯绿",
+        "id": "1839708200628858880",
+        "name": "suli",
+        "pinned_tweet_id": "1952277256187117925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950399707689193472/gthwbDlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 103,
+          "like_count": 10681,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 898
+        },
+        "username": "sulimeow",
+        "verified": false
+      }
+    ]
+  }
+}

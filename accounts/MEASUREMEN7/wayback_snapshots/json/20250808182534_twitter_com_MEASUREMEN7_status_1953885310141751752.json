@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1953884915898233278",
+    "created_at": "2025-08-08T18:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T19:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953885310141751752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1787714778116272128",
+          "start": 0,
+          "username": "La_reflexion000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953885310141751752",
+    "in_reply_to_user_id": "1787714778116272128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953884915898233278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@La_reflexion000 为什么呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1953884915898233278",
+        "created_at": "2025-08-08T18:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T19:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953885310141751752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1787714778116272128",
+              "start": 0,
+              "username": "La_reflexion000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953885310141751752",
+        "in_reply_to_user_id": "1787714778116272128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953884915898233278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@La_reflexion000 为什么呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787714778116272128",
+        "conversation_id": "1953884915898233278",
+        "created_at": "2025-08-08T18:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T19:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953884915898233278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953884915898233278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我超级怕针"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 363,
+          "like_count": 7024,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1232
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T05:23:27.000Z",
+        "description": "psychoanalysis psycho",
+        "id": "1787714778116272128",
+        "location": "殘垣斷壁",
+        "name": "mirroflets miroir",
+        "pinned_tweet_id": "1853800143713443845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852378891295318016/cvxy3szE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 126,
+          "like_count": 1297,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 812
+        },
+        "username": "La_reflexion000",
+        "verified": false
+      }
+    ]
+  }
+}

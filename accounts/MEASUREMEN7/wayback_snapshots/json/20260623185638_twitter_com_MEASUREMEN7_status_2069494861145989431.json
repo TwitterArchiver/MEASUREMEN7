@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2069494861145989431",
+    "created_at": "2026-06-23T18:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T19:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069494861145989431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1677369315388174336",
+          "start": 3,
+          "username": "UR_Part_of_Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069494861145989431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069461951877693541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UR_Part_of_Me: 我真的很需要一个人能在我身边\n我现在已经碎掉了，就是一地碎玻璃渣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2069494861145989431",
+        "created_at": "2026-06-23T18:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069494861145989431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1677369315388174336",
+              "start": 3,
+              "username": "UR_Part_of_Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069494861145989431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069461951877693541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UR_Part_of_Me: 我真的很需要一个人能在我身边\n我现在已经碎掉了，就是一地碎玻璃渣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677369315388174336",
+        "conversation_id": "2069461951877693541",
+        "created_at": "2026-06-23T16:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069461951877693541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069461951877693541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很需要一个人能在我身边\n我现在已经碎掉了，就是一地碎玻璃渣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 157,
+          "like_count": 26477,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 5368
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T17:29:58.000Z",
+        "description": "爱听@soulboy_KFong 的04老头\n有事私信\n没事不互fo，蓝V也别来找我，不差这点钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "soulboy_KFong"
+              }
+            ]
+          }
+        },
+        "id": "1677369315388174336",
+        "location": "不存在于人间",
+        "name": "AAA人类观测员鱼蛋🍋",
+        "pinned_tweet_id": "2066560399248691284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065123731383660544/LZOT17ZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 122,
+          "like_count": 11351,
+          "listed_count": 2,
+          "media_count": 470,
+          "tweet_count": 4012
+        },
+        "url": "",
+        "username": "UR_Part_of_Me",
+        "verified": true
+      }
+    ]
+  }
+}

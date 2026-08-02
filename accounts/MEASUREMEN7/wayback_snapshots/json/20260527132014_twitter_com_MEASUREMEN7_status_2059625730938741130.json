@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2059485059699384767",
+    "created_at": "2026-05-27T13:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059625730938741130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557450235621695488",
+          "start": 0,
+          "username": "KBDYD555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059625730938741130",
+    "in_reply_to_user_id": "1557450235621695488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059485059699384767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBDYD555 这个确实，老是有这种人机来烦我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1407,
+        "media_key": "3_2059485055781933056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTCvyIbkAAf4qc.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059485056348069888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTCv0PaIAAiHIM.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2059485059699384767",
+        "created_at": "2026-05-27T13:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059625730938741130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059625730938741130",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059485059699384767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 这个确实，老是有这种人机来烦我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059485055781933056",
+            "3_2059485056348069888"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2059485059699384767",
+        "created_at": "2026-05-27T04:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059485059699384767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TDhNGsrBMN",
+              "end": 52,
+              "expanded_url": "https://x.com/KBDYD555/status/2059485059699384767/photo/1",
+              "media_key": "3_2059485055781933056",
+              "start": 29,
+              "url": "https://t.co/TDhNGsrBMN"
+            },
+            {
+              "display_url": "pic.x.com/TDhNGsrBMN",
+              "end": 52,
+              "expanded_url": "https://x.com/KBDYD555/status/2059485059699384767/photo/1",
+              "media_key": "3_2059485056348069888",
+              "start": 29,
+              "url": "https://t.co/TDhNGsrBMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059485059699384767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 483,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一看58条评论我就知道什么东西了一群....好烦这群人机 https://t.co/TDhNGsrBMN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 285,
+          "like_count": 25423,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 5238
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/鼠/狗/猫twt....互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 135,
+                "start": 126,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2031302686671515896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3848,
+          "following_count": 568,
+          "like_count": 4581,
+          "listed_count": 7,
+          "media_count": 965,
+          "tweet_count": 3545
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

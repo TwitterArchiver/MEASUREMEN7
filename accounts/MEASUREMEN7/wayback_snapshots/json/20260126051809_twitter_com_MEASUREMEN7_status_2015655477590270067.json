@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2014944616848753146",
+    "created_at": "2026-01-26T05:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T06:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015655477590270067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1886593038014930944",
+          "start": 0,
+          "username": "tatsuko1107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015655477590270067",
+    "in_reply_to_user_id": "1886593038014930944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014944616848753146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tatsuko1107 好主意啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2014944616848753146",
+        "created_at": "2026-01-26T05:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T06:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015655477590270067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1886593038014930944",
+              "start": 0,
+              "username": "tatsuko1107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015655477590270067",
+        "in_reply_to_user_id": "1886593038014930944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014944616848753146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatsuko1107 好主意啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886593038014930944",
+        "conversation_id": "2014944616848753146",
+        "created_at": "2026-01-24T06:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T07:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014944616848753146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014944616848753146",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前女友一直不願意舔我鸡巴 直到我往鸡巴上涂了右美莎芬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 365,
+          "like_count": 17409,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 3653
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T01:50:16.000Z",
+        "description": "你想表达什么",
+        "id": "1886593038014930944",
+        "name": "愛恨相增",
+        "pinned_tweet_id": "1903212009266794679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921137203813429248/ONRu6gCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 108,
+          "like_count": 19226,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 52
+        },
+        "username": "tatsuko1107",
+        "verified": false
+      }
+    ]
+  }
+}

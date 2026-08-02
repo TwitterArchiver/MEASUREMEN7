@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2022775617876562155",
+    "created_at": "2026-02-15T01:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T02:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022842136865984878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1446470666161508354",
+          "start": 0,
+          "username": "0812xxx_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022842136865984878",
+    "in_reply_to_user_id": "1446470666161508354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022775617876562155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0812xxx_ 很麻烦的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2022775617876562155",
+        "created_at": "2026-02-15T01:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T02:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022842136865984878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1446470666161508354",
+              "start": 0,
+              "username": "0812xxx_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022842136865984878",
+        "in_reply_to_user_id": "1446470666161508354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022775617876562155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0812xxx_ 很麻烦的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446470666161508354",
+        "conversation_id": "2022775617876562155",
+        "created_at": "2026-02-14T20:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T21:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022775617876562155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022775617876562155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦 对了 还有那个自称是b站什么内部公会的 要我去直播呢 我说我未成年 人家说特殊情况可以用家长实名播 我的天呐我觉得好不靠谱啊 但是他没有要会费啥的 我想我要不要播着试一下？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 422,
+          "like_count": 20357,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4284
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-08T13:41:10.000Z",
+        "description": "鸡那么美，我当然娶鸡",
+        "id": "1446470666161508354",
+        "name": "/ᐠ - ˕ -マ Ⳋ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984970675317284864/Cp2qTFGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 264,
+          "like_count": 1461,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 395
+        },
+        "username": "0812xxx_",
+        "verified": false
+      }
+    ]
+  }
+}

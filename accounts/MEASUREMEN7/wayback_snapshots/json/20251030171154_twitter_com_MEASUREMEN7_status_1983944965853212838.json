@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1983932191471235267",
+    "created_at": "2025-10-30T17:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T18:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983944965853212838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1873335855701790720",
+          "start": 0,
+          "username": "anew_some"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983944965853212838",
+    "in_reply_to_user_id": "1873335855701790720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983932191471235267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anew_some 有点像是遗言一样的发言啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1983932191471235267",
+        "created_at": "2025-10-30T17:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T18:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983944965853212838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1873335855701790720",
+              "start": 0,
+              "username": "anew_some"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983944965853212838",
+        "in_reply_to_user_id": "1873335855701790720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983932191471235267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anew_some 有点像是遗言一样的发言啊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873335855701790720",
+        "conversation_id": "1983932191471235267",
+        "created_at": "2025-10-30T16:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T17:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983932191471235267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983932191471235267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想 好好洗个热水澡，补个发色，打扫打扫房间，好好洗个脸，给猫放一次吃的，好好摸摸它\n喜欢的圈子淡坑了，朋友也不怎么联系了，以前想过上的日子也体验过了\n好像也没有什么可以值得留恋的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 347,
+          "like_count": 15700,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 2963
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T11:51:15.000Z",
+        "description": "活过这个冬天   \nbpd/ed\n🚪52                                              \n目的性关注❌  \n互fo私",
+        "id": "1873335855701790720",
+        "location": "🚪 52",
+        "name": "X_¿где-то",
+        "pinned_tweet_id": "1981738488811679782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952085174344404993/sZeeXIlc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 47,
+          "like_count": 8422,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 891
+        },
+        "username": "anew_some",
+        "verified": false
+      }
+    ]
+  }
+}

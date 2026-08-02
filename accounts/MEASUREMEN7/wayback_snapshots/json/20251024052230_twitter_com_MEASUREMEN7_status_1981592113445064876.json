@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1981592113445064876",
+    "created_at": "2025-10-24T05:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T06:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981592113445064876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1873335855701790720",
+          "start": 3,
+          "username": "anew_some"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/VJ7mB",
+          "end": 145,
+          "start": 127,
+          "url": "https://t.co/VJ7mB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981592113445064876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978678386739327074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anew_some: 可以叫我小祭\n接线上妈妈活/爸爸活 纯绿/半绿\n🚪52好友位\n100开放朋友圈\n150纯绿陪聊\n288陪聊+随机图包\n520半绿陪聊+定制(包括伤口定制)\n请过门问价，只回复口令\n暂时不接线下\n求转发&gt;&lt;谢谢！ https://t.co/VJ7mB…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1981592113445064876].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1981592113445064876",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1981592113445064876"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978678365130485760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3WtfVZacAA4Ke9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1978678365096914944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3WtfVRaMAAMjnm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978678365130485760",
+            "3_1978678365096914944"
+          ]
+        },
+        "author_id": "1873335855701790720",
+        "conversation_id": "1978678386739327074",
+        "created_at": "2025-10-16T04:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T05:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978678386739327074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VJ7mBFJbgb",
+              "end": 135,
+              "expanded_url": "https://x.com/anew_some/status/1978678386739327074/photo/1",
+              "media_key": "3_1978678365130485760",
+              "start": 112,
+              "url": "https://t.co/VJ7mBFJbgb"
+            },
+            {
+              "display_url": "pic.x.com/VJ7mBFJbgb",
+              "end": 135,
+              "expanded_url": "https://x.com/anew_some/status/1978678386739327074/photo/1",
+              "media_key": "3_1978678365096914944",
+              "start": 112,
+              "url": "https://t.co/VJ7mBFJbgb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978678386739327074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7373,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "可以叫我小祭\n接线上妈妈活/爸爸活 纯绿/半绿\n🚪52好友位\n100开放朋友圈\n150纯绿陪聊\n288陪聊+随机图包\n520半绿陪聊+定制(包括伤口定制)\n请过门问价，只回复口令\n暂时不接线下\n求转发&gt;&lt;谢谢！ https://t.co/VJ7mBFJbgb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 340,
+          "like_count": 14966,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 2772
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T11:51:15.000Z",
+        "description": "活过这个冬天   \nbpd/ed\n🚪52                                              \n目的性关注❌  \n互fo私",
+        "id": "1873335855701790720",
+        "location": "🚪 52",
+        "name": "X_¿где-то",
+        "pinned_tweet_id": "1978678386739327074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952085174344404993/sZeeXIlc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 47,
+          "like_count": 7897,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 838
+        },
+        "username": "anew_some",
+        "verified": false
+      }
+    ]
+  }
+}

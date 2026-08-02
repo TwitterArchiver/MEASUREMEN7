@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2030888140140093747",
+    "created_at": "2026-03-09T06:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T07:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030889217258135756"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030889217258135756",
+    "in_reply_to_user_id": "1888239230020661248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030888674590601243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "偏爱把荒诞点燃消磨成一道烟，爱在黎明离开前环绕在你的脖颈。你偏爱一种死寂，真实，触目惊心的灵魂，偏爱他的坦荡，油脂和深沉。偏爱把沉默说出口，在一个句号之后思量未来。你偏爱木头的质地更甚铁的激情，偏爱他能够被燃烧，举起，在深夜里化作一盏灯。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2030888140140093747",
+        "created_at": "2026-03-09T06:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T07:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030889217258135756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030889217258135756",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030888674590601243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "偏爱把荒诞点燃消磨成一道烟，爱在黎明离开前环绕在你的脖颈。你偏爱一种死寂，真实，触目惊心的灵魂，偏爱他的坦荡，油脂和深沉。偏爱把沉默说出口，在一个句号之后思量未来。你偏爱木头的质地更甚铁的激情，偏爱他能够被燃烧，举起，在深夜里化作一盏灯。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2030888140140093747",
+        "created_at": "2026-03-09T06:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T07:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030888674590601243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030888674590601243",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030888492960465292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而最可贵，是迎接着他们的发生在逐渐冷漠时保有心中的存粹和爱，生活不过是一条碎梦大道，碎裂的梦会割伤你，你以冷漠作为盔甲，抵御他们的伤害，却从不曾忘记心中的爱才是驱使你前进的动力。因此你偏爱晨星的闪烁，万物的寂寥。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 434,
+          "like_count": 23330,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4814
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      }
+    ]
+  }
+}

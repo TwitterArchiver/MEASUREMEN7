@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1946449539843662229",
+    "created_at": "2025-07-20T16:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T17:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946968082393506082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1569966034035134464",
+          "start": 0,
+          "username": "sukixi_ovo"
+        },
+        {
+          "end": 25,
+          "id": "1762050911332081664",
+          "start": 12,
+          "username": "BucketFallen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946968082393506082",
+    "in_reply_to_user_id": "1569966034035134464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946953695222264163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sukixi_ovo @BucketFallen 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1946449539843662229",
+        "created_at": "2025-07-20T16:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T17:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946968082393506082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569966034035134464",
+              "start": 0,
+              "username": "sukixi_ovo"
+            },
+            {
+              "end": 25,
+              "id": "1762050911332081664",
+              "start": 12,
+              "username": "BucketFallen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946968082393506082",
+        "in_reply_to_user_id": "1569966034035134464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946953695222264163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sukixi_ovo @BucketFallen 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569966034035134464",
+        "conversation_id": "1946449539843662229",
+        "created_at": "2025-07-20T15:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T16:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946953695222264163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1762050911332081664",
+              "start": 0,
+              "username": "BucketFallen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946953695222264163",
+        "in_reply_to_user_id": "1762050911332081664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946449539843662229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BucketFallen 16歲 休學 原生家庭痛苦 最近在得抑鬱症 現實0朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 344,
+          "like_count": 5110,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 973
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T08:27:37.000Z",
+        "description": "小惜/セキ丨shtwt丨病み垢丨我只想變成透明消失在這個世界和所有人的視線裡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/70514062Sd9aZ",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/70514062Sd9aZ",
+                "start": 0,
+                "url": "https://t.co/W6VG0bHf1j"
+              }
+            ]
+          }
+        },
+        "id": "1569966034035134464",
+        "location": "歌舞伎町",
+        "name": "可塑性人格",
+        "pinned_tweet_id": "1944105592580452853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870634739520135168/nt3RQBjy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4397,
+          "following_count": 138,
+          "like_count": 730,
+          "listed_count": 7,
+          "media_count": 100,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/W6VG0bHf1j",
+        "username": "sukixi_ovo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-26T09:44:15.000Z",
+        "description": "一个勤劳淳朴的湖北农民 Introvert nerd coomer edgylord loser",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rez331.straw.page",
+                "end": 23,
+                "expanded_url": "https://rez331.straw.page",
+                "start": 0,
+                "url": "https://t.co/vHuBpTCNle"
+              }
+            ]
+          }
+        },
+        "id": "1762050911332081664",
+        "location": "18岁",
+        "name": "进击的退步b",
+        "pinned_tweet_id": "1946911640311755162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944810777480978433/VtKe9LuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 462,
+          "like_count": 1256,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1124
+        },
+        "url": "https://t.co/vHuBpTCNle",
+        "username": "BucketFallen",
+        "verified": false
+      }
+    ]
+  }
+}

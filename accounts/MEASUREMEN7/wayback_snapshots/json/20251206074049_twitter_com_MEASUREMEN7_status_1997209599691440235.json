@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996913799723687936"
+      ],
+      "media_source_tweet_id": [
+        "1996913807617413286"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1997209599691440235",
+    "created_at": "2025-12-06T07:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T08:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997209599691440235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1911458837107732480",
+          "start": 3,
+          "username": "kanameranaswly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kvOWcocU3Q",
+          "end": 61,
+          "expanded_url": "https://x.com/kanameranaswly/status/1996913807617413286/photo/1",
+          "media_key": "3_1996913799723687936",
+          "start": 38,
+          "url": "https://t.co/kvOWcocU3Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997209599691440235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996913807617413286",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanameranaswly: 你们觉得喜欢4爱还能被称为直男吗🙃 https://t.co/kvOWcocU3Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1996913799723687936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Z2hU-bIAA6dBQ.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996913799723687936"
+          ],
+          "media_source_tweet_id": [
+            "1996913807617413286"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1997209599691440235",
+        "created_at": "2025-12-06T07:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T08:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997209599691440235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1911458837107732480",
+              "start": 3,
+              "username": "kanameranaswly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kvOWcocU3Q",
+              "end": 61,
+              "expanded_url": "https://x.com/kanameranaswly/status/1996913807617413286/photo/1",
+              "media_key": "3_1996913799723687936",
+              "start": 38,
+              "url": "https://t.co/kvOWcocU3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997209599691440235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996913807617413286",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanameranaswly: 你们觉得喜欢4爱还能被称为直男吗🙃 https://t.co/kvOWcocU3Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996913799723687936"
+          ]
+        },
+        "author_id": "1911458837107732480",
+        "conversation_id": "1996913807617413286",
+        "created_at": "2025-12-05T12:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T13:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996913807617413286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kvOWcocU3Q",
+              "end": 41,
+              "expanded_url": "https://x.com/kanameranaswly/status/1996913807617413286/photo/1",
+              "media_key": "3_1996913799723687936",
+              "start": 18,
+              "url": "https://t.co/kvOWcocU3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996913807617413286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 73512,
+          "like_count": 828,
+          "quote_count": 6,
+          "reply_count": 49,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "你们觉得喜欢4爱还能被称为直男吗🙃 https://t.co/kvOWcocU3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 366,
+          "like_count": 17016,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 3391
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T16:39:04.000Z",
+        "description": "过气指挥官，支持🇺🇦🇮🇱的老右德棍🇩🇪与HK416厨，偶尔键政的右翼份子，国内的事情无所谓了，但对于国外是反俄反苏反绿反康米，支持大德意志方案，德黑全家死光（可能是改良型民族社会主义者，5分威权5分自由）岁静游戏宅，想成为要乐奈一样无忧无虑的孩子（中文，JapOK，English苦手，Deutsch学习中）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mzh.moegirl.org.cn/%E5%B0%91%E5%A…",
+                "end": 23,
+                "expanded_url": "https://mzh.moegirl.org.cn/%E5%B0%91%E5%A5%B3%E5%89%8D%E7%BA%BF:HK416",
+                "start": 0,
+                "url": "https://t.co/7u7GR9qL0o"
+              }
+            ]
+          }
+        },
+        "id": "1911458837107732480",
+        "location": "团结协定-大日耳曼国-日耳曼尼亚/汉堡-HK416的怀里",
+        "name": "✙守望莱茵的乐奈✙🇩🇪🇦🇹",
+        "pinned_tweet_id": "1982328137875894693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990682812614389764/A4HZ_5_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 573,
+          "like_count": 8489,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 1172
+        },
+        "url": "https://t.co/7u7GR9qL0o",
+        "username": "kanameranaswly",
+        "verified": false
+      }
+    ]
+  }
+}

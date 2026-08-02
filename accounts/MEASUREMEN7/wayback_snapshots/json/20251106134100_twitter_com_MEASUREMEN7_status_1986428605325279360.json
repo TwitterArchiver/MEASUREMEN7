@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1986428079091437984",
+    "created_at": "2025-11-06T13:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T14:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986428605325279360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844290406391103488",
+          "start": 0,
+          "username": "qhqq114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986428605325279360",
+    "in_reply_to_user_id": "1844290406391103488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986428079091437984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qhqq114514 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986427915584905216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5E1qihboAAypRa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986427915622621184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5E1qiqbIAAmZFv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1986428079091437984",
+        "created_at": "2025-11-06T13:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T14:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986428605325279360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844290406391103488",
+              "start": 0,
+              "username": "qhqq114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986428605325279360",
+        "in_reply_to_user_id": "1844290406391103488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986428079091437984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qhqq114514 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986427915584905216",
+            "3_1986427915622621184"
+          ]
+        },
+        "author_id": "1844290406391103488",
+        "conversation_id": "1986428079091437984",
+        "created_at": "2025-11-06T13:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T14:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986428079091437984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IZbYdF4HKZ",
+              "end": 31,
+              "expanded_url": "https://x.com/qhqq114514/status/1986428079091437984/photo/1",
+              "media_key": "3_1986427915584905216",
+              "start": 8,
+              "url": "https://t.co/IZbYdF4HKZ"
+            },
+            {
+              "display_url": "pic.x.com/IZbYdF4HKZ",
+              "end": 31,
+              "expanded_url": "https://x.com/qhqq114514/status/1986428079091437984/photo/1",
+              "media_key": "3_1986427915622621184",
+              "start": 8,
+              "url": "https://t.co/IZbYdF4HKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986428079091437984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个人一直在画 https://t.co/IZbYdF4HKZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 344,
+          "like_count": 16160,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 3102
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T08:14:42.000Z",
+        "description": "私：@TokiyukiSAMAAAA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TokiyukiSAMAAAA"
+              }
+            ]
+          }
+        },
+        "id": "1844290406391103488",
+        "location": "Osaka-fu, Japan",
+        "name": "命运石之门",
+        "pinned_tweet_id": "1858736060181914065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935412494022922240/qCqdwfLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 274,
+          "like_count": 1931,
+          "listed_count": 3,
+          "media_count": 186,
+          "tweet_count": 3355
+        },
+        "username": "qhqq114514",
+        "verified": false
+      }
+    ]
+  }
+}

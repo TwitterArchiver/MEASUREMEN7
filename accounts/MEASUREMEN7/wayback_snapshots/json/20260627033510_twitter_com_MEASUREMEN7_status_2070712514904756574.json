@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2070475608933724632",
+    "created_at": "2026-06-27T03:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T04:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070712514904756574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2015195372457730048",
+          "start": 0,
+          "username": "od2856742024108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070712514904756574",
+    "in_reply_to_user_id": "2015195372457730048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070475608933724632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od2856742024108 全是严重超标啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2070475576461373440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvOkSMaMAAdFg9.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2070475608933724632",
+        "created_at": "2026-06-27T03:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070712514904756574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2015195372457730048",
+              "start": 0,
+              "username": "od2856742024108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070712514904756574",
+        "in_reply_to_user_id": "2015195372457730048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070475608933724632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od2856742024108 全是严重超标啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070475576461373440"
+          ]
+        },
+        "author_id": "2015195372457730048",
+        "conversation_id": "2070475608933724632",
+        "created_at": "2026-06-26T11:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070475608933724632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QyJtYmo9tv",
+              "end": 32,
+              "expanded_url": "https://x.com/od2856742024108/status/2070475608933724632/photo/1",
+              "media_key": "3_2070475576461373440",
+              "start": 9,
+              "url": "https://t.co/QyJtYmo9tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070475608933724632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有點沒招了。。。 https://t.co/QyJtYmo9tv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 174,
+          "like_count": 27154,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 5443
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T22:50:04.000Z",
+        "description": "那只好再見吧 眼淚要落下來了",
+        "id": "2015195372457730048",
+        "name": "Столетнее яйцо反od",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015195548098416640/u-pn3SkV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 109,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "od2856742024108",
+        "verified": false
+      }
+    ]
+  }
+}

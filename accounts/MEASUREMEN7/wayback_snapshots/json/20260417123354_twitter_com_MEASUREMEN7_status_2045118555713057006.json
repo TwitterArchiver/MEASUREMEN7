@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2045112267365392589",
+    "created_at": "2026-04-17T12:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045118555713057006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2032744913981550595",
+          "start": 0,
+          "username": "yuyu177570"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045118555713057006",
+    "in_reply_to_user_id": "2032744913981550595",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045112267365392589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyu177570 世界第一萌！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2045112267365392589].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2045112267365392589",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2045112267365392589"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2045112267365392589",
+        "created_at": "2026-04-17T12:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045118555713057006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2032744913981550595",
+              "start": 0,
+              "username": "yuyu177570"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045118555713057006",
+        "in_reply_to_user_id": "2032744913981550595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045112267365392589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyu177570 世界第一萌！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 285,
+          "like_count": 25191,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 5138
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T09:06:30.000Z",
+        "description": "中國語○ ｜日本語○ ｜Eng ○｜♀｜無言フォロー·いいね失礼&大歓迎｜dm○",
+        "id": "2032744913981550595",
+        "name": "ゆゆ",
+        "pinned_tweet_id": "2043275628288557201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043166028084195328/fVaSql9c_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 76,
+          "like_count": 524,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 150
+        },
+        "username": "yuyu177570",
+        "verified": false
+      }
+    ]
+  }
+}

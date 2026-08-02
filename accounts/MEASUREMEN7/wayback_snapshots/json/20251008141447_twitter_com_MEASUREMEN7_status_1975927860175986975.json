@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1975925697802649681",
+    "created_at": "2025-10-08T14:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T15:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975927860175986975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771230355896561664",
+          "start": 0,
+          "username": "in2dkira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975927860175986975",
+    "in_reply_to_user_id": "1771230355896561664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975925697802649681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@in2dkira 购物车里这个在哪买的，我怎么到处都没找到🤔️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975925684385296384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2vl8OhbMAAvUHv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1975925697802649681",
+        "created_at": "2025-10-08T14:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T15:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975927860175986975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771230355896561664",
+              "start": 0,
+              "username": "in2dkira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975927860175986975",
+        "in_reply_to_user_id": "1771230355896561664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975925697802649681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@in2dkira 购物车里这个在哪买的，我怎么到处都没找到🤔️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975925684385296384"
+          ]
+        },
+        "author_id": "1771230355896561664",
+        "conversation_id": "1975925697802649681",
+        "created_at": "2025-10-08T14:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T15:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975925697802649681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VtCcEmLkA3",
+              "end": 34,
+              "expanded_url": "https://x.com/in2dkira/status/1975925697802649681/photo/1",
+              "media_key": "3_1975925684385296384",
+              "start": 11,
+              "url": "https://t.co/VtCcEmLkA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975925697802649681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "丢失一只100元拖鞋 https://t.co/VtCcEmLkA3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 439,
+          "like_count": 12852,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 2243
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T17:40:16.000Z",
+        "description": "前@Akira_10190208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 1,
+                "username": "Akira_10190208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/y20QcgJ",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/y20QcgJ",
+                "start": 0,
+                "url": "https://t.co/6QBGLH6G9I"
+              }
+            ]
+          }
+        },
+        "id": "1771230355896561664",
+        "location": "奈落",
+        "name": "Akira 源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966577490660605953/ofAloJra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 129,
+          "like_count": 5169,
+          "listed_count": 2,
+          "media_count": 447,
+          "tweet_count": 2069
+        },
+        "url": "https://t.co/6QBGLH6G9I",
+        "username": "in2dkira",
+        "verified": false
+      }
+    ]
+  }
+}

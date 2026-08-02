@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1978037127855104325",
+    "created_at": "2025-10-14T09:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T10:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978037631540719735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1969428876213567489",
+          "start": 0,
+          "username": "q1079263086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978037631540719735",
+    "in_reply_to_user_id": "1969428876213567489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978037127855104325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q1079263086 好健康的作息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1978037127855104325",
+        "created_at": "2025-10-14T09:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T10:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978037631540719735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1969428876213567489",
+              "start": 0,
+              "username": "q1079263086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978037631540719735",
+        "in_reply_to_user_id": "1969428876213567489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978037127855104325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q1079263086 好健康的作息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969428876213567489",
+        "conversation_id": "1978037127855104325",
+        "created_at": "2025-10-14T09:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T10:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978037127855104325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978037127855104325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关可以加我微信但是我没朋友圈，我们可以晚上打电话，我一般0～4点高度在线，再晚也有可能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 452,
+          "like_count": 13845,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 2495
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T15:50:15.000Z",
+        "description": "=有机毒 欢迎小女孩互fo交朋友 🚪88/128/188/520/无上限",
+        "id": "1969428876213567489",
+        "location": "still alive",
+        "name": "无机物持续造成魔法攻击中",
+        "pinned_tweet_id": "1970878986776457277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977406412406894592/JqYmqBMM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 44,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 256
+        },
+        "username": "q1079263086",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1944752416605470981",
+    "created_at": "2025-07-14T13:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T14:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944755922053841127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1873626175706484736",
+          "start": 0,
+          "username": "Dark_d_b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944755922053841127",
+    "in_reply_to_user_id": "1873626175706484736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944752416605470981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dark_d_b 黒い肌は健康的で可愛く見える"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1944752406648283136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv0mApZbYAAwmnd.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1944752416605470981",
+        "created_at": "2025-07-14T13:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T14:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944755922053841127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1873626175706484736",
+              "start": 0,
+              "username": "Dark_d_b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944755922053841127",
+        "in_reply_to_user_id": "1873626175706484736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944752416605470981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dark_d_b 黒い肌は健康的で可愛く見える"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944752406648283136"
+          ]
+        },
+        "author_id": "1873626175706484736",
+        "conversation_id": "1944752416605470981",
+        "created_at": "2025-07-14T13:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T14:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944752416605470981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VKL0RPuMLe",
+              "end": 53,
+              "expanded_url": "https://x.com/Dark_d_b/status/1944752416605470981/photo/1",
+              "media_key": "3_1944752406648283136",
+              "start": 30,
+              "url": "https://t.co/VKL0RPuMLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944752416605470981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "服バカおおきすぎてしぬぅ‼️\n肌くろなりすぎててしぬぅ‼️ https://t.co/VKL0RPuMLe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 254,
+          "like_count": 3531,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 709
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T07:04:46.000Z",
+        "description": "\\自傷・病み・下ネタ垢/\\未成年/\\LGBTQ+/👧",
+        "id": "1873626175706484736",
+        "name": "くだです。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888724619475234816/nw9FO63C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 205,
+          "like_count": 1482,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 425
+        },
+        "username": "Dark_d_b",
+        "verified": false
+      }
+    ]
+  }
+}

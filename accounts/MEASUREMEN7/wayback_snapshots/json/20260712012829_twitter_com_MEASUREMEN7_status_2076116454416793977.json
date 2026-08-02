@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2076034247513759996",
+    "created_at": "2026-07-12T01:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T02:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076116454416793977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822985913884180480",
+          "start": 0,
+          "username": "SickChickVinyl0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076116454416793977",
+    "in_reply_to_user_id": "1822985913884180480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076034247513759996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SickChickVinyl0 昊龙昊龙，在世真龙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2076034247513759996",
+        "created_at": "2026-07-12T01:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T02:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076116454416793977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822985913884180480",
+              "start": 0,
+              "username": "SickChickVinyl0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076116454416793977",
+        "in_reply_to_user_id": "1822985913884180480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076034247513759996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SickChickVinyl0 昊龙昊龙，在世真龙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822985913884180480",
+        "conversation_id": "2076034247513759996",
+        "created_at": "2026-07-11T20:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T21:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076034247513759996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076034247513759996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在用许昊龙的身份证买药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 175,
+          "like_count": 27828,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 5523
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T13:18:17.000Z",
+        "description": "梦和梦联结的睡下，人和人正在杀我",
+        "id": "1822985913884180480",
+        "name": "Reptilian！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065586774756470785/UqIlfLpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 97,
+          "like_count": 1200,
+          "listed_count": 1,
+          "media_count": 319,
+          "tweet_count": 1849
+        },
+        "url": "",
+        "username": "SickChickVinyl0",
+        "verified": false
+      }
+    ]
+  }
+}

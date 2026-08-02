@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1996220895308706038",
+    "created_at": "2025-12-04T06:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T07:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996461473644859736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1787714778116272128",
+          "start": 0,
+          "username": "La_reflexion000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996461473644859736",
+    "in_reply_to_user_id": "1787714778116272128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996220895308706038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@La_reflexion000 这是稍微化妆了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3566,
+        "height": 1280,
+        "media_key": "13_1996220828825108480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996220828825108480/img/6Okrt_419swC5bxN.jpg",
+        "public_metrics": {
+          "view_count": 53
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996220828825108480/vid/avc1/320x694/A2H1v-wbDGDOvml4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996220828825108480/vid/avc1/480x1040/gJ3UG19uvY_jqZ-q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996220828825108480/vid/avc1/590x1280/YpWflaH2Lz1ZC099.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996220828825108480/pl/bkw8riEj5u9qdlWZ.m3u8"
+          }
+        ],
+        "width": 590
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996220828770553856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QARHAa0AALMVv.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1996220895308706038",
+        "created_at": "2025-12-04T06:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T07:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996461473644859736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1787714778116272128",
+              "start": 0,
+              "username": "La_reflexion000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996461473644859736",
+        "in_reply_to_user_id": "1787714778116272128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996220895308706038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@La_reflexion000 这是稍微化妆了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996220828825108480",
+            "3_1996220828770553856"
+          ]
+        },
+        "author_id": "1787714778116272128",
+        "conversation_id": "1996220895308706038",
+        "created_at": "2025-12-03T14:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996220895308706038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rfh0EWKr6b",
+              "end": 28,
+              "expanded_url": "https://x.com/La_reflexion000/status/1996220895308706038/video/1",
+              "media_key": "13_1996220828825108480",
+              "start": 5,
+              "url": "https://t.co/rfh0EWKr6b"
+            },
+            {
+              "display_url": "pic.x.com/rfh0EWKr6b",
+              "end": 28,
+              "expanded_url": "https://x.com/La_reflexion000/status/1996220895308706038/video/1",
+              "media_key": "3_1996220828770553856",
+              "start": 5,
+              "url": "https://t.co/rfh0EWKr6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996220895308706038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "意識形態 https://t.co/rfh0EWKr6b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 363,
+          "like_count": 16926,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 3362
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T05:23:27.000Z",
+        "description": "psychoanalysis psycho/🚪23",
+        "id": "1787714778116272128",
+        "location": "real",
+        "name": "mirroflets la reflexion",
+        "pinned_tweet_id": "1982376252368675164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852378891295318016/cvxy3szE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 187,
+          "like_count": 2169,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1278
+        },
+        "username": "La_reflexion000",
+        "verified": false
+      }
+    ]
+  }
+}

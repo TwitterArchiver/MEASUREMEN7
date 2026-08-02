@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1955938903095173558",
+    "created_at": "2025-08-14T11:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T12:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955959714526704066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1639664012907429890",
+          "start": 0,
+          "username": "Je1nFaur_l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955959714526704066",
+    "in_reply_to_user_id": "1639664012907429890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955938903095173558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Je1nFaur_l 还好我没有朋友，见不到这种事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1955938903095173558",
+        "created_at": "2025-08-14T11:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T12:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955959714526704066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1639664012907429890",
+              "start": 0,
+              "username": "Je1nFaur_l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955959714526704066",
+        "in_reply_to_user_id": "1639664012907429890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955938903095173558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Je1nFaur_l 还好我没有朋友，见不到这种事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639664012907429890",
+        "conversation_id": "1955938903095173558",
+        "created_at": "2025-08-14T10:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T11:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955938903095173558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955938903095173558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了朋友圈里有个14岁女生骂12，13岁的人低龄。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 381,
+          "like_count": 7860,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1377
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-25T16:22:49.000Z",
+        "description": "我是Mio大王 叫我澪澪 宅女一枚呀\n不陪不熟的人聊不谈恋爱不约炮什么都不做 没有照片不用翻了谢谢 取关随意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "roph.net",
+                "end": 23,
+                "expanded_url": "http://roph.net",
+                "start": 0,
+                "url": "https://t.co/OWAnp7Jbc6"
+              }
+            ]
+          }
+        },
+        "id": "1639664012907429890",
+        "location": "Le Monde",
+        "name": "澪澪大王",
+        "pinned_tweet_id": "1939326757410349487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781719164769726464/I0Oci5da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 2868,
+          "like_count": 94304,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 7160
+        },
+        "url": "https://t.co/OWAnp7Jbc6",
+        "username": "Je1nFaur_l",
+        "verified": false
+      }
+    ]
+  }
+}

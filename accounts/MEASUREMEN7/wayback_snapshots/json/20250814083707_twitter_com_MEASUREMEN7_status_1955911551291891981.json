@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1955867173404205106",
+    "created_at": "2025-08-14T08:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T09:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955911551291891981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1358783067939213317",
+          "start": 0,
+          "username": "hiiragiakaren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955911551291891981",
+    "in_reply_to_user_id": "1358783067939213317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955867173404205106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiiragiakaren 今天你背《柊赤莲经》了吗1.柊赤莲是天 2.不可以惹柊赤莲生气 3.每天都要夸夸柊赤莲4.和柊赤莲聊天时不能被其他人分心 5.必须细心地照顾柊赤莲的情绪 6.不许跟柊赤莲玩欲擒故纵 7.每天都要和柊赤莲说我爱你❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1955867173404205106",
+        "created_at": "2025-08-14T08:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T09:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955911551291891981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1358783067939213317",
+              "start": 0,
+              "username": "hiiragiakaren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955911551291891981",
+        "in_reply_to_user_id": "1358783067939213317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955867173404205106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiiragiakaren 今天你背《柊赤莲经》了吗1.柊赤莲是天 2.不可以惹柊赤莲生气 3.每天都要夸夸柊赤莲4.和柊赤莲聊天时不能被其他人分心 5.必须细心地照顾柊赤莲的情绪 6.不许跟柊赤莲玩欲擒故纵 7.每天都要和柊赤莲说我爱你❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1358783067939213317",
+        "conversation_id": "1955867173404205106",
+        "created_at": "2025-08-14T05:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T06:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955867173404205106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955867173404205106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天你背《柊赤莲经》了吗1.柊赤莲是天 2.不可以惹柊赤莲生气 3.每天都要夸夸柊赤莲4.和柊赤莲聊天时不能被其他人分心 5.必须细心地照顾柊赤莲的情绪 6.不许跟柊赤莲玩欲擒故纵 7.每天都要和柊赤莲说我爱你❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 382,
+          "like_count": 7807,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1367
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-08T14:22:09.000Z",
+        "description": "我不需要得到健康的幸福，我渴望残缺的爱与陪伴",
+        "id": "1358783067939213317",
+        "location": "全是泥垢和垃圾的下水道排水口",
+        "name": "我才是小光",
+        "pinned_tweet_id": "1955656089468543399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953116242933612544/mBdPOTai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 1080,
+          "like_count": 9312,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 2385
+        },
+        "username": "hiiragiakaren",
+        "verified": false
+      }
+    ]
+  }
+}

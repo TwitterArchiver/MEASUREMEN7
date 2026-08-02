@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023144842470273024"
+      ],
+      "media_source_tweet_id": [
+        "2023144845020483686"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2023284407683956888",
+    "created_at": "2026-02-16T06:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T07:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023284407683956888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951579983551528961",
+          "start": 3,
+          "username": "Loverp1c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PYVmSegzlj",
+          "end": 37,
+          "expanded_url": "https://x.com/Loverp1c/status/2023144845020483686/photo/1",
+          "media_key": "3_2023144842470273024",
+          "start": 14,
+          "url": "https://t.co/PYVmSegzlj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023284407683956888",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1268
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023144845020483686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Loverp1c: https://t.co/PYVmSegzlj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 985,
+        "media_key": "3_2023144842470273024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBOng-CasAA2gho.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023144842470273024"
+          ],
+          "media_source_tweet_id": [
+            "2023144845020483686"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2023284407683956888",
+        "created_at": "2026-02-16T06:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023284407683956888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951579983551528961",
+              "start": 3,
+              "username": "Loverp1c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PYVmSegzlj",
+              "end": 37,
+              "expanded_url": "https://x.com/Loverp1c/status/2023144845020483686/photo/1",
+              "media_key": "3_2023144842470273024",
+              "start": 14,
+              "url": "https://t.co/PYVmSegzlj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023284407683956888",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1268
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023144845020483686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Loverp1c: https://t.co/PYVmSegzlj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023144842470273024"
+          ]
+        },
+        "author_id": "1951579983551528961",
+        "conversation_id": "2023144845020483686",
+        "created_at": "2026-02-15T21:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T22:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023144845020483686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PYVmSegzlj",
+              "end": 23,
+              "expanded_url": "https://x.com/Loverp1c/status/2023144845020483686/photo/1",
+              "media_key": "3_2023144842470273024",
+              "start": 0,
+              "url": "https://t.co/PYVmSegzlj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023144845020483686",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1153,
+          "impression_count": 233143,
+          "like_count": 13594,
+          "quote_count": 55,
+          "reply_count": 22,
+          "retweet_count": 1268
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PYVmSegzlj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 423,
+          "like_count": 20679,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4365
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T09:45:17.000Z",
+        "description": "",
+        "id": "1951579983551528961",
+        "name": "𐕣",
+        "pinned_tweet_id": "2023123569937424657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017040454316150788/NHkCD8eE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10461,
+          "following_count": 341,
+          "like_count": 1467,
+          "listed_count": 12,
+          "media_count": 60,
+          "tweet_count": 118
+        },
+        "username": "Loverp1c",
+        "verified": true
+      }
+    ]
+  }
+}

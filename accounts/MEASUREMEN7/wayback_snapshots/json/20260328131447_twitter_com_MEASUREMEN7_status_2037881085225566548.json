@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2037515350460547126",
+    "created_at": "2026-03-28T13:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T14:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037881085225566548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1787714778116272128",
+          "start": 0,
+          "username": "La_reflexion000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037881085225566548",
+    "in_reply_to_user_id": "1787714778116272128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037515350460547126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@La_reflexion000 很棒呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2037515350460547126",
+        "created_at": "2026-03-28T13:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037881085225566548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1787714778116272128",
+              "start": 0,
+              "username": "La_reflexion000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037881085225566548",
+        "in_reply_to_user_id": "1787714778116272128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037515350460547126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@La_reflexion000 很棒呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787714778116272128",
+        "conversation_id": "2037515350460547126",
+        "created_at": "2026-03-27T13:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037515350460547126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/animalpopular9…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/animalpopular9/status/2037436698502770712",
+              "start": 7,
+              "url": "https://t.co/i7a98wiE5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037515350460547126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037436698502770712",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想变成小兔子 https://t.co/i7a98wiE5E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 278,
+          "like_count": 24468,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 4994
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T05:23:27.000Z",
+        "description": "梦游的幽灵 生与死 在与不在 意义与无意义",
+        "id": "1787714778116272128",
+        "location": "Real",
+        "name": "Mirruflex",
+        "pinned_tweet_id": "2033505716645036465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036779967158403073/z_x9Ce6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 241,
+          "like_count": 3656,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 1857
+        },
+        "username": "La_reflexion000",
+        "verified": false
+      }
+    ]
+  }
+}

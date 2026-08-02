@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1982122527075004547",
+    "created_at": "2025-10-25T16:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T17:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982127358296375722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1095933386865045505",
+          "start": 0,
+          "username": "xiaohanXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982127358296375722",
+    "in_reply_to_user_id": "1095933386865045505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982122527075004547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaohanXX 或许是吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982122492241002496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Hp56tWQAA08kK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1982122527075004547",
+        "created_at": "2025-10-25T16:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T17:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982127358296375722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1095933386865045505",
+              "start": 0,
+              "username": "xiaohanXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982127358296375722",
+        "in_reply_to_user_id": "1095933386865045505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982122527075004547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohanXX 或许是吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982122492241002496"
+          ]
+        },
+        "author_id": "1095933386865045505",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1982122527075004547",
+        "created_at": "2025-10-25T16:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T17:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982122527075004547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f70bM4kOKC",
+              "end": 55,
+              "expanded_url": "https://x.com/xiaohanXX/status/1982122527075004547/photo/1",
+              "media_key": "3_1982122492241002496",
+              "start": 32,
+              "url": "https://t.co/f70bM4kOKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982122527075004547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉 我们到底是不是那种可以和你讲好无聊让你陪陪我这种话的关系啊 https://t.co/f70bM4kOKC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 342,
+          "like_count": 15132,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 2812
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-14T06:30:55.000Z",
+        "description": "挑战在30岁之前结婚",
+        "id": "1095933386865045505",
+        "name": "橡皮筋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959667275000348672/AVjo_NZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 25,
+          "like_count": 229,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 75
+        },
+        "username": "xiaohanXX",
+        "verified": false
+      }
+    ]
+  }
+}

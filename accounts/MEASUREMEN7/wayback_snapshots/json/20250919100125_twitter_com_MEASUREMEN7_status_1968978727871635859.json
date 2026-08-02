@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1968966510480699732",
+    "created_at": "2025-09-19T10:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T11:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968978727871635859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850566498412318720",
+          "start": 0,
+          "username": "luobo4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968978727871635859",
+    "in_reply_to_user_id": "1850566498412318720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968966510480699732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobo4444 逆天"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968966500645294080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Msma2bUAAU7UI.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968966500557131776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1MsmahaEAADJsP.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968966500586582016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1MsmaobcAAW9ZU.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1968966510480699732",
+        "created_at": "2025-09-19T10:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T11:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968978727871635859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850566498412318720",
+              "start": 0,
+              "username": "luobo4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968978727871635859",
+        "in_reply_to_user_id": "1850566498412318720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968966510480699732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobo4444 逆天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968966500645294080",
+            "3_1968966500557131776",
+            "3_1968966500586582016"
+          ]
+        },
+        "author_id": "1850566498412318720",
+        "conversation_id": "1968966510480699732",
+        "created_at": "2025-09-19T09:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T10:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968966510480699732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v9I6vUxD0L",
+              "end": 103,
+              "expanded_url": "https://x.com/luobo4444/status/1968966510480699732/photo/1",
+              "media_key": "3_1968966500645294080",
+              "start": 80,
+              "url": "https://t.co/v9I6vUxD0L"
+            },
+            {
+              "display_url": "pic.x.com/v9I6vUxD0L",
+              "end": 103,
+              "expanded_url": "https://x.com/luobo4444/status/1968966510480699732/photo/1",
+              "media_key": "3_1968966500557131776",
+              "start": 80,
+              "url": "https://t.co/v9I6vUxD0L"
+            },
+            {
+              "display_url": "pic.x.com/v9I6vUxD0L",
+              "end": 103,
+              "expanded_url": "https://x.com/luobo4444/status/1968966510480699732/photo/1",
+              "media_key": "3_1968966500586582016",
+              "start": 80,
+              "url": "https://t.co/v9I6vUxD0L"
+            },
+            {
+              "display_url": "x.com/luobo4444/stat…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/luobo4444/status/1961775031270400419",
+              "start": 104,
+              "url": "https://t.co/bWpv9lreYx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968966510480699732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961775031270400419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【柊赤莲】全网马甲！！\n【喜欢对地雷女下手的恶俗意淫宅男哥】\nQQ：259648282 微信：syx3561252\np1是推特主页，p2、3是他女朋友做的瓜条 https://t.co/v9I6vUxD0L https://t.co/bWpv9lreYx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 397,
+          "like_count": 9706,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1717
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "ig： yanyan_kawa1｜06｜中推圈的大家都叫我萝卜哥｜v128看我在朋友圈刷屏｜和你想象中不一样很抱歉｜现充版本@luobodoul｜提问箱https://t.co/7PLNNU5F9q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "luobodoul"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yanyan_kwaii",
+                "end": 99,
+                "expanded_url": "https://ngl.link/yanyan_kwaii",
+                "start": 76,
+                "url": "https://t.co/7PLNNU5F9q"
+              }
+            ]
+          }
+        },
+        "id": "1850566498412318720",
+        "location": "我要做一个流着泪说完蛋了 但是依旧迎难而上的人",
+        "name": "hara",
+        "pinned_tweet_id": "1956533495397781880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938181651831656448/nddFGYZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7684,
+          "following_count": 471,
+          "like_count": 3778,
+          "listed_count": 10,
+          "media_count": 524,
+          "tweet_count": 2776
+        },
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

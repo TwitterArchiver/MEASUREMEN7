@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1976234939319529601",
+    "created_at": "2025-10-09T14:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T15:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976296987830985181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 20,
+          "id": "1774858357381140480",
+          "start": 6,
+          "username": "_moremoreKona"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976296987830985181",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976235714871513237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @_moremoreKona 为什么我是一生一世的对手啊喂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1976234939319529601",
+        "created_at": "2025-10-09T14:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T15:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976296987830985181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 20,
+              "id": "1774858357381140480",
+              "start": 6,
+              "username": "_moremoreKona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976296987830985181",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976235714871513237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @_moremoreKona 为什么我是一生一世的对手啊喂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1976234939319529601",
+        "created_at": "2025-10-09T10:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T11:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976235714871513237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            },
+            {
+              "end": 27,
+              "id": "1774858357381140480",
+              "start": 13,
+              "username": "_moremoreKona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976235714871513237",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "父亲：小泉です_🖇️⚓️🖇️  \n母亲：ほのか  \n哥哥：柊҈͍̰͐͗̾̋赤̴̤̪̰̤̂̑̀̋͗蓮҈͓̝̗̭̀̓̆  \n弟弟：Akira 源  \n姐姐：响也  \n妹妹：鬱蒼とした子  \n死党：hara  \n朋友：ミコ  \n宠物：悲惨世界与内心独白  \n恋人：苦桃  \n死党：风止意难平  \n老师：みややや  \n前辈：Magic枫糖  \n后辈：🎀扁桃體🗑️😿momoko  \n一生一世的对手：度量衡"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976235177652404544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 @_moremoreKona 父亲：小泉です_🖇️⚓️🖇️  \n母亲：ほのか  \n哥哥：柊҈͍̰͐͗̾̋赤̴̤̪̰̤̂̑̀̋͗蓮҈͓̝̗̭̀̓̆  \n弟弟：Akira 源  \n姐姐：响也  \n妹妹：鬱蒼とした子  \n死党：hara  \n朋友：ミコ  \n宠物：悲惨世界与内心独白  \n恋人：苦桃  \n死党：风止意难平  \n老师：みややや  \n前辈：Magic枫糖  \n后辈：🎀扁桃體🗑️😿momoko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 441,
+          "like_count": 13039,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 2292
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6416816,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5053,
+          "media_count": 2689762,
+          "tweet_count": 55177407
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-01T17:56:29.000Z",
+        "description": "100%承認欲求雌竞女｜🚪52/288/588/1388/5200｜过门🟰同意你喜欢我｜接收私信→@skk_minii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "skk_minii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sankaku_nyan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sankaku_nyan",
+                "start": 0,
+                "url": "https://t.co/enZvQnVLlh"
+              }
+            ]
+          }
+        },
+        "id": "1774858357381140480",
+        "location": "我的命運線",
+        "name": "三角可麗餅8964",
+        "pinned_tweet_id": "1897707695458992502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837454130128080896/t46mHRZZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9488,
+          "following_count": 182,
+          "like_count": 2142,
+          "listed_count": 17,
+          "media_count": 214,
+          "tweet_count": 1150
+        },
+        "url": "https://t.co/enZvQnVLlh",
+        "username": "_moremoreKona",
+        "verified": false
+      }
+    ]
+  }
+}

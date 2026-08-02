@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1994799994642276783",
+    "created_at": "2025-11-29T16:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T17:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994800228780614091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1938824940012347392",
+          "start": 0,
+          "username": "Rinnyaneko69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994800228780614091",
+    "in_reply_to_user_id": "1938824940012347392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994799994642276783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinnyaneko69 出生老师，怎么可以对学生下手啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1994799994642276783",
+        "created_at": "2025-11-29T16:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T17:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994800228780614091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1938824940012347392",
+              "start": 0,
+              "username": "Rinnyaneko69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994800228780614091",
+        "in_reply_to_user_id": "1938824940012347392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994799994642276783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinnyaneko69 出生老师，怎么可以对学生下手啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938824940012347392",
+        "conversation_id": "1994799994642276783",
+        "created_at": "2025-11-29T16:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T17:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994799994642276783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994799994642276783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完了我老师好像想睡我\n但是我这么完美是谁都想睡我吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 363,
+          "like_count": 16848,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 3342
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T05:01:18.000Z",
+        "description": "♡Scara and Kangel \n散兵正牌女友 \n地雷系jirai ||cosplayer||148cm||ENTP\n中文/ENG\n\n#shtwt #edtwt #nsotwt #jiraitwt\nADHD,BPD, DEPRESSION \n 我就是个废物怎么割都不够深\n多互动就多机会被互关 也可以直接问",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 69,
+                "tag": "shtwt"
+              },
+              {
+                "end": 82,
+                "start": 76,
+                "tag": "edtwt"
+              },
+              {
+                "end": 90,
+                "start": 83,
+                "tag": "nsotwt"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "tag": "jiraitwt"
+              }
+            ]
+          }
+        },
+        "id": "1938824940012347392",
+        "location": "🇲🇾 kys",
+        "name": "Rin琳酱没有未来⁽⁠⁽⁠ଘ⁠(⁠ ⁠ˊ⁠ᵕ⁠ˋ⁠ ⁠)⁠ଓ⁠⁾⁠⁾",
+        "pinned_tweet_id": "1950983672154440016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963151421622423552/AeR6vV1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 54,
+          "like_count": 816,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 315
+        },
+        "username": "Rinnyaneko69",
+        "verified": false
+      }
+    ]
+  }
+}

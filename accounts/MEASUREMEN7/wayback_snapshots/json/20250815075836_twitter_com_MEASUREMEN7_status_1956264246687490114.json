@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1955980507877138823",
+    "created_at": "2025-08-15T07:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T08:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956264246687490114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1909266536604512256",
+          "start": 0,
+          "username": "xun404214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956264246687490114",
+    "in_reply_to_user_id": "1909266536604512256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955980507877138823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xun404214 很棒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1955980507877138823",
+        "created_at": "2025-08-15T07:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T08:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956264246687490114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1909266536604512256",
+              "start": 0,
+              "username": "xun404214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956264246687490114",
+        "in_reply_to_user_id": "1909266536604512256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955980507877138823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xun404214 很棒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909266536604512256",
+        "conversation_id": "1955980507877138823",
+        "created_at": "2025-08-14T13:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T14:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955980507877138823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955980507877138823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12660,
+          "like_count": 139,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我谈恋爱了要给对象买个狗牌，背面刻我名字和手机号，必须随身携带。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 381,
+          "like_count": 7982,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1412
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T15:26:40.000Z",
+        "description": "🌈les|dom|废话多                                                                              \n匿名：https://t.co/3j6KWyZ66a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xuan4042141",
+                "end": 117,
+                "expanded_url": "https://ngl.link/xuan4042141",
+                "start": 94,
+                "url": "https://t.co/3j6KWyZ66a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=GWox8dxy",
+                "start": 0,
+                "url": "https://t.co/R67J3Fznun"
+              }
+            ]
+          }
+        },
+        "id": "1909266536604512256",
+        "location": "自用蜂鸟VPN↓ 🚪88/188/288 纯绿",
+        "name": "玄",
+        "pinned_tweet_id": "1936322251802263719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943262925742891008/0PJntZ6h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8601,
+          "following_count": 216,
+          "like_count": 3495,
+          "listed_count": 3,
+          "media_count": 632,
+          "tweet_count": 7394
+        },
+        "url": "https://t.co/R67J3Fznun",
+        "username": "xun404214",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1946459340681998623",
+    "created_at": "2025-07-19T07:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T08:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946471696262901773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1843724450895933443",
+          "start": 0,
+          "username": "mimio__x1cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946471696262901773",
+    "in_reply_to_user_id": "1843724450895933443",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 17,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946459340681998623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimio__x1cm すごい"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3200,
+        "height": 962,
+        "media_key": "13_1946459282142294016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1946459282142294016/img/8eSWKGUP0AI5qmSZ.jpg",
+        "public_metrics": {
+          "view_count": 46
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946459282142294016/vid/avc1/320x426/zU4BuACh2R1Rjkya.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946459282142294016/vid/avc1/480x640/XJtUtOMcSq765ZOI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946459282142294016/vid/avc1/720x962/fcRoy8guQD-Vmm88.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1946459282142294016/pl/TmfwkPhwb_vZiBDX.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1946459340681998623",
+        "created_at": "2025-07-19T07:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T08:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946471696262901773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1843724450895933443",
+              "start": 0,
+              "username": "mimio__x1cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946471696262901773",
+        "in_reply_to_user_id": "1843724450895933443",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946459340681998623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimio__x1cm すごい"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1946459282142294016"
+          ]
+        },
+        "author_id": "1843724450895933443",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "1946459340681998623",
+        "created_at": "2025-07-19T06:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T07:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946459340681998623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/esNayoASbF",
+              "end": 37,
+              "expanded_url": "https://x.com/mimio__x1cm/status/1946459340681998623/video/1",
+              "media_key": "13_1946459282142294016",
+              "start": 14,
+              "url": "https://t.co/esNayoASbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946459340681998623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 178,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "裸眼で強い女メイクしますた https://t.co/esNayoASbF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 323,
+          "like_count": 4712,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 888
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T18:45:55.000Z",
+        "description": "ぱーらめんとくれたら飛びます ︎︎日常 @ox9u_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 21,
+                "username": "ox9u_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1YZQ2PU64OMAQ?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/4YS5Uv24x0"
+              }
+            ]
+          }
+        },
+        "id": "1843724450895933443",
+        "location": "お隣空いてません",
+        "name": "てりあ",
+        "pinned_tweet_id": "1938628268867158500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934986440791969792/qpQKYbEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 89,
+          "like_count": 4609,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 559
+        },
+        "url": "https://t.co/4YS5Uv24x0",
+        "username": "mimio__x1cm",
+        "verified": false
+      }
+    ]
+  }
+}

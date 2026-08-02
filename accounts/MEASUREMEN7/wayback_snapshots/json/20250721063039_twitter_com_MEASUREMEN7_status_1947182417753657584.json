@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1947181908053602725",
+    "created_at": "2025-07-21T06:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T07:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947182417753657584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1913687777767809024",
+          "start": 0,
+          "username": "Asszeqr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947182417753657584",
+    "in_reply_to_user_id": "1913687777767809024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 36,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947181908053602725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asszeqr 注意身体就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1947181908053602725",
+        "created_at": "2025-07-21T06:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T07:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947182417753657584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1913687777767809024",
+              "start": 0,
+              "username": "Asszeqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947182417753657584",
+        "in_reply_to_user_id": "1913687777767809024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947181908053602725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asszeqr 注意身体就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913687777767809024",
+        "conversation_id": "1947181908053602725",
+        "created_at": "2025-07-21T06:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T07:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947181908053602725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947181908053602725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在好健全。。我有一个月没有自残了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 349,
+          "like_count": 5400,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 1040
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T20:15:09.000Z",
+        "description": "@Re1_y0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Re1_y0"
+              }
+            ]
+          }
+        },
+        "id": "1913687777767809024",
+        "location": "有女朋友",
+        "name": "あめ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919160331986968576/_sYbDFcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 48,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 94
+        },
+        "username": "Asszeqr",
+        "verified": false
+      }
+    ]
+  }
+}

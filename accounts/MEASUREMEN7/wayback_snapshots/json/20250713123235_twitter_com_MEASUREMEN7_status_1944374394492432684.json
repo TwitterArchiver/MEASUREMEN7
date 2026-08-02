@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944374291098894336"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1944370223148417267",
+    "created_at": "2025-07-13T12:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T13:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944374394492432684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1873626175706484736",
+          "start": 0,
+          "username": "Dark_d_b"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GEE7KK4rnB",
+          "end": 33,
+          "expanded_url": "https://x.com/MEASUREMEN7/status/1944374394492432684/photo/1",
+          "media_key": "3_1944374291098894336",
+          "start": 10,
+          "url": "https://t.co/GEE7KK4rnB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944374394492432684",
+    "in_reply_to_user_id": "1873626175706484736",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944373396612985004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dark_d_b https://t.co/GEE7KK4rnB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944374291098894336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvvOHbNaAAAYTCo.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944374291098894336"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1944370223148417267",
+        "created_at": "2025-07-13T12:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T13:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944374394492432684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1873626175706484736",
+              "start": 0,
+              "username": "Dark_d_b"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GEE7KK4rnB",
+              "end": 33,
+              "expanded_url": "https://x.com/MEASUREMEN7/status/1944374394492432684/photo/1",
+              "media_key": "3_1944374291098894336",
+              "start": 10,
+              "url": "https://t.co/GEE7KK4rnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944374394492432684",
+        "in_reply_to_user_id": "1873626175706484736",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944373396612985004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dark_d_b https://t.co/GEE7KK4rnB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873626175706484736",
+        "conversation_id": "1944370223148417267",
+        "created_at": "2025-07-13T12:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T13:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944373396612985004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944373396612985004",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944373221353992616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 んー？翻訳？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 238,
+          "like_count": 3268,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 663
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T07:04:46.000Z",
+        "description": "\\自傷・病み・下ネタ垢/\\未成年/\\LGBTQ+/👧",
+        "id": "1873626175706484736",
+        "name": "くだです。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888724619475234816/nw9FO63C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 203,
+          "like_count": 1414,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 390
+        },
+        "username": "Dark_d_b",
+        "verified": false
+      }
+    ]
+  }
+}

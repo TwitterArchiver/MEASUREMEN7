@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2022018216806298102",
+    "created_at": "2026-02-13T01:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T02:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022123337179345212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557450235621695488",
+          "start": 0,
+          "username": "KBDYD555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022123337179345212",
+    "in_reply_to_user_id": "1557450235621695488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022018216806298102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBDYD555 感觉瘦了很多呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6153,
+        "height": 960,
+        "media_key": "7_2022018189287395328",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2022018189287395328/pu/img/APTZBueHygmSIJvV.jpg",
+        "public_metrics": {
+          "view_count": 133
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022018189287395328/pu/vid/avc1/320x426/ztsKWb4As0u7OROl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022018189287395328/pu/vid/avc1/480x640/K4am3ZxsKX4KVeCD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022018189287395328/pu/vid/avc1/720x960/_BH79CmDUl2bGvda.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2022018189287395328/pu/pl/9Bu_Z51Cyp_r0QCp.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2022018216806298102",
+        "created_at": "2026-02-13T01:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T02:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022123337179345212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022123337179345212",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022018216806298102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 感觉瘦了很多呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2022018189287395328"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2022018216806298102",
+        "created_at": "2026-02-12T18:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T19:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022018216806298102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KUVGCsU6PL",
+              "end": 32,
+              "expanded_url": "https://x.com/KBDYD555/status/2022018216806298102/video/1",
+              "media_key": "7_2022018189287395328",
+              "start": 9,
+              "url": "https://t.co/KUVGCsU6PL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022018216806298102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 365,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "晃晃悠悠跑出来了 https://t.co/KUVGCsU6PL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 419,
+          "like_count": 20122,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4244
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3460,
+          "following_count": 409,
+          "like_count": 3390,
+          "listed_count": 9,
+          "media_count": 855,
+          "tweet_count": 3049
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

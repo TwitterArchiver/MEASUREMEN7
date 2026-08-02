@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1944437300689264874",
+    "created_at": "2025-07-14T01:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T02:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944571741302354393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1909193609557233664",
+          "start": 0,
+          "username": "q4li_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944571741302354393",
+    "in_reply_to_user_id": "1909193609557233664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944437300689264874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q4li_x こんにちは～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1944437300689264874",
+        "created_at": "2025-07-14T01:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T02:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944571741302354393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1909193609557233664",
+              "start": 0,
+              "username": "q4li_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944571741302354393",
+        "in_reply_to_user_id": "1909193609557233664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944437300689264874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q4li_x こんにちは～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909193609557233664",
+        "conversation_id": "1944437300689264874",
+        "created_at": "2025-07-13T16:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T17:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944437300689264874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944437300689264874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "のびますように。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 243,
+          "like_count": 3352,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 678
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T10:36:51.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "09.com",
+                "end": 23,
+                "expanded_url": "http://09.com",
+                "start": 0,
+                "url": "https://t.co/B66Z5SEYzB"
+              }
+            ]
+          }
+        },
+        "id": "1909193609557233664",
+        "name": "す",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942173134028935168/4mY1XiK0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 9,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/B66Z5SEYzB",
+        "username": "q4li_x",
+        "verified": false
+      }
+    ]
+  }
+}

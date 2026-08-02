@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1962618937771954242",
+    "created_at": "2025-09-02T05:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T06:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962743673025613839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1756998476985233408",
+          "start": 0,
+          "username": "Kana0930115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962743673025613839",
+    "in_reply_to_user_id": "1756998476985233408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962618937771954242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kana0930115 谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962618926325727233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzyfg90agAEIzVf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1962618937771954242",
+        "created_at": "2025-09-02T05:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T06:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962743673025613839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1756998476985233408",
+              "start": 0,
+              "username": "Kana0930115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962743673025613839",
+        "in_reply_to_user_id": "1756998476985233408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962618937771954242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kana0930115 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962618926325727233"
+          ]
+        },
+        "author_id": "1756998476985233408",
+        "conversation_id": "1962618937771954242",
+        "created_at": "2025-09-01T20:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T21:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962618937771954242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zq74p556OM",
+              "end": 39,
+              "expanded_url": "https://x.com/Kana0930115/status/1962618937771954242/photo/1",
+              "media_key": "3_1962618926325727233",
+              "start": 16,
+              "url": "https://t.co/Zq74p556OM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962618937771954242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 622,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会榨干你然后踩着你说你是杂鱼 https://t.co/Zq74p556OM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 384,
+          "like_count": 8947,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1601
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T11:07:41.000Z",
+        "description": "过门没有福利 好处只有认识我 不玩任何社交软件 没有小号 被骗概不负责",
+        "id": "1756998476985233408",
+        "location": "🚪188",
+        "name": "加奈絵",
+        "pinned_tweet_id": "1942199616700813517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938850182747262976/GMwt8AF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5867,
+          "following_count": 356,
+          "like_count": 4332,
+          "listed_count": 11,
+          "media_count": 319,
+          "tweet_count": 899
+        },
+        "username": "Kana0930115",
+        "verified": false
+      }
+    ]
+  }
+}

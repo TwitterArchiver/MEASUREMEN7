@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2028484111950909442",
+    "created_at": "2026-03-02T15:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T16:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028492936061857997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699421377520951296",
+          "start": 0,
+          "username": "Maorou_K8M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028492936061857997",
+    "in_reply_to_user_id": "1699421377520951296",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028484111950909442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maorou_K8M ？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3566,
+        "height": 2880,
+        "media_key": "13_2028484038147846144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028484038147846144/img/KO3YdnH8r3a2foq7.jpg",
+        "public_metrics": {
+          "view_count": 1288
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028484038147846144/vid/avc1/480x640/tkaCQbZcfbzMS4-K.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028484038147846144/vid/avc1/320x426/YFWTiaiP4JNlItBO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028484038147846144/vid/avc1/720x960/5ZaRlAmBmji7s82Z.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028484038147846144/vid/avc1/1080x1440/3JwFagyavhgX9kTh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028484038147846144/pl/UXdcCrS7sVUJxnHJ.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028484038147846144/vid/avc1/2160x2880/PyyrW4iIqHT1bAVz.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2028484111950909442",
+        "created_at": "2026-03-02T15:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028492936061857997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699421377520951296",
+              "start": 0,
+              "username": "Maorou_K8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028492936061857997",
+        "in_reply_to_user_id": "1699421377520951296",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028484111950909442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maorou_K8M ？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028484038147846144"
+          ]
+        },
+        "author_id": "1699421377520951296",
+        "conversation_id": "2028484111950909442",
+        "created_at": "2026-03-02T14:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028484111950909442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w1gcQCtoQl",
+              "end": 33,
+              "expanded_url": "https://x.com/Maorou_K8M/status/2028484111950909442/video/1",
+              "media_key": "13_2028484038147846144",
+              "start": 10,
+              "url": "https://t.co/w1gcQCtoQl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028484111950909442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3972,
+          "like_count": 184,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "灌肠吗小伙子（🌚？ https://t.co/w1gcQCtoQl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 438,
+          "like_count": 23021,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4773
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T13:56:58.000Z",
+        "description": "本人只有这一个账号！！其他均为骗子， 请叫我民子 人体改造/自私/穿刺/分舌/药物依赖/纹身/焦虑/畏惧死亡/埋钉/身高172 ➕lx🚪998zfb口令红包带姓 私信只回复门槛💗只接绿色线下陪玩 一日女友～～～～本人只玩X/ins 除了此账号 其他账号开通任何需要付费链接都是骗子！！不玩抖音等软件",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/maorou_k8m",
+                "end": 23,
+                "expanded_url": "https://link.me/maorou_k8m",
+                "start": 0,
+                "url": "https://t.co/bvlwJ8SJKp"
+              }
+            ]
+          }
+        },
+        "id": "1699421377520951296",
+        "location": "所有本人账户在这里→",
+        "name": "樁山民子",
+        "pinned_tweet_id": "2008874213504094212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005527085700534272/SO1uhKhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267794,
+          "following_count": 44,
+          "like_count": 564,
+          "listed_count": 699,
+          "media_count": 595,
+          "tweet_count": 3809
+        },
+        "url": "https://t.co/bvlwJ8SJKp",
+        "username": "Maorou_K8M",
+        "verified": true
+      }
+    ]
+  }
+}

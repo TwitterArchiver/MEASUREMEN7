@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988866522136342528",
+        "3_1988866523105226752"
+      ],
+      "media_source_tweet_id": [
+        "1988866526774989096",
+        "1988866526774989096"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1988916599059853544",
+    "created_at": "2025-11-13T10:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T11:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988916599059853544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567894869707825158",
+          "start": 3,
+          "username": "TEA_beta4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nP6eJrvQW9",
+          "end": 38,
+          "expanded_url": "https://x.com/TEA_beta4/status/1988866526774989096/photo/1",
+          "media_key": "3_1988866522136342528",
+          "start": 15,
+          "url": "https://t.co/nP6eJrvQW9"
+        },
+        {
+          "display_url": "pic.x.com/nP6eJrvQW9",
+          "end": 38,
+          "expanded_url": "https://x.com/TEA_beta4/status/1988866526774989096/photo/1",
+          "media_key": "3_1988866523105226752",
+          "start": 15,
+          "url": "https://t.co/nP6eJrvQW9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988916599059853544",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988866526774989096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TEA_beta4: https://t.co/nP6eJrvQW9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1988866522136342528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5nfkH2acAAPdJw.jpg",
+        "width": 1559
+      },
+      {
+        "height": 1075,
+        "media_key": "3_1988866523105226752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5nfkLdacAA01LW.jpg",
+        "width": 1415
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988866522136342528",
+            "3_1988866523105226752"
+          ],
+          "media_source_tweet_id": [
+            "1988866526774989096",
+            "1988866526774989096"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1988916599059853544",
+        "created_at": "2025-11-13T10:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T11:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988916599059853544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567894869707825158",
+              "start": 3,
+              "username": "TEA_beta4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nP6eJrvQW9",
+              "end": 38,
+              "expanded_url": "https://x.com/TEA_beta4/status/1988866526774989096/photo/1",
+              "media_key": "3_1988866522136342528",
+              "start": 15,
+              "url": "https://t.co/nP6eJrvQW9"
+            },
+            {
+              "display_url": "pic.x.com/nP6eJrvQW9",
+              "end": 38,
+              "expanded_url": "https://x.com/TEA_beta4/status/1988866526774989096/photo/1",
+              "media_key": "3_1988866523105226752",
+              "start": 15,
+              "url": "https://t.co/nP6eJrvQW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988916599059853544",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988866526774989096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TEA_beta4: https://t.co/nP6eJrvQW9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988866522136342528",
+            "3_1988866523105226752"
+          ]
+        },
+        "author_id": "1567894869707825158",
+        "conversation_id": "1988866526774989096",
+        "created_at": "2025-11-13T07:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T08:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988866526774989096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nP6eJrvQW9",
+              "end": 23,
+              "expanded_url": "https://x.com/TEA_beta4/status/1988866526774989096/photo/1",
+              "media_key": "3_1988866522136342528",
+              "start": 0,
+              "url": "https://t.co/nP6eJrvQW9"
+            },
+            {
+              "display_url": "pic.x.com/nP6eJrvQW9",
+              "end": 23,
+              "expanded_url": "https://x.com/TEA_beta4/status/1988866526774989096/photo/1",
+              "media_key": "3_1988866523105226752",
+              "start": 0,
+              "url": "https://t.co/nP6eJrvQW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988866526774989096",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nP6eJrvQW9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 349,
+          "like_count": 16639,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 3219
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T15:17:33.000Z",
+        "description": "Ottoism",
+        "id": "1567894869707825158",
+        "name": "Mineter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987070307719651333/8P2yTg4N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 453,
+          "like_count": 3702,
+          "listed_count": 3,
+          "media_count": 885,
+          "tweet_count": 8619
+        },
+        "username": "TEA_beta4",
+        "verified": false
+      }
+    ]
+  }
+}

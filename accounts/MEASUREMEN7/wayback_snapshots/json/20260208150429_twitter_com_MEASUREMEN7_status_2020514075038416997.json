@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2020513215268913366",
+    "created_at": "2026-02-08T15:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T16:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020514075038416997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1696020507060011008",
+          "start": 0,
+          "username": "z9992627"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020514075038416997",
+    "in_reply_to_user_id": "1696020507060011008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020513215268913366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z9992627 不要拉警报器啊😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2020513186579984384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApOCb4XsAAkBhq.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2020513186521251841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApOCbqXgAEnx2G.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2020513215268913366",
+        "created_at": "2026-02-08T15:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T16:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020514075038416997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1696020507060011008",
+              "start": 0,
+              "username": "z9992627"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020514075038416997",
+        "in_reply_to_user_id": "1696020507060011008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020513215268913366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z9992627 不要拉警报器啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020513186579984384",
+            "3_2020513186521251841"
+          ]
+        },
+        "author_id": "1696020507060011008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2020513215268913366",
+        "created_at": "2026-02-08T15:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T16:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020513215268913366"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "时雨羽衣"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "雌小鬼"
+            },
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0C3Na46KLa",
+              "end": 49,
+              "expanded_url": "https://x.com/z9992627/status/2020513215268913366/photo/1",
+              "media_key": "3_2020513186579984384",
+              "start": 26,
+              "url": "https://t.co/0C3Na46KLa"
+            },
+            {
+              "display_url": "pic.x.com/0C3Na46KLa",
+              "end": 49,
+              "expanded_url": "https://x.com/z9992627/status/2020513215268913366/photo/1",
+              "media_key": "3_2020513186521251841",
+              "start": 26,
+              "url": "https://t.co/0C3Na46KLa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020513215268913366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杂鱼杂鱼！\n#时雨羽衣 #雌小鬼 #cosplay https://t.co/0C3Na46KLa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 400,
+          "like_count": 19303,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4032
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T04:43:00.000Z",
+        "description": "我是林碗 叫我小林 碗碗都可以 / enfp / 07 / 爱玩点cos / 可投喂 / 纯绿推绿绿绿不线下  🚪52 / 梦想是成为最厉害的小林去征服世界！ 恋人：樱岛麻衣",
+        "id": "1696020507060011008",
+        "name": "林🥣",
+        "pinned_tweet_id": "1995580510605902178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995789211245641728/bkrcT383_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 44,
+          "like_count": 2352,
+          "listed_count": 4,
+          "media_count": 287,
+          "tweet_count": 1079
+        },
+        "username": "z9992627",
+        "verified": false
+      }
+    ]
+  }
+}

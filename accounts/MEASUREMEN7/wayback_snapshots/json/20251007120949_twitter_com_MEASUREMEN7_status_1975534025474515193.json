@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1975533697777480073",
+    "created_at": "2025-10-07T12:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T13:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975534025474515193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "TokiyukiSAMAAAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975534025474515193",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975533697777480073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TokiyukiSAMAAAA teto"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14100,
+        "height": 1280,
+        "media_key": "13_1975533547466129408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1975533547466129408/img/nBFvHoOyrd_UHCry.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975533547466129408/vid/avc1/320x568/UQMHy7Yop2fcTmK1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975533547466129408/vid/avc1/480x852/myhW-z4rwGCi_I0t.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975533547466129408/vid/avc1/720x1280/xAr1xWNXDQWXr_mR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1975533547466129408/pl/rw1qdaPfQQxuPvfE.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1975533697777480073",
+        "created_at": "2025-10-07T12:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T13:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975534025474515193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "TokiyukiSAMAAAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975534025474515193",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975533697777480073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TokiyukiSAMAAAA teto"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975533547466129408"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "1975533697777480073",
+        "created_at": "2025-10-07T12:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T13:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975533697777480073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lJJ3lN15m0",
+              "end": 23,
+              "expanded_url": "https://x.com/TokiyukiSAMAAAA/status/1975533697777480073/video/1",
+              "media_key": "13_1975533547466129408",
+              "start": 0,
+              "url": "https://t.co/lJJ3lN15m0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975533697777480073",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lJJ3lN15m0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 443,
+          "like_count": 12666,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 2189
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "# 愛？ # 唉！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "時行の部屋",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971589404347990016/IkfSVmns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6456,
+          "following_count": 247,
+          "like_count": 29813,
+          "listed_count": 16,
+          "media_count": 165,
+          "tweet_count": 810
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "TokiyukiSAMAAAA",
+        "verified": false
+      }
+    ]
+  }
+}

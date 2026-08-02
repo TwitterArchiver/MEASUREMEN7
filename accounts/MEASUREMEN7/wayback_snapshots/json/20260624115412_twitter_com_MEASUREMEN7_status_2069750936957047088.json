@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2069639322651996659",
+    "created_at": "2026-06-24T11:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069750936957047088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1939914447017119744",
+          "start": 0,
+          "username": "HEIMAO529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069750936957047088",
+    "in_reply_to_user_id": "1939914447017119744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069639322651996659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HEIMAO529 短发超级好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2069639311620788224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjV_Q5XUAA_GkT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2069639322651996659",
+        "created_at": "2026-06-24T11:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069750936957047088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1939914447017119744",
+              "start": 0,
+              "username": "HEIMAO529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069750936957047088",
+        "in_reply_to_user_id": "1939914447017119744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069639322651996659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HEIMAO529 短发超级好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069639311620788224"
+          ]
+        },
+        "author_id": "1939914447017119744",
+        "conversation_id": "2069639322651996659",
+        "created_at": "2026-06-24T04:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069639322651996659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Bhu341LNH",
+              "end": 30,
+              "expanded_url": "https://x.com/HEIMAO529/status/2069639322651996659/photo/1",
+              "media_key": "3_2069639311620788224",
+              "start": 7,
+              "url": "https://t.co/7Bhu341LNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069639322651996659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又剪短了。🥲 https://t.co/7Bhu341LNH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 160,
+          "like_count": 26600,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 5386
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T05:10:41.000Z",
+        "description": "名字是黑貓\n互fo擴列啥的小窗就行\n剩下忘了",
+        "id": "1939914447017119744",
+        "location": "北校c栋",
+        "name": "くろねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057070025056628736/JgR553_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 222,
+          "like_count": 3529,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "HEIMAO529",
+        "verified": false
+      }
+    ]
+  }
+}

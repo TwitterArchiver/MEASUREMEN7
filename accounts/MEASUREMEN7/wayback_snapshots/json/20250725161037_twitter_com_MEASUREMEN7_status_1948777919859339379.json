@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1948723192069030008",
+    "created_at": "2025-07-25T16:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T17:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948777919859339379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894390126262063107",
+          "start": 0,
+          "username": "SydneyBoBoKun"
+        },
+        {
+          "end": 31,
+          "id": "1794617194954850304",
+          "start": 15,
+          "username": "Baixiaoming0707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948777919859339379",
+    "in_reply_to_user_id": "1894390126262063107",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948769267639283725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SydneyBoBoKun @Baixiaoming0707 or"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1948723192069030008",
+        "created_at": "2025-07-25T16:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T17:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948777919859339379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1894390126262063107",
+              "start": 0,
+              "username": "SydneyBoBoKun"
+            },
+            {
+              "end": 31,
+              "id": "1794617194954850304",
+              "start": 15,
+              "username": "Baixiaoming0707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948777919859339379",
+        "in_reply_to_user_id": "1894390126262063107",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948769267639283725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SydneyBoBoKun @Baixiaoming0707 or"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894390126262063107",
+        "conversation_id": "1948723192069030008",
+        "created_at": "2025-07-25T15:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T16:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948769267639283725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794617194954850304",
+              "start": 0,
+              "username": "Baixiaoming0707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948769267639283725",
+        "in_reply_to_user_id": "1794617194954850304",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948723192069030008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baixiaoming0707 Yes or No？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 350,
+          "like_count": 5949,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 1110
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T14:13:19.000Z",
+        "description": "This is complete nonsense and makes me very angry!",
+        "id": "1894390126262063107",
+        "location": "将军澳秦城",
+        "name": "悉尼奶薄 SydneyBo 雪梨奶薄 🇦🇺",
+        "pinned_tweet_id": "1904919080957542622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894608114193719296/vGlpUR3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 38,
+          "like_count": 3989,
+          "listed_count": 0,
+          "media_count": 634,
+          "tweet_count": 1628
+        },
+        "username": "SydneyBoBoKun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T06:31:28.000Z",
+        "description": "08年广西土著 | 简中/正體/English | 政史地亡命文科生 | 快品尝国宾酒尊尼获加 | 都去关注@virtual_kaf ！ | 永远追随国王→@oldsddl4gunmu @diangunottosm @otto_houguoyu | 抖音:29289785213",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "virtual_kaf"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "oldsddl4gunmu"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "diangunottosm"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "otto_houguoyu"
+              }
+            ]
+          }
+        },
+        "id": "1794617194954850304",
+        "location": "无处不在 无影无踪",
+        "name": "白小铭",
+        "pinned_tweet_id": "1905914734030778465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923928431512707072/VKPjgBRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 859,
+          "like_count": 10423,
+          "listed_count": 4,
+          "media_count": 577,
+          "tweet_count": 3496
+        },
+        "username": "Baixiaoming0707",
+        "verified": false
+      }
+    ]
+  }
+}

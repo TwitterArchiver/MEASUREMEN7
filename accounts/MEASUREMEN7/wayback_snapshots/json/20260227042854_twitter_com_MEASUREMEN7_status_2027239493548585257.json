@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2027206529116680637",
+    "created_at": "2026-02-27T04:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T05:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027239493548585257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557450235621695488",
+          "start": 0,
+          "username": "KBDYD555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027239493548585257",
+    "in_reply_to_user_id": "1557450235621695488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027206529116680637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBDYD555 全部抓起来打一顿"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7530,
+        "height": 1280,
+        "media_key": "7_2027206490310971392",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2027206490310971392/pu/img/GXOcxLNmVjHIJQLF.jpg",
+        "public_metrics": {
+          "view_count": 35
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027206490310971392/pu/vid/avc1/320x568/Y2Y5jwAwqU1F6ljs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027206490310971392/pu/vid/avc1/480x852/Rl6KeOqU_F83Aa-Q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027206490310971392/pu/vid/avc1/720x1280/7kbf8aofWsH6qkW_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2027206490310971392/pu/pl/M9cuKZINObiwknOP.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2027206529116680637",
+        "created_at": "2026-02-27T04:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027239493548585257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027239493548585257",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027206529116680637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 全部抓起来打一顿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027206490310971392"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2027206529116680637",
+        "created_at": "2026-02-27T02:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T03:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027206529116680637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NYisxIeivy",
+              "end": 91,
+              "expanded_url": "https://x.com/KBDYD555/status/2027206529116680637/video/1",
+              "media_key": "7_2027206490310971392",
+              "start": 68,
+              "url": "https://t.co/NYisxIeivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027206529116680637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "因为小囧和minino在笼子里会被欺负我就放它俩出来跟我一起睡，然后它俩就钻到我被窝里打架......后面打到我脸上了😡小老鼠咋这么皮 https://t.co/NYisxIeivy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 428,
+          "like_count": 22218,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4652
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/花枝鼠....互关回来吧...（Eng🆗）存图账号：@kyuukoQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "kyuukoQ"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3482,
+          "following_count": 417,
+          "like_count": 3532,
+          "listed_count": 9,
+          "media_count": 880,
+          "tweet_count": 3145
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

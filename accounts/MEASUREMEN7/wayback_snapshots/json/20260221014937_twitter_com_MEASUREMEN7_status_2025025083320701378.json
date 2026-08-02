@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2024903986378408135",
+    "created_at": "2026-02-21T01:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T02:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025025083320701378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1893169260387803137",
+          "start": 0,
+          "username": "Yana911y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025025083320701378",
+    "in_reply_to_user_id": "1893169260387803137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024903986378408135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yana911y 擦干"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024903977029304320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnncE8bgAAR99W.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2024903986378408135",
+        "created_at": "2026-02-21T01:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T02:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025025083320701378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1893169260387803137",
+              "start": 0,
+              "username": "Yana911y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025025083320701378",
+        "in_reply_to_user_id": "1893169260387803137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024903986378408135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yana911y 擦干"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024903977029304320"
+          ]
+        },
+        "author_id": "1893169260387803137",
+        "conversation_id": "2024903986378408135",
+        "created_at": "2026-02-20T17:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024903986378408135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F4HHnmxxrv",
+              "end": 31,
+              "expanded_url": "https://x.com/Yana911y/status/2024903986378408135/photo/1",
+              "media_key": "3_2024903977029304320",
+              "start": 8,
+              "url": "https://t.co/F4HHnmxxrv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024903986378408135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 516,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大姐姐你别闹了 https://t.co/F4HHnmxxrv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 422,
+          "like_count": 21317,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4484
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T05:21:58.000Z",
+        "description": "| age18 ｜上海",
+        "id": "1893169260387803137",
+        "location": "🚪88",
+        "name": "lyanyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017538450141155331/7HtmCy28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 150,
+          "like_count": 1240,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 221
+        },
+        "username": "Yana911y",
+        "verified": false
+      }
+    ]
+  }
+}

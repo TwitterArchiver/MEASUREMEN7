@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1945181515056365793",
+    "created_at": "2025-07-15T22:51:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T23:51:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945254995395244265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1933141573631631360",
+          "start": 0,
+          "username": "mingmingshummk8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945254995395244265",
+    "in_reply_to_user_id": "1933141573631631360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945181515056365793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingmingshummk8 抱枕不错"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1945181314136543233",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gv6sGWTWEAEGIB1.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gv6sGWTWEAEGIB1.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1945181515056365793",
+        "created_at": "2025-07-15T22:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T23:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945254995395244265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1933141573631631360",
+              "start": 0,
+              "username": "mingmingshummk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945254995395244265",
+        "in_reply_to_user_id": "1933141573631631360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945181515056365793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingmingshummk8 抱枕不错"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1945181314136543233"
+          ]
+        },
+        "author_id": "1933141573631631360",
+        "conversation_id": "1945181515056365793",
+        "created_at": "2025-07-15T17:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T18:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945181515056365793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lJupjkHClR",
+              "end": 33,
+              "expanded_url": "https://x.com/mingmingshummk8/status/1945181515056365793/photo/1",
+              "media_key": "16_1945181314136543233",
+              "start": 10,
+              "url": "https://t.co/lJupjkHClR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945181515056365793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 660,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "累🐭 收拾半天房间 https://t.co/lJupjkHClR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 285,
+          "like_count": 3860,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 763
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T12:37:50.000Z",
+        "description": "这里是垃圾站（笑 可以叫我民民鼠",
+        "id": "1933141573631631360",
+        "location": "喵",
+        "name": "肥鼠（不瘦十斤不改名）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933146998754193408/n9Ka5G2Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3785,
+          "following_count": 3,
+          "like_count": 17,
+          "listed_count": 5,
+          "media_count": 28,
+          "tweet_count": 123
+        },
+        "username": "mingmingshummk8",
+        "verified": false
+      }
+    ]
+  }
+}

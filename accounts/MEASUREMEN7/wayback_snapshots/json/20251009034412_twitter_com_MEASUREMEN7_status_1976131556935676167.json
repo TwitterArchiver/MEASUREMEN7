@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1976065104346321088",
+    "created_at": "2025-10-09T03:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T04:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976131556935676167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1731670068189114368",
+          "start": 0,
+          "username": "Lead_Uore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976131556935676167",
+    "in_reply_to_user_id": "1731670068189114368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976065104346321088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lead_Uore 为什么啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1976065104346321088",
+        "created_at": "2025-10-09T03:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T04:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976131556935676167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1731670068189114368",
+              "start": 0,
+              "username": "Lead_Uore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976131556935676167",
+        "in_reply_to_user_id": "1731670068189114368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976065104346321088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lead_Uore 为什么啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731670068189114368",
+        "conversation_id": "1976065104346321088",
+        "created_at": "2025-10-08T23:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T00:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976065104346321088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976065104346321088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了。\n我跟我的故人又重逢了\n現在我不敢跟他說話。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 442,
+          "like_count": 12945,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 2269
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T13:42:14.000Z",
+        "description": "喜歡聰明的人。EN/JP/CN｜尖酸刻薄｜不鍵政｜DM無視｜ENTP-T｜ボカロ｜精神疾患｜負能量爆表｜阿斯伯格｜低素質｜重度憂鬱｜重度焦慮｜輕躁狂｜精分｜討口子｜玻璃心｜低齡兒｜自殘｜賣慘｜ADHD｜生性不討喜｜低智商｜低知識儲備量｜",
+        "id": "1731670068189114368",
+        "location": "東京 新宿区",
+        "name": "理德",
+        "pinned_tweet_id": "1967636798655565988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974565134594080768/rWfWvmUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 575,
+          "like_count": 62490,
+          "listed_count": 2,
+          "media_count": 597,
+          "tweet_count": 6638
+        },
+        "username": "Lead_Uore",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2033526063582548064",
+    "created_at": "2026-03-16T13:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T14:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033534778259988779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1967524887418810368",
+          "start": 0,
+          "username": "jinjin1076120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033534778259988779",
+    "in_reply_to_user_id": "1967524887418810368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033526063582548064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinjin1076120 就是啊，莫名其妙扣我钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033526055584362496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiJLGibcAAIRJ_.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2033526063582548064",
+        "created_at": "2026-03-16T13:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033534778259988779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967524887418810368",
+              "start": 0,
+              "username": "jinjin1076120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033534778259988779",
+        "in_reply_to_user_id": "1967524887418810368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033526063582548064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinjin1076120 就是啊，莫名其妙扣我钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033526055584362496"
+          ]
+        },
+        "author_id": "1967524887418810368",
+        "conversation_id": "2033526063582548064",
+        "created_at": "2026-03-16T12:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033526063582548064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6TaQrpPw8C",
+              "end": 37,
+              "expanded_url": "https://x.com/jinjin1076120/status/2033526063582548064/photo/1",
+              "media_key": "3_2033526055584362496",
+              "start": 14,
+              "url": "https://t.co/6TaQrpPw8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033526063582548064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "避雷这个vx支付我活不起了 https://t.co/6TaQrpPw8C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 272,
+          "like_count": 23920,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4897
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T09:44:36.000Z",
+        "description": "",
+        "id": "1967524887418810368",
+        "name": "除了是处一无是处",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033152189464481792/i0k4-W7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 6,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 82
+        },
+        "username": "jinjin1076120",
+        "verified": false
+      }
+    ]
+  }
+}

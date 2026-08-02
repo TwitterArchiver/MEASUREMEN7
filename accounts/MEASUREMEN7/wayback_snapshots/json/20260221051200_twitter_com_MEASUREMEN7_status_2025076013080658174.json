@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2025076013080658174",
+    "created_at": "2026-02-21T05:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T06:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025076013080658174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "313266945",
+          "start": 3,
+          "username": "momoko_sumika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025076013080658174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024555613930529199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momoko_sumika: 推特男回避终生的命题：如果有长得漂亮又性癖变态的女生，她凭什么跟你玩？\n就算真的随便到谁都可以，你又哪来的狗屎运？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2025076013080658174",
+        "created_at": "2026-02-21T05:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025076013080658174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "313266945",
+              "start": 3,
+              "username": "momoko_sumika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025076013080658174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024555613930529199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momoko_sumika: 推特男回避终生的命题：如果有长得漂亮又性癖变态的女生，她凭什么跟你玩？\n就算真的随便到谁都可以，你又哪来的狗屎运？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "313266945",
+        "conversation_id": "2024555613930529199",
+        "created_at": "2026-02-19T18:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T19:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024555613930529199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024555613930529199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 372742,
+          "like_count": 1853,
+          "quote_count": 15,
+          "reply_count": 160,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "推特男回避终生的命题：如果有长得漂亮又性癖变态的女生，她凭什么跟你玩？\n就算真的随便到谁都可以，你又哪来的狗屎运？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 422,
+          "like_count": 21373,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4499
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-08T11:53:36.000Z",
+        "description": "不要对我展示你不自知的刻板印象",
+        "id": "313266945",
+        "location": "32cm away from your heart",
+        "name": "桃与是非",
+        "pinned_tweet_id": "1999681361263886824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986470659237814281/8KGOOXcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 108,
+          "like_count": 3508,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 330
+        },
+        "username": "momoko_sumika",
+        "verified": false
+      }
+    ]
+  }
+}

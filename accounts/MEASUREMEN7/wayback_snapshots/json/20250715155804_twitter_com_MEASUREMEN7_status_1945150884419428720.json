@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1945138154597413284",
+    "created_at": "2025-07-15T15:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T16:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945150884419428720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936383689149255680",
+          "start": 0,
+          "username": "yungu_grave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945150884419428720",
+    "in_reply_to_user_id": "1936383689149255680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945138154597413284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yungu_grave お疲れ様でした"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1945138154597413284",
+        "created_at": "2025-07-15T15:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T16:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945150884419428720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936383689149255680",
+              "start": 0,
+              "username": "yungu_grave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945150884419428720",
+        "in_reply_to_user_id": "1936383689149255680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945138154597413284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yungu_grave お疲れ様でした"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936383689149255680",
+        "conversation_id": "1945138154597413284",
+        "created_at": "2025-07-15T15:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T16:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945138154597413284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945138154597413284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "課題討伐完了👍🏻⟡.·"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 279,
+          "like_count": 3836,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 756
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T11:20:30.000Z",
+        "description": "08 SJK 口と頭がわるいです",
+        "id": "1936383689149255680",
+        "name": "ゆんぐ。",
+        "pinned_tweet_id": "1944369080141562031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944346200830099456/9e3m2rtR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 119,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "yungu_grave",
+        "verified": false
+      }
+    ]
+  }
+}

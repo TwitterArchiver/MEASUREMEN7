@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2049336649084268912",
+    "created_at": "2026-04-29T05:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T06:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049358547226685567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1600811336010674176",
+          "start": 0,
+          "username": "Chu9w0ww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049358547226685567",
+    "in_reply_to_user_id": "1600811336010674176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049336649084268912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chu9w0ww 支持！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2049336649084268912",
+        "created_at": "2026-04-29T05:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049358547226685567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1600811336010674176",
+              "start": 0,
+              "username": "Chu9w0ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049358547226685567",
+        "in_reply_to_user_id": "1600811336010674176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049336649084268912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu9w0ww 支持！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600811336010674176",
+        "conversation_id": "2049336649084268912",
+        "created_at": "2026-04-29T03:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049336649084268912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049336649084268912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 594,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做爱脱袜子是死罪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 297,
+          "like_count": 25164,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 5190
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T11:15:53.000Z",
+        "description": "",
+        "id": "1600811336010674176",
+        "name": "Chu9w0ww",
+        "pinned_tweet_id": "1951923527482790305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653423862753935360/WRP832Lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3630,
+          "following_count": 31,
+          "like_count": 6382,
+          "listed_count": 13,
+          "media_count": 7,
+          "tweet_count": 54
+        },
+        "username": "Chu9w0ww",
+        "verified": false
+      }
+    ]
+  }
+}

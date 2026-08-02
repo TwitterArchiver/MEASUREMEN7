@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1986441719400058932",
+    "created_at": "2025-11-06T14:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T15:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986442179783372945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "464973118",
+          "start": 0,
+          "username": "kinoko525525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986442179783372945",
+    "in_reply_to_user_id": "464973118",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986441719400058932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kinoko525525 不算很要好，但是想和你做朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1986441719400058932",
+        "created_at": "2025-11-06T14:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T15:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986442179783372945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "464973118",
+              "start": 0,
+              "username": "kinoko525525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986442179783372945",
+        "in_reply_to_user_id": "464973118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986441719400058932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kinoko525525 不算很要好，但是想和你做朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "464973118",
+        "conversation_id": "1986441719400058932",
+        "created_at": "2025-11-06T14:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T15:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986441719400058932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986441719400058932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想上学，，但是我又不能不上学，以后工作也完全会上不下去吧，我只想一直睡下去，没有人会爱我一直陪着我，看着大家都有很好的朋友我没有我真的感觉很难过……我想要朋友，亲密关系，爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 345,
+          "like_count": 16169,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 3104
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-15T20:34:46.000Z",
+        "description": "我想结束痛苦，而不是生命\n欢迎找我玩，我一直很孤单",
+        "id": "464973118",
+        "name": "思诺思",
+        "pinned_tweet_id": "1985735837129253251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986323230223966208/7BjaUFHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 92,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 160
+        },
+        "username": "kinoko525525",
+        "verified": false
+      }
+    ]
+  }
+}

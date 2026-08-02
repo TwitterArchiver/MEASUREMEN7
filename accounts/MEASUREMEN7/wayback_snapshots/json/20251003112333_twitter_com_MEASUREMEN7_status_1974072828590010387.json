@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1974071376865866194",
+    "created_at": "2025-10-03T11:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T12:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974072828590010387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1787714778116272128",
+          "start": 0,
+          "username": "La_reflexion000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974072828590010387",
+    "in_reply_to_user_id": "1787714778116272128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974071376865866194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@La_reflexion000 好萌，真的是女生"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3933,
+        "height": 720,
+        "media_key": "13_1974071298612736001",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1974071298612736001/img/7yIKWTM9Im5fFDkp.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974071298612736001/vid/avc1/360x270/NbquZNviA051V1wg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974071298612736001/vid/avc1/480x360/ZA4XoWQ3g5M0FY36.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974071298612736001/vid/avc1/960x720/VUyzRVBPJSN-zHux.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1974071298612736001/pl/re02D6qW9TA--mra.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1974071376865866194",
+        "created_at": "2025-10-03T11:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T12:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974072828590010387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1787714778116272128",
+              "start": 0,
+              "username": "La_reflexion000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974072828590010387",
+        "in_reply_to_user_id": "1787714778116272128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974071376865866194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@La_reflexion000 好萌，真的是女生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974071298612736001"
+          ]
+        },
+        "author_id": "1787714778116272128",
+        "conversation_id": "1974071376865866194",
+        "created_at": "2025-10-03T11:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T12:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974071376865866194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEdvdOLKCm",
+              "end": 31,
+              "expanded_url": "https://x.com/La_reflexion000/status/1974071376865866194/video/1",
+              "media_key": "13_1974071298612736001",
+              "start": 8,
+              "url": "https://t.co/XEdvdOLKCm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974071376865866194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我，你们好 https://t.co/XEdvdOLKCm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 437,
+          "like_count": 11717,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 2005
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T05:23:27.000Z",
+        "description": "psychoanalysis psycho",
+        "id": "1787714778116272128",
+        "location": "real",
+        "name": "mirroflets miroir",
+        "pinned_tweet_id": "1853800143713443845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852378891295318016/cvxy3szE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 136,
+          "like_count": 1538,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 936
+        },
+        "username": "La_reflexion000",
+        "verified": false
+      }
+    ]
+  }
+}

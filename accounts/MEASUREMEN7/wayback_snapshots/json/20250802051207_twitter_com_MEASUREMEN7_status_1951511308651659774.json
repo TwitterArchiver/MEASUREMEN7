@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951236753387560961"
+      ],
+      "media_source_tweet_id": [
+        "1951236757304844595"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1951511308651659774",
+    "created_at": "2025-08-02T05:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T06:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951511308651659774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1733825066990010368",
+          "start": 3,
+          "username": "xr__y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UaLX1IsGQh",
+          "end": 34,
+          "expanded_url": "https://x.com/xr__y/status/1951236757304844595/photo/1",
+          "media_key": "3_1951236753387560961",
+          "start": 11,
+          "url": "https://t.co/UaLX1IsGQh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951511308651659774",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 312
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951236757304844595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xr__y: https://t.co/UaLX1IsGQh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1951236753387560961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxQvfTZaIAEp-C8.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951236753387560961"
+          ],
+          "media_source_tweet_id": [
+            "1951236757304844595"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1951511308651659774",
+        "created_at": "2025-08-02T05:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T06:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951511308651659774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1733825066990010368",
+              "start": 3,
+              "username": "xr__y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UaLX1IsGQh",
+              "end": 34,
+              "expanded_url": "https://x.com/xr__y/status/1951236757304844595/photo/1",
+              "media_key": "3_1951236753387560961",
+              "start": 11,
+              "url": "https://t.co/UaLX1IsGQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951511308651659774",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 312
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951236757304844595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xr__y: https://t.co/UaLX1IsGQh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951236753387560961"
+          ]
+        },
+        "author_id": "1733825066990010368",
+        "conversation_id": "1951236757304844595",
+        "created_at": "2025-08-01T11:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T12:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951236757304844595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UaLX1IsGQh",
+              "end": 23,
+              "expanded_url": "https://x.com/xr__y/status/1951236757304844595/photo/1",
+              "media_key": "3_1951236753387560961",
+              "start": 0,
+              "url": "https://t.co/UaLX1IsGQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951236757304844595",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 32302,
+          "like_count": 2510,
+          "quote_count": 13,
+          "reply_count": 4,
+          "retweet_count": 312
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UaLX1IsGQh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 357,
+          "like_count": 6545,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1178
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T12:25:26.000Z",
+        "description": "",
+        "id": "1733825066990010368",
+        "name": "無能",
+        "pinned_tweet_id": "1901544270278148117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907770309119455232/nhNQsuQI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7409,
+          "following_count": 6,
+          "like_count": 8734,
+          "listed_count": 25,
+          "media_count": 74,
+          "tweet_count": 191
+        },
+        "username": "xr__y",
+        "verified": false
+      }
+    ]
+  }
+}

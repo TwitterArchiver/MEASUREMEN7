@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2016989094526743013",
+    "created_at": "2026-01-29T22:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T23:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017003288617468033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1583817418257809409",
+          "start": 0,
+          "username": "chiyuk1_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017003288617468033",
+    "in_reply_to_user_id": "1583817418257809409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016989094526743013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiyuk1_ 很萌啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016989084426915842",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_3I4sUbUAID506.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2016989094526743013",
+        "created_at": "2026-01-29T22:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T23:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017003288617468033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1583817418257809409",
+              "start": 0,
+              "username": "chiyuk1_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017003288617468033",
+        "in_reply_to_user_id": "1583817418257809409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016989094526743013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiyuk1_ 很萌啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016989084426915842"
+          ]
+        },
+        "author_id": "1583817418257809409",
+        "conversation_id": "2016989094526743013",
+        "created_at": "2026-01-29T21:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T22:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016989094526743013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HYeKkwZ3Tl",
+              "end": 23,
+              "expanded_url": "https://x.com/chiyuk1_/status/2016989094526743013/photo/1",
+              "media_key": "3_2016989084426915842",
+              "start": 0,
+              "url": "https://t.co/HYeKkwZ3Tl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016989094526743013",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HYeKkwZ3Tl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 376,
+          "like_count": 17773,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3731
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T13:48:36.000Z",
+        "description": "",
+        "id": "1583817418257809409",
+        "name": "𝖄",
+        "pinned_tweet_id": "1881548689212330392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016670789911896064/TyuZv2I3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 193,
+          "like_count": 3824,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 699
+        },
+        "username": "chiyuk1_",
+        "verified": false
+      }
+    ]
+  }
+}

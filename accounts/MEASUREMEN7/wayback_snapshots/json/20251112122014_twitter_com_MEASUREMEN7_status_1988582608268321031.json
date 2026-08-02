@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1988568172673339729",
+    "created_at": "2025-11-12T12:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T13:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988582608268321031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "FoxKami_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988582608268321031",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988568172673339729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxKami_ 这种还是剁了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 937,
+        "media_key": "3_1988568161780699136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jQNQ6XEAAiIqh.jpg",
+        "width": 610
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1988568161755512834",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jQNQ0WwAIVmcR.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1988568172673339729",
+        "created_at": "2025-11-12T12:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988582608268321031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "FoxKami_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988582608268321031",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988568172673339729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxKami_ 这种还是剁了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988568161780699136",
+            "3_1988568161755512834"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "1988568172673339729",
+        "created_at": "2025-11-12T11:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988568172673339729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QyIcuNU7BP",
+              "end": 53,
+              "expanded_url": "https://x.com/FoxKami_/status/1988568172673339729/photo/1",
+              "media_key": "3_1988568161780699136",
+              "start": 30,
+              "url": "https://t.co/QyIcuNU7BP"
+            },
+            {
+              "display_url": "pic.x.com/QyIcuNU7BP",
+              "end": 53,
+              "expanded_url": "https://x.com/FoxKami_/status/1988568172673339729/photo/1",
+              "media_key": "3_1988568161755512834",
+              "start": 30,
+              "url": "https://t.co/QyIcuNU7BP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988568172673339729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1329,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我私信遇到过最有礼貌的人 让我看鸡巴还一直征求我的同意 https://t.co/QyIcuNU7BP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 350,
+          "like_count": 16604,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 3213
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "people like you don't deserve to live.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "時行の部屋",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986689507366772736/xS9XtBLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7093,
+          "following_count": 238,
+          "like_count": 31320,
+          "listed_count": 18,
+          "media_count": 180,
+          "tweet_count": 901
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "FoxKami_",
+        "verified": false
+      }
+    ]
+  }
+}

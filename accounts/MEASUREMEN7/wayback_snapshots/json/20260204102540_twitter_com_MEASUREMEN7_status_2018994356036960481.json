@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2018890741842628892",
+    "created_at": "2026-02-04T10:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T11:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018994356036960481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1971010136958447616",
+          "start": 0,
+          "username": "Judybuttgirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018994356036960481",
+    "in_reply_to_user_id": "1971010136958447616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018890741842628892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Judybuttgirl 为啥不尿给我"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2018890741842628892].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2018890741842628892",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2018890741842628892"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2018890741842628892",
+        "created_at": "2026-02-04T10:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T11:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018994356036960481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1971010136958447616",
+              "start": 0,
+              "username": "Judybuttgirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018994356036960481",
+        "in_reply_to_user_id": "1971010136958447616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018890741842628892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Judybuttgirl 为啥不尿给我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 390,
+          "like_count": 18748,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3944
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:33:44.000Z",
+        "description": "Hello I’m Judy~ An Asian big-ass girl 肥臀小母狗日记 🍑🍑🍑🍑🍑🇭🇰🇭🇰🇭🇰🇭🇰🇭🇰",
+        "id": "1971010136958447616",
+        "name": "Judy",
+        "pinned_tweet_id": "1999341721948422449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009181714128715776/smhTl0DV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 207,
+          "like_count": 18748,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 345
+        },
+        "username": "Judybuttgirl",
+        "verified": false
+      }
+    ]
+  }
+}

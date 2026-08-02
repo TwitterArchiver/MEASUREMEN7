@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1974811873989308856",
+    "created_at": "2025-10-26T06:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T07:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982329187760558253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1809798828641714176",
+          "start": 0,
+          "username": "YUANJING000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982329187760558253",
+    "in_reply_to_user_id": "1809798828641714176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974811873989308856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUANJING000 可以的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1072,
+        "media_key": "3_1974811871460089856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2fw7yCaYAAf9FB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1974811873989308856",
+        "created_at": "2025-10-26T06:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T07:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982329187760558253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1809798828641714176",
+              "start": 0,
+              "username": "YUANJING000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982329187760558253",
+        "in_reply_to_user_id": "1809798828641714176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974811873989308856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUANJING000 可以的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974811871460089856"
+          ]
+        },
+        "author_id": "1809798828641714176",
+        "conversation_id": "1974811873989308856",
+        "created_at": "2025-10-05T12:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T13:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974811873989308856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1661wtFIRc",
+              "end": 126,
+              "expanded_url": "https://x.com/YUANJING000/status/1974811873989308856/photo/1",
+              "media_key": "3_1974811871460089856",
+              "start": 103,
+              "url": "https://t.co/1661wtFIRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974811873989308856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 739,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "包养土丝雀\n1.每天跟我报备聊天 喜欢话多粘人的\n2.1个月1.314\n3.心情好可以给你点蜜雪冰城（不准喝四块钱以上的 我不喜欢太物质的男人）\n4.我没钱的时候你要把钱还给我\n5.个高长得帅的优先 谢谢 https://t.co/1661wtFIRc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 344,
+          "like_count": 15196,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 2829
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T03:57:30.000Z",
+        "description": "我要操遍天下所有男人",
+        "id": "1809798828641714176",
+        "location": "Yau Tsim Mong District",
+        "name": "停留",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951918141656948736/uq24EFQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 32,
+          "like_count": 38,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 11
+        },
+        "username": "YUANJING000",
+        "verified": false
+      }
+    ]
+  }
+}

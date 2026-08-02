@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2069236909570765228",
+    "created_at": "2026-06-23T21:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T22:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069528606485938638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572217722876080129",
+          "start": 0,
+          "username": "KurokawaRirika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069528606485938638",
+    "in_reply_to_user_id": "1572217722876080129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069236909570765228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KurokawaRirika 不知道诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2069236909570765228",
+        "created_at": "2026-06-23T21:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T22:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069528606485938638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1572217722876080129",
+              "start": 0,
+              "username": "KurokawaRirika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069528606485938638",
+        "in_reply_to_user_id": "1572217722876080129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069236909570765228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KurokawaRirika 不知道诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572217722876080129",
+        "conversation_id": "2069236909570765228",
+        "created_at": "2026-06-23T01:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T02:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069236909570765228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069236909570765228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何涨粉？我都那么努力拍cos了？为何0人理我？操。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 160,
+          "like_count": 26514,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 5380
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T13:37:37.000Z",
+        "description": "我是黒川りりか可以叫我莉莉\n🚪🍎门槛188-1314上不封顶👽🫶\n💉同时有医美啵啵替西等业务～可咨询💉\n中文ok 日本語を勉強中なの Still picking up English\n广州/165g54kg/血图/自拍/废话/餐券妹欢迎互转互fo！",
+        "id": "1572217722876080129",
+        "location": "天国",
+        "name": "Ririka💀💋",
+        "pinned_tweet_id": "2069398802931531933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057315255215345664/SZblubwt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 159,
+          "like_count": 1945,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "KurokawaRirika",
+        "verified": false
+      }
+    ]
+  }
+}

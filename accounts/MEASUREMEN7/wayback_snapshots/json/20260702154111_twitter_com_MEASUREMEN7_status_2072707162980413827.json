@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072707150309367809"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2072707162980413827",
+    "created_at": "2026-07-02T15:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072707162980413827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NVHXhoEo1g",
+          "end": 37,
+          "expanded_url": "https://x.com/MEASUREMEN7/status/2072707162980413827/photo/1",
+          "media_key": "3_2072707150309367809",
+          "start": 14,
+          "url": "https://t.co/NVHXhoEo1g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072707162980413827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你现在才告诉我我账号被搞了 https://t.co/NVHXhoEo1g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072707150309367809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMO8K-maIAE8paT.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072707150309367809"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2072707162980413827",
+        "created_at": "2026-07-02T15:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072707162980413827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NVHXhoEo1g",
+              "end": 37,
+              "expanded_url": "https://x.com/MEASUREMEN7/status/2072707162980413827/photo/1",
+              "media_key": "3_2072707150309367809",
+              "start": 14,
+              "url": "https://t.co/NVHXhoEo1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072707162980413827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你现在才告诉我我账号被搞了 https://t.co/NVHXhoEo1g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 176,
+          "like_count": 27505,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 5495
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      }
+    ]
+  }
+}

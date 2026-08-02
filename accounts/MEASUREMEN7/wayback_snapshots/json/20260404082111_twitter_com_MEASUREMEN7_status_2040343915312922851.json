@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2040335387986690361",
+    "created_at": "2026-04-04T08:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T09:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040343915312922851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1833100001180098560",
+          "start": 0,
+          "username": "hxjcrhvgJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040343915312922851",
+    "in_reply_to_user_id": "1833100001180098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040335387986690361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hxjcrhvgJ 大概不喜欢吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040335381699371008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFC6ODDaIAAx2N8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2040335387986690361",
+        "created_at": "2026-04-04T08:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040343915312922851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1833100001180098560",
+              "start": 0,
+              "username": "hxjcrhvgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040343915312922851",
+        "in_reply_to_user_id": "1833100001180098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040335387986690361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hxjcrhvgJ 大概不喜欢吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040335381699371008"
+          ]
+        },
+        "author_id": "1833100001180098560",
+        "conversation_id": "2040335387986690361",
+        "created_at": "2026-04-04T07:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040335387986690361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bZ3JMqlIKR",
+              "end": 44,
+              "expanded_url": "https://x.com/hxjcrhvgJ/status/2040335387986690361/photo/1",
+              "media_key": "3_2040335381699371008",
+              "start": 21,
+              "url": "https://t.co/bZ3JMqlIKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040335387986690361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我在抽纸烟的时候女生离我远了那么多 https://t.co/bZ3JMqlIKR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 288,
+          "like_count": 24942,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 5081
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T11:08:05.000Z",
+        "description": "重加工 给我钱",
+        "id": "1833100001180098560",
+        "name": "小狱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947767470389137412/WhX8waeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 189,
+          "like_count": 3917,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 197
+        },
+        "username": "hxjcrhvgJ",
+        "verified": false
+      }
+    ]
+  }
+}

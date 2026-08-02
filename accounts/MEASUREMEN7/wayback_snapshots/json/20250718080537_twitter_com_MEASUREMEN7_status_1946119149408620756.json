@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1946117252937617655",
+    "created_at": "2025-07-18T08:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T09:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946119149408620756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688752494791516160",
+          "start": 0,
+          "username": "xiaoquqi362825"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946119149408620756",
+    "in_reply_to_user_id": "1688752494791516160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946117252937617655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoquqi362825 emmmm，jio吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1657,
+        "media_key": "3_1946117120716128257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwH_NdeXQAETlCx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1668,
+        "media_key": "3_1946117120338870272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwH_NcEawAA2oc5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1535,
+        "media_key": "3_1946117119566860293",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwH_NZMW0AUo3E-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1946117252937617655",
+        "created_at": "2025-07-18T08:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T09:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946119149408620756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688752494791516160",
+              "start": 0,
+              "username": "xiaoquqi362825"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946119149408620756",
+        "in_reply_to_user_id": "1688752494791516160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946117252937617655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoquqi362825 emmmm，jio吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946117120716128257",
+            "3_1946117120338870272",
+            "3_1946117119566860293"
+          ]
+        },
+        "author_id": "1688752494791516160",
+        "conversation_id": "1946117252937617655",
+        "created_at": "2025-07-18T07:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T08:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946117252937617655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EBgHgZe14s",
+              "end": 43,
+              "expanded_url": "https://x.com/xiaoquqi362825/status/1946117252937617655/photo/1",
+              "media_key": "3_1946117120716128257",
+              "start": 20,
+              "url": "https://t.co/EBgHgZe14s"
+            },
+            {
+              "display_url": "pic.x.com/EBgHgZe14s",
+              "end": 43,
+              "expanded_url": "https://x.com/xiaoquqi362825/status/1946117252937617655/photo/1",
+              "media_key": "3_1946117120338870272",
+              "start": 20,
+              "url": "https://t.co/EBgHgZe14s"
+            },
+            {
+              "display_url": "pic.x.com/EBgHgZe14s",
+              "end": 43,
+              "expanded_url": "https://x.com/xiaoquqi362825/status/1946117252937617655/photo/1",
+              "media_key": "3_1946117119566860293",
+              "start": 20,
+              "url": "https://t.co/EBgHgZe14s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946117252937617655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "认真发问？屁股和腿还有口，你想用那个？ https://t.co/EBgHgZe14s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 306,
+          "like_count": 4306,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 839
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T03:22:43.000Z",
+        "description": "",
+        "id": "1688752494791516160",
+        "name": "xianquqi",
+        "pinned_tweet_id": "1745472749357912371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941887973823287296/BIc9fbBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10418,
+          "following_count": 86,
+          "like_count": 113,
+          "listed_count": 21,
+          "media_count": 9,
+          "tweet_count": 211
+        },
+        "username": "xiaoquqi362825",
+        "verified": false
+      }
+    ]
+  }
+}

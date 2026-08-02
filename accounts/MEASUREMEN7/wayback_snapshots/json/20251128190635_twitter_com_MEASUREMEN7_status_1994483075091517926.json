@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1994483075091517926",
+    "created_at": "2025-11-28T19:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T20:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994483075091517926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/boluobingqilin…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/boluobingqiling/status/1994384742477963274",
+          "start": 6,
+          "url": "https://t.co/z7slWX6glw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994483075091517926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994384742477963274",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我会是哪个 https://t.co/z7slWX6glw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_1994384736693960704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G616WfAawAAe5S6.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1994483075091517926",
+        "created_at": "2025-11-28T19:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T20:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994483075091517926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/boluobingqilin…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/boluobingqiling/status/1994384742477963274",
+              "start": 6,
+              "url": "https://t.co/z7slWX6glw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994483075091517926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994384742477963274",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会是哪个 https://t.co/z7slWX6glw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994384736693960704"
+          ]
+        },
+        "author_id": "1885661060658855936",
+        "conversation_id": "1994384742477963274",
+        "created_at": "2025-11-28T12:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994384742477963274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vwp0YIc99b",
+              "end": 57,
+              "expanded_url": "https://x.com/boluobingqiling/status/1994384742477963274/photo/1",
+              "media_key": "3_1994384736693960704",
+              "start": 34,
+              "url": "https://t.co/Vwp0YIc99b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994384742477963274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "呃这个有的字为啥看不清阿你们帮我看看然后这是个多选题可以多选几个的 https://t.co/Vwp0YIc99b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 361,
+          "like_count": 16839,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 3341
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T12:06:58.000Z",
+        "description": "哆啦P梦",
+        "id": "1885661060658855936",
+        "location": "在车站前等你",
+        "name": "#pInEaPpLeiCeCrEaM100%",
+        "pinned_tweet_id": "1986336659257106637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974426595344666625/mkU0MQRr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 46,
+          "like_count": 1515,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 829
+        },
+        "username": "boluobingqiling",
+        "verified": false
+      }
+    ]
+  }
+}

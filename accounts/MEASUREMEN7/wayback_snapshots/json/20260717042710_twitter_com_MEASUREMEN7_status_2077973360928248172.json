@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2077670420883620009",
+    "created_at": "2026-07-17T04:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077973360928248172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1828360766115979267",
+          "start": 0,
+          "username": "Cn111nian1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077973360928248172",
+    "in_reply_to_user_id": "1828360766115979267",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077670420883620009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cn111nian1 prpr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077670412084002816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVeO1ibQAARewA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2077670420883620009",
+        "created_at": "2026-07-17T04:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077973360928248172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828360766115979267",
+              "start": 0,
+              "username": "Cn111nian1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077973360928248172",
+        "in_reply_to_user_id": "1828360766115979267",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077670420883620009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cn111nian1 prpr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077670412084002816"
+          ]
+        },
+        "author_id": "1828360766115979267",
+        "conversation_id": "2077670420883620009",
+        "created_at": "2026-07-16T08:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077670420883620009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ElzPnaUZiR",
+              "end": 28,
+              "expanded_url": "https://x.com/Cn111nian1/status/2077670420883620009/photo/1",
+              "media_key": "3_2077670412084002816",
+              "start": 5,
+              "url": "https://t.co/ElzPnaUZiR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077670420883620009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 693,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们懂吗 https://t.co/ElzPnaUZiR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 174,
+          "like_count": 27718,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 5531
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T09:16:06.000Z",
+        "description": "",
+        "id": "1828360766115979267",
+        "name": "巧克力",
+        "pinned_tweet_id": "1831880849106858119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023481165051768832/Fw4NiluJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 8,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "Cn111nian1",
+        "verified": false
+      }
+    ]
+  }
+}

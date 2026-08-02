@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1945115286581158090",
+    "created_at": "2025-07-15T14:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T15:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945125128490377657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945125128490377657",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 79,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945115286581158090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte8964 高中的恋情好美好，可是回不去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1945115286581158090",
+        "created_at": "2025-07-15T14:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T15:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945125128490377657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945125128490377657",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945115286581158090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 高中的恋情好美好，可是回不去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1945115286581158090",
+        "created_at": "2025-07-15T13:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T14:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945115286581158090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945115286581158090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "四年前也是这样的一个黏腻的夏天，我在家对面的公园和男朋友盘腿坐在长椅谈天说地，把自己代入游戏里的角色啊，未来的打算之类的啊，那个时候我还没上高中。\n总感觉什么都来得及，好像也确实来得及；刘海被汗黏在我的额头上、喝了很多很多维他命水，然后在被蚊子包围的夜晚紧紧的抱着彼此黏腻的接吻，去对方家里黏腻的做爱，人生和肉体全部交织在一起了、哪怕是现在也没有分开。我太迟钝了，有些话你不说出来我总是弄不明白；偏偏你又是一个什么话都不会说的人。\n其实我真的真的已经对你别无所求了，我这样的心情到底是什么呢？我不难过也不悲伤，你只是变了而已，其实我们都变了。原来的我总是缠着你和我做一切事情，现在我却不想和任何人扯上过多的联系；现在你会爱上和你做爱的人，现在我性和爱已经完全分开了。我唯独没想到会和你分开啊，我唯独没想到我们会形同陌路啊\n…\n并没有想回到那样的过去，只是想看着你的眼睛。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2140,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "四年前也是这样的一个黏腻的夏天，我在家对面的公园和男朋友盘腿坐在长椅谈天说地，把自己代入游戏里的角色啊，未来的打算之类的啊，那个时候我还没上高中。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 282,
+          "like_count": 3860,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 758
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ* 人デ無シ マタ智慧モ無シ｜🚪198/520/1314 该死的门槛鸡又在歹毒的圈钱之我在东京接纯绿线下，线上我也可以陪你，我真的需要钱活下去TT",
+        "id": "1747931023277502465",
+        "location": "Tokyo-to, Japan",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34461,
+          "following_count": 773,
+          "like_count": 6956,
+          "listed_count": 42,
+          "media_count": 227,
+          "tweet_count": 2467
+        },
+        "username": "damatte8964",
+        "verified": true
+      }
+    ]
+  }
+}

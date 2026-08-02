@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1999878919944544406",
+    "created_at": "2025-12-14T03:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T04:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000039846572605622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "743283237632380929",
+          "start": 0,
+          "username": "dearrX__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000039846572605622",
+    "in_reply_to_user_id": "743283237632380929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999878919944544406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dearrX__ 我记得今天不是周四来着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1999878919944544406",
+        "created_at": "2025-12-14T03:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000039846572605622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "743283237632380929",
+              "start": 0,
+              "username": "dearrX__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000039846572605622",
+        "in_reply_to_user_id": "743283237632380929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999878919944544406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dearrX__ 我记得今天不是周四来着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "743283237632380929",
+        "conversation_id": "1999878919944544406",
+        "created_at": "2025-12-13T16:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T17:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999878919944544406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999878919944544406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 515,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家人们，我开通了一项新业务：现在转我2000块钱，我可以装成你的舔狗，给你转1314和521显得你贼有面，我就挣165块（现在下单，立刻返现115，还有50我另有妙用）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 365,
+          "like_count": 16712,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3435
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-16T03:25:08.000Z",
+        "description": "🚪",
+        "id": "743283237632380929",
+        "name": "Tinger",
+        "pinned_tweet_id": "1962800989096026338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985182403573547008/eRmnbzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5314,
+          "following_count": 496,
+          "like_count": 64685,
+          "listed_count": 9,
+          "media_count": 838,
+          "tweet_count": 1501
+        },
+        "username": "dearrX__",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1992591997824282870",
+    "created_at": "2025-11-23T22:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T23:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992723640274895205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1888259669338320896",
+          "start": 0,
+          "username": "wizgjaj197722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992723640274895205",
+    "in_reply_to_user_id": "1888259669338320896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992591997824282870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wizgjaj197722 给我吃口"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992591991964897281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cb3AdbEAEOPGA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992591991960682496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cb3AcawAADn13.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992591991956471809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cb3AbagAEqEv_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1992591997824282870",
+        "created_at": "2025-11-23T22:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T23:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992723640274895205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1888259669338320896",
+              "start": 0,
+              "username": "wizgjaj197722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992723640274895205",
+        "in_reply_to_user_id": "1888259669338320896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992591997824282870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wizgjaj197722 给我吃口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992591991964897281",
+            "3_1992591991960682496",
+            "3_1992591991956471809"
+          ]
+        },
+        "author_id": "1888259669338320896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1992591997824282870",
+        "created_at": "2025-11-23T13:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992591997824282870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lml5aWOIUv",
+              "end": 25,
+              "expanded_url": "https://x.com/wizgjaj197722/status/1992591997824282870/photo/1",
+              "media_key": "3_1992591991964897281",
+              "start": 2,
+              "url": "https://t.co/lml5aWOIUv"
+            },
+            {
+              "display_url": "pic.x.com/lml5aWOIUv",
+              "end": 25,
+              "expanded_url": "https://x.com/wizgjaj197722/status/1992591997824282870/photo/1",
+              "media_key": "3_1992591991960682496",
+              "start": 2,
+              "url": "https://t.co/lml5aWOIUv"
+            },
+            {
+              "display_url": "pic.x.com/lml5aWOIUv",
+              "end": 25,
+              "expanded_url": "https://x.com/wizgjaj197722/status/1992591997824282870/photo/1",
+              "media_key": "3_1992591991956471809",
+              "start": 2,
+              "url": "https://t.co/lml5aWOIUv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992591997824282870",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/lml5aWOIUv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 357,
+          "like_count": 16798,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 3319
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T16:13:08.000Z",
+        "description": "招魂中。不要攻击我。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/404__page_notf…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/404__page_notfound?igsh=MTNkcDBtOTMzdGZxcw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/BGSBCk6kIA"
+              }
+            ]
+          }
+        },
+        "id": "1888259669338320896",
+        "name": "？？？",
+        "pinned_tweet_id": "1965101658003968236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982523780904763392/_lwUgD9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 93,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 651
+        },
+        "url": "https://t.co/BGSBCk6kIA",
+        "username": "wizgjaj197722",
+        "verified": false
+      }
+    ]
+  }
+}

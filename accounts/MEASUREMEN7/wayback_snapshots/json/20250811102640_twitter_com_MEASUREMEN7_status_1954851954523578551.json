@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1954851625148838083",
+    "created_at": "2025-08-11T10:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T11:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954851954523578551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1778652016203505664",
+          "start": 0,
+          "username": "yun1995418"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954851954523578551",
+    "in_reply_to_user_id": "1778652016203505664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954851625148838083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yun1995418 我要吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1954851625148838083",
+        "created_at": "2025-08-11T10:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T11:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954851954523578551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778652016203505664",
+              "start": 0,
+              "username": "yun1995418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954851954523578551",
+        "in_reply_to_user_id": "1778652016203505664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954851625148838083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yun1995418 我要吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778652016203505664",
+        "conversation_id": "1954851625148838083",
+        "created_at": "2025-08-11T10:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T11:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954851625148838083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954851625148838083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唯一的问题就是真的很饿而且没有地方睡觉💤中午就这样枕在菲伦的腿上睡着了而且她没有骂我而是让我睡了一个小时\n走路好久而且芙莉莲的鞋子实在是太闷了……我感觉真的全是汗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 372,
+          "like_count": 7355,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1275
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T05:11:10.000Z",
+        "description": "中国🇨🇳女\n身高159体重✘\n性瘾和精神病的叠加态\n内容是色色or忧郁发癫\n没有🚪，随缘加人，投喂不定期开放，会将一部分投喂用于捐款，接受不了的请勿投喂\n随缘看私\n谢谢你来看我\nEI.Psy.Kongroo",
+        "id": "1778652016203505664",
+        "name": "芸yun",
+        "pinned_tweet_id": "1905619122358202793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928410331426254849/2MmCIGfW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44203,
+          "following_count": 150,
+          "like_count": 684,
+          "listed_count": 67,
+          "media_count": 204,
+          "tweet_count": 1580
+        },
+        "username": "yun1995418",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1945820090706067655",
+    "created_at": "2025-07-18T06:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T07:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946100791686701066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1925243091914825730",
+          "start": 0,
+          "username": "lilingngzh62677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946100791686701066",
+    "in_reply_to_user_id": "1925243091914825730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945820090706067655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilingngzh62677 开把单"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1945820090706067655",
+        "created_at": "2025-07-18T06:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T07:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946100791686701066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1925243091914825730",
+              "start": 0,
+              "username": "lilingngzh62677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946100791686701066",
+        "in_reply_to_user_id": "1925243091914825730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945820090706067655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilingngzh62677 开把单"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925243091914825730",
+        "conversation_id": "1945820090706067655",
+        "created_at": "2025-07-17T12:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T13:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945820090706067655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945820090706067655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1951,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打个羽毛球打的我全身汗🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 305,
+          "like_count": 4257,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 829
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-21T17:31:51.000Z",
+        "description": "美丽刑具     在读大二。",
+        "id": "1925243091914825730",
+        "location": "江苏",
+        "name": "榴莲公主",
+        "pinned_tweet_id": "1935373775010414961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925243566701649921/l2f2ckrd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 112,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 33
+        },
+        "username": "lilingngzh62677",
+        "verified": false
+      }
+    ]
+  }
+}

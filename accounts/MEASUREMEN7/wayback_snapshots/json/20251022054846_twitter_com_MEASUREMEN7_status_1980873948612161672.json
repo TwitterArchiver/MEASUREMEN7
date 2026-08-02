@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980873936456822784",
+        "3_1980873936440012800"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1980873948612161672",
+    "created_at": "2025-10-22T05:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T06:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980873948612161672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4FCnQx7VuH",
+          "end": 38,
+          "expanded_url": "https://x.com/MEASUREMEN7/status/1980873948612161672/photo/1",
+          "media_key": "3_1980873936456822784",
+          "start": 15,
+          "url": "https://t.co/4FCnQx7VuH"
+        },
+        {
+          "display_url": "pic.x.com/4FCnQx7VuH",
+          "end": 38,
+          "expanded_url": "https://x.com/MEASUREMEN7/status/1980873948612161672/photo/1",
+          "media_key": "3_1980873936440012800",
+          "start": 15,
+          "url": "https://t.co/4FCnQx7VuH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980873948612161672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想了好久还是决定发Day 4 https://t.co/4FCnQx7VuH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980873936456822784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G316WZ9WsAALYSA.jpg",
+        "width": 946
+      },
+      {
+        "height": 354,
+        "media_key": "3_1980873936440012800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G316WZ5WMAA8qkr.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980873936456822784",
+            "3_1980873936440012800"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1980873948612161672",
+        "created_at": "2025-10-22T05:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T06:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980873948612161672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4FCnQx7VuH",
+              "end": 38,
+              "expanded_url": "https://x.com/MEASUREMEN7/status/1980873948612161672/photo/1",
+              "media_key": "3_1980873936456822784",
+              "start": 15,
+              "url": "https://t.co/4FCnQx7VuH"
+            },
+            {
+              "display_url": "pic.x.com/4FCnQx7VuH",
+              "end": 38,
+              "expanded_url": "https://x.com/MEASUREMEN7/status/1980873948612161672/photo/1",
+              "media_key": "3_1980873936440012800",
+              "start": 15,
+              "url": "https://t.co/4FCnQx7VuH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980873948612161672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想了好久还是决定发Day 4 https://t.co/4FCnQx7VuH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 338,
+          "like_count": 14783,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 2707
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      }
+    ]
+  }
+}

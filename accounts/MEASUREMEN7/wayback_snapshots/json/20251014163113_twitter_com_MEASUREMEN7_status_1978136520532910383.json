@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1978131275090481152"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1978136520532910383",
+    "created_at": "2025-10-14T16:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T17:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978136520532910383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1799795163843436544",
+          "start": 3,
+          "username": "BeetiIsDog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978136520532910383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978131276356825105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BeetiIsDog: 想知道大家最大的痛苦来源是什么（）和人聊天的时候发现好多没对上电波的东西，"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 2880,
+        "end_datetime": "2025-10-16T16:10:22.000Z",
+        "id": "1978131275090481152",
+        "options": [
+          {
+            "label": "原生家庭创伤//人生中家庭成员/自己经历的重大事件",
+            "position": 1,
+            "votes": 1
+          },
+          {
+            "label": "精神病带来的学业/社会化艰辛",
+            "position": 2,
+            "votes": 1
+          },
+          {
+            "label": "爱情/友情 等带来的社交事故/感情创伤/霸凌",
+            "position": 3,
+            "votes": 1
+          },
+          {
+            "label": "评论区补",
+            "position": 4,
+            "votes": 1
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1978131275090481152"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1978136520532910383",
+        "created_at": "2025-10-14T16:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T17:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978136520532910383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1799795163843436544",
+              "start": 3,
+              "username": "BeetiIsDog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978136520532910383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978131276356825105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BeetiIsDog: 想知道大家最大的痛苦来源是什么（）和人聊天的时候发现好多没对上电波的东西，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1978131275090481152"
+          ]
+        },
+        "author_id": "1799795163843436544",
+        "conversation_id": "1978131276356825105",
+        "created_at": "2025-10-14T16:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T17:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978131276356825105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978131276356825105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想知道大家最大的痛苦来源是什么（）和人聊天的时候发现好多没对上电波的东西，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 450,
+          "like_count": 14026,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 2529
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "=beeti小犬/demigirl/幼稚鬼病み垢高三生/喜欢画可爱的东西喜欢看可爱的东西喜欢可爱的人。不混圈不参与争论，私信没开互fo请置顶留言，多点关心多点爱。‖  escape：@5_HTIsUsagi   我老大：@sysjf0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "5_HTIsUsagi"
+              },
+              {
+                "end": 117,
+                "start": 110,
+                "username": "sysjf0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+vOQWVMQTr0Y2O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+vOQWVMQTr0Y2OGI1",
+                "start": 0,
+                "url": "https://t.co/n7w34dGNLl"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "≤ 1 km",
+        "name": "ビーチイ小犬 |๏ᆺ๏υ)",
+        "pinned_tweet_id": "1936770496970006587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976545137112367104/FcDJPG_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 586,
+          "like_count": 16919,
+          "listed_count": 3,
+          "media_count": 205,
+          "tweet_count": 3608
+        },
+        "url": "https://t.co/n7w34dGNLl",
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}

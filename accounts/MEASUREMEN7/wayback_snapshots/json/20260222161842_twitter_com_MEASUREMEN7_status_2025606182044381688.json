@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2025604917747150974",
+    "created_at": "2026-02-22T16:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T17:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025606182044381688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1893169260387803137",
+          "start": 0,
+          "username": "Yana911y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025606182044381688",
+    "in_reply_to_user_id": "1893169260387803137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025604917747150974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yana911y 摸摸你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2025604917747150974",
+        "created_at": "2026-02-22T16:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025606182044381688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1893169260387803137",
+              "start": 0,
+              "username": "Yana911y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025606182044381688",
+        "in_reply_to_user_id": "1893169260387803137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025604917747150974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yana911y 摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893169260387803137",
+        "conversation_id": "2025604917747150974",
+        "created_at": "2026-02-22T16:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025604917747150974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025604917747150974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为要生活啊因为要上学因为要吃饭要交房租 所以做这些事 因为很孤独 没有依靠打不通家人的电话 总是一个人凌晨跑去酒吧消除焦虑和痛苦 所以要做这些。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 423,
+          "like_count": 21617,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4541
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T05:21:58.000Z",
+        "description": "上海",
+        "id": "1893169260387803137",
+        "location": "🚪88",
+        "name": "lyanyy",
+        "pinned_tweet_id": "2017954923770782166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017538450141155331/7HtmCy28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 152,
+          "like_count": 1256,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 223
+        },
+        "username": "Yana911y",
+        "verified": false
+      }
+    ]
+  }
+}

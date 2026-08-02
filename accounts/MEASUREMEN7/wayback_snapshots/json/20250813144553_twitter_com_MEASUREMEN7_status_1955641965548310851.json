@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1955641291615916276",
+    "created_at": "2025-08-13T14:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T15:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955641965548310851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1446470666161508354",
+          "start": 0,
+          "username": "0812xxx_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955641965548310851",
+    "in_reply_to_user_id": "1446470666161508354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955641291615916276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0812xxx_ 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955641287715205120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyPVY8ZaMAApDrc.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1955641291615916276",
+        "created_at": "2025-08-13T14:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T15:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955641965548310851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1446470666161508354",
+              "start": 0,
+              "username": "0812xxx_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955641965548310851",
+        "in_reply_to_user_id": "1446470666161508354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955641291615916276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0812xxx_ 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955641287715205120"
+          ]
+        },
+        "author_id": "1446470666161508354",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1955641291615916276",
+        "created_at": "2025-08-13T14:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T15:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955641291615916276"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "碧蓝航线"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "大凤"
+            },
+            {
+              "end": 20,
+              "start": 18,
+              "tag": "鹩"
+            },
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "cosplayer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGL9gl7MKi",
+              "end": 55,
+              "expanded_url": "https://x.com/0812xxx_/status/1955641291615916276/photo/1",
+              "media_key": "3_1955641287715205120",
+              "start": 32,
+              "url": "https://t.co/OGL9gl7MKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955641291615916276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "指挥官……\n\n #碧蓝航线 #大凤 #鹩 #cosplayer https://t.co/OGL9gl7MKi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 380,
+          "like_count": 7666,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1343
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-08T13:41:10.000Z",
+        "description": "🚪52\n 无意义问题不回复\n认识我，快用POME来向我匿名发问！https://t.co/7QVzgDeAWX\n ——POME 匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pome.vip/d021fa78",
+                "end": 55,
+                "expanded_url": "https://pome.vip/d021fa78",
+                "start": 32,
+                "url": "https://t.co/7QVzgDeAWX"
+              }
+            ]
+          }
+        },
+        "id": "1446470666161508354",
+        "name": "/ᐠ - ˕ -マ Ⳋ",
+        "pinned_tweet_id": "1933153701901816159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933157544580554752/d00A0N1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 291,
+          "like_count": 1072,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 213
+        },
+        "username": "0812xxx_",
+        "verified": false
+      }
+    ]
+  }
+}

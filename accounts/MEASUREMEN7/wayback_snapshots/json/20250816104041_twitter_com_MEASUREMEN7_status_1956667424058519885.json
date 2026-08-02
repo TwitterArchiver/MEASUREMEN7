@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1956624670222107006",
+    "created_at": "2025-08-16T10:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T11:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956667424058519885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1911747993675661312",
+          "start": 0,
+          "username": "yyuelen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956667424058519885",
+    "in_reply_to_user_id": "1911747993675661312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956624670222107006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyuelen 2，不要死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_1956624661674074113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GydTw13aIAEItSa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 946,
+        "media_key": "3_1956624661695139840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GydTw18bkAAHA2J.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1956624670222107006",
+        "created_at": "2025-08-16T10:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T11:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956667424058519885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1911747993675661312",
+              "start": 0,
+              "username": "yyuelen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956667424058519885",
+        "in_reply_to_user_id": "1911747993675661312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956624670222107006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyuelen 2，不要死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956624661674074113",
+            "3_1956624661695139840"
+          ]
+        },
+        "author_id": "1911747993675661312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956624670222107006",
+        "created_at": "2025-08-16T07:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T08:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956624670222107006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/38fCDk56Jq",
+              "end": 35,
+              "expanded_url": "https://x.com/yyuelen/status/1956624670222107006/photo/1",
+              "media_key": "3_1956624661674074113",
+              "start": 12,
+              "url": "https://t.co/38fCDk56Jq"
+            },
+            {
+              "display_url": "pic.x.com/38fCDk56Jq",
+              "end": 35,
+              "expanded_url": "https://x.com/yyuelen/status/1956624670222107006/photo/1",
+              "media_key": "3_1956624661695139840",
+              "start": 12,
+              "url": "https://t.co/38fCDk56Jq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956624670222107006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "支持我自杀的扣一好吗。 https://t.co/38fCDk56Jq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 384,
+          "like_count": 8177,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1462
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T11:47:13.000Z",
+        "description": "閱覽權限開啟",
+        "id": "1911747993675661312",
+        "name": "凜",
+        "pinned_tweet_id": "1950834631802286332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946593511609868288/CykO-ZhG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 31,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 213
+        },
+        "username": "yyuelen",
+        "verified": false
+      }
+    ]
+  }
+}

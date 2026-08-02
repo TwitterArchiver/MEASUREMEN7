@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1944949036701601918",
+    "created_at": "2025-07-15T02:39:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T03:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944949830541042015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1846412380433244160",
+          "start": 0,
+          "username": "ao_8888_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944949830541042015",
+    "in_reply_to_user_id": "1846412380433244160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944949036701601918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ao_8888_ 頑張れ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1944949036701601918",
+        "created_at": "2025-07-15T02:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T03:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944949830541042015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1846412380433244160",
+              "start": 0,
+              "username": "ao_8888_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944949830541042015",
+        "in_reply_to_user_id": "1846412380433244160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944949036701601918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ao_8888_ 頑張れ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846412380433244160",
+        "conversation_id": "1944949036701601918",
+        "created_at": "2025-07-15T02:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T03:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944949036701601918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944949036701601918",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "５・６時間目休講になった〜\n嬉しすぎるけど何しよう、、、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 259,
+          "like_count": 3672,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 733
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T04:46:44.000Z",
+        "description": "L / 姫女子 / 高3  /　istj  /　♡→アニメ·漫画·Ｖ（🌈🕒️の⚖️推し）/無言フォロースミマセン",
+        "id": "1846412380433244160",
+        "location": "関東",
+        "name": "あお",
+        "pinned_tweet_id": "1929872447194681519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921944978751942657/pjZYPjna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 275,
+          "like_count": 5833,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1211
+        },
+        "username": "ao_8888_",
+        "verified": false
+      }
+    ]
+  }
+}

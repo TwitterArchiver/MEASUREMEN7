@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1981582242913865787",
+    "created_at": "2025-10-24T04:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T05:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981584971761434640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1095933386865045505",
+          "start": 0,
+          "username": "xiaohanXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981584971761434640",
+    "in_reply_to_user_id": "1095933386865045505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981582242913865787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaohanXX 发了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1981582242913865787",
+        "created_at": "2025-10-24T04:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T05:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981584971761434640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1095933386865045505",
+              "start": 0,
+              "username": "xiaohanXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981584971761434640",
+        "in_reply_to_user_id": "1095933386865045505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981582242913865787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohanXX 发了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1095933386865045505",
+        "conversation_id": "1981582242913865787",
+        "created_at": "2025-10-24T04:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T05:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981582242913865787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiamii43/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/xiamii43/status/1981432707071824263",
+              "start": 12,
+              "url": "https://t.co/p1hjIV86Yz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981582242913865787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981432707071824263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁给我私信发点手行不行 https://t.co/p1hjIV86Yz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 339,
+          "like_count": 14962,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 2770
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-14T06:30:55.000Z",
+        "description": "挑战在30岁之前结婚",
+        "id": "1095933386865045505",
+        "name": "橡皮筋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959667275000348672/AVjo_NZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 25,
+          "like_count": 213,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 70
+        },
+        "username": "xiaohanXX",
+        "verified": false
+      }
+    ]
+  }
+}

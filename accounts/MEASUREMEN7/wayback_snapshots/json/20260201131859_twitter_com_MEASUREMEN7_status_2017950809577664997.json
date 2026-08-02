@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2017673375838310590",
+    "created_at": "2026-02-01T13:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T14:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017950809577664997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1696020507060011008",
+          "start": 0,
+          "username": "z9992627"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017950809577664997",
+    "in_reply_to_user_id": "1696020507060011008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017673375838310590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z9992627 一个人也没什么不好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2017673375838310590",
+        "created_at": "2026-02-01T13:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T14:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017950809577664997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1696020507060011008",
+              "start": 0,
+              "username": "z9992627"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017950809577664997",
+        "in_reply_to_user_id": "1696020507060011008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017673375838310590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z9992627 一个人也没什么不好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696020507060011008",
+        "conversation_id": "2017673375838310590",
+        "created_at": "2026-01-31T18:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017673375838310590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017673375838310590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 717,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么能没人和我去世界线啊？？即将达成第一次一个人逛展的目标了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 388,
+          "like_count": 18359,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 3832
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T04:43:00.000Z",
+        "description": "我是林碗 叫我小林 碗碗都可以 / enfp / 07 / 爱玩点cos / 可投喂 / 🚪58纯绿 接线上cos委托过门回复/ 纯绿推绿绿绿 / 梦想是成为最厉害的小林去征服世界！ 恋人：樱岛麻衣",
+        "id": "1696020507060011008",
+        "name": "林🥣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995789211245641728/bkrcT383_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 43,
+          "like_count": 2284,
+          "listed_count": 4,
+          "media_count": 283,
+          "tweet_count": 1048
+        },
+        "username": "z9992627",
+        "verified": false
+      }
+    ]
+  }
+}

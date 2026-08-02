@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1956353704954921235",
+    "created_at": "2025-08-15T14:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T15:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956361294551912759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1564600032350720000",
+          "start": 0,
+          "username": "linliy_37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956361294551912759",
+    "in_reply_to_user_id": "1564600032350720000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956353704954921235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linliy_37 有趣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1956353704954921235",
+        "created_at": "2025-08-15T14:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T15:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956361294551912759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1564600032350720000",
+              "start": 0,
+              "username": "linliy_37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956361294551912759",
+        "in_reply_to_user_id": "1564600032350720000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956353704954921235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linliy_37 有趣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564600032350720000",
+        "conversation_id": "1956353704954921235",
+        "created_at": "2025-08-15T13:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T14:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956353704954921235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956353704954921235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗澡的时候很想把自己溺死^^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 384,
+          "like_count": 8083,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1443
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-30T13:04:59.000Z",
+        "description": "我叫初依丨永远13岁丨08精神病女孩",
+        "id": "1564600032350720000",
+        "location": "天國",
+        "name": "linliy",
+        "pinned_tweet_id": "1954988751027048507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955000077619171329/nhrrw8aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 2536,
+          "like_count": 20730,
+          "listed_count": 8,
+          "media_count": 218,
+          "tweet_count": 1658
+        },
+        "username": "linliy_37",
+        "verified": false
+      }
+    ]
+  }
+}

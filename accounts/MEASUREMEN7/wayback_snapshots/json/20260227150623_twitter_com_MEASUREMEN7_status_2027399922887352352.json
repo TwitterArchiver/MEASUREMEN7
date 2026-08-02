@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2026476292304945382",
+    "created_at": "2026-02-27T15:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027399922887352352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1976567659056824320",
+          "start": 0,
+          "username": "PrA4it"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027399922887352352",
+    "in_reply_to_user_id": "1976567659056824320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026476292304945382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PrA4it 咋这么萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1845,
+        "height": 1280,
+        "media_key": "13_2026476231827324929",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026476231827324929/img/gJ3tknlpcdZr0Lqx.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026476231827324929/vid/avc1/320x568/N2n2CHCGsmroW-0f.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026476231827324929/vid/avc1/480x852/r_vv893D6bdtjR1u.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026476231827324929/vid/avc1/720x1280/6jaAjDeF-0jtPNg4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026476231827324929/pl/IbaDtBMD2SFPG-MQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2026476292304945382",
+        "created_at": "2026-02-27T15:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027399922887352352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1976567659056824320",
+              "start": 0,
+              "username": "PrA4it"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027399922887352352",
+        "in_reply_to_user_id": "1976567659056824320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026476292304945382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PrA4it 咋这么萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026476231827324929"
+          ]
+        },
+        "author_id": "1976567659056824320",
+        "conversation_id": "2026476292304945382",
+        "created_at": "2026-02-25T01:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026476292304945382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4e4XWMT428",
+              "end": 23,
+              "expanded_url": "https://x.com/PrA4it/status/2026476292304945382/video/1",
+              "media_key": "13_2026476231827324929",
+              "start": 0,
+              "url": "https://t.co/4e4XWMT428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026476292304945382",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4e4XWMT428"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 430,
+          "like_count": 22374,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4681
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-10T08:37:18.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boyi12613",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boyi12613",
+                "start": 0,
+                "url": "https://t.co/UATdq8DfmX"
+              }
+            ]
+          }
+        },
+        "id": "1976567659056824320",
+        "location": "(҂‾ ▵‾)︻デ═一",
+        "name": "^－_－^",
+        "pinned_tweet_id": "1997242484225880153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020475383729262592/039Y02Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 50,
+          "like_count": 2567,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 833
+        },
+        "url": "https://t.co/UATdq8DfmX",
+        "username": "PrA4it",
+        "verified": false
+      }
+    ]
+  }
+}

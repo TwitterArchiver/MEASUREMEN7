@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2063963012952916286",
+    "created_at": "2026-06-08T15:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064001486171095505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1985157668412280833",
+          "start": 0,
+          "username": "kkd1226586"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064001486171095505",
+    "in_reply_to_user_id": "1985157668412280833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063963012952916286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkd1226586 好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2063962989246681088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSrZ0OaEAAnmBS.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063962989213175808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSrZ0Ga0AAsdZ-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2063963012952916286",
+        "created_at": "2026-06-08T15:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064001486171095505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1985157668412280833",
+              "start": 0,
+              "username": "kkd1226586"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064001486171095505",
+        "in_reply_to_user_id": "1985157668412280833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063963012952916286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkd1226586 好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063962989246681088",
+            "3_2063962989213175808"
+          ]
+        },
+        "author_id": "1985157668412280833",
+        "conversation_id": "2063963012952916286",
+        "created_at": "2026-06-08T12:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063963012952916286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kMRzubu54H",
+              "end": 28,
+              "expanded_url": "https://x.com/kkd1226586/status/2063963012952916286/photo/1",
+              "media_key": "3_2063962989246681088",
+              "start": 5,
+              "url": "https://t.co/kMRzubu54H"
+            },
+            {
+              "display_url": "pic.x.com/kMRzubu54H",
+              "end": 28,
+              "expanded_url": "https://x.com/kkd1226586/status/2063963012952916286/photo/1",
+              "media_key": "3_2063962989213175808",
+              "start": 5,
+              "url": "https://t.co/kMRzubu54H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063963012952916286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新美甲💅 https://t.co/kMRzubu54H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 245,
+          "like_count": 25958,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 5293
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T01:30:59.000Z",
+        "description": "是个家里蹲吸血鬼捏 泛性恋喵 🚪88 288 520 解锁隐藏888 许愿1314（拍过的都发给你）",
+        "id": "1985157668412280833",
+        "name": "氪氪弟",
+        "pinned_tweet_id": "2062459988245917924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047710434174849025/9zmwyiXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 74,
+          "like_count": 2052,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 164
+        },
+        "username": "kkd1226586",
+        "verified": false
+      }
+    ]
+  }
+}

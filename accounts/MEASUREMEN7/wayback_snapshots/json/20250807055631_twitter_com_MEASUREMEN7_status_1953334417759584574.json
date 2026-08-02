@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1953108291258585566",
+    "created_at": "2025-08-07T05:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T06:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953334417759584574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766452473840173056",
+          "start": 0,
+          "username": "mikotossd0106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953334417759584574",
+    "in_reply_to_user_id": "1766452473840173056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953108291258585566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikotossd0106 就一颗子弹打算留给谁"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1953108291258585566].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1953108291258585566",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1953108291258585566"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1953108291258585566",
+        "created_at": "2025-08-07T05:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T06:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953334417759584574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766452473840173056",
+              "start": 0,
+              "username": "mikotossd0106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953334417759584574",
+        "in_reply_to_user_id": "1766452473840173056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953108291258585566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikotossd0106 就一颗子弹打算留给谁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 365,
+          "like_count": 6853,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1212
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T13:14:37.000Z",
+        "description": "INFP 我到底是什么，我到底喜欢谁，到底谁喜欢我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikotossd.top",
+                "end": 23,
+                "expanded_url": "http://www.mikotossd.top",
+                "start": 0,
+                "url": "https://t.co/ONd86sCN43"
+              }
+            ]
+          }
+        },
+        "id": "1766452473840173056",
+        "location": "成都",
+        "name": "海澜泪爷",
+        "pinned_tweet_id": "1950593800772182240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949508283506786304/ipIcd8Jv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 1325,
+          "like_count": 58904,
+          "listed_count": 5,
+          "media_count": 506,
+          "tweet_count": 2594
+        },
+        "url": "https://t.co/ONd86sCN43",
+        "username": "mikotossd0106",
+        "verified": false
+      }
+    ]
+  }
+}

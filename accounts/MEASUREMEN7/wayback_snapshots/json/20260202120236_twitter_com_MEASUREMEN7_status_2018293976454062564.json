@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2018288221105648070",
+    "created_at": "2026-02-02T12:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T13:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018293976454062564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1467072876100472832",
+          "start": 0,
+          "username": "zhenyaaaa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018293976454062564",
+    "in_reply_to_user_id": "1467072876100472832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018291301779964242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhenyaaaa1 这还是人吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2018288221105648070",
+        "created_at": "2026-02-02T12:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T13:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018293976454062564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1467072876100472832",
+              "start": 0,
+              "username": "zhenyaaaa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018293976454062564",
+        "in_reply_to_user_id": "1467072876100472832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018291301779964242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhenyaaaa1 这还是人吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467072876100472832",
+        "conversation_id": "2018288221105648070",
+        "created_at": "2026-02-02T11:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018291301779964242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018291301779964242",
+        "in_reply_to_user_id": "1467072876100472832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018288221105648070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我把他当朋友 他把我骗出学校过了门禁回不去了就把我带酒店上了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 391,
+          "like_count": 18601,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3895
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T10:06:54.000Z",
+        "description": "叫我小鼠｜🇨🇳｜中文&日本語(一生懸命勉強中)&Eng（Sorry for using a translator）｜vkei❤️｜THE MADNAと鮮血A子ちゃんが大好き",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhenyaaaa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhenyaaaa1",
+                "start": 0,
+                "url": "https://t.co/fzEFOwT2Ou"
+              }
+            ]
+          }
+        },
+        "id": "1467072876100472832",
+        "location": "你想和我说啥→",
+        "name": "我好他妈想睡觉",
+        "pinned_tweet_id": "2015079060976603276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015132142334771200/CFNdjsrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 165,
+          "like_count": 1023,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 633
+        },
+        "url": "https://t.co/fzEFOwT2Ou",
+        "username": "zhenyaaaa1",
+        "verified": false
+      }
+    ]
+  }
+}

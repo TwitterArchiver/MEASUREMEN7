@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2040294608152961218",
+    "created_at": "2026-04-04T08:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T09:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040344050155614308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916086363608518657",
+          "start": 0,
+          "username": "CandlishLa81993"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040344050155614308",
+    "in_reply_to_user_id": "1916086363608518657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040294608152961218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CandlishLa81993 好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1746,
+        "media_key": "3_2040294597084254208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFCVIEhbEAAW4NM.jpg",
+        "width": 1114
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2040294608152961218",
+        "created_at": "2026-04-04T08:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040344050155614308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916086363608518657",
+              "start": 0,
+              "username": "CandlishLa81993"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040344050155614308",
+        "in_reply_to_user_id": "1916086363608518657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040294608152961218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CandlishLa81993 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040294597084254208"
+          ]
+        },
+        "author_id": "1916086363608518657",
+        "conversation_id": "2040294608152961218",
+        "created_at": "2026-04-04T05:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T06:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040294608152961218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e9USn5Iz0A",
+              "end": 23,
+              "expanded_url": "https://x.com/CandlishLa81993/status/2040294608152961218/photo/1",
+              "media_key": "3_2040294597084254208",
+              "start": 0,
+              "url": "https://t.co/e9USn5Iz0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040294608152961218",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/e9USn5Iz0A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 288,
+          "like_count": 24944,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 5082
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T11:06:12.000Z",
+        "description": "🚪52 欢迎女生找我互转互fo(´-ω-`)",
+        "id": "1916086363608518657",
+        "location": "♡",
+        "name": "創口貼",
+        "pinned_tweet_id": "2031447756628439139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999395346900815872/RXkAvnKS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 60,
+          "like_count": 1336,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 398
+        },
+        "username": "CandlishLa81993",
+        "verified": false
+      }
+    ]
+  }
+}

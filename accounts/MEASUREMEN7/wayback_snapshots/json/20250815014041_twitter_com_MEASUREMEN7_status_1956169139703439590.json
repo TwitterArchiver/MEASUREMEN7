@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1956114553147941152",
+    "created_at": "2025-08-15T01:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T02:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956169139703439590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "xiaoyu_xiaoyang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956169139703439590",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956114553147941152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyu_xiaoyang 抱抱，上学真的很难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1956114553147941152",
+        "created_at": "2025-08-15T01:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T02:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956169139703439590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "xiaoyu_xiaoyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956169139703439590",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956114553147941152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyu_xiaoyang 抱抱，上学真的很难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "1956114553147941152",
+        "created_at": "2025-08-14T22:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T23:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956114553147941152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956114553147941152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现实有人陪我确实让我好了很多很多.......可是开学之后怎么办.......我想哭......我好害怕这样........一个人好几天好几天.......我也没有喜欢的人爱我......我只有这些了.......为什么为什么为什么为什么为什么为什么........好不安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 381,
+          "like_count": 7915,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1390
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "一人で不安で辛くて毎日死んじやいたい と思つていました",
+        "id": "1857335218673483776",
+        "location": "鹿儿岛",
+        "name": "雨",
+        "pinned_tweet_id": "1948984348008743316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956101802446692353/2RVbXwBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 307,
+          "like_count": 2871,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1531
+        },
+        "username": "xiaoyu_xiaoyang",
+        "verified": false
+      }
+    ]
+  }
+}

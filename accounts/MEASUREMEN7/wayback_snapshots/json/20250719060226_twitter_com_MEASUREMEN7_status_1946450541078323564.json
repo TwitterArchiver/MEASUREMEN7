@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1946450273896919469",
+    "created_at": "2025-07-19T06:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T07:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946450541078323564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1125681559376252931",
+          "start": 0,
+          "username": "9ul2e_cos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946450541078323564",
+    "in_reply_to_user_id": "1125681559376252931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946450273896919469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9ul2e_cos 是猫姬啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_1946450129189261313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwMuFGtW0AELmnB.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1946450273896919469",
+        "created_at": "2025-07-19T06:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T07:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946450541078323564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1125681559376252931",
+              "start": 0,
+              "username": "9ul2e_cos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946450541078323564",
+        "in_reply_to_user_id": "1125681559376252931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946450273896919469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9ul2e_cos 是猫姬啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946450129189261313"
+          ]
+        },
+        "author_id": "1125681559376252931",
+        "conversation_id": "1946450273896919469",
+        "created_at": "2025-07-19T06:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T07:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946450273896919469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dSRTSvzwkJ",
+              "end": 31,
+              "expanded_url": "https://x.com/9ul2e_cos/status/1946450273896919469/photo/1",
+              "media_key": "3_1946450129189261313",
+              "start": 8,
+              "url": "https://t.co/dSRTSvzwkJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946450273896919469",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3시타임 시작 https://t.co/dSRTSvzwkJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 316,
+          "like_count": 4613,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 869
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-07T08:39:32.000Z",
+        "description": "🔕 KR Coser Gul(グル/굴) 24.11~ Contact:cosfefe@gmail.com sub:@nyan92e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "nyan92e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instabio.cc/9ul2e-cos",
+                "end": 23,
+                "expanded_url": "https://instabio.cc/9ul2e-cos",
+                "start": 0,
+                "url": "https://t.co/M97qqhtrzb"
+              }
+            ]
+          }
+        },
+        "id": "1125681559376252931",
+        "location": "행사관련👉하이라이트",
+        "name": "9ul:서코ZA_13-14",
+        "pinned_tweet_id": "1945062134338965984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942820521231425536/1byRCDNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14357,
+          "following_count": 166,
+          "like_count": 7391,
+          "listed_count": 64,
+          "media_count": 102,
+          "tweet_count": 198
+        },
+        "url": "https://t.co/M97qqhtrzb",
+        "username": "9ul2e_cos",
+        "verified": true
+      }
+    ]
+  }
+}

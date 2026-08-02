@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1969268449915322512",
+    "created_at": "2025-09-20T14:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T15:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969413617670910447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1920537994605551617",
+          "start": 0,
+          "username": "XwX777Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969413617670910447",
+    "in_reply_to_user_id": "1920537994605551617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969413443808886860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XwX777Yuki 难怪这么眼熟，原来是荔枝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1969268449915322512",
+        "created_at": "2025-09-20T14:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T15:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969413617670910447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920537994605551617",
+              "start": 0,
+              "username": "XwX777Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969413617670910447",
+        "in_reply_to_user_id": "1920537994605551617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969413443808886860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XwX777Yuki 难怪这么眼熟，原来是荔枝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920537994605551617",
+        "conversation_id": "1969268449915322512",
+        "created_at": "2025-09-20T14:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T15:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969413443808886860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969413443808886860",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969402976889356583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 荔枝杨梅什么的糖水 我觉得齁甜😖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 404,
+          "like_count": 9838,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1733
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T17:55:37.000Z",
+        "description": "",
+        "id": "1920537994605551617",
+        "name": "OK绷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963746294184505344/PgUUVHMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 63,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 69
+        },
+        "username": "XwX777Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

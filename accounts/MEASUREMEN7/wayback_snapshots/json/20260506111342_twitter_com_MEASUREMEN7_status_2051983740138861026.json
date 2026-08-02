@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2051928568838623615",
+    "created_at": "2026-05-06T11:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051983740138861026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2030304451127631872",
+          "start": 0,
+          "username": "foanax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051983740138861026",
+    "in_reply_to_user_id": "2030304451127631872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051928568838623615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foanax 我也要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2051928568838623615",
+        "created_at": "2026-05-06T11:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051983740138861026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2030304451127631872",
+              "start": 0,
+              "username": "foanax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051983740138861026",
+        "in_reply_to_user_id": "2030304451127631872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051928568838623615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foanax 我也要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030304451127631872",
+        "conversation_id": "2051928568838623615",
+        "created_at": "2026-05-06T07:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051928568838623615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051928568838623615",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要交朋友。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 294,
+          "like_count": 25212,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 5204
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T15:28:12.000Z",
+        "description": "",
+        "id": "2030304451127631872",
+        "name": "骂我的没妈我骂的没妈。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030308606042886145/GIXuTPOO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 17,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 71
+        },
+        "username": "foanax",
+        "verified": false
+      }
+    ]
+  }
+}

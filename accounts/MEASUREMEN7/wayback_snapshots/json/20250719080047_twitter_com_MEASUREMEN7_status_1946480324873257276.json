@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1946471730576503116",
+    "created_at": "2025-07-19T08:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T09:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946480324873257276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1815588883482165248",
+          "start": 0,
+          "username": "Cheese_yogurt33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946480324873257276",
+    "in_reply_to_user_id": "1815588883482165248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946471730576503116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_yogurt33 好棒"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4899,
+        "height": 720,
+        "media_key": "7_1946471656261849088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1946471656261849088/pu/img/4J4fVzjl5xRK43Z0.jpg",
+        "public_metrics": {
+          "view_count": 88
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1946471656261849088/pu/vid/avc1/360x270/8ncFAGL83FOsNPH4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1946471656261849088/pu/vid/avc1/480x360/MMH9BtZnVy96c-46.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1946471656261849088/pu/vid/avc1/960x720/GBSZtuq0tQ9jYZuO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1946471656261849088/pu/pl/xMJ7nvox6y6LTPUd.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1946471730576503116",
+        "created_at": "2025-07-19T08:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T09:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946480324873257276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1815588883482165248",
+              "start": 0,
+              "username": "Cheese_yogurt33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946480324873257276",
+        "in_reply_to_user_id": "1815588883482165248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946471730576503116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_yogurt33 好棒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1946471656261849088"
+          ]
+        },
+        "author_id": "1815588883482165248",
+        "conversation_id": "1946471730576503116",
+        "created_at": "2025-07-19T07:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T08:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946471730576503116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYkRCxFKud",
+              "end": 42,
+              "expanded_url": "https://x.com/Cheese_yogurt33/status/1946471730576503116/video/1",
+              "media_key": "7_1946471656261849088",
+              "start": 19,
+              "url": "https://t.co/nYkRCxFKud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946471730576503116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 495,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "拿着鞋子一脸嫌弃的看着你吗，kimo https://t.co/nYkRCxFKud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 317,
+          "like_count": 4635,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 881
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T03:25:04.000Z",
+        "description": "I know you're tired of loving",
+        "id": "1815588883482165248",
+        "location": "你心里",
+        "name": "芝士酸奶",
+        "pinned_tweet_id": "1902738900948521285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929880696006569984/Dilfl3LF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11935,
+          "following_count": 677,
+          "like_count": 8328,
+          "listed_count": 40,
+          "media_count": 284,
+          "tweet_count": 797
+        },
+        "username": "Cheese_yogurt33",
+        "verified": false
+      }
+    ]
+  }
+}

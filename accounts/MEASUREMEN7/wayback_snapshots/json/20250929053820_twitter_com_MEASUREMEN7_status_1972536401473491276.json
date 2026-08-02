@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1972534595448078411",
+    "created_at": "2025-09-29T05:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T06:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972536401473491276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1450151090717171712",
+          "start": 0,
+          "username": "oian_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972536401473491276",
+    "in_reply_to_user_id": "1450151090717171712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972534595448078411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oian_o 为什么换这么多老师啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1972534595448078411",
+        "created_at": "2025-09-29T05:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T06:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972536401473491276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1450151090717171712",
+              "start": 0,
+              "username": "oian_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972536401473491276",
+        "in_reply_to_user_id": "1450151090717171712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972534595448078411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oian_o 为什么换这么多老师啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450151090717171712",
+        "conversation_id": "1972534595448078411",
+        "created_at": "2025-09-29T05:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T06:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972534595448078411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972534595448078411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上了三次课换了三个老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 424,
+          "like_count": 11228,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 1915
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T17:25:46.000Z",
+        "description": "251 ♡@anya_to_ @xuedannnn @chiyuki_1225 @yi_0o0_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "anya_to_"
+              },
+              {
+                "end": 25,
+                "start": 15,
+                "username": "xuedannnn"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "chiyuki_1225"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "yi_0o0_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kuronekonyanao",
+                "end": 23,
+                "expanded_url": "https://lit.link/kuronekonyanao",
+                "start": 0,
+                "url": "https://t.co/dBWiWRBOYt"
+              }
+            ]
+          }
+        },
+        "id": "1450151090717171712",
+        "location": "みんなだいすき",
+        "name": "にゃお",
+        "pinned_tweet_id": "1970739431083798784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965107618378313728/kY_FwCs1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 111,
+          "like_count": 5448,
+          "listed_count": 5,
+          "media_count": 52,
+          "tweet_count": 902
+        },
+        "url": "https://t.co/dBWiWRBOYt",
+        "username": "oian_o",
+        "verified": false
+      }
+    ]
+  }
+}

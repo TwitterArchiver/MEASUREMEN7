@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1984230032957718775",
+    "created_at": "2025-10-31T15:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T16:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984285033830789201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845844455095762944",
+          "start": 0,
+          "username": "Ankyo127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984285033830789201",
+    "in_reply_to_user_id": "1845844455095762944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984230032957718775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ankyo127 我又在内圈，真好啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1984230021968637952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4lmsSwbMAA3-qS.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1984230032957718775",
+        "created_at": "2025-10-31T15:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984285033830789201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845844455095762944",
+              "start": 0,
+              "username": "Ankyo127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984285033830789201",
+        "in_reply_to_user_id": "1845844455095762944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984230032957718775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ankyo127 我又在内圈，真好啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984230021968637952"
+          ]
+        },
+        "author_id": "1845844455095762944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1984230032957718775",
+        "created_at": "2025-10-31T12:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984230032957718775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1983694816342093824/KTRQKQiJ?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1983694816342093824/KTRQKQiJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/XtzNsekgyU"
+            },
+            {
+              "display_url": "pic.x.com/Z66Lrfe9Dh",
+              "end": 64,
+              "expanded_url": "https://x.com/Ankyo127/status/1984230032957718775/photo/1",
+              "media_key": "3_1984230021968637952",
+              "start": 41,
+              "url": "https://t.co/Z66Lrfe9Dh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984230032957718775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/XtzNsekgyU https://t.co/Z66Lrfe9Dh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 344,
+          "like_count": 15752,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 2983
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T15:10:13.000Z",
+        "description": "桉秋(AQ)丨🏳️‍🌈🏳️‍⚧️友跨丨已确诊:BPD+精分+重抑+中焦丨自伤/drug自避丨欢迎匿名向我：提问/建议/立场输出(攒到四个一起回复哦)https://t.co/XJJrQNEEir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ankyo",
+                "end": 97,
+                "expanded_url": "https://ngl.link/ankyo",
+                "start": 74,
+                "url": "https://t.co/XJJrQNEEir"
+              }
+            ]
+          }
+        },
+        "id": "1845844455095762944",
+        "name": "Ankyo𖤐.🩷",
+        "pinned_tweet_id": "1980838780513972375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971892817447526400/CWJp7sjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 70,
+          "like_count": 311,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 354
+        },
+        "username": "Ankyo127",
+        "verified": false
+      }
+    ]
+  }
+}

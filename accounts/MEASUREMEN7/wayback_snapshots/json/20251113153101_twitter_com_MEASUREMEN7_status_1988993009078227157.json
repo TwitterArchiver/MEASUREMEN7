@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1988985939138678903",
+    "created_at": "2025-11-13T15:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T16:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988993009078227157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1163603254392938496",
+          "start": 0,
+          "username": "xia0leng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988993009078227157",
+    "in_reply_to_user_id": "1163603254392938496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988985939138678903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xia0leng 羡慕对面的人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1988985936152297472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5pMK7ubAAAvZpK.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1988985939138678903",
+        "created_at": "2025-11-13T15:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T16:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988993009078227157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1163603254392938496",
+              "start": 0,
+              "username": "xia0leng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988993009078227157",
+        "in_reply_to_user_id": "1163603254392938496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988985939138678903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xia0leng 羡慕对面的人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988985936152297472"
+          ]
+        },
+        "author_id": "1163603254392938496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          }
+        ],
+        "conversation_id": "1988985939138678903",
+        "created_at": "2025-11-13T15:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T16:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988985939138678903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NDv7RLtJYt",
+              "end": 88,
+              "expanded_url": "https://x.com/xia0leng/status/1988985939138678903/photo/1",
+              "media_key": "3_1988985936152297472",
+              "start": 65,
+              "url": "https://t.co/NDv7RLtJYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988985939138678903",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烛光晚餐喵～猜猜小冷在和谁吃\nCandlelight dinner nya~ guess who I’m eating with https://t.co/NDv7RLtJYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 349,
+          "like_count": 16634,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 3222
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-20T00:06:57.000Z",
+        "description": "你最可爱的小冷✨ | 唱歌⭕od⭕cos⭕ | 紫色是我的应援色💜 | 努力闪闪发光🤗\nYour cutest Xiaoleng✨ | Singing⭕OD⭕Cosplay⭕ | Purple is my support color💜 | Striving to sparkle🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xln.moe",
+                "end": 23,
+                "expanded_url": "http://xln.moe",
+                "start": 0,
+                "url": "https://t.co/tyAInPASWd"
+              }
+            ]
+          }
+        },
+        "id": "1163603254392938496",
+        "name": "小冷",
+        "pinned_tweet_id": "1920005605122527360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802451425987014656/icniUR1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 66,
+          "like_count": 607,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/tyAInPASWd",
+        "username": "xia0leng",
+        "verified": false
+      }
+    ]
+  }
+}

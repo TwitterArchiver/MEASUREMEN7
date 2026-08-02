@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2048441534304157709",
+    "created_at": "2026-04-27T05:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048633221278253428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1800768760040841216",
+          "start": 0,
+          "username": "MrsNeverForget"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048633221278253428",
+    "in_reply_to_user_id": "1800768760040841216",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048441534304157709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrsNeverForget OK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2048441480021417985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2GrEfaIAEqM45.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2048441534304157709",
+        "created_at": "2026-04-27T05:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048633221278253428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1800768760040841216",
+              "start": 0,
+              "username": "MrsNeverForget"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048633221278253428",
+        "in_reply_to_user_id": "1800768760040841216",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048441534304157709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrsNeverForget OK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048441480021417985"
+          ]
+        },
+        "author_id": "1800768760040841216",
+        "conversation_id": "2048441534304157709",
+        "created_at": "2026-04-26T16:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048441534304157709"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "4i"
+            },
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "iiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RP9bjpg5ms",
+              "end": 41,
+              "expanded_url": "https://x.com/MrsNeverForget/status/2048441534304157709/photo/1",
+              "media_key": "3_2048441480021417985",
+              "start": 18,
+              "url": "https://t.co/RP9bjpg5ms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048441534304157709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2074,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想当我杯子的赞 #4i #iiii https://t.co/RP9bjpg5ms"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 293,
+          "like_count": 25152,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 5187
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T05:55:13.000Z",
+        "description": "06 Le/4i 当日记发。心理年龄达到了惊人的14岁，你就让让我吧。不要叫我姐姐，和比格犬的区别是我没有那么萌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=QyIukyoq",
+                "start": 0,
+                "url": "https://t.co/uohLGA8B4v"
+              }
+            ]
+          }
+        },
+        "id": "1800768760040841216",
+        "location": "29元包年千G流量VPN",
+        "name": "细雪",
+        "pinned_tweet_id": "2033166951066087573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003306096199630850/CQiVgVIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 70,
+          "like_count": 1403,
+          "listed_count": 4,
+          "media_count": 58,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/uohLGA8B4v",
+        "username": "MrsNeverForget",
+        "verified": false
+      }
+    ]
+  }
+}

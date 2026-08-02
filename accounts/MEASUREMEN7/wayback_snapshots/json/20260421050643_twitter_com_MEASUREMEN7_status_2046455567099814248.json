@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2046305309439009275",
+    "created_at": "2026-04-21T05:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T06:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046455567099814248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2027758990097321985",
+          "start": 0,
+          "username": "Kikorilkawaiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046455567099814248",
+    "in_reply_to_user_id": "2027758990097321985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046305309439009275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kikorilkawaiii kikori的未来会怎么样（哽咽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2046305309439009275",
+        "created_at": "2026-04-21T05:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T06:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046455567099814248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2027758990097321985",
+              "start": 0,
+              "username": "Kikorilkawaiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046455567099814248",
+        "in_reply_to_user_id": "2027758990097321985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046305309439009275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kikorilkawaiii kikori的未来会怎么样（哽咽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027758990097321985",
+        "conversation_id": "2046305309439009275",
+        "created_at": "2026-04-20T19:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T20:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046305309439009275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046305309439009275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以后会变成什么样呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 290,
+          "like_count": 25375,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 5173
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T14:54:53.000Z",
+        "description": "我是kikori 无业游民｜脑子不正常｜intp｜直fo就是觉得你很好想和你玩🥺🥺不太会说话 社交系统混乱。。互fo只互一个圈子的哦忘记了dd我！不加墙内联系方式orz……",
+        "id": "2027758990097321985",
+        "name": "きこり🎶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027759833924227072/5vaks4uo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 156,
+          "like_count": 246,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 519
+        },
+        "username": "Kikorilkawaiii",
+        "verified": false
+      }
+    ]
+  }
+}

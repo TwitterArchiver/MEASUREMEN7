@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2037176610504471007",
+    "created_at": "2026-03-26T15:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T16:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037184599973839199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2027758990097321985",
+          "start": 0,
+          "username": "Kikorilkawaiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037184599973839199",
+    "in_reply_to_user_id": "2027758990097321985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037176610504471007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kikorilkawaiii 买我吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2037176610504471007",
+        "created_at": "2026-03-26T15:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037184599973839199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2027758990097321985",
+              "start": 0,
+              "username": "Kikorilkawaiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037184599973839199",
+        "in_reply_to_user_id": "2027758990097321985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037176610504471007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kikorilkawaiii 买我吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027758990097321985",
+        "conversation_id": "2037176610504471007",
+        "created_at": "2026-03-26T14:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037176610504471007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037176610504471007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想买东西但是我不知道该买什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 279,
+          "like_count": 24403,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4982
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T14:54:53.000Z",
+        "description": "我是kikori 无业游民｜脑子不正常｜intp｜直fo就是觉得你很好想和你玩🥺🥺不太会说话 社交系统混乱。。互fo只互一个圈子的哦忘记了dd我！不加墙内联系方式orz……",
+        "id": "2027758990097321985",
+        "name": "きこり🎶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027759833924227072/5vaks4uo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 154,
+          "like_count": 243,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 432
+        },
+        "username": "Kikorilkawaiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2028042245153456322",
+    "created_at": "2026-03-01T16:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T17:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028145604497453273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 22,
+          "id": "1188421701555634176",
+          "start": 6,
+          "username": "LastKnight_2020"
+        },
+        {
+          "end": 35,
+          "id": "1811888010088316932",
+          "start": 23,
+          "username": "cuichenghao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028145604497453273",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028145285789065535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @LastKnight_2020 @cuichenghao HQ-9B在国际上是什么水平"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2028042245153456322",
+        "created_at": "2026-03-01T16:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T17:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028145604497453273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 22,
+              "id": "1188421701555634176",
+              "start": 6,
+              "username": "LastKnight_2020"
+            },
+            {
+              "end": 35,
+              "id": "1811888010088316932",
+              "start": 23,
+              "username": "cuichenghao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028145604497453273",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028145285789065535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @LastKnight_2020 @cuichenghao HQ-9B在国际上是什么水平"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2028042245153456322",
+        "created_at": "2026-03-01T16:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T17:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028145285789065535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            },
+            {
+              "end": 29,
+              "id": "1188421701555634176",
+              "start": 13,
+              "username": "LastKnight_2020"
+            },
+            {
+              "end": 42,
+              "id": "1811888010088316932",
+              "start": 30,
+              "username": "cuichenghao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028145285789065535",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "根据多家媒体报道，伊朗确实在2025年通过石油换武器协议从中国获取了HQ-9B（尽管中方否认），这是其近期升级的远程防空系统。但在刚刚发生的美以联合空袭中，伊朗防空网（含HQ-9B）被彻底压制，几乎无有效拦截反应。 \n\n他说的是对的。 \n（主帖雷达对比地动仪的讽刺，也符合委内瑞拉和伊朗近期实战表现：爆炸后才“报信”。）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028145118910230536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 @LastKnight_2020 @cuichenghao 根据多家媒体报道，伊朗确实在2025年通过石油换武器协议从中国获取了HQ-9B（尽管中方否认），这是其近期升级的远程防空系统。但在刚刚发生的美以联合空袭中，伊朗防空网（含HQ-9B）被彻底压制，几乎无有效拦截反应。 \n\n他说的是对的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 436,
+          "like_count": 22883,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4752
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8170726,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 6257,
+          "media_count": 8513308,
+          "tweet_count": 110549151
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-27T11:46:47.000Z",
+        "description": "No DM",
+        "id": "1188421701555634176",
+        "location": "JERSEY CITY, NJ 07302",
+        "name": "末日骑士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353330636497571841/vOhRLRLg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 157,
+          "like_count": 1982,
+          "listed_count": 4,
+          "media_count": 315,
+          "tweet_count": 2483
+        },
+        "username": "LastKnight_2020",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86087,
+          "following_count": 655,
+          "like_count": 5337,
+          "listed_count": 302,
+          "media_count": 2624,
+          "tweet_count": 2788
+        },
+        "username": "cuichenghao",
+        "verified": true
+      }
+    ]
+  }
+}

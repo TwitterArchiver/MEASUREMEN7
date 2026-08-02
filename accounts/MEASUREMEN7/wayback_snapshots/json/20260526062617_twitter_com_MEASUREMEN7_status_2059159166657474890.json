@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2058475125612433781",
+    "created_at": "2026-05-26T06:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T07:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059159166657474890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1967524887418810368",
+          "start": 0,
+          "username": "jinjin1076120"
+        },
+        {
+          "end": 27,
+          "id": "2048785678071377920",
+          "start": 15,
+          "username": "xiaotaozi91"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059159166657474890",
+    "in_reply_to_user_id": "1967524887418810368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058995445444104548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinjin1076120 @xiaotaozi91 （盯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2058475125612433781",
+        "created_at": "2026-05-26T06:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059159166657474890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967524887418810368",
+              "start": 0,
+              "username": "jinjin1076120"
+            },
+            {
+              "end": 27,
+              "id": "2048785678071377920",
+              "start": 15,
+              "username": "xiaotaozi91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059159166657474890",
+        "in_reply_to_user_id": "1967524887418810368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058995445444104548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinjin1076120 @xiaotaozi91 （盯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967524887418810368",
+        "conversation_id": "2058475125612433781",
+        "created_at": "2026-05-25T19:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T20:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058995445444104548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048785678071377920",
+              "start": 0,
+              "username": "xiaotaozi91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058995445444104548",
+        "in_reply_to_user_id": "2048785678071377920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058475125612433781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaotaozi91 🥰想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 285,
+          "like_count": 25343,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 5230
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T09:44:36.000Z",
+        "description": "",
+        "id": "1967524887418810368",
+        "name": "除了是处一无是处",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051703360886071298/iAo9__Mt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 50,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 114
+        },
+        "username": "jinjin1076120",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T15:25:59.000Z",
+        "description": "新手男娘，有没有想被开发屁眼的女生，一起开发吖，可以报销开发的玩具或者远程控制的玩具🥺",
+        "id": "2048785678071377920",
+        "name": "小桃子♠️",
+        "pinned_tweet_id": "2058475125612433781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048787541252591616/xKXHwSG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 54,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "xiaotaozi91",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1954583548893270519",
+    "created_at": "2025-08-11T10:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T11:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954845968160915470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1495386210977517568",
+          "start": 0,
+          "username": "CapelaLoveLove"
+        },
+        {
+          "end": 24,
+          "id": "1433678976564662273",
+          "start": 16,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954845968160915470",
+    "in_reply_to_user_id": "1495386210977517568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954792887713214678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CapelaLoveLove @hsn8086 我感觉抽烟喝酒释放不了压力"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_1954792884806504448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDRxZRaUAAnezu.jpg",
+        "width": 1117
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1954583548893270519",
+        "created_at": "2025-08-11T10:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T11:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954845968160915470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1495386210977517568",
+              "start": 0,
+              "username": "CapelaLoveLove"
+            },
+            {
+              "end": 24,
+              "id": "1433678976564662273",
+              "start": 16,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954845968160915470",
+        "in_reply_to_user_id": "1495386210977517568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954792887713214678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CapelaLoveLove @hsn8086 我感觉抽烟喝酒释放不了压力"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954792884806504448"
+          ]
+        },
+        "author_id": "1495386210977517568",
+        "conversation_id": "1954583548893270519",
+        "created_at": "2025-08-11T06:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T07:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954792887713214678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRDkJq7mc4",
+              "end": 104,
+              "expanded_url": "https://x.com/CapelaLoveLove/status/1954792887713214678/photo/1",
+              "media_key": "3_1954792884806504448",
+              "start": 81,
+              "url": "https://t.co/XRDkJq7mc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954792887713214678",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954583548893270519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 本小姐学会抽烟喝酒前还都是看书，听歌，在小树林公园散步，骑自行车去十几公里外的地方看风景，和朋友去咖啡厅谈心\n  但是现在都被抽烟喝酒代替了（ https://t.co/XRDkJq7mc4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 372,
+          "like_count": 7353,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1272
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T13:14:08.000Z",
+        "description": "Name：卡佩拉/信仰：基督新教/性格：温良仅限对人/Like：阿尔迪巴兰，蹂躏与虐杀，爱，好吃的东西，格斗游戏/Hate：阿尔迪巴兰，傻逼，失败/\n『本小姐对你们的感情不是书的指示，是真心的，是纯爱』\n/爱上本小姐所以fo了的话，除了奇怪的号本小姐基本都会回fo，因为本小姐全心全意的爱着大家噢😈💀（没回私我!）",
+        "id": "1495386210977517568",
+        "location": "露格尼卡王国",
+        "name": "色欲大罪司教: 卡佩拉.艾梅拉妲.露格尼卡✝",
+        "pinned_tweet_id": "1951895889322357112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953798828446093312/JpEjmatP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 440,
+          "like_count": 15411,
+          "listed_count": 1,
+          "media_count": 1266,
+          "tweet_count": 6287
+        },
+        "username": "CapelaLoveLove",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89966,
+          "following_count": 986,
+          "like_count": 43761,
+          "listed_count": 206,
+          "media_count": 14593,
+          "tweet_count": 21781
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

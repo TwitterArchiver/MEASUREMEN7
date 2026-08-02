@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2035527424046477561",
+    "created_at": "2026-03-22T04:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T05:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035570832307597562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997495772066324480",
+          "start": 0,
+          "username": "kuma02150128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035570832307597562",
+    "in_reply_to_user_id": "1997495772066324480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035527424046477561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuma02150128 可爱喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18666,
+        "height": 1280,
+        "media_key": "13_2035527352638455808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035527352638455808/img/oXCv9IE3rROwOGgl.jpg",
+        "public_metrics": {
+          "view_count": 22
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035527352638455808/vid/avc1/320x568/xwn4hzhT5kYnE42H.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035527352638455808/vid/avc1/480x852/wUjk3vgOZLyAimI5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035527352638455808/vid/avc1/720x1280/HTye4g8r_X04hyem.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035527352638455808/pl/or85xOSOhLcqrj8D.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2035527424046477561",
+        "created_at": "2026-03-22T04:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035570832307597562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997495772066324480",
+              "start": 0,
+              "username": "kuma02150128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035570832307597562",
+        "in_reply_to_user_id": "1997495772066324480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035527424046477561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuma02150128 可爱喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035527352638455808"
+          ]
+        },
+        "author_id": "1997495772066324480",
+        "conversation_id": "2035527424046477561",
+        "created_at": "2026-03-22T01:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T02:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035527424046477561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/skbV3MIglt",
+              "end": 23,
+              "expanded_url": "https://x.com/kuma02150128/status/2035527424046477561/video/1",
+              "media_key": "13_2035527352638455808",
+              "start": 0,
+              "url": "https://t.co/skbV3MIglt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035527424046477561",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/skbV3MIglt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 274,
+          "like_count": 24190,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4935
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T02:38:15.000Z",
+        "description": "我是kuma！很高兴认识你们！！欢迎找我互fo 🥺/精神状态up/自残/我在努力生活！！！",
+        "id": "1997495772066324480",
+        "location": "熊窝",
+        "name": "ぼくわくま",
+        "pinned_tweet_id": "1997557765410349108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022950546630647808/n-FiQBx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 140,
+          "like_count": 2397,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 659
+        },
+        "username": "kuma02150128",
+        "verified": false
+      }
+    ]
+  }
+}

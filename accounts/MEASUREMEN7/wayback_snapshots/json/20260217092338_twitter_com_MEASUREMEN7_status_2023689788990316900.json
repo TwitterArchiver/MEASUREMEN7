@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2023623593469620645",
+    "created_at": "2026-02-17T09:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T10:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023689788990316900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019354507814268931",
+          "start": 0,
+          "username": "winter999days"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023689788990316900",
+    "in_reply_to_user_id": "2019354507814268931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023623593469620645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@winter999days 害怕了😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2023623593469620645",
+        "created_at": "2026-02-17T09:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T10:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023689788990316900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019354507814268931",
+              "start": 0,
+              "username": "winter999days"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023689788990316900",
+        "in_reply_to_user_id": "2019354507814268931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023623593469620645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winter999days 害怕了😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019354507814268931",
+        "conversation_id": "2023623593469620645",
+        "created_at": "2026-02-17T05:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T06:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023623593469620645"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023623593469620645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1211,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想起之前🔒别人，结果把家门钥匙和🔒钥匙一起丢了……就这样绝望地站在门口，一边等开锁师傅来付天价开锁费，一边给对方发消息问他还能解开不……\n就这样丢三落四的一个迷糊老师😵‍💫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 419,
+          "like_count": 20839,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4396
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T10:16:59.000Z",
+        "description": "双/s倾向/4i=i≥3i/互攻\n💓年上男or年下女\n                                                                                \n会回有介绍/有趣的私信^^点赞就是喜欢你！评论就是超级喜欢你！",
+        "id": "2019354507814268931",
+        "name": "咚咚",
+        "pinned_tweet_id": "2020500577000825189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019373075549315073/oG1uktM3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 34,
+          "like_count": 320,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 79
+        },
+        "username": "winter999days",
+        "verified": false
+      }
+    ]
+  }
+}

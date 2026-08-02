@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1989504976113340488",
+    "created_at": "2025-11-15T03:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T04:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989537424079294583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979293441294213120",
+          "start": 0,
+          "username": "Dumpling666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989537424079294583",
+    "in_reply_to_user_id": "1979293441294213120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989504976113340488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dumpling666666 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1989504964000116736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5wkOVIacAAjRi5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1989504976113340488",
+        "created_at": "2025-11-15T03:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T04:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989537424079294583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979293441294213120",
+              "start": 0,
+              "username": "Dumpling666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989537424079294583",
+        "in_reply_to_user_id": "1979293441294213120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989504976113340488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dumpling666666 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989504964000116736"
+          ]
+        },
+        "author_id": "1979293441294213120",
+        "conversation_id": "1989504976113340488",
+        "created_at": "2025-11-15T01:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T02:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989504976113340488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X3oO2MfUjt",
+              "end": 31,
+              "expanded_url": "https://x.com/Dumpling666666/status/1989504976113340488/photo/1",
+              "media_key": "3_1989504964000116736",
+              "start": 8,
+              "url": "https://t.co/X3oO2MfUjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989504976113340488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又懒得画全妆了 https://t.co/X3oO2MfUjt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 348,
+          "like_count": 16692,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 3240
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T21:08:42.000Z",
+        "description": "我 自言自语(𖦹.𖦹)",
+        "id": "1979293441294213120",
+        "name": "饺子鼠",
+        "pinned_tweet_id": "1987071077143707776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979293613575012352/7wF-pCYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 8,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 83
+        },
+        "username": "Dumpling666666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2025892980109046164",
+    "created_at": "2026-02-23T11:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T12:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025893363208052960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979293441294213120",
+          "start": 0,
+          "username": "Dumpling666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025893363208052960",
+    "in_reply_to_user_id": "1979293441294213120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025892980109046164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dumpling666666 好惨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2025892943039692801",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HB1q5ebaAAEFAnp.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HB1q5ebaAAEFAnp.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2025892980109046164",
+        "created_at": "2026-02-23T11:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025893363208052960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979293441294213120",
+              "start": 0,
+              "username": "Dumpling666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025893363208052960",
+        "in_reply_to_user_id": "1979293441294213120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025892980109046164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dumpling666666 好惨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2025892943039692801"
+          ]
+        },
+        "author_id": "1979293441294213120",
+        "conversation_id": "2025892980109046164",
+        "created_at": "2026-02-23T11:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025892980109046164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vkXU55H3LQ",
+              "end": 69,
+              "expanded_url": "https://x.com/Dumpling666666/status/2025892980109046164/photo/1",
+              "media_key": "16_2025892943039692801",
+              "start": 46,
+              "url": "https://t.co/vkXU55H3LQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025892980109046164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前男友幸福了 暧昧过的男生都脱单了 微信上男神不回消息 常看的网站被封了 真的什么都没有了 https://t.co/vkXU55H3LQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 423,
+          "like_count": 21732,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 4566
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T21:08:42.000Z",
+        "description": "我 自言自语(𖦹.𖦹)",
+        "id": "1979293441294213120",
+        "name": "饺子鼠",
+        "pinned_tweet_id": "2011424955637043279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007332819744530432/rDIIZXv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4046,
+          "following_count": 168,
+          "like_count": 2263,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 807
+        },
+        "username": "Dumpling666666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1963268587461689721",
+    "created_at": "2025-09-03T15:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T16:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963269565577597413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1588768311139274754",
+          "start": 0,
+          "username": "007uvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963269565577597413",
+    "in_reply_to_user_id": "1588768311139274754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963269127231221911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@007uvu 怎么从文字变成注音了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1963268587461689721",
+        "created_at": "2025-09-03T15:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T16:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963269565577597413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1588768311139274754",
+              "start": 0,
+              "username": "007uvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963269565577597413",
+        "in_reply_to_user_id": "1588768311139274754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963269127231221911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@007uvu 怎么从文字变成注音了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588768311139274754",
+        "conversation_id": "1963268587461689721",
+        "created_at": "2025-09-03T15:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T16:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963269127231221911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963269127231221911",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963268731766759528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 ㄉㄨㄟˋ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 376,
+          "like_count": 9176,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1628
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T05:41:28.000Z",
+        "description": "（｡･ω･｡)つ━☆.. ・*。 　 　　・゜+. 　　°。+ *´¨)\n　　　*** 　　.· ´¸.·*´¨) ¸.·*¨)\n　　　　　　 　***　(¸.·´ (¸.·’*\n\n自傷/日常/崩潰/過激/畫圖/OD/病み垢/不穏/希死念慮\n\n✧° ʚɞ° ༘✿ ♡ ⋆｡°°✧° ʚ",
+        "id": "1588768311139274754",
+        "location": "幻想鄉♡",
+        "name": "秢醬想去天國",
+        "pinned_tweet_id": "1761681801440006483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595730149139681280/k2Sqrrd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 361,
+          "like_count": 12505,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 2115
+        },
+        "username": "007uvu",
+        "verified": false
+      }
+    ]
+  }
+}

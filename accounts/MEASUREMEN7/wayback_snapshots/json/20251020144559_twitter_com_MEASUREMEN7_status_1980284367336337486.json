@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1980259738576093334",
+    "created_at": "2025-10-20T14:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T15:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980284367336337486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1979270456118251520",
+          "start": 0,
+          "username": "oniaku_001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980284367336337486",
+    "in_reply_to_user_id": "1979270456118251520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980259738576093334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oniaku_001 居然是公司的制服"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980259722755182592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3tLudnWEAAukyU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1980259738576093334",
+        "created_at": "2025-10-20T14:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T15:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980284367336337486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1979270456118251520",
+              "start": 0,
+              "username": "oniaku_001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980284367336337486",
+        "in_reply_to_user_id": "1979270456118251520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980259738576093334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oniaku_001 居然是公司的制服"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980259722755182592"
+          ]
+        },
+        "author_id": "1979270456118251520",
+        "conversation_id": "1980259738576093334",
+        "created_at": "2025-10-20T13:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T14:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980259738576093334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jZcijXwtwx",
+              "end": 33,
+              "expanded_url": "https://x.com/oniaku_001/status/1980259738576093334/photo/1",
+              "media_key": "3_1980259722755182592",
+              "start": 10,
+              "url": "https://t.co/jZcijXwtwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980259738576093334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1253,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "公司制服真的好可愛 https://t.co/jZcijXwtwx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 468,
+          "like_count": 14674,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 2680
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T19:37:16.000Z",
+        "description": "",
+        "id": "1979270456118251520",
+        "name": "あく鬼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979270620174028800/Ug75MnTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 5
+        },
+        "username": "oniaku_001",
+        "verified": false
+      }
+    ]
+  }
+}

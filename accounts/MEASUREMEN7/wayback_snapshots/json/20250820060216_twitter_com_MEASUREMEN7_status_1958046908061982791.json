@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1957742341080707534",
+    "created_at": "2025-08-20T06:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T07:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958046908061982791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1495386210977517568",
+          "start": 0,
+          "username": "CapelaLoveLove"
+        },
+        {
+          "end": 29,
+          "id": "1688215989970968576",
+          "start": 16,
+          "username": "mizuki_liang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958046908061982791",
+    "in_reply_to_user_id": "1495386210977517568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957743746843648256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CapelaLoveLove @mizuki_liang 这也太便宜了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_1957743743261634564",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GytNj9pacAQtH_t.jpg",
+        "width": 1312
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1957742341080707534",
+        "created_at": "2025-08-20T06:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T07:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958046908061982791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1495386210977517568",
+              "start": 0,
+              "username": "CapelaLoveLove"
+            },
+            {
+              "end": 29,
+              "id": "1688215989970968576",
+              "start": 16,
+              "username": "mizuki_liang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958046908061982791",
+        "in_reply_to_user_id": "1495386210977517568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957743746843648256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CapelaLoveLove @mizuki_liang 这也太便宜了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957743743261634564"
+          ]
+        },
+        "author_id": "1495386210977517568",
+        "conversation_id": "1957742341080707534",
+        "created_at": "2025-08-19T09:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T10:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957743746843648256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1688215989970968576",
+              "start": 0,
+              "username": "mizuki_liang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1L2AfPGV7V",
+              "end": 71,
+              "expanded_url": "https://x.com/CapelaLoveLove/status/1957743746843648256/photo/1",
+              "media_key": "3_1957743743261634564",
+              "start": 48,
+              "url": "https://t.co/1L2AfPGV7V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957743746843648256",
+        "in_reply_to_user_id": "1688215989970968576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957742341080707534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuki_liang 本小姐家附近的折扣店里魔爪4块5一罐，瓶装的强化型红牛3.9一瓶! https://t.co/1L2AfPGV7V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 388,
+          "like_count": 8598,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1535
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T13:14:08.000Z",
+        "description": "Name：卡佩拉/信仰：基督新教/性格：温良仅限对人/Like：阿尔迪巴兰，蹂躏与虐杀，爱，好吃的东西，格斗游戏/Hate：阿尔迪巴兰，傻逼，失败/\n『本小姐对你们的感情不是书的指示，是真心的，是纯爱』\n/除了没几个推文，回复或全键政全黄的号都会回fo/\n请爱上我",
+        "id": "1495386210977517568",
+        "location": "露格尼卡王国",
+        "name": "色欲大罪司教: 卡佩拉.艾梅拉妲.露格尼卡✝",
+        "pinned_tweet_id": "1951895889322357112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953798828446093312/JpEjmatP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 448,
+          "like_count": 16750,
+          "listed_count": 1,
+          "media_count": 1402,
+          "tweet_count": 6626
+        },
+        "username": "CapelaLoveLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T15:50:37.000Z",
+        "description": "wmc | mtf🏳️‍⚧️ | 喜欢折腾(但是有时候也懒得折腾) | 喜欢发日常 | 极度缺乏安全感 | 欢迎互fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/liangowo",
+                "end": 23,
+                "expanded_url": "https://t.me/liangowo",
+                "start": 0,
+                "url": "https://t.co/6xL3ldqhNJ"
+              }
+            ]
+          }
+        },
+        "id": "1688215989970968576",
+        "location": "舞萌国",
+        "name": "凉老师不是娘老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955251749461344256/SXfHqMH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 630,
+          "like_count": 2116,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1316
+        },
+        "url": "https://t.co/6xL3ldqhNJ",
+        "username": "mizuki_liang",
+        "verified": false
+      }
+    ]
+  }
+}

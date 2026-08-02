@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1954833860543521273",
+    "created_at": "2025-08-11T09:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T10:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954833860543521273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558541027450839040",
+          "start": 3,
+          "username": "sfPeterPan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954833860543521273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954228047684796628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sfPeterPan: 看到一句话，“免费住家里的代价是要付出眼泪和理智”，🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1954833860543521273",
+        "created_at": "2025-08-11T09:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T10:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954833860543521273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558541027450839040",
+              "start": 3,
+              "username": "sfPeterPan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954833860543521273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954228047684796628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sfPeterPan: 看到一句话，“免费住家里的代价是要付出眼泪和理智”，🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558541027450839040",
+        "conversation_id": "1954228047684796628",
+        "created_at": "2025-08-09T17:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T18:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954228047684796628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954228047684796628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 49660,
+          "like_count": 986,
+          "quote_count": 11,
+          "reply_count": 33,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "看到一句话，“免费住家里的代价是要付出眼泪和理智”，🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 372,
+          "like_count": 7340,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1269
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T19:49:07.000Z",
+        "description": "你好呀，欢迎进入小熊的世界。（🚪请敲门 随缘）|【自用🪜：https://t.co/X09YaF8XQB】【流量卡：https://t.co/GE5cubpR2S】/互关请进：@kidultPP😉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 88,
+                "username": "kidultPP"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "us1.av8dcloud.top/#/register?cod…",
+                "end": 52,
+                "expanded_url": "https://us1.av8dcloud.top/#/register?code=kkA9j3Qy",
+                "start": 29,
+                "url": "https://t.co/X09YaF8XQB"
+              },
+              {
+                "display_url": "172.lot-ml.com/ProductEn/inde…",
+                "end": 81,
+                "expanded_url": "https://172.lot-ml.com/ProductEn/index/f2e11f8e3a6f56a8",
+                "start": 58,
+                "url": "https://t.co/GE5cubpR2S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "小小熊要加油啊.com",
+                "end": 23,
+                "expanded_url": "http://xn--yfrw5dr2ia544sltg9l9b.com",
+                "start": 0,
+                "url": "https://t.co/gPaV7kD2y3"
+              }
+            ]
+          }
+        },
+        "id": "1558541027450839040",
+        "location": "寻梦的路上（钱多多的来🤤🤲🏻）",
+        "name": "ฅ ՞PܸeterⰙPanܸ՞ฅ",
+        "pinned_tweet_id": "1879205338345594897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896244762904342528/flYoXl7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4153,
+          "following_count": 1105,
+          "like_count": 460790,
+          "listed_count": 55,
+          "media_count": 4343,
+          "tweet_count": 73764
+        },
+        "url": "https://t.co/gPaV7kD2y3",
+        "username": "sfPeterPan",
+        "verified": false
+      }
+    ]
+  }
+}

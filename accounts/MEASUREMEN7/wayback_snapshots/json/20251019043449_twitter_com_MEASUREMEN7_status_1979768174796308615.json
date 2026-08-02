@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1979519377956638955",
+    "created_at": "2025-10-19T04:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T05:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979768174796308615"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "恭喜",
+          "probability": 0.6318,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1968278731212070912",
+          "start": 0,
+          "username": "xaksohd"
+        },
+        {
+          "end": 19,
+          "id": "1731670068189114368",
+          "start": 9,
+          "username": "Lead_Uore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979768174796308615",
+    "in_reply_to_user_id": "1968278731212070912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979519377956638955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xaksohd @Lead_Uore 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_1979519373170946049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3iqYcfbsAE7PjO.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1979519377956638955",
+        "created_at": "2025-10-19T04:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979768174796308615"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "恭喜",
+              "probability": 0.6318,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1968278731212070912",
+              "start": 0,
+              "username": "xaksohd"
+            },
+            {
+              "end": 19,
+              "id": "1731670068189114368",
+              "start": 9,
+              "username": "Lead_Uore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979768174796308615",
+        "in_reply_to_user_id": "1968278731212070912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979519377956638955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xaksohd @Lead_Uore 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979519373170946049"
+          ]
+        },
+        "author_id": "1968278731212070912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1979519377956638955",
+        "created_at": "2025-10-18T12:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T13:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979519377956638955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1731670068189114368",
+              "start": 16,
+              "username": "Lead_Uore"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infintytweet.me/secret-crush?l…",
+              "end": 54,
+              "expanded_url": "https://infintytweet.me/secret-crush?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1978665782881263616/xy51geTx?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1978665782881263616/xy51geTx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infintytweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/YusGrZ0T4W"
+            },
+            {
+              "display_url": "pic.x.com/pPx0dI7HEo",
+              "end": 78,
+              "expanded_url": "https://x.com/xaksohd/status/1979519377956638955/photo/1",
+              "media_key": "3_1979519373170946049",
+              "start": 55,
+              "url": "https://t.co/pPx0dI7HEo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979519377956638955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @Lead_Uore\n\n➡️ https://t.co/YusGrZ0T4W https://t.co/pPx0dI7HEo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 462,
+          "like_count": 14546,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 2650
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T11:40:16.000Z",
+        "description": "日本語○中国語○  发点废话",
+        "id": "1968278731212070912",
+        "name": "やみ",
+        "pinned_tweet_id": "1977923440553394284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977502318481514496/RwTa-VhM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 34,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 55
+        },
+        "username": "xaksohd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T13:42:14.000Z",
+        "description": "喜歡聰明的人。EN/JP/CN｜尖酸刻薄｜不鍵政｜DM無視｜ENTP-T｜ボカロ｜精神疾患｜負能量爆表｜阿斯伯格｜低素質｜重度憂鬱｜重度焦慮｜輕躁狂｜精分｜討口子｜玻璃心｜低齡兒｜自殘｜賣慘｜ADHD｜生性不討喜｜低智商｜低知識儲備量｜",
+        "id": "1731670068189114368",
+        "location": "東京 新宿区",
+        "name": "理德",
+        "pinned_tweet_id": "1967636798655565988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974565134594080768/rWfWvmUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 580,
+          "like_count": 65602,
+          "listed_count": 2,
+          "media_count": 605,
+          "tweet_count": 6916
+        },
+        "username": "Lead_Uore",
+        "verified": false
+      }
+    ]
+  }
+}

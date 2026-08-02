@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946889845147664384"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1944996602155786315",
+    "created_at": "2025-07-20T11:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T12:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946889865033072872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "horizon_tem"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1sqUF7TL9C",
+          "end": 36,
+          "expanded_url": "https://x.com/MEASUREMEN7/status/1946889865033072872/photo/1",
+          "media_key": "3_1946889845147664384",
+          "start": 13,
+          "url": "https://t.co/1sqUF7TL9C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946889865033072872",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944996602155786315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@horizon_tem https://t.co/1sqUF7TL9C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 670,
+        "media_key": "3_1946889845147664384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwS9_8TXgAA-A14.jpg",
+        "width": 608
+      },
+      {
+        "height": 670,
+        "media_key": "3_1944996591842287616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv4EGGIa4AAOKbY.jpg",
+        "width": 608
+      },
+      {
+        "height": 670,
+        "media_key": "3_1944996591804506112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv4EGF_aYAAEPEf.jpg",
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946889845147664384"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1944996602155786315",
+        "created_at": "2025-07-20T11:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T12:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946889865033072872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "horizon_tem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1sqUF7TL9C",
+              "end": 36,
+              "expanded_url": "https://x.com/MEASUREMEN7/status/1946889865033072872/photo/1",
+              "media_key": "3_1946889845147664384",
+              "start": 13,
+              "url": "https://t.co/1sqUF7TL9C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946889865033072872",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944996602155786315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@horizon_tem https://t.co/1sqUF7TL9C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944996591842287616",
+            "3_1944996591804506112"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1944996602155786315",
+        "created_at": "2025-07-15T05:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T06:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944996602155786315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xq8VYfAUuw",
+              "end": 26,
+              "expanded_url": "https://x.com/horizon_tem/status/1944996602155786315/photo/1",
+              "media_key": "3_1944996591842287616",
+              "start": 3,
+              "url": "https://t.co/xq8VYfAUuw"
+            },
+            {
+              "display_url": "pic.x.com/xq8VYfAUuw",
+              "end": 26,
+              "expanded_url": "https://x.com/horizon_tem/status/1944996602155786315/photo/1",
+              "media_key": "3_1944996591804506112",
+              "start": 3,
+              "url": "https://t.co/xq8VYfAUuw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944996602155786315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5798,
+          "like_count": 51,
+          "quote_count": 13,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哇哦 https://t.co/xq8VYfAUuw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 338,
+          "like_count": 5063,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 956
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "那只不过是幻想，活着就是受苦，或者接受将来受苦的可能性。同班同学 @KunaAkem1 逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "KunaAkem1"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "горизонт",
+        "pinned_tweet_id": "1943712347631341885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946779629358043136/5W74ck-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4052,
+          "following_count": 2169,
+          "like_count": 30464,
+          "listed_count": 10,
+          "media_count": 541,
+          "tweet_count": 10460
+        },
+        "username": "horizon_tem",
+        "verified": false
+      }
+    ]
+  }
+}

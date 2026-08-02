@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2021882105790378147",
+    "created_at": "2026-02-12T09:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T10:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021885392585470229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882022232072863744",
+          "start": 0,
+          "username": "Chee0ss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021885392585470229",
+    "in_reply_to_user_id": "1882022232072863744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021882105790378147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chee0ss 看看豆浆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2021882091668180992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8rDMubEAAnyOe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2021882105790378147",
+        "created_at": "2026-02-12T09:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021885392585470229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882022232072863744",
+              "start": 0,
+              "username": "Chee0ss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021885392585470229",
+        "in_reply_to_user_id": "1882022232072863744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021882105790378147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chee0ss 看看豆浆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021882091668180992"
+          ]
+        },
+        "author_id": "1882022232072863744",
+        "conversation_id": "2021882105790378147",
+        "created_at": "2026-02-12T09:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021882105790378147"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "男娘"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tAjVhFBYVE",
+              "end": 59,
+              "expanded_url": "https://x.com/Chee0ss/status/2021882105790378147/photo/1",
+              "media_key": "3_2021882091668180992",
+              "start": 36,
+              "url": "https://t.co/tAjVhFBYVE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021882105790378147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "买副对联吧好心人😭我会挤出很浓很浓的浆糊帮你贴门上🥵💦\n#男娘 #伪娘 https://t.co/tAjVhFBYVE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 419,
+          "like_count": 20063,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4223
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T11:08:42.000Z",
+        "description": "欢迎来到「盒子」，薛定谔先生。",
+        "id": "1882022232072863744",
+        "location": "盒子",
+        "name": "叶惜吱吱吱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009205568893014020/ROnC3YVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 8,
+          "like_count": 124,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 81
+        },
+        "username": "Chee0ss",
+        "verified": false
+      }
+    ]
+  }
+}

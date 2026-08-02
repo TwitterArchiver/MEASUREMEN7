@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999557553504555013"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "1999557569459699995",
+    "created_at": "2025-12-12T19:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T20:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999557569459699995"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zJbZJzh9Ez",
+          "end": 23,
+          "expanded_url": "https://x.com/MEASUREMEN7/status/1999557569459699995/photo/1",
+          "media_key": "3_1999557553504555013",
+          "start": 0,
+          "url": "https://t.co/zJbZJzh9Ez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999557569459699995",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/zJbZJzh9Ez"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999557553504555013",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7_bADSWkAUh_Ms.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999557553504555013"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "1999557569459699995",
+        "created_at": "2025-12-12T19:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T20:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999557569459699995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJbZJzh9Ez",
+              "end": 23,
+              "expanded_url": "https://x.com/MEASUREMEN7/status/1999557569459699995/photo/1",
+              "media_key": "3_1999557553504555013",
+              "start": 0,
+              "url": "https://t.co/zJbZJzh9Ez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999557569459699995",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zJbZJzh9Ez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "男，性取向是沃尔玛塑料袋和武装直升机，请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 365,
+          "like_count": 16635,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 3420
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      }
+    ]
+  }
+}

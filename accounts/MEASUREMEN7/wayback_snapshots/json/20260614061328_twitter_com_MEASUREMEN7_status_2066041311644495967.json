@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2065817306140393910",
+    "created_at": "2026-06-14T06:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T07:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066041311644495967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995708760820789248",
+          "start": 0,
+          "username": "Artoria63333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066041311644495967",
+    "in_reply_to_user_id": "1995708760820789248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065864271024853496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Artoria63333 羡慕玩具"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2065817306140393910",
+        "created_at": "2026-06-14T06:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066041311644495967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995708760820789248",
+              "start": 0,
+              "username": "Artoria63333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066041311644495967",
+        "in_reply_to_user_id": "1995708760820789248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065864271024853496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Artoria63333 羡慕玩具"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995708760820789248",
+        "conversation_id": "2065817306140393910",
+        "created_at": "2026-06-13T18:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065864271024853496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065864271024853496",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065845835427156331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 你在羡慕什么啊喂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 242,
+          "like_count": 26082,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 5311
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T04:17:08.000Z",
+        "description": "摸鱼号，真的没东西别关注了",
+        "id": "1995708760820789248",
+        "name": "artoria",
+        "pinned_tweet_id": "2032363727803363559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065799043016794112/N99nKtMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 1,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 95
+        },
+        "username": "Artoria63333",
+        "verified": false
+      }
+    ]
+  }
+}

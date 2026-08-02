@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1972939092552994924",
+    "created_at": "2025-09-30T08:52:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T09:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972947537729663106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1833100001180098560",
+          "start": 0,
+          "username": "hxjcrhvgJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972947537729663106",
+    "in_reply_to_user_id": "1833100001180098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972939092552994924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hxjcrhvgJ 不知道欸，看着像疤痕一样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972939075129925632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2FJosCbYAArHDx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972939075134119936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2FJosDbYAAPiKm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1972939092552994924",
+        "created_at": "2025-09-30T08:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T09:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972947537729663106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1833100001180098560",
+              "start": 0,
+              "username": "hxjcrhvgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972947537729663106",
+        "in_reply_to_user_id": "1833100001180098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972939092552994924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hxjcrhvgJ 不知道欸，看着像疤痕一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972939075129925632",
+            "3_1972939075134119936"
+          ]
+        },
+        "author_id": "1833100001180098560",
+        "conversation_id": "1972939092552994924",
+        "created_at": "2025-09-30T08:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T09:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972939092552994924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RjUYI6ZR63",
+              "end": 36,
+              "expanded_url": "https://x.com/hxjcrhvgJ/status/1972939092552994924/photo/1",
+              "media_key": "3_1972939075129925632",
+              "start": 13,
+              "url": "https://t.co/RjUYI6ZR63"
+            },
+            {
+              "display_url": "pic.x.com/RjUYI6ZR63",
+              "end": 36,
+              "expanded_url": "https://x.com/hxjcrhvgJ/status/1972939092552994924/photo/1",
+              "media_key": "3_1972939075134119936",
+              "start": 13,
+              "url": "https://t.co/RjUYI6ZR63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972939092552994924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这他吗是什么\n看着像尸斑 https://t.co/RjUYI6ZR63"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 426,
+          "like_count": 11350,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 1938
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T11:08:05.000Z",
+        "description": "重加工 给我钱",
+        "id": "1833100001180098560",
+        "name": "小狱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947767470389137412/WhX8waeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 159,
+          "like_count": 2385,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 64
+        },
+        "username": "hxjcrhvgJ",
+        "verified": false
+      }
+    ]
+  }
+}

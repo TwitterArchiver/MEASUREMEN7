@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2071062825305563217",
+    "created_at": "2026-06-28T12:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071209726826995781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2000502515411058689",
+          "start": 0,
+          "username": "littledollowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071209726826995781",
+    "in_reply_to_user_id": "2000502515411058689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071062825305563217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littledollowo 好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_2071062808792616960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3kptGbUAA6NSI.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2071062825305563217",
+        "created_at": "2026-06-28T12:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071209726826995781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000502515411058689",
+              "start": 0,
+              "username": "littledollowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071209726826995781",
+        "in_reply_to_user_id": "2000502515411058689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071062825305563217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littledollowo 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071062808792616960"
+          ]
+        },
+        "author_id": "2000502515411058689",
+        "conversation_id": "2071062825305563217",
+        "created_at": "2026-06-28T02:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071062825305563217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZhKoTPnZRI",
+              "end": 25,
+              "expanded_url": "https://x.com/littledollowo/status/2071062825305563217/photo/1",
+              "media_key": "3_2071062808792616960",
+              "start": 2,
+              "url": "https://t.co/ZhKoTPnZRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071062825305563217",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐰 https://t.co/ZhKoTPnZRI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 174,
+          "like_count": 27274,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 5460
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T09:45:51.000Z",
+        "description": "ο(=•ω＜=)ρ☆可以叫我土肥圆 这里是我的碎碎念垃圾桶 私信只回复口令和有礼貌的好宝宝\n好友位🚪88无福利不线下",
+        "id": "2000502515411058689",
+        "location": "0.1km",
+        "name": "我的内裤很能装逼",
+        "pinned_tweet_id": "2020759895998656530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070340765927292928/YMyk72tw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 3,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "littledollowo",
+        "verified": false
+      }
+    ]
+  }
+}

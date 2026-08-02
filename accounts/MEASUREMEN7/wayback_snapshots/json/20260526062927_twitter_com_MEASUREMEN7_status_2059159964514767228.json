@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059159957594075136"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2059159964514767228",
+    "created_at": "2026-05-26T06:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T07:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059159964514767228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v2ocvKL6TH",
+          "end": 23,
+          "expanded_url": "https://x.com/MEASUREMEN7/status/2059159964514767228/photo/1",
+          "media_key": "3_2059159957594075136",
+          "start": 0,
+          "url": "https://t.co/v2ocvKL6TH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059159964514767228",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/v2ocvKL6TH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2059159957594075136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJObElAacAARZjD.jpg",
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059159957594075136"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2059159964514767228",
+        "created_at": "2026-05-26T06:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059159964514767228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v2ocvKL6TH",
+              "end": 23,
+              "expanded_url": "https://x.com/MEASUREMEN7/status/2059159964514767228/photo/1",
+              "media_key": "3_2059159957594075136",
+              "start": 0,
+              "url": "https://t.co/v2ocvKL6TH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059159964514767228",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/v2ocvKL6TH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 285,
+          "like_count": 25363,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 5232
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      }
+    ]
+  }
+}

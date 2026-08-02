@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1972655143976915243",
+    "created_at": "2025-09-30T04:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T05:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972884859128557695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771131154214932480",
+          "start": 0,
+          "username": "ace_in_sana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972884859128557695",
+    "in_reply_to_user_id": "1771131154214932480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972655143976915243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ace_in_sana 求加"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1972655143976915243",
+        "created_at": "2025-09-30T04:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T05:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972884859128557695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771131154214932480",
+              "start": 0,
+              "username": "ace_in_sana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972884859128557695",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972655143976915243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace_in_sana 求加"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "1972655143976915243",
+        "created_at": "2025-09-29T13:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T14:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972655143976915243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972655143976915243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 323,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想加我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 426,
+          "like_count": 11340,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 1936
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻",
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "散",
+        "pinned_tweet_id": "1930014739620606064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895697108293865472/VgxJf1dy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 162,
+          "like_count": 9919,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 2501
+        },
+        "username": "ace_in_sana",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1977812196370661573",
+    "created_at": "2025-10-13T19:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T20:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977819401136345117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1969428876213567489",
+          "start": 0,
+          "username": "q1079263086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977819401136345117",
+    "in_reply_to_user_id": "1969428876213567489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977812196370661573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q1079263086 16岁可以工作了，可是上大学前当助教还是不太现实吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1977812196370661573",
+        "created_at": "2025-10-13T19:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T20:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977819401136345117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1969428876213567489",
+              "start": 0,
+              "username": "q1079263086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977819401136345117",
+        "in_reply_to_user_id": "1969428876213567489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977812196370661573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q1079263086 16岁可以工作了，可是上大学前当助教还是不太现实吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969428876213567489",
+        "conversation_id": "1977812196370661573",
+        "created_at": "2025-10-13T19:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T20:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977812196370661573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977812196370661573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈让我上大学前考完试去机构当助教。雇佣童工吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "请不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 447,
+          "like_count": 13796,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 2481
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T15:50:15.000Z",
+        "description": "=有机毒 欢迎小女孩互fo交朋友 🚪88/128/188/520/无上限",
+        "id": "1969428876213567489",
+        "location": "still alive",
+        "name": "无机物持续造成魔法攻击中",
+        "pinned_tweet_id": "1970878986776457277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977406412406894592/JqYmqBMM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 41,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 245
+        },
+        "username": "q1079263086",
+        "verified": false
+      }
+    ]
+  }
+}

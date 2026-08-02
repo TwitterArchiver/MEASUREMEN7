@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2062510657057050758",
+    "created_at": "2026-06-05T05:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T06:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062763429769982058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1833100001180098560",
+          "start": 0,
+          "username": "hxjcrhvgJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062763429769982058",
+    "in_reply_to_user_id": "1833100001180098560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062510657057050758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hxjcrhvgJ 女人就像美酒，越老越香醇😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2062510657057050758",
+        "created_at": "2026-06-05T05:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062763429769982058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1833100001180098560",
+              "start": 0,
+              "username": "hxjcrhvgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062763429769982058",
+        "in_reply_to_user_id": "1833100001180098560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062510657057050758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hxjcrhvgJ 女人就像美酒，越老越香醇😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833100001180098560",
+        "conversation_id": "2062510657057050758",
+        "created_at": "2026-06-04T12:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062510657057050758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lingjiaxin233/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/lingjiaxin233/status/2062446540527120864",
+              "start": 4,
+              "url": "https://t.co/cJHqIMmLUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062510657057050758",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062446540527120864",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好温馨 https://t.co/cJHqIMmLUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "可以多看看我吗",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 246,
+          "like_count": 25797,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 5277
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T11:08:05.000Z",
+        "description": "重加工 给我钱",
+        "id": "1833100001180098560",
+        "name": "小狱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947767470389137412/WhX8waeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 217,
+          "like_count": 4977,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 349
+        },
+        "username": "hxjcrhvgJ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1971768964331327583",
+    "created_at": "2025-09-27T04:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T05:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971795903356064249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1942213637902348289",
+          "start": 0,
+          "username": "luobodoul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971795903356064249",
+    "in_reply_to_user_id": "1942213637902348289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971794172140310951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobodoul 日语不能这么臭吧……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 727,
+        "media_key": "3_1971794165966295041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G104WNCb0AEqtdd.jpg",
+        "width": 1178
+      },
+      {
+        "height": 434,
+        "media_key": "3_1971794165911674880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G104WM1aYAAEFAU.jpg",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1971768964331327583",
+        "created_at": "2025-09-27T04:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T05:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971795903356064249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1942213637902348289",
+              "start": 0,
+              "username": "luobodoul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971795903356064249",
+        "in_reply_to_user_id": "1942213637902348289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971794172140310951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobodoul 日语不能这么臭吧……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971794165966295041",
+            "3_1971794165911674880"
+          ]
+        },
+        "author_id": "1942213637902348289",
+        "conversation_id": "1971768964331327583",
+        "created_at": "2025-09-27T04:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T05:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971794172140310951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OPakDm3sqP",
+              "end": 34,
+              "expanded_url": "https://x.com/luobodoul/status/1971794172140310951/photo/1",
+              "media_key": "3_1971794165966295041",
+              "start": 11,
+              "url": "https://t.co/OPakDm3sqP"
+            },
+            {
+              "display_url": "pic.x.com/OPakDm3sqP",
+              "end": 34,
+              "expanded_url": "https://x.com/luobodoul/status/1971794172140310951/photo/1",
+              "media_key": "3_1971794165911674880",
+              "start": 11,
+              "url": "https://t.co/OPakDm3sqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971794172140310951",
+        "in_reply_to_user_id": "1942213637902348289",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971768964331327583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "114‼️514‼️ https://t.co/OPakDm3sqP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "私とチャットする前に、心の準備をしましたか？",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "铨",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361995937382400/hGtUCrky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 411,
+          "like_count": 10788,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1863
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:26:36.000Z",
+        "description": "06｜INFP｜♏️｜switch｜原来我们都是边流泪边往前走的小大人｜168cm/54kg🐹｜🚪128除此之外别私信我。｜钱会拿来好好提升自己｜这个是生活号",
+        "id": "1942213637902348289",
+        "location": "ig：yanyan_kawa1",
+        "name": "萝卜🥕",
+        "pinned_tweet_id": "1967580671280595384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959347551133732864/CgOfejiP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 47,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 155
+        },
+        "username": "luobodoul",
+        "verified": false
+      }
+    ]
+  }
+}
