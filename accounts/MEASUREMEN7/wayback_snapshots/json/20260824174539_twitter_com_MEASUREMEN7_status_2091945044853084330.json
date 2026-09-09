@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2091945044853084330",
+    "created_at": "2026-08-24T17:45:39.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T18:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091945044853084330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aurvsnom/statu…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/aurvsnom/status/2091918530170282120",
+          "start": 44,
+          "url": "https://t.co/xUG0XphDm0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091945044853084330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091918530170282120",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说到这个的话我很好奇回到过去真的就可以改变一切吗？我过去那些遗憾也许改变了只会更加痛苦 https://t.co/xUG0XphDm0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2091945044853084330",
+        "created_at": "2026-08-24T17:45:39.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091945044853084330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aurvsnom/statu…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/aurvsnom/status/2091918530170282120",
+              "start": 44,
+              "url": "https://t.co/xUG0XphDm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091945044853084330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091918530170282120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说到这个的话我很好奇回到过去真的就可以改变一切吗？我过去那些遗憾也许改变了只会更加痛苦 https://t.co/xUG0XphDm0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2091918527112572928"
+          ]
+        },
+        "author_id": "2089970171100418049",
+        "conversation_id": "2091918530170282120",
+        "created_at": "2026-08-24T16:00:18.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091918530170282120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091918530170282120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今日辩题是：\n如果真的有后悔药\n你是否会为了一些遗憾\n重启人生"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2091945044853084330",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 290,
+          "like_count": 36036,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 8003
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T06:59:27.000Z",
+        "description": "一代@Vyrwen已陨落\n二代@Luminbkrv已陨落\n巡回互fo中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "Vyrwen"
+              },
+              {
+                "end": 25,
+                "start": 15,
+                "username": "Luminbkrv"
+              }
+            ]
+          }
+        },
+        "id": "2089970171100418049",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091926263065882880",
+        "name": "雪还会落下3.0",
+        "pinned_tweet_id": "2091787573324845233",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089970171100418049/1787587889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089970700702617600/RzeUPzr3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 77,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "Aurvsnom",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

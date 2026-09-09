@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2084245394670661809",
+    "created_at": "2026-08-03T11:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084245806081782179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053339374251806720",
+          "start": 0,
+          "username": "MSO_clinic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084245806081782179",
+    "in_reply_to_user_id": "2053339374251806720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084245394670661809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MSO_clinic 一直都是这样😭，琳酱最好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2084245394670661809",
+        "created_at": "2026-08-03T11:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084245806081782179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053339374251806720",
+              "start": 0,
+              "username": "MSO_clinic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084245806081782179",
+        "in_reply_to_user_id": "2053339374251806720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084245394670661809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MSO_clinic 一直都是这样😭，琳酱最好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053339374251806720",
+        "conversation_id": "2084245394670661809",
+        "created_at": "2026-08-03T11:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084245394670661809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084245394670661809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "除了我以外根本没有人想跟你玩哦 根本没人喜欢你哦 你只有跟我玩才会被接受哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 28,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 5,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 195,
+          "like_count": 28470,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 5697
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T05:00:55.000Z",
+        "description": "Fuyumi 冬凛 \n地雷女||cos||Chinese||148cm\n中||ENG||日本語上手じゃない..\n#shhtwt #ricecaketwt #odtwt #jiraitwt #nsotwt #sliwt moot me up!! sayonara~",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 56,
+                "tag": "shhtwt"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "tag": "ricecaketwt"
+              },
+              {
+                "end": 83,
+                "start": 77,
+                "tag": "odtwt"
+              },
+              {
+                "end": 93,
+                "start": 84,
+                "tag": "jiraitwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "nsotwt"
+              },
+              {
+                "end": 108,
+                "start": 102,
+                "tag": "sliwt"
+              }
+            ]
+          }
+        },
+        "id": "2053339374251806720",
+        "location": "🇲🇾",
+        "name": "Fuyumi 想消失... 💤",
+        "pinned_tweet_id": "2069026646246695135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060019766501556224/cV3ZmOzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 18,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "MSO_clinic",
+        "verified": false
+      }
+    ]
+  }
+}

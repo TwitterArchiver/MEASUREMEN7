@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2093864297919381889",
+    "created_at": "2026-08-30T04:43:16.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T05:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093922476032237874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2088447669056499712",
+          "start": 0,
+          "username": "AmeHanafogfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093922476032237874",
+    "in_reply_to_user_id": "2088447669056499712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093864297919381889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeHanafogfox 如常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2093864297919381889",
+        "created_at": "2026-08-30T04:43:16.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093922476032237874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2088447669056499712",
+              "start": 0,
+              "username": "AmeHanafogfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093922476032237874",
+        "in_reply_to_user_id": "2088447669056499712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093864297919381889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeHanafogfox 如常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088447669056499712",
+        "conversation_id": "2093864297919381889",
+        "created_at": "2026-08-30T00:52:05.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T01:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093864297919381889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093864297919381889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们没差，就像昨天我们没差"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2093922476032237874",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 284,
+          "like_count": 37662,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 8310
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T02:09:14.000Z",
+        "description": "阿间/雨原花咲\nftx\n重生2.0\n唯一的挚爱/耀阳/月@kamizakajuukou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "kamizakajuukou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fooogfox",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fooogfox",
+                "start": 0,
+                "url": "https://t.co/duHV2zX82H"
+              }
+            ]
+          }
+        },
+        "id": "2088447669056499712",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2093864297919381889",
+        "name": "猫不理茶茶罐头2.0",
+        "pinned_tweet_id": "2088449819673268406",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088447669056499712/1786759959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089424509204094976/IUVFy1_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 51,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/duHV2zX82H",
+        "username": "AmeHanafogfox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

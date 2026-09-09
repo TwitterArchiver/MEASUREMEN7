@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2084133064150802492",
+    "created_at": "2026-08-03T04:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084133607820652628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1899976477396918272",
+          "start": 0,
+          "username": "Qiniansea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084133607820652628",
+    "in_reply_to_user_id": "1899976477396918272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084133064150802492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiniansea 做爱肯定是和喜欢的爱的人做啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2084133064150802492",
+        "created_at": "2026-08-03T04:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084133607820652628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1899976477396918272",
+              "start": 0,
+              "username": "Qiniansea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084133607820652628",
+        "in_reply_to_user_id": "1899976477396918272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084133064150802492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiniansea 做爱肯定是和喜欢的爱的人做啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899976477396918272",
+        "conversation_id": "2084133064150802492",
+        "created_at": "2026-08-03T04:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084133064150802492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084133064150802492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做爱肯定是和喜欢的爱的人做啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 28,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 5,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 195,
+          "like_count": 28422,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 5688
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T00:11:42.000Z",
+        "description": "能看到你穿下个季节的衣服就好",
+        "id": "1899976477396918272",
+        "name": "萌狗痣",
+        "pinned_tweet_id": "2083452303743553639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082055825431142400/ofQFooeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 122,
+          "like_count": 33927,
+          "listed_count": 1,
+          "media_count": 461,
+          "tweet_count": 7125
+        },
+        "url": "",
+        "username": "Qiniansea",
+        "verified": false
+      }
+    ]
+  }
+}

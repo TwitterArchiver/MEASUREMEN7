@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087616236717007068",
+    "created_at": "2026-08-12T19:04:31.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T20:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087616236717007068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 77,
+          "id": "1720665183188922368",
+          "start": 72,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087616236717007068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从这个账号的所有帖子中分析真实的人物形象\n1.年龄　2.性别　3.职业　4.年收入\n5.兴趣　6.思想　7.性格　8.喜欢的东西\n9.MBTI\n@grok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087616236717007068",
+        "created_at": "2026-08-12T19:04:31.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087616236717007068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 77,
+              "id": "1720665183188922368",
+              "start": 72,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087616236717007068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从这个账号的所有帖子中分析真实的人物形象\n1.年龄　2.性别　3.职业　4.年收入\n5.兴趣　6.思想　7.性格　8.喜欢的东西\n9.MBTI\n@grok"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087616236717007068",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 248,
+          "like_count": 31214,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 6586
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087616254597124156",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8959684,
+          "following_count": 6,
+          "like_count": 128,
+          "listed_count": 7338,
+          "media_count": 9251331,
+          "tweet_count": 135580003
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

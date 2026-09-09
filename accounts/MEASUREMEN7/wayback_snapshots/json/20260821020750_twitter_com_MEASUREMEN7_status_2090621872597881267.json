@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090614653143662736",
+    "created_at": "2026-08-21T02:07:50.000Z",
+    "display_text_range": [
+      16,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T03:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090621872597881267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887467599287754755",
+          "start": 0,
+          "username": "with_WhiT3Rose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090621872597881267",
+    "in_reply_to_user_id": "1887467599287754755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090614653143662736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@with_WhiT3Rose 感觉这种见面方式真的好青春"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1130,
+        "media_key": "3_2090614642485907456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNa8NeaUAA_UwI.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090614653143662736",
+        "created_at": "2026-08-21T02:07:50.000Z",
+        "display_text_range": [
+          16,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090621872597881267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887467599287754755",
+              "start": 0,
+              "username": "with_WhiT3Rose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090621872597881267",
+        "in_reply_to_user_id": "1887467599287754755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090614653143662736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@with_WhiT3Rose 感觉这种见面方式真的好青春"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090614642485907456"
+          ]
+        },
+        "author_id": "1887467599287754755",
+        "conversation_id": "2090614653143662736",
+        "created_at": "2026-08-21T01:39:09.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090614653143662736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VA7Qr7s1Hd",
+              "end": 26,
+              "expanded_url": "https://x.com/with_WhiT3Rose/status/2090614653143662736/photo/1",
+              "media_key": "3_2090614642485907456",
+              "start": 3,
+              "url": "https://t.co/VA7Qr7s1Hd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090614653143662736",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090614642485907456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😾😾 https://t.co/VA7Qr7s1Hd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090621872597881267",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 287,
+          "like_count": 34827,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 7670
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T11:45:28.000Z",
+        "description": "僕らが離れるなら 僕らが迷うなら",
+        "id": "1887467599287754755",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090614741005894014",
+        "name": "uuuuuv3",
+        "pinned_tweet_id": "2081952312441098328",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887467599287754755/1760720458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088857024004272128/d6HDReNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 467,
+          "like_count": 34191,
+          "listed_count": 1,
+          "media_count": 643,
+          "tweet_count": 4472
+        },
+        "url": "",
+        "username": "with_WhiT3Rose",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

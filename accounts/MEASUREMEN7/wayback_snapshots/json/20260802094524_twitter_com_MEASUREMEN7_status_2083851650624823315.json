@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2083851650624823315",
+    "created_at": "2026-08-02T09:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T10:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083851650624823315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/innocentb1tch_…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/innocentb1tch_/status/2083626028493123844",
+          "start": 38,
+          "url": "https://t.co/WKkohwrept"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083851650624823315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083626028493123844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被骂了又知道错了，把自己摆在健全人的位置高高在上的指责别人的时候怎么不想想 https://t.co/WKkohwrept"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2083851650624823315",
+        "created_at": "2026-08-02T09:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083851650624823315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/innocentb1tch_…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/innocentb1tch_/status/2083626028493123844",
+              "start": 38,
+              "url": "https://t.co/WKkohwrept"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083851650624823315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083626028493123844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被骂了又知道错了，把自己摆在健全人的位置高高在上的指责别人的时候怎么不想想 https://t.co/WKkohwrept"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491134477162008576",
+        "conversation_id": "2083626028493123844",
+        "created_at": "2026-08-01T18:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083626028493123844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/InnocentB1tch_…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/InnocentB1tch_/status/2083436811217690764",
+              "start": 57,
+              "url": "https://t.co/ok174xvJqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083626028493123844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5631,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083436811217690764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看我这条帖子不顺眼的人，我只能说我不嗑药我不自残我不卖b❛‿˂̵✧，每个人都有不同的痛苦，用以上方式疏解不可取哦 https://t.co/ok174xvJqv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 188,
+          "like_count": 28209,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 5613
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T19:39:15.000Z",
+        "description": "想你真的太痛甚至超过一把刀",
+        "id": "1491134477162008576",
+        "name": "你们都是我的杯子",
+        "pinned_tweet_id": "2065131670140043570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073854250128384000/Q_04-h1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3423,
+          "following_count": 24,
+          "like_count": 4513,
+          "listed_count": 6,
+          "media_count": 124,
+          "tweet_count": 1062
+        },
+        "url": "",
+        "username": "InnocentB1tch_",
+        "verified": false
+      }
+    ]
+  }
+}

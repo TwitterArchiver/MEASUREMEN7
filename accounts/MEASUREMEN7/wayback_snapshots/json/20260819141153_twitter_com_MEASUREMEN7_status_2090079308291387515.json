@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090067634146685234",
+    "created_at": "2026-08-19T14:11:53.000Z",
+    "display_text_range": [
+      13,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090079308291387515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1550593157876060160",
+          "start": 0,
+          "username": "Fumi_uowou_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090079308291387515",
+    "in_reply_to_user_id": "1550593157876060160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090067634146685234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fumi_uowou_ 如果可以解脱的话就太好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090067634146685234",
+        "created_at": "2026-08-19T14:11:53.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090079308291387515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1550593157876060160",
+              "start": 0,
+              "username": "Fumi_uowou_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090079308291387515",
+        "in_reply_to_user_id": "1550593157876060160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090067634146685234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fumi_uowou_ 如果可以解脱的话就太好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550593157876060160",
+        "conversation_id": "2090067634146685234",
+        "created_at": "2026-08-19T13:25:30.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090067634146685234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090067634146685234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "離開之前應該要見推最後一面"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090079308291387515",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 274,
+          "like_count": 34152,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 7469
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-22T21:26:53.000Z",
+        "description": "病み垢暴言｜地雷系｜永遠の16歳 ｜社不\n和社會對立",
+        "id": "1550593157876060160",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2090067634146685234",
+        "name": "ふみわんちゃん🦭🌧️",
+        "pinned_tweet_id": "2020858399106248987",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1550593157876060160/1763491318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990852953499185154/HwgnW6Z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 140,
+          "like_count": 21533,
+          "listed_count": 4,
+          "media_count": 314,
+          "tweet_count": 2926
+        },
+        "url": "",
+        "username": "Fumi_uowou_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

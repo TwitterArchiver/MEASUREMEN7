@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2096896755300532537",
+    "created_at": "2026-09-07T15:51:05.000Z",
+    "display_text_range": [
+      13,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096989640658186466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165329475514404864",
+          "start": 0,
+          "username": "notcal_car_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096989640658186466",
+    "in_reply_to_user_id": "1165329475514404864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096989286516273351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notcal_car_ nooo，也许下一种就好了吧（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2096896755300532537",
+        "created_at": "2026-09-07T15:51:05.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096989640658186466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165329475514404864",
+              "start": 0,
+              "username": "notcal_car_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096989640658186466",
+        "in_reply_to_user_id": "1165329475514404864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096989286516273351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notcal_car_ nooo，也许下一种就好了吧（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165329475514404864",
+        "conversation_id": "2096896755300532537",
+        "created_at": "2026-09-07T15:49:40.000Z",
+        "display_text_range": [
+          13,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096989286516273351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096989286516273351",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096896755300532537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 唉 說起就難過\n我不知道已經換了四種睡覺藥 到現在又免疫了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2096989640658186466",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 291,
+          "like_count": 39168,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 8634
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-24T18:26:20.000Z",
+        "description": "疼痛實驗",
+        "id": "1165329475514404864",
+        "is_identity_verified": false,
+        "location": " ",
+        "most_recent_tweet_id": "2096989286516273351",
+        "name": "不是卡路里Notcal",
+        "pinned_tweet_id": "2028568903052558483",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165329475514404864/1769320126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960439658988625920/V3vyFxhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 280,
+          "like_count": 14558,
+          "listed_count": 9,
+          "media_count": 316,
+          "tweet_count": 1129
+        },
+        "url": "",
+        "username": "notcal_car_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

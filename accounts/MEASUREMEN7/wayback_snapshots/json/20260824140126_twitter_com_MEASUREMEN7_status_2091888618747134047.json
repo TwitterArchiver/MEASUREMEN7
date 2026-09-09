@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2091887447013769344",
+    "created_at": "2026-08-24T14:01:26.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T15:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091888618747134047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592440703921319938",
+          "start": 0,
+          "username": "haruyuki_TuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091888618747134047",
+    "in_reply_to_user_id": "1592440703921319938",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091887447013769344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haruyuki_TuT 我去，我也想吃"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2091887447013769344].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2091887447013769344",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2091887447013769344"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2091887447013769344",
+        "created_at": "2026-08-24T14:01:26.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091888618747134047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592440703921319938",
+              "start": 0,
+              "username": "haruyuki_TuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091888618747134047",
+        "in_reply_to_user_id": "1592440703921319938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091887447013769344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haruyuki_TuT 我去，我也想吃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2091888618747134047",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 290,
+          "like_count": 35965,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 7985
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-15T08:53:58.000Z",
+        "description": "我們只是網友 你把手機摔了我就死了ok?",
+        "id": "1592440703921319938",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091583295834484841",
+        "name": "社底宅女家裡蹲",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592440703921319938/1781914813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068126693324382208/u0YrbeTG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 9,
+          "like_count": 879,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 233
+        },
+        "url": "",
+        "username": "haruyuki_TuT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

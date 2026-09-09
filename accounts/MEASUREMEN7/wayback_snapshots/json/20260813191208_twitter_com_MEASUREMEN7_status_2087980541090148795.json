@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087976224341803454",
+    "created_at": "2026-08-13T19:12:08.000Z",
+    "display_text_range": [
+      11,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T20:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087980541090148795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1749204947776819200",
+          "start": 0,
+          "username": "Ankoloveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087980541090148795",
+    "in_reply_to_user_id": "1749204947776819200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087976224341803454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ankoloveu 之前打扫浴室卫生的时候把东西都放进箱子里，结果归位的时候被箱子里的剃须刀狠狠划了条口子，有刀具的地方还是要小心😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087976224341803454",
+        "created_at": "2026-08-13T19:12:08.000Z",
+        "display_text_range": [
+          11,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087980541090148795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1749204947776819200",
+              "start": 0,
+              "username": "Ankoloveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087980541090148795",
+        "in_reply_to_user_id": "1749204947776819200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087976224341803454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ankoloveu 之前打扫浴室卫生的时候把东西都放进箱子里，结果归位的时候被箱子里的剃须刀狠狠划了条口子，有刀具的地方还是要小心😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749204947776819200",
+        "conversation_id": "2087976224341803454",
+        "created_at": "2026-08-13T18:54:59.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087976224341803454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087976224341803454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠我跟你们说，我包里一直放着一把备用的红贝印，然后平时也没管过它，不知道咋回事我今天翻东西的时候上面的保护套滑出去了一半，一下子给我手指头划破了。。痛死"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087980541090148795",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 253,
+          "like_count": 31621,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 6689
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-21T22:59:01.000Z",
+        "description": "大号遭恶臭小鸡男举报。寻回互关中…",
+        "id": "1749204947776819200",
+        "is_identity_verified": false,
+        "location": "Ukyo-ku, Kyoto",
+        "most_recent_tweet_id": "2087978689447485761",
+        "name": "anko",
+        "pinned_tweet_id": "2087630635578118367",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749204947776819200/1786557313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087598796012470272/4Pq8aOdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 10,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "Ankoloveu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

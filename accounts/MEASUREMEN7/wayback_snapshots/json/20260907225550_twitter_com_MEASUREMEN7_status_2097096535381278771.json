@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2097074842399019436",
+    "created_at": "2026-09-07T22:55:50.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T23:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097096535381278771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1985157668412280833",
+          "start": 0,
+          "username": "kkd1226586"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097096535381278771",
+    "in_reply_to_user_id": "1985157668412280833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097074842399019436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkd1226586 舌钉好棒"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15766,
+        "height": 720,
+        "media_key": "13_2097074782101798913",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097074782101798913/img/cBo7PsH6CazOS4D8.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097074782101798913/vid/avc1/480x270/kkzKuTKOx9BvvUMe.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097074782101798913/vid/avc1/640x360/znIuvh3hGUj2ralo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097074782101798913/vid/avc1/1280x720/MYHowPwIf7qCHCG6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097074782101798913/pl/tbEQeavez7iKf-gi.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2097074842399019436",
+        "created_at": "2026-09-07T22:55:50.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T23:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097096535381278771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1985157668412280833",
+              "start": 0,
+              "username": "kkd1226586"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097096535381278771",
+        "in_reply_to_user_id": "1985157668412280833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097074842399019436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkd1226586 舌钉好棒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097074782101798913"
+          ]
+        },
+        "author_id": "1985157668412280833",
+        "conversation_id": "2097074842399019436",
+        "created_at": "2026-09-07T21:29:38.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T22:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097074842399019436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vVOrTYp2Ba",
+              "end": 47,
+              "expanded_url": "https://x.com/kkd1226586/status/2097074842399019436/video/1",
+              "media_key": "13_2097074782101798913",
+              "start": 24,
+              "url": "https://t.co/vVOrTYp2Ba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097074842399019436",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097074782101798913"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我自己修这个视频的时候飞了两遍，你也来飞飞看吧 https://t.co/vVOrTYp2Ba"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2097096535381278771",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 291,
+          "like_count": 39206,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 8647
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-03T01:30:59.000Z",
+        "description": "是个家里蹲吸血鬼捏 泛性恋喵 🚪128 288 520解锁隐藏课表 888 1314（拍过的都发给你）",
+        "id": "1985157668412280833",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097074842399019436",
+        "name": "氪氪弟",
+        "pinned_tweet_id": "2062459988245917924",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1985157668412280833/1765977375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096760983478009856/e6Yijr21_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 83,
+          "like_count": 2697,
+          "listed_count": 4,
+          "media_count": 174,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "kkd1226586",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090533926175682730",
+    "created_at": "2026-08-21T11:49:53.000Z",
+    "display_text_range": [
+      10,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T12:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090768349001294035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589840271860039683",
+          "start": 0,
+          "username": "vwv_vwvi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090768349001294035",
+    "in_reply_to_user_id": "1589840271860039683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090533926175682730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vwv_vwvi 看到这个网易邮箱绷不住了，我被封的时候也是网易邮箱弹了通知我才知道"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090533915576676352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQMRhSTasAA5kG0.jpg",
+        "width": 1015
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090533926175682730",
+        "created_at": "2026-08-21T11:49:53.000Z",
+        "display_text_range": [
+          10,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090768349001294035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589840271860039683",
+              "start": 0,
+              "username": "vwv_vwvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090768349001294035",
+        "in_reply_to_user_id": "1589840271860039683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090533926175682730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vwv_vwvi 看到这个网易邮箱绷不住了，我被封的时候也是网易邮箱弹了通知我才知道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090533915576676352"
+          ]
+        },
+        "author_id": "1589840271860039683",
+        "conversation_id": "2090533926175682730",
+        "created_at": "2026-08-20T20:18:22.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T21:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090533926175682730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FjNPfAZv8d",
+              "end": 26,
+              "expanded_url": "https://x.com/vwv_vwvi/status/2090533926175682730/photo/1",
+              "media_key": "3_2090533915576676352",
+              "start": 3,
+              "url": "https://t.co/FjNPfAZv8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090533926175682730",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090533915576676352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛逼 https://t.co/FjNPfAZv8d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090768349001294035",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 289,
+          "like_count": 35057,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 7734
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-08T04:40:42.000Z",
+        "description": "=nn/鼻血 全黑泥账号",
+        "id": "1589840271860039683",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090613936441987095",
+        "name": "^- . _ . -^",
+        "pinned_tweet_id": "2090537223842304135",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1589840271860039683/1713751982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589842184215199744/UPjh9VxR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 140,
+          "like_count": 191,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 907
+        },
+        "url": "",
+        "username": "vwv_vwvi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

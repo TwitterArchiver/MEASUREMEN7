@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087548810600014102",
+    "created_at": "2026-08-12T15:08:21.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T16:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087556801479000109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1789274001958981632",
+          "start": 0,
+          "username": "_Goufan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087556801479000109",
+    "in_reply_to_user_id": "1789274001958981632",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087548810600014102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Goufan_ awmc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17000,
+        "height": 1280,
+        "media_key": "13_2087548740186079232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087548740186079232/img/1UpfAVm2vVVH9rRC.jpg",
+        "public_metrics": {
+          "view_count": 14
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087548740186079232/vid/avc1/320x604/JphxQap5kkBEmz0v.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087548740186079232/vid/avc1/480x908/S45Xwzj1wKg62bEx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087548740186079232/vid/avc1/676x1280/ipKkigy5WrvfAged.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087548740186079232/pl/0kV1GuJD-WwZq7_T.m3u8"
+          }
+        ],
+        "width": 676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087548810600014102",
+        "created_at": "2026-08-12T15:08:21.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087556801479000109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1789274001958981632",
+              "start": 0,
+              "username": "_Goufan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087556801479000109",
+        "in_reply_to_user_id": "1789274001958981632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087548810600014102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Goufan_ awmc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087548740186079232"
+          ]
+        },
+        "author_id": "1789274001958981632",
+        "conversation_id": "2087548810600014102",
+        "created_at": "2026-08-12T14:36:35.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087548810600014102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sS12FvdySE",
+              "end": 27,
+              "expanded_url": "https://x.com/_Goufan_/status/2087548810600014102/video/1",
+              "media_key": "13_2087548740186079232",
+              "start": 4,
+              "url": "https://t.co/sS12FvdySE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087548810600014102",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087548740186079232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唐完了 https://t.co/sS12FvdySE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087556801479000109",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 245,
+          "like_count": 31144,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 6567
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-11T12:39:22.000Z",
+        "description": "一帆风顺",
+        "id": "1789274001958981632",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2087548810600014102",
+        "name": "GOUFAN狗饭🐶",
+        "pinned_tweet_id": "1898403378411233662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1789274001958981632/1751572959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053751215737942016/2OOyGFrd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 38,
+          "like_count": 1037,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 947
+        },
+        "url": "",
+        "username": "_Goufan_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

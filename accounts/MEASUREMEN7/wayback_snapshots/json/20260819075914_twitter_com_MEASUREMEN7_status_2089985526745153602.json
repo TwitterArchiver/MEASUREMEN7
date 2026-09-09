@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089985519728074752"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2089985526745153602",
+    "created_at": "2026-08-19T07:59:14.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089985526745153602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fKaPhuSG4g",
+          "end": 26,
+          "expanded_url": "https://x.com/MEASUREMEN7/status/2089985526745153602/photo/1",
+          "media_key": "3_2089985519728074752",
+          "start": 3,
+          "url": "https://t.co/fKaPhuSG4g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089985526745153602",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2089985519728074752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好吃 https://t.co/fKaPhuSG4g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089985519728074752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEewckaIAA7Flk.jpg",
+        "width": 1848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089985519728074752"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2089985526745153602",
+        "created_at": "2026-08-19T07:59:14.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089985526745153602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fKaPhuSG4g",
+              "end": 26,
+              "expanded_url": "https://x.com/MEASUREMEN7/status/2089985526745153602/photo/1",
+              "media_key": "3_2089985519728074752",
+              "start": 3,
+              "url": "https://t.co/fKaPhuSG4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089985526745153602",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089985519728074752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吃 https://t.co/fKaPhuSG4g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089985526745153602",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 270,
+          "like_count": 33940,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 7415
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

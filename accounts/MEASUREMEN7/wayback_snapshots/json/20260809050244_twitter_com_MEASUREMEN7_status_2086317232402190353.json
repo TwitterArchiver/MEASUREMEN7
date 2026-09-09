@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086316710056047036",
+    "created_at": "2026-08-09T05:02:44.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T06:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086317232402190353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1899976477396918272",
+          "start": 0,
+          "username": "Qiniansea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086317232402190353",
+    "in_reply_to_user_id": "1899976477396918272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086316710056047036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiniansea 看的我的牙幻痛了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086316710056047036",
+        "created_at": "2026-08-09T05:02:44.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086317232402190353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1899976477396918272",
+              "start": 0,
+              "username": "Qiniansea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086317232402190353",
+        "in_reply_to_user_id": "1899976477396918272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086316710056047036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiniansea 看的我的牙幻痛了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899976477396918272",
+        "conversation_id": "2086316710056047036",
+        "created_at": "2026-08-09T05:00:40.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086316710056047036"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086316710056047036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天睡得算早的 但是大半夜我的牙疯狂长出血肉疼得我要死 也不知道是因为智齿还是怎样 找个时间还是去看牙医吧哎"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086317232402190353",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 219,
+          "like_count": 29683,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 6118
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-13T00:11:42.000Z",
+        "description": "能看到你穿下个季节的衣服就好｜匿名提问https://t.co/u88wDW50hU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qiniansea1",
+                "end": 42,
+                "expanded_url": "https://ngl.link/qiniansea1",
+                "start": 19,
+                "url": "https://t.co/u88wDW50hU"
+              }
+            ]
+          }
+        },
+        "id": "1899976477396918272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086316885738684553",
+        "name": "萌狗痣",
+        "pinned_tweet_id": "2085738242339738037",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1899976477396918272/1785753391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084226854970683392/0pD1Vqoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 128,
+          "like_count": 35548,
+          "listed_count": 1,
+          "media_count": 476,
+          "tweet_count": 7398
+        },
+        "url": "",
+        "username": "Qiniansea",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

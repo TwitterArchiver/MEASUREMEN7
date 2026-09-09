@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089535918973804748",
+    "created_at": "2026-08-18T02:12:39.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T03:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089535918973804748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1390577251821965315",
+          "start": 3,
+          "username": "90809879_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089535918973804748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089524596114682117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @90809879_: 古代书生最性压抑了，学疯了就意淫点狐狸精老婆哄自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089535918973804748",
+        "created_at": "2026-08-18T02:12:39.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089535918973804748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1390577251821965315",
+              "start": 3,
+              "username": "90809879_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089535918973804748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089524596114682117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @90809879_: 古代书生最性压抑了，学疯了就意淫点狐狸精老婆哄自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390577251821965315",
+        "conversation_id": "2089524596114682117",
+        "created_at": "2026-08-18T01:27:39.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T02:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089524596114682117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089524596114682117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "古代书生最性压抑了，学疯了就意淫点狐狸精老婆哄自己"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089535918973804748",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 260,
+          "like_count": 32959,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 7116
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-07T08:00:37.000Z",
+        "description": "写日记时也会撒谎",
+        "id": "1390577251821965315",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089534688562209114",
+        "name": "Annie's тоска",
+        "pinned_tweet_id": "1672991424860807168",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1390577251821965315/1695178430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073002029761658881/z_9wyO-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 123,
+          "like_count": 204,
+          "listed_count": 1,
+          "media_count": 1384,
+          "tweet_count": 14414
+        },
+        "url": "",
+        "username": "90809879_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

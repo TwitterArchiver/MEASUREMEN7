@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087532913298645032",
+    "created_at": "2026-08-12T14:12:46.000Z",
+    "display_text_range": [
+      14,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087542814532063341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743280825247170560",
+          "start": 0,
+          "username": "sleepwell_3_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087542814532063341",
+    "in_reply_to_user_id": "1743280825247170560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087532913298645032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sleepwell_3_ 能够接纳的才能长久，一时的激情连冷静期都过不去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087532913298645032",
+        "created_at": "2026-08-12T14:12:46.000Z",
+        "display_text_range": [
+          14,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087542814532063341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743280825247170560",
+              "start": 0,
+              "username": "sleepwell_3_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087542814532063341",
+        "in_reply_to_user_id": "1743280825247170560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087532913298645032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sleepwell_3_ 能够接纳的才能长久，一时的激情连冷静期都过不去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743280825247170560",
+        "conversation_id": "2087532913298645032",
+        "created_at": "2026-08-12T13:33:25.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087532913298645032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087532913298645032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能长期稳定维持下去的关系不是靠很强烈的爱，很大量的付出，而是很少的攻击，很少的对抗，很少的强人所难，很多的接纳和允许。爱是如你所是，而非如我所愿。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087542814532063341",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 244,
+          "like_count": 31125,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 6559
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-05T14:38:41.000Z",
+        "description": "终其一生寻找那颗偏向你的心 不是早就长在你的胸腔里了吗。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/happyzuihao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/happyzuihao",
+                "start": 0,
+                "url": "https://t.co/fiiMCoyG1v"
+              }
+            ]
+          }
+        },
+        "id": "1743280825247170560",
+        "is_identity_verified": false,
+        "location": "日記本📓",
+        "most_recent_tweet_id": "2087540836313739340",
+        "name": "電子貓会遇见仿生小狗吗",
+        "pinned_tweet_id": "2086148539814744188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1743280825247170560/1758119294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064625191888760832/1XEn1BnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 20,
+          "like_count": 446,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 457
+        },
+        "url": "https://t.co/fiiMCoyG1v",
+        "username": "sleepwell_3_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

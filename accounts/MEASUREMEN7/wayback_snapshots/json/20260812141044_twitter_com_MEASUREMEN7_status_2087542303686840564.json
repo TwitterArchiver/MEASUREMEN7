@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087520950673871003",
+    "created_at": "2026-08-12T14:10:44.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087542303686840564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1438420916518539267",
+          "start": 0,
+          "username": "200x0x1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087542303686840564",
+    "in_reply_to_user_id": "1438420916518539267",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087520950673871003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@200x0x1x 笑死我了😆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1526,
+        "media_key": "3_2087520941710737408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhdPH_bgAAiNXq.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087520950673871003",
+        "created_at": "2026-08-12T14:10:44.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087542303686840564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087542303686840564",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087520950673871003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 笑死我了😆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087520941710737408"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2087520950673871003",
+        "created_at": "2026-08-12T12:45:53.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087520950673871003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bSwPsmGOcf",
+              "end": 30,
+              "expanded_url": "https://x.com/200x0x1x/status/2087520950673871003/photo/1",
+              "media_key": "3_2087520941710737408",
+              "start": 7,
+              "url": "https://t.co/bSwPsmGOcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087520950673871003",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087520941710737408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你赢了逆天。 https://t.co/bSwPsmGOcf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087542303686840564",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 244,
+          "like_count": 31123,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 6556
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧。🚪50纯绿看我发电",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUPL07"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "is_identity_verified": false,
+        "location": "UChicago",
+        "most_recent_tweet_id": "2087524767146684897",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1438420916518539267/1781583624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087373765953064960/RAGLQKKU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 683,
+          "like_count": 29099,
+          "listed_count": 9,
+          "media_count": 2554,
+          "tweet_count": 28178
+        },
+        "url": "https://t.co/OblpvUPL07",
+        "username": "200x0x1x",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

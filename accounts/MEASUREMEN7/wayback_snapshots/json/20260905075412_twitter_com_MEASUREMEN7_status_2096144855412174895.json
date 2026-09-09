@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2096040224484888885",
+    "created_at": "2026-09-05T07:54:12.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T08:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096144855412174895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053112758531715072",
+          "start": 0,
+          "username": "Nevado_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096144855412174895",
+    "in_reply_to_user_id": "2053112758531715072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096040224484888885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nevado_snow 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2096040224484888885",
+        "created_at": "2026-09-05T07:54:12.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096144855412174895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053112758531715072",
+              "start": 0,
+              "username": "Nevado_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096144855412174895",
+        "in_reply_to_user_id": "2053112758531715072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096040224484888885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nevado_snow 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053112758531715072",
+        "conversation_id": "2096040224484888885",
+        "created_at": "2026-09-05T00:58:26.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T01:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096040224484888885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nevado_snow/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/nevado_snow/status/2095879471366918425",
+              "start": 19,
+              "url": "https://t.co/JjHURzDCMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096040224484888885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095879471366918425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是真的吗有人实践过吗我真的很好奇啊！ https://t.co/JjHURzDCMT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2096144855412174895",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 286,
+          "like_count": 38840,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 8551
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T14:02:08.000Z",
+        "description": "如果哪天我沓無音訊",
+        "id": "2053112758531715072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096130717654900973",
+        "name": "Nevado",
+        "pinned_tweet_id": "2089292340527784143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053112758531715072/1778510723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065997076903927808/seoscLhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 64,
+          "like_count": 14092,
+          "listed_count": 0,
+          "media_count": 822,
+          "tweet_count": 4271
+        },
+        "url": "",
+        "username": "Nevado_snow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

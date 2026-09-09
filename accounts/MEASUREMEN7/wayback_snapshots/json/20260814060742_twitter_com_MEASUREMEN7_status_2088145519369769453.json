@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087856683691503706",
+    "created_at": "2026-08-14T06:07:42.000Z",
+    "display_text_range": [
+      16,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T07:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088145519369769453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081489262982377472",
+          "start": 0,
+          "username": "kamizakajuukou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088145519369769453",
+    "in_reply_to_user_id": "2081489262982377472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088143337014575270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kamizakajuukou 诶，那感觉其实和咖啡有点像呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087856683691503706",
+        "created_at": "2026-08-14T06:07:42.000Z",
+        "display_text_range": [
+          16,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088145519369769453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081489262982377472",
+              "start": 0,
+              "username": "kamizakajuukou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088145519369769453",
+        "in_reply_to_user_id": "2081489262982377472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088143337014575270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kamizakajuukou 诶，那感觉其实和咖啡有点像呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081489262982377472",
+        "conversation_id": "2087856683691503706",
+        "created_at": "2026-08-14T05:59:02.000Z",
+        "display_text_range": [
+          13,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088143337014575270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088143337014575270",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088105712723558417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 有哦，就清酒而言低温会压抑酒精感与米脂味，虽然香气也会减少一些，不过整体更加干净清爽 (/^▽^)/ \n\n当然常温清酒也可以饮用啦，层次还更丰富些，不过我个人偏向冷饮( • ̀ω•́ )✧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088145519369769453",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 253,
+          "like_count": 31685,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 6712
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-26T21:23:32.000Z",
+        "description": "你好 这里是神坂重工 友跨  这里会更新些日常碎碎念 可以通过下方ngl链接随意向我提问 互fo 愿我们都得到幸福\n\n个人信息：艺术生 性别神坂重工 现居东京 祖籍杭城 重度酒精依赖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kamizakajuukou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kamizakajuukou",
+                "start": 0,
+                "url": "https://t.co/hUWSIOdhct"
+              }
+            ]
+          }
+        },
+        "id": "2081489262982377472",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2088143337014575270",
+        "name": "神坂重工",
+        "pinned_tweet_id": "2083994545038233790",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081489262982377472/1785102308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083056667034587136/ILFObDzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 259,
+          "like_count": 3035,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/hUWSIOdhct",
+        "username": "kamizakajuukou",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

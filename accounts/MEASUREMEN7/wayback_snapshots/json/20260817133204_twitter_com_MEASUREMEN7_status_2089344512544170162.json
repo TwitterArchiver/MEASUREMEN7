@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089271271318020482",
+    "created_at": "2026-08-17T13:32:04.000Z",
+    "display_text_range": [
+      11,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T14:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089344512544170162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1111173320",
+          "start": 0,
+          "username": "silaben1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089344512544170162",
+    "in_reply_to_user_id": "1111173320",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089271271318020482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silaben1x 1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 951,
+        "media_key": "3_2089271265093726208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6VJWtXsAAYRyL.jpg",
+        "width": 987
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089271271318020482",
+        "created_at": "2026-08-17T13:32:04.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089344512544170162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1111173320",
+              "start": 0,
+              "username": "silaben1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089344512544170162",
+        "in_reply_to_user_id": "1111173320",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089271271318020482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silaben1x 1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089271265093726208"
+          ]
+        },
+        "author_id": "1111173320",
+        "conversation_id": "2089271271318020482",
+        "created_at": "2026-08-17T08:41:02.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T09:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089271271318020482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BPrudO09Wc",
+              "end": 92,
+              "expanded_url": "https://x.com/silaben1x/status/2089271271318020482/photo/1",
+              "media_key": "3_2089271265093726208",
+              "start": 69,
+              "url": "https://t.co/BPrudO09Wc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089271271318020482",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "3_2089271265093726208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 11970,
+          "like_count": 289,
+          "quote_count": 6,
+          "reply_count": 254,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "Kalem kağıt kullanmadan çözebilirsen sayısal bir dehasın!\nCevap kaç? https://t.co/BPrudO09Wc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089344512544170162",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 254,
+          "like_count": 32731,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 7037
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-01-22T10:23:34.000Z",
+        "description": "ağla haline",
+        "id": "1111173320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089336664774549985",
+        "name": "Sılaben",
+        "pinned_tweet_id": "2089271271318020482",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1111173320/1701466925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931731420566654977/mnPcjQFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7636,
+          "following_count": 7613,
+          "like_count": 8246,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2522
+        },
+        "url": "",
+        "username": "silaben1x",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

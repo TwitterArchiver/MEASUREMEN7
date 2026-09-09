@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088934767706447912",
+    "created_at": "2026-08-16T10:46:08.000Z",
+    "display_text_range": [
+      15,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088940364472398091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2088447669056499712",
+          "start": 0,
+          "username": "AmeHanafogfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088940364472398091",
+    "in_reply_to_user_id": "2088447669056499712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088934767706447912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeHanafogfox 幸福是让人愚笨的毒药，但是我宁可被毒药毒死，也不想再清醒的受折磨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088934767706447912",
+        "created_at": "2026-08-16T10:46:08.000Z",
+        "display_text_range": [
+          15,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088940364472398091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2088447669056499712",
+              "start": 0,
+              "username": "AmeHanafogfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088940364472398091",
+        "in_reply_to_user_id": "2088447669056499712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088934767706447912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeHanafogfox 幸福是让人愚笨的毒药，但是我宁可被毒药毒死，也不想再清醒的受折磨了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088447669056499712",
+        "conversation_id": "2088934767706447912",
+        "created_at": "2026-08-16T10:23:53.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088934767706447912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088934767706447912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为咱的创作欲望大部分都来自无法掀起风浪人生的不满\n尤其是压力爆炸的时候想写的东西会格外的多，所以七月的时候对一整个暑假的连续补课人都差点坏掉了\n不过现在时间将近，情绪稳定了很多\n拥有幸福和爱的时候反而脑袋空空，倒不是什么坏事，比起空旷的言语我更像用饱含爱意的眼回馈心爱的人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088940364472398091",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 249,
+          "like_count": 32358,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 6899
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T02:09:14.000Z",
+        "description": "阿间/雨原花咲\nftx\n重生2.0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fooogfox",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fooogfox",
+                "start": 0,
+                "url": "https://t.co/duHV2zX82H"
+              }
+            ]
+          }
+        },
+        "id": "2088447669056499712",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2088939390051746203",
+        "name": "猫不理茶茶罐头2.0",
+        "pinned_tweet_id": "2088449819673268406",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088447669056499712/1786759959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088448047927967744/C_zVguzH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 32,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/duHV2zX82H",
+        "username": "AmeHanafogfox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

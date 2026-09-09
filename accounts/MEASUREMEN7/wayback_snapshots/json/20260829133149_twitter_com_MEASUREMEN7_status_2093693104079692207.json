@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2093692361465602503",
+    "created_at": "2026-08-29T13:31:49.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T14:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093693104079692207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971182614745841666",
+          "start": 0,
+          "username": "bjsd394019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093693104079692207",
+    "in_reply_to_user_id": "1971182614745841666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093692361465602503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bjsd394019 我还是会恶心对方太没有边界感了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2093692361465602503",
+        "created_at": "2026-08-29T13:31:49.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T14:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093693104079692207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971182614745841666",
+              "start": 0,
+              "username": "bjsd394019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093693104079692207",
+        "in_reply_to_user_id": "1971182614745841666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093692361465602503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bjsd394019 我还是会恶心对方太没有边界感了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971182614745841666",
+        "conversation_id": "2093692361465602503",
+        "created_at": "2026-08-29T13:28:52.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T14:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093692361465602503"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093692361465602503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真心询问所有求偶欲望很强烈的人（性压抑滚这里只采访爱压抑）当对方突然开始做一些很邋遢败坏形象并且冒犯到你了的事并和你说只有在亲密的人面前才会这样做的时候你是会庆幸她终于把你当成知己了还是嫌恶她太没边界感？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2093693104079692207",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 286,
+          "like_count": 37528,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 8291
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T11:59:19.000Z",
+        "description": "独り言、いいものですね。",
+        "id": "1971182614745841666",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093692361465602503",
+        "name": "すみません",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971182614745841666/1762342253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084012084304752640/FzNM53lR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 62,
+          "like_count": 2042,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "bjsd394019",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

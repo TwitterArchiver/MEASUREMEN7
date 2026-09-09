@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086981065277866373",
+    "created_at": "2026-08-11T05:56:02.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T06:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087055420590583923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1755494652889661440",
+          "start": 0,
+          "username": "Victor_zhang233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087055420590583923",
+    "in_reply_to_user_id": "1755494652889661440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086981065277866373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Victor_zhang233 还是说的太文明了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086981065277866373",
+        "created_at": "2026-08-11T05:56:02.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087055420590583923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087055420590583923",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086981065277866373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 还是说的太文明了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2086981065277866373",
+        "created_at": "2026-08-11T01:00:34.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086981065277866373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuanxx1y/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/yuanxx1y/status/2086826476075405477",
+              "start": 18,
+              "url": "https://t.co/87TIAhJIUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086981065277866373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086826476075405477",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个帖主和所有支持他的人都死麻麻了 https://t.co/87TIAhJIUN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087055420590583923",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 243,
+          "like_count": 30568,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 6370
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "is_identity_verified": false,
+        "location": "在人间，在地狱",
+        "most_recent_tweet_id": "2087053825446477832",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755494652889661440/1782484842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 522,
+          "like_count": 12145,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 2741
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086430018436039142",
+    "created_at": "2026-08-09T13:02:58.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T14:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086438087559991508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1433641356",
+          "start": 0,
+          "username": "sakiiloveyouqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086438087559991508",
+    "in_reply_to_user_id": "1433641356",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086430018436039142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakiiloveyouqwq 晚安幻觉也多吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086430018436039142",
+        "created_at": "2026-08-09T13:02:58.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086438087559991508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1433641356",
+              "start": 0,
+              "username": "sakiiloveyouqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086438087559991508",
+        "in_reply_to_user_id": "1433641356",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086430018436039142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakiiloveyouqwq 晚安幻觉也多吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433641356",
+        "conversation_id": "2086430018436039142",
+        "created_at": "2026-08-09T12:30:55.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086430018436039142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086430018436039142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我再也不吃晚安了，好恶心一点欣快感都没有，就只是晕"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086438087559991508",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 224,
+          "like_count": 29855,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 6178
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-05-16T17:56:27.000Z",
+        "description": "你好这里saki |重焦重抑|餐劵|地雷女|\n最重要的…药药|小号备用@Ankoqwqaaa\n喜欢的会互fo，欢迎私信闲聊\n🚪52/88 口令红包+姓/赞赏码\n想要更多朋友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "Ankoqwqaaa"
+              }
+            ]
+          }
+        },
+        "id": "1433641356",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2086430018436039142",
+        "name": "saki",
+        "pinned_tweet_id": "2084734812410229049",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1433641356/1781512691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066439581046882304/hc31jOTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 109,
+          "like_count": 561,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 345
+        },
+        "url": "",
+        "username": "sakiiloveyouqwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2092983891338617281",
+    "created_at": "2026-08-27T15:02:53.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T16:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092991247380365424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1830165581800390656",
+          "start": 0,
+          "username": "TTYYqwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092991247380365424",
+    "in_reply_to_user_id": "1830165581800390656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092983891338617281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTYYqwe 有的啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2092983891338617281",
+        "created_at": "2026-08-27T15:02:53.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092991247380365424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1830165581800390656",
+              "start": 0,
+              "username": "TTYYqwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092991247380365424",
+        "in_reply_to_user_id": "1830165581800390656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092983891338617281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTYYqwe 有的啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830165581800390656",
+        "conversation_id": "2092983891338617281",
+        "created_at": "2026-08-27T14:33:40.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092983891338617281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092983891338617281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉都没人愿意鸟我了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2092991247380365424",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 292,
+          "like_count": 36887,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 8167
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-01T08:47:40.000Z",
+        "description": "叫我32\n非典型顺直女 @839265qwr 防走丢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "839265qwr"
+              }
+            ]
+          }
+        },
+        "id": "1830165581800390656",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2092984300220363014",
+        "name": "qWe",
+        "pinned_tweet_id": "2092107293076943195",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830165581800390656/1786040448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085430857674919937/EnuwdBND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 190,
+          "like_count": 1462,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 3191
+        },
+        "url": "",
+        "username": "TTYYqwe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

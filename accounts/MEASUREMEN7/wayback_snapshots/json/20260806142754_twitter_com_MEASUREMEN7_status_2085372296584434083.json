@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2085054742049529874",
+    "created_at": "2026-08-06T14:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T15:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085372296584434083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2032744913981550595",
+          "start": 0,
+          "username": "yuyu177570"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085372296584434083",
+    "in_reply_to_user_id": "2032744913981550595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085370378730565846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyu177570 再也不搭理门槛姐了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2085054742049529874",
+        "created_at": "2026-08-06T14:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085372296584434083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2032744913981550595",
+              "start": 0,
+              "username": "yuyu177570"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085372296584434083",
+        "in_reply_to_user_id": "2032744913981550595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085370378730565846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyu177570 再也不搭理门槛姐了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032744913981550595",
+        "conversation_id": "2085054742049529874",
+        "created_at": "2026-08-06T14:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085370378730565846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085370378730565846",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085054742049529874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 我不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 201,
+          "like_count": 29388,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 5931
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T09:06:30.000Z",
+        "description": "喜欢就投喂呀谢谢支持",
+        "id": "2032744913981550595",
+        "name": "ゆゆ",
+        "pinned_tweet_id": "2047634407608250551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078761724728287232/lzu954ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 390,
+          "like_count": 2395,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "yuyu177570",
+        "verified": false
+      }
+    ]
+  }
+}

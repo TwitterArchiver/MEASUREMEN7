@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2091646448513212614",
+    "created_at": "2026-08-24T02:44:35.000Z",
+    "display_text_range": [
+      10,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T03:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091718281514373346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2071687393888112640",
+          "start": 0,
+          "username": "Yuu0v0yy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091718281514373346",
+    "in_reply_to_user_id": "2071687393888112640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091646448513212614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuu0v0yy 这种人好烦啊，看着就想打一顿了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091646431446630400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQcFWO4XAAAZ9UV.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091646431463432192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQcFWO8XYAA8BI0.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091646431455035393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQcFWO6XQAEMnMt.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091646431492771840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQcFWPDXEAA7eJR.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2091646448513212614",
+        "created_at": "2026-08-24T02:44:35.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T03:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091718281514373346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2071687393888112640",
+              "start": 0,
+              "username": "Yuu0v0yy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091718281514373346",
+        "in_reply_to_user_id": "2071687393888112640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091646448513212614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuu0v0yy 这种人好烦啊，看着就想打一顿了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091646431446630400",
+            "3_2091646431463432192",
+            "3_2091646431455035393",
+            "3_2091646431492771840"
+          ]
+        },
+        "author_id": "2071687393888112640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091646448513212614",
+        "created_at": "2026-08-23T21:59:08.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T22:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091646448513212614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CgYbYWUc0h",
+              "end": 138,
+              "expanded_url": "https://x.com/Yuu0v0yy/status/2091646448513212614/photo/1",
+              "media_key": "3_2091646431446630400",
+              "start": 115,
+              "url": "https://t.co/CgYbYWUc0h"
+            },
+            {
+              "display_url": "pic.x.com/CgYbYWUc0h",
+              "end": 138,
+              "expanded_url": "https://x.com/Yuu0v0yy/status/2091646448513212614/photo/1",
+              "media_key": "3_2091646431463432192",
+              "start": 115,
+              "url": "https://t.co/CgYbYWUc0h"
+            },
+            {
+              "display_url": "pic.x.com/CgYbYWUc0h",
+              "end": 138,
+              "expanded_url": "https://x.com/Yuu0v0yy/status/2091646448513212614/photo/1",
+              "media_key": "3_2091646431455035393",
+              "start": 115,
+              "url": "https://t.co/CgYbYWUc0h"
+            },
+            {
+              "display_url": "pic.x.com/CgYbYWUc0h",
+              "end": 138,
+              "expanded_url": "https://x.com/Yuu0v0yy/status/2091646448513212614/photo/1",
+              "media_key": "3_2091646431492771840",
+              "start": 115,
+              "url": "https://t.co/CgYbYWUc0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091646448513212614",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091646431446630400"
+          },
+          {
+            "media_key": "3_2091646431463432192"
+          },
+          {
+            "media_key": "3_2091646431455035393"
+          },
+          {
+            "media_key": "3_2091646431492771840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我设置了不熟的人的门槛，防止这种傻狗，喵的我和你很熟吗，给我上辈子都快盒出来了，还有很多放不出来主要是问我私生活，一提🚪就单删跑路了，这很恐怖，所以感谢理解，不过大家还是可以在推上和我聊天，如果你和我比较聊得投机我会主动加你的喵 https://t.co/CgYbYWUc0h"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2091718281514373346",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 288,
+          "like_count": 35796,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 7947
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-29T20:10:04.000Z",
+        "description": "不参与任何争论\n陌生人🚪15\n叫我优优就好 互fo会查成分\n⚡️🚬有售卖 欢迎询问（不是上头的\n另一个我@Yuu0v0rr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Yuu0v0rr"
+              }
+            ]
+          }
+        },
+        "id": "2071687393888112640",
+        "is_identity_verified": false,
+        "location": "天空",
+        "most_recent_tweet_id": "2091653053351186584",
+        "name": "優しい風と優しい陽光",
+        "pinned_tweet_id": "2089404300740989046",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071687393888112640/1787499360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091549974383173633/ZdJwK4ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 199,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 256
+        },
+        "url": "",
+        "username": "Yuu0v0yy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

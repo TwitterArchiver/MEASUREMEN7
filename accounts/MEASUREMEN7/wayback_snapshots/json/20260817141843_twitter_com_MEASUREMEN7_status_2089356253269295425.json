@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089314635929567645",
+    "created_at": "2026-08-17T14:18:43.000Z",
+    "display_text_range": [
+      17,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T15:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089356253269295425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2083759498066534400",
+          "start": 0,
+          "username": "Ririnkachan0808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089356253269295425",
+    "in_reply_to_user_id": "2083759498066534400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089314635929567645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ririnkachan0808 收到老大，正在ngl轰炸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089314635929567645",
+        "created_at": "2026-08-17T14:18:43.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089356253269295425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2083759498066534400",
+              "start": 0,
+              "username": "Ririnkachan0808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089356253269295425",
+        "in_reply_to_user_id": "2083759498066534400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089314635929567645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ririnkachan0808 收到老大，正在ngl轰炸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083759498066534400",
+        "conversation_id": "2089314635929567645",
+        "created_at": "2026-08-17T11:33:21.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T12:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089314635929567645"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089314635929567645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要一万条ngl消息😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089356253269295425",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 255,
+          "like_count": 32736,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 7048
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T04:07:21.000Z",
+        "description": "🩷🎀💞\n家有幼女鬼一只",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@leyochanririr…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@leyochanririri0808?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 0,
+                "url": "https://t.co/RHAxmjevqz"
+              }
+            ]
+          }
+        },
+        "id": "2083759498066534400",
+        "is_identity_verified": false,
+        "location": "某个醉鬼的酒壶",
+        "most_recent_tweet_id": "2089337783168987441",
+        "name": "Ririnkadesuyo",
+        "pinned_tweet_id": "2088315426665107766",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083759498066534400/1786194139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086393771910942720/E8Telu_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 318,
+          "like_count": 920,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 1038
+        },
+        "url": "https://t.co/RHAxmjevqz",
+        "username": "Ririnkachan0808",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

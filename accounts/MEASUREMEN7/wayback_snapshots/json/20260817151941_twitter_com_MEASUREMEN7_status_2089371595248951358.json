@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089370905956729131",
+    "created_at": "2026-08-17T15:19:41.000Z",
+    "display_text_range": [
+      15,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T16:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089371595248951358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1967524887418810368",
+          "start": 0,
+          "username": "jinjin1076120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089371595248951358",
+    "in_reply_to_user_id": "1967524887418810368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089370905956729131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinjin1076120 同求氯雷他定，我现在真的过敏忘记带药了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1866,
+        "media_key": "3_2089370884964274176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7vv_pW0AAhYcE.jpg",
+        "width": 1438
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089370884842594304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7vv_MWIAAQ_4R.jpg",
+        "width": 1426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089370905956729131",
+        "created_at": "2026-08-17T15:19:41.000Z",
+        "display_text_range": [
+          15,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089371595248951358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967524887418810368",
+              "start": 0,
+              "username": "jinjin1076120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089371595248951358",
+        "in_reply_to_user_id": "1967524887418810368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089370905956729131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinjin1076120 同求氯雷他定，我现在真的过敏忘记带药了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089370884964274176",
+            "3_2089370884842594304"
+          ]
+        },
+        "author_id": "1967524887418810368",
+        "conversation_id": "2089370905956729131",
+        "created_at": "2026-08-17T15:16:57.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089370905956729131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dYrSUk7Cdh",
+              "end": 56,
+              "expanded_url": "https://x.com/jinjin1076120/status/2089370905956729131/photo/1",
+              "media_key": "3_2089370884964274176",
+              "start": 33,
+              "url": "https://t.co/dYrSUk7Cdh"
+            },
+            {
+              "display_url": "pic.x.com/dYrSUk7Cdh",
+              "end": 56,
+              "expanded_url": "https://x.com/jinjin1076120/status/2089370905956729131/photo/1",
+              "media_key": "3_2089370884842594304",
+              "start": 33,
+              "url": "https://t.co/dYrSUk7Cdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089370905956729131",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089370884964274176"
+          },
+          {
+            "media_key": "3_2089370884842594304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁花158给我买一盒氯雷他定，我感觉我有点过敏了。。。。数学过敏 https://t.co/dYrSUk7Cdh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089371595248951358",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 255,
+          "like_count": 32768,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 7064
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-15T09:44:36.000Z",
+        "description": "",
+        "id": "1967524887418810368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089370905956729131",
+        "name": "我好难过呀",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084365278989721600/XRMhUFk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 89,
+          "like_count": 859,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "jinjin1076120",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

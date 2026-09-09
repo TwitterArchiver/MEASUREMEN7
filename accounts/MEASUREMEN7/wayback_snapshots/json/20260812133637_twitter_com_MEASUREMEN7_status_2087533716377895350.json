@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087532892524298737",
+    "created_at": "2026-08-12T13:36:37.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087533716377895350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2070598021617008640",
+          "start": 0,
+          "username": "jiujin8848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087533716377895350",
+    "in_reply_to_user_id": "2070598021617008640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087532892524298737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiujin8848 一股中味的健全b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087532892524298737",
+        "created_at": "2026-08-12T13:36:37.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087533716377895350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2070598021617008640",
+              "start": 0,
+              "username": "jiujin8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087533716377895350",
+        "in_reply_to_user_id": "2070598021617008640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087532892524298737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiujin8848 一股中味的健全b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070598021617008640",
+        "conversation_id": "2087532892524298737",
+        "created_at": "2026-08-12T13:33:20.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087532892524298737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087532892524298737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我班里婊子还是很奇葩的 当时处于闹别扭的状态 当时心情很不好在宿舍说了句我想捅死我自己 结果第一天她把她妈喊来了。我解释了半天我说的我自己 还是我所有舍友来帮我解释 吗的她妈和她姨在办公室嘲讽我有抑郁症 心理不健康 说我赶紧让我妈带我去治治"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087533716377895350",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 244,
+          "like_count": 31101,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 6548
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T20:01:08.000Z",
+        "description": "碎碎念｜直fo就是喜欢你\n前世@Xxkg3g 互fo回家….",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "Xxkg3g"
+              }
+            ]
+          }
+        },
+        "id": "2070598021617008640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087533567098466780",
+        "name": "灸（二代转世）",
+        "pinned_tweet_id": "2086783290300907643",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070598021617008640/1785462908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086406267845951488/FDx_kg3I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 60,
+          "like_count": 30,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "jiujin8848",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

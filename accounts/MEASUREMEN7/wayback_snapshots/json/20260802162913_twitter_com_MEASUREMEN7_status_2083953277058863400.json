@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2083945395626115366",
+    "created_at": "2026-08-02T16:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083953277058863400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1920537994605551617",
+          "start": 0,
+          "username": "XwX777Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083953277058863400",
+    "in_reply_to_user_id": "1920537994605551617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083945395626115366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XwX777Yuki ok崩好萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083945380908290048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOupSGBa0AArzf-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2083945395626115366",
+        "created_at": "2026-08-02T16:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083953277058863400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920537994605551617",
+              "start": 0,
+              "username": "XwX777Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083953277058863400",
+        "in_reply_to_user_id": "1920537994605551617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083945395626115366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XwX777Yuki ok崩好萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083945380908290048"
+          ]
+        },
+        "author_id": "1920537994605551617",
+        "conversation_id": "2083945395626115366",
+        "created_at": "2026-08-02T15:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083945395626115366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JE9Utkrkhk",
+              "end": 27,
+              "expanded_url": "https://x.com/XwX777Yuki/status/2083945395626115366/photo/1",
+              "media_key": "3_2083945380908290048",
+              "start": 4,
+              "url": "https://t.co/JE9Utkrkhk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083945395626115366",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⦁⩊⦁ https://t.co/JE9Utkrkhk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 195,
+          "like_count": 28342,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 5648
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T17:55:37.000Z",
+        "description": "",
+        "id": "1920537994605551617",
+        "location": "奈落",
+        "name": "OK绷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963746294184505344/PgUUVHMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 74,
+          "like_count": 837,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "XwX777Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

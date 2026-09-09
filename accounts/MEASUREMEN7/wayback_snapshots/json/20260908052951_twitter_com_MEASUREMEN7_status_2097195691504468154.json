@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2097119004586635420",
+    "created_at": "2026-09-08T05:29:51.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097195691504468154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1865081933027512324",
+          "start": 0,
+          "username": "HsyhO0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097195691504468154",
+    "in_reply_to_user_id": "1865081933027512324",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097119004586635420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HsyhO0 好萌的咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13799,
+        "height": 1280,
+        "media_key": "7_2097118968507142145",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2097118968507142145/pu/img/9_1p3rFBp2BieFmi.jpg",
+        "public_metrics": {
+          "view_count": 178
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2097118968507142145/pu/vid/avc1/320x568/wEWf6b3thBDWKMTP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2097118968507142145/pu/vid/avc1/480x852/oNbJ-JH1p8KVovTw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2097118968507142145/pu/vid/avc1/720x1280/Jc8iYYBWG5Ze8cpC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2097118968507142145/pu/pl/3uZ2_te4DxW5Zgn0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2097119004586635420",
+        "created_at": "2026-09-08T05:29:51.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097195691504468154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1865081933027512324",
+              "start": 0,
+              "username": "HsyhO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097195691504468154",
+        "in_reply_to_user_id": "1865081933027512324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097119004586635420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HsyhO0 好萌的咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2097118968507142145"
+          ]
+        },
+        "author_id": "1865081933027512324",
+        "conversation_id": "2097119004586635420",
+        "created_at": "2026-09-08T00:25:07.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T01:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097119004586635420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AfBlfqhp9J",
+              "end": 31,
+              "expanded_url": "https://x.com/HsyhO0/status/2097119004586635420/video/1",
+              "media_key": "7_2097118968507142145",
+              "start": 8,
+              "url": "https://t.co/AfBlfqhp9J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097119004586635420",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_2097118968507142145"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 444,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫学长私闯女寝 https://t.co/AfBlfqhp9J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2097195691504468154",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 290,
+          "like_count": 39280,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 8661
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-06T17:12:49.000Z",
+        "description": "07/病み垢/双相/精分/分离转换障碍/infj/osdd1b\n🚪50",
+        "id": "1865081933027512324",
+        "is_identity_verified": false,
+        "location": "暗い小さな部屋",
+        "most_recent_tweet_id": "2097119879648477344",
+        "name": "氷室 リリカ",
+        "pinned_tweet_id": "2067268345783857180",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1865081933027512324/1787653290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092195661693468672/m81tbdpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 217,
+          "like_count": 16456,
+          "listed_count": 1,
+          "media_count": 549,
+          "tweet_count": 2137
+        },
+        "url": "",
+        "username": "HsyhO0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

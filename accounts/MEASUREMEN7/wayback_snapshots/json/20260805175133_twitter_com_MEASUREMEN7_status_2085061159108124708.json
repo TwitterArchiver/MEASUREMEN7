@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2085060190546854398",
+    "created_at": "2026-08-05T17:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T18:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085061159108124708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2077517932532527104",
+          "start": 0,
+          "username": "_zz_h_dd_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085061159108124708",
+    "in_reply_to_user_id": "2077517932532527104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085060190546854398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_zz_h_dd_ 滴下来的几滴是点睛之笔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1574,
+        "media_key": "3_2085060185232748544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-fMPwbsAAWYHi.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2085060190546854398",
+        "created_at": "2026-08-05T17:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085061159108124708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2077517932532527104",
+              "start": 0,
+              "username": "_zz_h_dd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085061159108124708",
+        "in_reply_to_user_id": "2077517932532527104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085060190546854398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_zz_h_dd_ 滴下来的几滴是点睛之笔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085060185232748544"
+          ]
+        },
+        "author_id": "2077517932532527104",
+        "conversation_id": "2085060190546854398",
+        "created_at": "2026-08-05T17:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085060190546854398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjgzQVZydA",
+              "end": 28,
+              "expanded_url": "https://x.com/_zz_h_dd_/status/2085060190546854398/photo/1",
+              "media_key": "3_2085060185232748544",
+              "start": 5,
+              "url": "https://t.co/bjgzQVZydA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085060190546854398",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸡你太美 https://t.co/bjgzQVZydA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 197,
+          "like_count": 29076,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 5849
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | PKD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺 | 几乎无雷 | 不擅长聊天见谅 | 上学中 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LVJN"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2084355751766863931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 116,
+          "like_count": 934,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/vWByj0LVJN",
+        "username": "_zz_h_dd_",
+        "verified": false
+      }
+    ]
+  }
+}

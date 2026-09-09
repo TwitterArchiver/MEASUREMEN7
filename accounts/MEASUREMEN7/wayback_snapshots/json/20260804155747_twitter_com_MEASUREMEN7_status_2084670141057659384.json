@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2084630404318076938",
+    "created_at": "2026-08-04T15:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T16:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084670141057659384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "882561616855810050",
+          "start": 0,
+          "username": "loveling23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084670141057659384",
+    "in_reply_to_user_id": "882561616855810050",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084630404318076938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveling23333 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2084630394717245440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4YTJUakAAo64k.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2084630404318076938",
+        "created_at": "2026-08-04T15:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084670141057659384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "882561616855810050",
+              "start": 0,
+              "username": "loveling23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084670141057659384",
+        "in_reply_to_user_id": "882561616855810050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084630404318076938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveling23333 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084630394717245440"
+          ]
+        },
+        "author_id": "882561616855810050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2084630404318076938",
+        "created_at": "2026-08-04T13:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084630404318076938"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 4,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 18,
+              "start": 11,
+              "tag": "ヨスガノソラ"
+            },
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "春日野穹"
+            },
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3L4PP2d71",
+              "end": 57,
+              "expanded_url": "https://x.com/loveling23333/status/2084630404318076938/photo/1",
+              "media_key": "3_2084630394717245440",
+              "start": 34,
+              "url": "https://t.co/D3L4PP2d71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084630404318076938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷脸萌\n#自撮り界隈 #ヨスガノソラ\n#春日野穹 #cosplay https://t.co/D3L4PP2d71"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 191,
+          "like_count": 28775,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 5772
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-05T11:27:41.000Z",
+        "description": "距离奇迹降临还有__天",
+        "id": "882561616855810050",
+        "location": "🚪88/188/288/520/1314 问坐标20r",
+        "name": "akane",
+        "pinned_tweet_id": "2083090248016580918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084663139749302273/q6e7R9Wj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 7,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "loveling23333",
+        "verified": false
+      }
+    ]
+  }
+}

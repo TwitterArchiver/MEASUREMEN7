@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090353414786166971",
+    "created_at": "2026-08-21T01:55:44.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T02:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090618824852963511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2077517932532527104",
+          "start": 0,
+          "username": "_zz_h_dd_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090618824852963511",
+    "in_reply_to_user_id": "2077517932532527104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090618732867629247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_zz_h_dd_ 有缘会听到的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090353414786166971",
+        "created_at": "2026-08-21T01:55:44.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090618824852963511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2077517932532527104",
+              "start": 0,
+              "username": "_zz_h_dd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090618824852963511",
+        "in_reply_to_user_id": "2077517932532527104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090618732867629247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_zz_h_dd_ 有缘会听到的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2090353414786166971",
+        "created_at": "2026-08-21T01:55:22.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090618732867629247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090618732867629247",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090353414786166971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 好奇声音（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090618824852963511",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 287,
+          "like_count": 34817,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 7666
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n小狗：@zz_dd_zc\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "zz_dd_zc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2090618732867629247",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2087861886490652883",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 165,
+          "like_count": 1630,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1129
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087232935787401711",
+    "created_at": "2026-08-11T17:44:52.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T18:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087233802238320951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1744066021210923008",
+          "start": 0,
+          "username": "NekooOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087233802238320951",
+    "in_reply_to_user_id": "1744066021210923008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087232935787401711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekooOvO 怎么好像变憔悴了好多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_2087232877629227008",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPdXPlqbQAAPjyC.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPdXPlqbQAAPjyC.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087232935787401711",
+        "created_at": "2026-08-11T17:44:52.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087233802238320951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1744066021210923008",
+              "start": 0,
+              "username": "NekooOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087233802238320951",
+        "in_reply_to_user_id": "1744066021210923008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087232935787401711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekooOvO 怎么好像变憔悴了好多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2087232877629227008"
+          ]
+        },
+        "author_id": "1744066021210923008",
+        "conversation_id": "2087232935787401711",
+        "created_at": "2026-08-11T17:41:25.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087232935787401711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxQpMrrzjH",
+              "end": 23,
+              "expanded_url": "https://x.com/NekooOvO/status/2087232935787401711/photo/1",
+              "media_key": "16_2087232877629227008",
+              "start": 0,
+              "url": "https://t.co/YxQpMrrzjH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087232935787401711",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2087232877629227008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YxQpMrrzjH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087233802238320951",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 243,
+          "like_count": 30788,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 6432
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-07T18:38:54.000Z",
+        "description": "遗言\n第二人格@shaiwbgsuj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "shaiwbgsuj"
+              }
+            ]
+          }
+        },
+        "id": "1744066021210923008",
+        "is_identity_verified": false,
+        "location": "🪦",
+        "most_recent_tweet_id": "2087232935787401711",
+        "name": "布偶猫",
+        "pinned_tweet_id": "2069137162881335747",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1744066021210923008/1704653049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744066352577658880/_WMwe_0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 97,
+          "like_count": 3171,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1026
+        },
+        "url": "",
+        "username": "NekooOvO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

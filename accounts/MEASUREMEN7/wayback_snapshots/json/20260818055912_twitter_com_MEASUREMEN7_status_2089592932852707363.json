@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089592932852707363",
+    "created_at": "2026-08-18T05:59:12.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T06:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089592932852707363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1703762928",
+          "start": 3,
+          "username": "1965chich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089592932852707363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089557771587035626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1965chich: 同居是什么 是清晨半梦半醒间  他把你搂进怀里顺手塞好的被角  是贴在你额头上的早安吻  是一起分食一份外卖  你把里面的胡萝卜挑到他碗里  他顺手把你最爱吃的肉夹到你嘴边 是出门前换鞋的空档  他为你整理好歪掉的衣领  趁你不注意迅速凑过来偷亲一…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089592932852707363",
+        "created_at": "2026-08-18T05:59:12.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089592932852707363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1703762928",
+              "start": 3,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089592932852707363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089557771587035626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1965chich: 同居是什么 是清晨半梦半醒间  他把你搂进怀里顺手塞好的被角  是贴在你额头上的早安吻  是一起分食一份外卖  你把里面的胡萝卜挑到他碗里  他顺手把你最爱吃的肉夹到你嘴边 是出门前换鞋的空档  他为你整理好歪掉的衣领  趁你不注意迅速凑过来偷亲一…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703762928",
+        "conversation_id": "2089557771587035626",
+        "created_at": "2026-08-18T03:39:29.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089557771587035626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089557771587035626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 916,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "同居是什么 是清晨半梦半醒间  他把你搂进怀里顺手塞好的被角  是贴在你额头上的早安吻  是一起分食一份外卖  你把里面的胡萝卜挑到他碗里  他顺手把你最爱吃的肉夹到你嘴边 是出门前换鞋的空档  他为你整理好歪掉的衣领  趁你不注意迅速凑过来偷亲一口  笑得像个得逞的孩子"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089592932852707363",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 265,
+          "like_count": 33084,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 7166
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到互联网上的大王KFC的内心世界 非跨/不会尊重人的关小黑屋/敌蜜@akui1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "akui1121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://4399.com",
+                "start": 0,
+                "url": "https://t.co/pdROfRxwRx"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2089557896204100059",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1943737094880604528",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1703762928/1737315994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036915004172296192/eM928-u__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9389,
+          "following_count": 1277,
+          "like_count": 28138,
+          "listed_count": 11,
+          "media_count": 426,
+          "tweet_count": 9205
+        },
+        "url": "https://t.co/pdROfRxwRx",
+        "username": "1965chich",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

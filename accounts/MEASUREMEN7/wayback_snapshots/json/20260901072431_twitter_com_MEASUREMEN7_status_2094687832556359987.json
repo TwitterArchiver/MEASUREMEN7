@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2094193130878701568"
+      ],
+      "media_source_tweet_id": [
+        "2094193151640580286"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2094687832556359987",
+    "created_at": "2026-09-01T07:24:31.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T08:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094687832556359987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "911861630048366592",
+          "start": 3,
+          "username": "HirokoDraw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FsXoISKOY0",
+          "end": 94,
+          "expanded_url": "https://x.com/HirokoDraw/status/2094193151640580286/photo/1",
+          "media_key": "16_2094193130878701568",
+          "start": 71,
+          "url": "https://t.co/FsXoISKOY0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094687832556359987",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "16_2094193130878701568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6729
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094193151640580286",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HirokoDraw: Lo que me dan ganas de hacer cuando me duele la cabeza https://t.co/FsXoISKOY0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 230,
+        "media_key": "16_2094193130878701568",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRARjpkWkAApOLz.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRARjpkWkAApOLz.mp4"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2094193130878701568"
+          ],
+          "media_source_tweet_id": [
+            "2094193151640580286"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2094687832556359987",
+        "created_at": "2026-09-01T07:24:31.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T08:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094687832556359987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "911861630048366592",
+              "start": 3,
+              "username": "HirokoDraw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FsXoISKOY0",
+              "end": 94,
+              "expanded_url": "https://x.com/HirokoDraw/status/2094193151640580286/photo/1",
+              "media_key": "16_2094193130878701568",
+              "start": 71,
+              "url": "https://t.co/FsXoISKOY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094687832556359987",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "16_2094193130878701568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6729
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094193151640580286",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HirokoDraw: Lo que me dan ganas de hacer cuando me duele la cabeza https://t.co/FsXoISKOY0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2094193130878701568"
+          ]
+        },
+        "author_id": "911861630048366592",
+        "conversation_id": "2094193151640580286",
+        "created_at": "2026-08-30T22:38:50.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T23:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094193151640580286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FsXoISKOY0",
+              "end": 78,
+              "expanded_url": "https://x.com/HirokoDraw/status/2094193151640580286/photo/1",
+              "media_key": "16_2094193130878701568",
+              "start": 55,
+              "url": "https://t.co/FsXoISKOY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094193151640580286",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "16_2094193130878701568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5970,
+          "impression_count": 1982320,
+          "like_count": 60849,
+          "quote_count": 191,
+          "reply_count": 82,
+          "retweet_count": 6729
+        },
+        "reply_settings": "everyone",
+        "text": "Lo que me dan ganas de hacer cuando me duele la cabeza https://t.co/FsXoISKOY0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2094687832556359987",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 293,
+          "like_count": 38364,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 8447
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-24T07:55:28.000Z",
+        "description": "♠️ She/They\n💀 Never a phase \n🎨 Geek artist\n💢 Gen AI hater\n#VUELVESENDOKAI",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 58,
+                "tag": "VUELVESENDOKAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hirokoxdraw?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hirokoxdraw?igsh=MWw1cWI4cml5YTA4Nw==",
+                "start": 0,
+                "url": "https://t.co/5SmOQPmVZH"
+              }
+            ]
+          }
+        },
+        "id": "911861630048366592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094541736500498767",
+        "name": "𝐇𝐢𝐫𝐨𝐤𝐨💫",
+        "pinned_tweet_id": "2052100686146416839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/911861630048366592/1753917599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052101115391377408/YkqCkjtt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 46,
+          "like_count": 76389,
+          "listed_count": 3,
+          "media_count": 4948,
+          "tweet_count": 15932
+        },
+        "url": "https://t.co/5SmOQPmVZH",
+        "username": "HirokoDraw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

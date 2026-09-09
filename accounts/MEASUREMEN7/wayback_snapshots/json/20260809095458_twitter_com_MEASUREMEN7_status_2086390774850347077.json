@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086382560855351397",
+    "created_at": "2026-08-09T09:54:58.000Z",
+    "display_text_range": [
+      11,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T10:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086390774850347077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2085376465542238208",
+          "start": 0,
+          "username": "FreeX3333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086390774850347077",
+    "in_reply_to_user_id": "2085376465542238208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086382560855351397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeX3333 你不收盗图的收上了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086382550277316608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRR4BbaYAAwB_Q.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086382550277328898",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRR4BbakAIaL9d.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086382560855351397",
+        "created_at": "2026-08-09T09:54:58.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T10:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086390774850347077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2085376465542238208",
+              "start": 0,
+              "username": "FreeX3333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086390774850347077",
+        "in_reply_to_user_id": "2085376465542238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086382560855351397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeX3333 你不收盗图的收上了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086382550277316608",
+            "3_2086382550277328898"
+          ]
+        },
+        "author_id": "2085376465542238208",
+        "conversation_id": "2086382560855351397",
+        "created_at": "2026-08-09T09:22:20.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T10:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086382560855351397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1AyqBCGxjc",
+              "end": 38,
+              "expanded_url": "https://x.com/FreeX3333/status/2086382560855351397/photo/1",
+              "media_key": "3_2086382550277316608",
+              "start": 15,
+              "url": "https://t.co/1AyqBCGxjc"
+            },
+            {
+              "display_url": "pic.x.com/1AyqBCGxjc",
+              "end": 38,
+              "expanded_url": "https://x.com/FreeX3333/status/2086382560855351397/photo/1",
+              "media_key": "3_2086382550277328898",
+              "start": 15,
+              "url": "https://t.co/1AyqBCGxjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086382560855351397",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086382550277316608"
+          },
+          {
+            "media_key": "3_2086382550277328898"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你妈了个逼的的沙雕公狗草泥马 https://t.co/1AyqBCGxjc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086390774850347077",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 223,
+          "like_count": 29806,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 6170
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T14:45:16.000Z",
+        "description": "没事别来惹你爹",
+        "id": "2085376465542238208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086382868386009372",
+        "name": "FreeX",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085376465542238208/1786267506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086383211085742080/iQtepz8N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3091,
+          "following_count": 21,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "FreeX3333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

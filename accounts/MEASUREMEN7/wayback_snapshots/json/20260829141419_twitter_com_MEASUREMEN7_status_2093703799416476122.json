@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2093697380189458858",
+    "created_at": "2026-08-29T14:14:19.000Z",
+    "display_text_range": [
+      9,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T15:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093703799416476122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093703799416476122",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093697380189458858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 其实是说想听听你的原生家庭（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1741,
+        "media_key": "3_2093697362485182464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5OqIYaAAA83as.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2093697380189458858",
+        "created_at": "2026-08-29T14:14:19.000Z",
+        "display_text_range": [
+          9,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T15:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093703799416476122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093703799416476122",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093697380189458858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 其实是说想听听你的原生家庭（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093697362485182464"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2093697380189458858",
+        "created_at": "2026-08-29T13:48:49.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T14:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093697380189458858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L21aGBtRoI",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2093697380189458858/photo/1",
+              "media_key": "3_2093697362485182464",
+              "start": 0,
+              "url": "https://t.co/L21aGBtRoI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093697380189458858",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2093697362485182464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 571,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/L21aGBtRoI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2093703799416476122",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 286,
+          "like_count": 37543,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 8296
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2093698433945378889",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1433678976564662273/1680328005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121608,
+          "following_count": 1127,
+          "like_count": 52017,
+          "listed_count": 295,
+          "media_count": 24671,
+          "tweet_count": 35342
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

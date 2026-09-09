@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090560010656858336",
+    "created_at": "2026-08-21T02:06:06.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T03:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090621433546424461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1967524887418810368",
+          "start": 0,
+          "username": "jinjin1076120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090621433546424461",
+    "in_reply_to_user_id": "1967524887418810368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090560010656858336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinjin1076120 怡怡好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30034,
+        "height": 1280,
+        "media_key": "13_2090559941845143553",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090559941845143553/img/iO7yjOjy0orDkuTg.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090559941845143553/vid/avc1/320x568/szwpcIDUsOT82JU3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090559941845143553/vid/avc1/480x852/WHqAldpOtUROems0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090559941845143553/vid/avc1/720x1280/HwCBGBhP_tpSJWma.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090559941845143553/pl/EI6M_DhysoJ3QAZB.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090560010656858336",
+        "created_at": "2026-08-21T02:06:06.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090621433546424461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967524887418810368",
+              "start": 0,
+              "username": "jinjin1076120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090621433546424461",
+        "in_reply_to_user_id": "1967524887418810368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090560010656858336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinjin1076120 怡怡好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090559941845143553"
+          ]
+        },
+        "author_id": "1967524887418810368",
+        "conversation_id": "2090560010656858336",
+        "created_at": "2026-08-20T22:02:01.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T23:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090560010656858336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bDlP0IDsT",
+              "end": 35,
+              "expanded_url": "https://x.com/jinjin1076120/status/2090560010656858336/video/1",
+              "media_key": "13_2090559941845143553",
+              "start": 12,
+              "url": "https://t.co/8bDlP0IDsT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090560010656858336",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090559941845143553"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "平静的时候总会想起从前 https://t.co/8bDlP0IDsT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090621433546424461",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 287,
+          "like_count": 34824,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 7668
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-15T09:44:36.000Z",
+        "description": "",
+        "id": "1967524887418810368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090560123429081523",
+        "name": "我好难过呀",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084365278989721600/XRMhUFk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 88,
+          "like_count": 863,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "jinjin1076120",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

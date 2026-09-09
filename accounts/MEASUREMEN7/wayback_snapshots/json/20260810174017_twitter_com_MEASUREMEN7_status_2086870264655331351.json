@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086721188542529883",
+    "created_at": "2026-08-10T17:40:17.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T18:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086870264655331351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1614311887419887616",
+          "start": 0,
+          "username": "lion040317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086870264655331351",
+    "in_reply_to_user_id": "1614311887419887616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086721188542529883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lion040317 好帅啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1610,
+        "media_key": "3_2086721178237104128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWF2w4bcAAce8a.jpg",
+        "width": 1484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086721188542529883",
+        "created_at": "2026-08-10T17:40:17.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086870264655331351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1614311887419887616",
+              "start": 0,
+              "username": "lion040317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086870264655331351",
+        "in_reply_to_user_id": "1614311887419887616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086721188542529883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lion040317 好帅啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086721178237104128"
+          ]
+        },
+        "author_id": "1614311887419887616",
+        "conversation_id": "2086721188542529883",
+        "created_at": "2026-08-10T07:47:55.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T08:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086721188542529883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtkeEE5rL3",
+              "end": 30,
+              "expanded_url": "https://x.com/lion040317/status/2086721188542529883/photo/1",
+              "media_key": "3_2086721178237104128",
+              "start": 7,
+              "url": "https://t.co/EtkeEE5rL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086721188542529883",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086721178237104128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "换发型了！！ https://t.co/EtkeEE5rL3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086870264655331351",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 232,
+          "like_count": 30337,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 6303
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-14T17:22:16.000Z",
+        "description": "04/女/短发/4i。恶趣味十足 吉林/不成熟的穿孔师。脾气很好^ ^，但焦虑型依赖严重。请和我闲聊~\n「黒ヤギさんから　お手紙　着いた\n白ヤギさんたら　読まずに　食べた\nしかたがないので　お手紙　書いた\nさっきの　手紙の　ご用事　な〜に",
+        "id": "1614311887419887616",
+        "is_identity_verified": false,
+        "location": "地下18层",
+        "most_recent_tweet_id": "2086852717826466069",
+        "name": "狮子桑Lion",
+        "pinned_tweet_id": "2086723202781466947",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1614311887419887616/1783088331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086681545818193920/_AWKPSgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 60,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "lion040317",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

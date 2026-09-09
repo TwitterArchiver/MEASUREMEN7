@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2092578183048839530",
+    "created_at": "2026-08-26T13:45:35.000Z",
+    "display_text_range": [
+      11,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092609406567588261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1755853048277331968",
+          "start": 0,
+          "username": "miaodeisu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092609406567588261",
+    "in_reply_to_user_id": "1755853048277331968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092578183048839530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaodeisu 老大这个好像是人机"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092578175289311232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpUw3LawAA5Umz.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2092578183048839530",
+        "created_at": "2026-08-26T13:45:35.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092609406567588261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1755853048277331968",
+              "start": 0,
+              "username": "miaodeisu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092609406567588261",
+        "in_reply_to_user_id": "1755853048277331968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092578183048839530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaodeisu 老大这个好像是人机"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092578175289311232"
+          ]
+        },
+        "author_id": "1755853048277331968",
+        "conversation_id": "2092578183048839530",
+        "created_at": "2026-08-26T11:41:31.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092578183048839530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/18BjIBaBMK",
+              "end": 59,
+              "expanded_url": "https://x.com/miaodeisu/status/2092578183048839530/photo/1",
+              "media_key": "3_2092578175289311232",
+              "start": 36,
+              "url": "https://t.co/18BjIBaBMK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092578183048839530",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092578175289311232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢泥呀！虽然没猜到你是谁TT 请多多和我互动吧！我们可以成为好朋友！ https://t.co/18BjIBaBMK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2092609406567588261",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 292,
+          "like_count": 36621,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 8100
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-09T07:16:20.000Z",
+        "description": "窝系米糕🍙｜寻回uu中｜提问箱⬇️｜請不要注意我的垃圾｜互fo私信✉️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rice_ca.kee",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rice_ca.kee",
+                "start": 0,
+                "url": "https://t.co/Dui5kffGkF"
+              }
+            ]
+          }
+        },
+        "id": "1755853048277331968",
+        "is_identity_verified": false,
+        "location": "東京 中央区",
+        "most_recent_tweet_id": "2092596174960435453",
+        "name": "世の中推敲された嘘ばっか",
+        "pinned_tweet_id": "2092284801395147104",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755853048277331968/1787310736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090758729960759296/ZhSNi581_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 33,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 192
+        },
+        "url": "https://t.co/Dui5kffGkF",
+        "username": "miaodeisu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

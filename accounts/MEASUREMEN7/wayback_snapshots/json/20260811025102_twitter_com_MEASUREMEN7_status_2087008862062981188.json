@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2051083472639533133",
+    "created_at": "2026-08-11T02:51:02.000Z",
+    "display_text_range": [
+      15,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T03:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087008862062981188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1769358210811547648",
+          "start": 0,
+          "username": "dai_jiao70886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087008862062981188",
+    "in_reply_to_user_id": "1769358210811547648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051083472639533133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dai_jiao70886 很好奇烟为什么好像比较难烫出水泡，是我按的不够用力吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28849,
+        "height": 1280,
+        "media_key": "7_2051083409494298624",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2051083409494298624/pu/img/Tq1HVHS2ML0qZim3.jpg",
+        "public_metrics": {
+          "view_count": 4190
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051083409494298624/pu/vid/avc1/320x568/dFmmtJgsscIgFxVj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051083409494298624/pu/vid/avc1/480x852/l0keGqiwar7TP9Ji.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051083409494298624/pu/vid/avc1/720x1280/i-0RjdYNse2Vr-II.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2051083409494298624/pu/pl/2kjdZy209z3mOCbK.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2051083472639533133",
+        "created_at": "2026-08-11T02:51:02.000Z",
+        "display_text_range": [
+          15,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T03:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087008862062981188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1769358210811547648",
+              "start": 0,
+              "username": "dai_jiao70886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087008862062981188",
+        "in_reply_to_user_id": "1769358210811547648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051083472639533133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dai_jiao70886 很好奇烟为什么好像比较难烫出水泡，是我按的不够用力吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2051083409494298624"
+          ]
+        },
+        "author_id": "1769358210811547648",
+        "conversation_id": "2051083472639533133",
+        "created_at": "2026-05-03T23:36:21.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-04T00:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051083472639533133"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "电子女友"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "自残"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "自毁"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "sub"
+            },
+            {
+              "end": 60,
+              "start": 58,
+              "tag": "m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2w86lq1Ijy",
+              "end": 84,
+              "expanded_url": "https://x.com/dai_jiao70886/status/2051083472639533133/video/1",
+              "media_key": "7_2051083409494298624",
+              "start": 61,
+              "url": "https://t.co/2w86lq1Ijy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051083472639533133",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "7_2051083409494298624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 9108,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "宝贝没有烟灰缸的话我可以当你的烟灰缸 #门槛姐 #门槛姐 #电子女友 #爸爸活 #妈妈活 #自残 #自毁 #sub #m https://t.co/2w86lq1Ijy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087008862062981188",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 236,
+          "like_count": 30455,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 6338
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-17T13:41:04.000Z",
+        "description": "小矢/消逝  ｜沉浸在药片子的温柔乡｜同类互fo漏掉记得敲我｜🚪52 详情置顶",
+        "id": "1769358210811547648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2051316272407941212",
+        "name": "Ireu一x 。.:*♡",
+        "pinned_tweet_id": "2048461615788646557",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769358210811547648/1773730477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033799162605494272/IQUfwxw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 231,
+          "like_count": 158,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "dai_jiao70886",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

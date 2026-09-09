@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088589413521797338",
+    "created_at": "2026-08-25T09:22:12.000Z",
+    "display_text_range": [
+      8,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T10:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092180733486104808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1541628293274812416",
+          "start": 0,
+          "username": "YXSZD3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092180733486104808",
+    "in_reply_to_user_id": "1541628293274812416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088589413521797338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YXSZD3 世界倒数第一爱吐舌头之人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1410,
+        "media_key": "3_2088589375387168768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwo-JmbcAAkYR8.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088589413521797338",
+        "created_at": "2026-08-25T09:22:12.000Z",
+        "display_text_range": [
+          8,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092180733486104808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1541628293274812416",
+              "start": 0,
+              "username": "YXSZD3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092180733486104808",
+        "in_reply_to_user_id": "1541628293274812416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088589413521797338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YXSZD3 世界倒数第一爱吐舌头之人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088589375387168768"
+          ]
+        },
+        "author_id": "1541628293274812416",
+        "conversation_id": "2088589413521797338",
+        "created_at": "2026-08-15T11:31:34.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088589413521797338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LBDM3tRUuo",
+              "end": 45,
+              "expanded_url": "https://x.com/YXSZD3/status/2088589413521797338/photo/1",
+              "media_key": "3_2088589375387168768",
+              "start": 22,
+              "url": "https://t.co/LBDM3tRUuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088589413521797338",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088589375387168768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4922,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 75,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "汪汪汪\n我发誓这是最后一张吐舌头和这个滤镜 https://t.co/LBDM3tRUuo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2092180733486104808",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 288,
+          "like_count": 36234,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 8034
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-28T03:43:33.000Z",
+        "description": "：只要是我想做的 错的也对                                                        最爱的@donk1337 @zweih1437 @zmjjkk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "donk1337"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "zweih1437"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "username": "zmjjkk"
+              }
+            ]
+          }
+        },
+        "id": "1541628293274812416",
+        "is_identity_verified": false,
+        "location": "幻想世界",
+        "most_recent_tweet_id": "2092139278872793257",
+        "name": "滂沱大雨仍通過我",
+        "pinned_tweet_id": "1840409039668387870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1541628293274812416/1656388413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085674839248142336/E-vxW4wJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 1045,
+          "like_count": 6326,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 4254
+        },
+        "url": "",
+        "username": "YXSZD3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

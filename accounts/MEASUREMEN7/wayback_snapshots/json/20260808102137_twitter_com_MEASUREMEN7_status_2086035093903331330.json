@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085990168398540800"
+      ],
+      "media_source_tweet_id": [
+        "2085990176921362783"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086035093903331330",
+    "created_at": "2026-08-08T10:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T11:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086035093903331330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2070513982599987201",
+          "start": 3,
+          "username": "emoemo088"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7by7dEAk8Q",
+          "end": 44,
+          "expanded_url": "https://x.com/emoemo088/status/2085990176921362783/photo/1",
+          "media_key": "3_2085990168398540800",
+          "start": 21,
+          "url": "https://t.co/7by7dEAk8Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086035093903331330",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085990176921362783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emoemo088: 推特现状: https://t.co/7by7dEAk8Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_2085990168398540800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPLtAZBaMAAsh5x.jpg",
+        "width": 1081
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085990168398540800"
+          ]
+        },
+        "author_id": "2070513982599987201",
+        "conversation_id": "2085990176921362783",
+        "created_at": "2026-08-08T07:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T08:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085990176921362783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7by7dEAk8Q",
+              "end": 29,
+              "expanded_url": "https://x.com/emoemo088/status/2085990176921362783/photo/1",
+              "media_key": "3_2085990168398540800",
+              "start": 6,
+              "url": "https://t.co/7by7dEAk8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085990176921362783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 18884,
+          "like_count": 282,
+          "quote_count": 4,
+          "reply_count": 140,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "推特现状: https://t.co/7by7dEAk8Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085990168398540800"
+          ],
+          "media_source_tweet_id": [
+            "2085990176921362783"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086035093903331330",
+        "created_at": "2026-08-08T10:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T11:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086035093903331330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2070513982599987201",
+              "start": 3,
+              "username": "emoemo088"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7by7dEAk8Q",
+              "end": 44,
+              "expanded_url": "https://x.com/emoemo088/status/2085990176921362783/photo/1",
+              "media_key": "3_2085990168398540800",
+              "start": 21,
+              "url": "https://t.co/7by7dEAk8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086035093903331330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085990176921362783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @emoemo088: 推特现状: https://t.co/7by7dEAk8Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 213,
+          "like_count": 30224,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 6078
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-26T14:27:23.000Z",
+        "description": "当朋友圈发了 小号@ckyoa2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "ckyoa2"
+              }
+            ]
+          }
+        },
+        "id": "2070513982599987201",
+        "location": "你心里",
+        "name": "ck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084532315032899585/cCnFudyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3702,
+          "following_count": 3,
+          "like_count": 71,
+          "listed_count": 5,
+          "media_count": 29,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "emoemo088",
+        "verified": false
+      }
+    ]
+  }
+}

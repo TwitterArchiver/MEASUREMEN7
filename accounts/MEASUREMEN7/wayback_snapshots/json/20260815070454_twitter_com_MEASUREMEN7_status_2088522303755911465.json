@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088522303755911465",
+    "created_at": "2026-08-15T07:04:54.000Z",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T08:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088522303755911465"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088522303755911465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "闭上眼睛是影影约约的教室轮廓，睁开眼睛是流着眼泪的习题。找不到路，甚至不知道要怎么辨认方向，只能在水里无助地打水。究竟是谁把为我指明方向的灯塔拆掉了，现在再也不会有人告诉我要往哪走，睁开眼睛还是闭着眼睛。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088522303755911465",
+        "created_at": "2026-08-15T07:04:54.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088522303755911465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088522303755911465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闭上眼睛是影影约约的教室轮廓，睁开眼睛是流着眼泪的习题。找不到路，甚至不知道要怎么辨认方向，只能在水里无助地打水。究竟是谁把为我指明方向的灯塔拆掉了，现在再也不会有人告诉我要往哪走，睁开眼睛还是闭着眼睛。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088522303755911465",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 254,
+          "like_count": 31803,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 6767
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

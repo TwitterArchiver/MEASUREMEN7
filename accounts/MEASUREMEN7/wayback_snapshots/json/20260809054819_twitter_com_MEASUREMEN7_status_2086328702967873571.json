@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086327409155227781",
+    "created_at": "2026-08-09T05:48:19.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T06:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086328702967873571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1776162571709796352",
+          "start": 0,
+          "username": "Fooogfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086328702967873571",
+    "in_reply_to_user_id": "1776162571709796352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086327409155227781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fooogfox 老大就是很可爱吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086327409155227781",
+        "created_at": "2026-08-09T05:48:19.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086328702967873571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1776162571709796352",
+              "start": 0,
+              "username": "Fooogfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086328702967873571",
+        "in_reply_to_user_id": "1776162571709796352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086327409155227781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fooogfox 老大就是很可爱吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776162571709796352",
+        "conversation_id": "2086327409155227781",
+        "created_at": "2026-08-09T05:43:11.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086327409155227781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086327409155227781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想到今年五一和玩了很久的网友见面了，然后他和他女朋友一直说我好可爱，诶我草爽飞了。\n但是实际上我不是这样的（（\n再怎么夸我，我都不会觉得我是一个可爱的家伙"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086328702967873571",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 220,
+          "like_count": 29700,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 6126
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-05T08:18:58.000Z",
+        "description": "五月生\nftx🏳️‍🌈🏳️‍⚧️\nhttps://t.co/xgC1f8meqx\n请称呼我为：雨原花咲/阿间。\n非典型oder（我不鼓励任何自伤行为，只在原有基础上进行探讨），同类友好，聊天完全欢迎，请和我交朋友ww\n碎碎念和不定期药物感受",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fooogfox",
+                "end": 40,
+                "expanded_url": "https://ngl.link/fooogfox",
+                "start": 17,
+                "url": "https://t.co/xgC1f8meqx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fooooogfox",
+                "end": 23,
+                "expanded_url": "https://t.me/fooooogfox",
+                "start": 0,
+                "url": "https://t.co/rO2rYtJvdt"
+              }
+            ]
+          }
+        },
+        "id": "1776162571709796352",
+        "is_identity_verified": false,
+        "location": "世界",
+        "most_recent_tweet_id": "2086328300293775698",
+        "name": "猫不理茶茶罐头",
+        "pinned_tweet_id": "2085642529572061355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776162571709796352/1786162843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085954969455513600/vrMZ8he4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 412,
+          "like_count": 1845,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 274
+        },
+        "url": "https://t.co/rO2rYtJvdt",
+        "username": "Fooogfox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

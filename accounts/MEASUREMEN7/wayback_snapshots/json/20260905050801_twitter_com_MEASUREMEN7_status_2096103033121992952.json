@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2095965001328812490",
+    "created_at": "2026-09-05T05:08:01.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T06:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096103033121992952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938824940012347392",
+          "start": 0,
+          "username": "RSO_cl1nicL0V3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096103033121992952",
+    "in_reply_to_user_id": "1938824940012347392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095965001328812490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RSO_cl1nicL0V3 欢迎琳酱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12595,
+        "height": 1280,
+        "media_key": "13_2095964981905027072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095964981905027072/img/l1zmSenW6VakmQ9O.jpg",
+        "public_metrics": {
+          "view_count": 45
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095964981905027072/vid/avc1/320x568/WwhcoIQNBXaJh6Zn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095964981905027072/vid/avc1/480x852/VGPoA0lwdmCoWLU2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095964981905027072/vid/avc1/720x1280/79tlibNuYiJor1sx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095964981905027072/pl/mOvawaqo-OnprfLF.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2095965001328812490",
+        "created_at": "2026-09-05T05:08:01.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T06:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096103033121992952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938824940012347392",
+              "start": 0,
+              "username": "RSO_cl1nicL0V3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096103033121992952",
+        "in_reply_to_user_id": "1938824940012347392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095965001328812490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RSO_cl1nicL0V3 欢迎琳酱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095964981905027072"
+          ]
+        },
+        "author_id": "1938824940012347392",
+        "conversation_id": "2095965001328812490",
+        "created_at": "2026-09-04T19:59:32.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T20:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095965001328812490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/czvPi35t1a",
+              "end": 34,
+              "expanded_url": "https://x.com/RSO_cl1nicL0V3/status/2095965001328812490/video/1",
+              "media_key": "13_2095964981905027072",
+              "start": 11,
+              "url": "https://t.co/czvPi35t1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095965001328812490",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2095964981905027072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是我要回归这个账号 https://t.co/czvPi35t1a"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2096103033121992952",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 288,
+          "like_count": 38816,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 8547
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-28T05:01:18.000Z",
+        "description": "#shtwt #edtwt #nsotwt #jiraitwt\nADHD,BPD, DEPRESSION\nOnly shitpost and vents here",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              },
+              {
+                "end": 13,
+                "start": 7,
+                "tag": "edtwt"
+              },
+              {
+                "end": 21,
+                "start": 14,
+                "tag": "nsotwt"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "tag": "jiraitwt"
+              }
+            ]
+          }
+        },
+        "id": "1938824940012347392",
+        "is_identity_verified": false,
+        "location": "die",
+        "most_recent_tweet_id": "2095978039733887345",
+        "name": "琳酱的急救诊所💉🩺",
+        "pinned_tweet_id": "2073374236442529865",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938824940012347392/1751300233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079234386713833472/g3G35ikv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 73,
+          "like_count": 1846,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 973
+        },
+        "url": "",
+        "username": "RSO_cl1nicL0V3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

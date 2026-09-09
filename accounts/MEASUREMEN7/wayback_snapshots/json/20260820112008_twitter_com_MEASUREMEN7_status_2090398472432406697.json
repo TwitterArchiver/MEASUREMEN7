@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090390718900744414",
+    "created_at": "2026-08-20T11:20:08.000Z",
+    "display_text_range": [
+      12,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T12:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090398472432406697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1749231350194794496",
+          "start": 0,
+          "username": "koharuwwwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090398472432406697",
+    "in_reply_to_user_id": "1749231350194794496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090390718900744414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koharuwwwq 既不会好又会致死，真是癌症"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090390718900744414",
+        "created_at": "2026-08-20T11:20:08.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090398472432406697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1749231350194794496",
+              "start": 0,
+              "username": "koharuwwwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090398472432406697",
+        "in_reply_to_user_id": "1749231350194794496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090390718900744414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koharuwwwq 既不会好又会致死，真是癌症"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749231350194794496",
+        "conversation_id": "2090390718900744414",
+        "created_at": "2026-08-20T10:49:19.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T11:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090390718900744414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090390718900744414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "抑郁症就他妈是癌症。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090398472432406697",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 284,
+          "like_count": 34587,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 7610
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-22T00:43:56.000Z",
+        "description": "",
+        "id": "1749231350194794496",
+        "is_identity_verified": false,
+        "location": "Minato-ku, Tokyo",
+        "most_recent_tweet_id": "2090395404500349070",
+        "name": "koharu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749231350194794496/1786602561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087788576599916545/irgOyVMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 8,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "koharuwwwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

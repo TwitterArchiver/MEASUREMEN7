@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090091285348769854",
+    "created_at": "2026-08-19T15:04:44.000Z",
+    "display_text_range": [
+      12,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T16:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090092606793597067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699421377520951296",
+          "start": 0,
+          "username": "Maorou_K8M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090092606793597067",
+    "in_reply_to_user_id": "1699421377520951296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090092493941711115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maorou_K8M 最近推这个氛围感觉真的会被骂挺惨的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090091285348769854",
+        "created_at": "2026-08-19T15:04:44.000Z",
+        "display_text_range": [
+          12,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090092606793597067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699421377520951296",
+              "start": 0,
+              "username": "Maorou_K8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090092606793597067",
+        "in_reply_to_user_id": "1699421377520951296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090092493941711115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maorou_K8M 最近推这个氛围感觉真的会被骂挺惨的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699421377520951296",
+        "conversation_id": "2090091285348769854",
+        "created_at": "2026-08-19T15:04:17.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090092493941711115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090092493941711115",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090092087840800880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 最近有点欠骂了谢谢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090092606793597067",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 276,
+          "like_count": 34222,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 7485
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-06T13:56:58.000Z",
+        "description": "谢谢你们喜欢我 本人x有两个账号 并且第二个账号只关注了此账号一个人！\n 请叫我民子♡人体改造/自私/穿刺/分舌/药物依赖/纹身/焦虑/畏惧死亡/埋钉/净身高172 （穿鞋子180\n交朋友门槛：998/1314/5200zfb口令红包带姓 接绿色线下陪玩 只玩X/ins 禁止搬运\n快来找我玩吧(//∇//)ಣ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/maorou_k8m",
+                "end": 23,
+                "expanded_url": "https://link.me/maorou_k8m",
+                "start": 0,
+                "url": "https://t.co/bvlwJ8ThzX"
+              }
+            ]
+          }
+        },
+        "id": "1699421377520951296",
+        "is_identity_verified": false,
+        "location": "所有本人账户在这里→",
+        "most_recent_tweet_id": "2090092493941711115",
+        "name": "樁山民子",
+        "pinned_tweet_id": "2008874213504094212",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699421377520951296/1761954815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072018720705384448/HZRpTAPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350031,
+          "following_count": 41,
+          "like_count": 603,
+          "listed_count": 793,
+          "media_count": 693,
+          "tweet_count": 4555
+        },
+        "url": "https://t.co/bvlwJ8ThzX",
+        "username": "Maorou_K8M",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

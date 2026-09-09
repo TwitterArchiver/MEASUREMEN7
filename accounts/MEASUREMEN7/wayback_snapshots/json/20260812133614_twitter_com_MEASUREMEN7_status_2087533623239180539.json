@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087437128846471168"
+      ],
+      "media_source_tweet_id": [
+        "2087437265228407247"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087533623239180539",
+    "created_at": "2026-08-12T13:36:14.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087533623239180539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2082080789119016961",
+          "start": 3,
+          "username": "Realhoshinofuji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zJQ2ZBGvUM",
+          "end": 64,
+          "expanded_url": "https://x.com/Realhoshinofuji/status/2087437265228407247/video/1",
+          "media_key": "13_2087437128846471168",
+          "start": 41,
+          "url": "https://t.co/zJQ2ZBGvUM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087533623239180539",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2087437128846471168"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087437265228407247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Realhoshinofuji: 「中式恐怖警告」\n\n他们问，你幸福吗？ https://t.co/zJQ2ZBGvUM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19166,
+        "height": 748,
+        "media_key": "13_2087437128846471168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087437128846471168/img/4zXFD-rR16a8GCsT.jpg",
+        "public_metrics": {
+          "view_count": 1842
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087437128846471168/vid/avc1/368x270/-jQ4SiTrVFuk4gzf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087437128846471168/vid/avc1/492x360/JUqmnrHgptwNMtTG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087437128846471168/vid/avc1/1024x748/vAZ-24JWwku9Fjdv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087437128846471168/pl/KNoxUUplE-fZloRu.m3u8?v=cfc"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087437128846471168"
+          ]
+        },
+        "author_id": "2082080789119016961",
+        "conversation_id": "2087437265228407247",
+        "created_at": "2026-08-12T07:13:21.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T08:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087437265228407247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJQ2ZBGvUM",
+              "end": 43,
+              "expanded_url": "https://x.com/Realhoshinofuji/status/2087437265228407247/video/1",
+              "media_key": "13_2087437128846471168",
+              "start": 20,
+              "url": "https://t.co/zJQ2ZBGvUM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087437265228407247",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087437128846471168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 3515,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "「中式恐怖警告」\n\n他们问，你幸福吗？ https://t.co/zJQ2ZBGvUM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087437128846471168"
+          ],
+          "media_source_tweet_id": [
+            "2087437265228407247"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087533623239180539",
+        "created_at": "2026-08-12T13:36:14.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087533623239180539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2082080789119016961",
+              "start": 3,
+              "username": "Realhoshinofuji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJQ2ZBGvUM",
+              "end": 64,
+              "expanded_url": "https://x.com/Realhoshinofuji/status/2087437265228407247/video/1",
+              "media_key": "13_2087437128846471168",
+              "start": 41,
+              "url": "https://t.co/zJQ2ZBGvUM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087533623239180539",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087437128846471168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087437265228407247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Realhoshinofuji: 「中式恐怖警告」\n\n他们问，你幸福吗？ https://t.co/zJQ2ZBGvUM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087533623239180539",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 244,
+          "like_count": 31101,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 6547
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-28T12:30:05.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」｜My beloved @nationalpurevf4｜Peace&Love🇺🇳｜pixiv illustrator | AIart |Partner @KokonaKokoro\n 旧友寻回中｜最爱的猫猫 @Kalin_1124｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "Kalin_1124"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/nkPOtCbKri"
+              }
+            ]
+          }
+        },
+        "id": "2082080789119016961",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087530924720390614",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2082097033486508340",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082080789119016961/1785242064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085266166722019328/qU3IaA0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1966,
+          "following_count": 1400,
+          "like_count": 2580,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 1184
+        },
+        "url": "https://t.co/nkPOtCbKri",
+        "username": "Realhoshinofuji",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

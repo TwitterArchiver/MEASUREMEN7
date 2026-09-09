@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2085279094045052935",
+    "created_at": "2026-08-06T08:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T09:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085284355187130591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2043693873495445504",
+          "start": 0,
+          "username": "SadakoShu111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085284355187130591",
+    "in_reply_to_user_id": "2043693873495445504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085279094045052935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SadakoShu111 萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085279075644641281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBmRWFakAEJ_E5.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085279075640430592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBmRWEaUAASVW9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085279075644723200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBmRWFb0AAQqFz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2085279094045052935",
+        "created_at": "2026-08-06T08:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085284355187130591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043693873495445504",
+              "start": 0,
+              "username": "SadakoShu111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085284355187130591",
+        "in_reply_to_user_id": "2043693873495445504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085279094045052935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SadakoShu111 萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085279075644641281",
+            "3_2085279075640430592",
+            "3_2085279075644723200"
+          ]
+        },
+        "author_id": "2043693873495445504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2085279094045052935",
+        "created_at": "2026-08-06T08:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085279094045052935"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "blueArchiver"
+            },
+            {
+              "end": 22,
+              "start": 14,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lsmooEsZTZ",
+              "end": 46,
+              "expanded_url": "https://x.com/SadakoShu111/status/2085279094045052935/photo/1",
+              "media_key": "3_2085279075644641281",
+              "start": 23,
+              "url": "https://t.co/lsmooEsZTZ"
+            },
+            {
+              "display_url": "pic.x.com/lsmooEsZTZ",
+              "end": 46,
+              "expanded_url": "https://x.com/SadakoShu111/status/2085279094045052935/photo/1",
+              "media_key": "3_2085279075640430592",
+              "start": 23,
+              "url": "https://t.co/lsmooEsZTZ"
+            },
+            {
+              "display_url": "pic.x.com/lsmooEsZTZ",
+              "end": 46,
+              "expanded_url": "https://x.com/SadakoShu111/status/2085279094045052935/photo/1",
+              "media_key": "3_2085279075644723200",
+              "start": 23,
+              "url": "https://t.co/lsmooEsZTZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085279094045052935",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#blueArchiver #cosplay https://t.co/lsmooEsZTZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 197,
+          "like_count": 29226,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 5885
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T14:14:34.000Z",
+        "description": "泛性恋，流动性别，dom，精神分裂重抑中焦。\n好友位30r图包160/180/250\nQ群1101268995\n不接线下，不接视频通话。",
+        "id": "2043693873495445504",
+        "name": "错误",
+        "pinned_tweet_id": "2054788387488604272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043694903666843648/XgKWIuaN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 18,
+          "like_count": 141,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "SadakoShu111",
+        "verified": false
+      }
+    ]
+  }
+}

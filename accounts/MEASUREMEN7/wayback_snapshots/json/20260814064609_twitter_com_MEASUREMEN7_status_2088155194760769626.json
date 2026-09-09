@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088128685627056511",
+    "created_at": "2026-08-14T06:46:09.000Z",
+    "display_text_range": [
+      45,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T07:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088155194760769626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2052721795745169410",
+          "start": 0,
+          "username": "sadfatmind70699"
+        },
+        {
+          "end": 33,
+          "id": "1880803334405435393",
+          "start": 17,
+          "username": "tiantmaoshenshi"
+        },
+        {
+          "end": 44,
+          "id": "1729529432254128128",
+          "start": 34,
+          "username": "huy13611X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088155194760769626",
+    "in_reply_to_user_id": "2052721795745169410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088146476178485381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sadfatmind70699 @tiantmaoshenshi @huy13611X 好歹毒的招数"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 694,
+        "media_key": "3_2088146471057285122",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqWJuZa4AIUODt.jpg",
+        "width": 380
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088128685627056511",
+        "created_at": "2026-08-14T06:46:09.000Z",
+        "display_text_range": [
+          45,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088155194760769626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2052721795745169410",
+              "start": 0,
+              "username": "sadfatmind70699"
+            },
+            {
+              "end": 33,
+              "id": "1880803334405435393",
+              "start": 17,
+              "username": "tiantmaoshenshi"
+            },
+            {
+              "end": 44,
+              "id": "1729529432254128128",
+              "start": 34,
+              "username": "huy13611X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088155194760769626",
+        "in_reply_to_user_id": "2052721795745169410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088146476178485381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sadfatmind70699 @tiantmaoshenshi @huy13611X 好歹毒的招数"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088146471057285122"
+          ]
+        },
+        "author_id": "2052721795745169410",
+        "conversation_id": "2088128685627056511",
+        "created_at": "2026-08-14T06:11:30.000Z",
+        "display_text_range": [
+          27,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088146476178485381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880803334405435393",
+              "start": 0,
+              "username": "tiantmaoshenshi"
+            },
+            {
+              "end": 27,
+              "id": "1729529432254128128",
+              "start": 17,
+              "username": "huy13611X"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTCGPqkS0E",
+              "end": 51,
+              "expanded_url": "https://x.com/sadfatmind70699/status/2088146476178485381/photo/1",
+              "media_key": "3_2088146471057285122",
+              "start": 28,
+              "url": "https://t.co/lTCGPqkS0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088146476178485381",
+        "in_reply_to_user_id": "1880803334405435393",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088146471057285122"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088128685627056511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiantmaoshenshi @huy13611X https://t.co/lTCGPqkS0E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088155194760769626",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 248,
+          "like_count": 31704,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 6720
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-08T12:06:47.000Z",
+        "description": "冰自九天落凡尘，不沾淤泥洁自身。正人君子坦荡荡，默默无闻净乾坤。",
+        "id": "2052721795745169410",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088149044245971009",
+        "name": "sadfatmind",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2052721795745169410/1779458376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081167774504927232/yq52ALpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 231,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 210
+        },
+        "url": "",
+        "username": "sadfatmind70699",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "靠近才能了解的兔子         \n喜歡視奸喜歡犯病\n有一群非常善良的天使陪著我🥹🥹",
+        "id": "1880803334405435393",
+        "is_identity_verified": false,
+        "location": "中北海 🚪114514",
+        "most_recent_tweet_id": "2088155095993405759",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2072983024334189012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880803334405435393/1781014159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081997738003300352/-VJPrMj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 1143,
+          "like_count": 12931,
+          "listed_count": 0,
+          "media_count": 349,
+          "tweet_count": 9112
+        },
+        "url": "",
+        "username": "tiantmaoshenshi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-28T15:55:53.000Z",
+        "description": "缺爱逼，日常缺爱中（",
+        "id": "1729529432254128128",
+        "is_identity_verified": false,
+        "location": "江苏",
+        "most_recent_tweet_id": "2088142353680961630",
+        "name": "弧悠",
+        "pinned_tweet_id": "2058138354340999418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1729529432254128128/1780411913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079392607374090240/VGxmP09o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 940,
+          "like_count": 16652,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 3646
+        },
+        "url": "",
+        "username": "huy13611X",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

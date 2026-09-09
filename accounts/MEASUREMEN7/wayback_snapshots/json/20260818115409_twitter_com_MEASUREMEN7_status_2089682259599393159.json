@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089681716139237643",
+    "created_at": "2026-08-18T11:54:09.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T12:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089682259599393159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053112758531715072",
+          "start": 0,
+          "username": "Nevado_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089682259599393159",
+    "in_reply_to_user_id": "2053112758531715072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089681716139237643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nevado_snow 这个三文鱼切的好大一块"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089681603136299008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAKWLCboAA1DF-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089681716139237643",
+        "created_at": "2026-08-18T11:54:09.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089682259599393159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053112758531715072",
+              "start": 0,
+              "username": "Nevado_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089682259599393159",
+        "in_reply_to_user_id": "2053112758531715072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089681716139237643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nevado_snow 这个三文鱼切的好大一块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089681603136299008"
+          ]
+        },
+        "author_id": "2053112758531715072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2089681716139237643",
+        "created_at": "2026-08-18T11:52:00.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089681716139237643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zvz17SZwy2",
+              "end": 56,
+              "expanded_url": "https://x.com/Nevado_snow/status/2089681716139237643/photo/1",
+              "media_key": "3_2089681603136299008",
+              "start": 33,
+              "url": "https://t.co/Zvz17SZwy2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089681716139237643",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089681603136299008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "厚蛋烧鳗鱼饭无功无过 鹅肝寿司无功无过 这个三文鱼过有点大了吧。 https://t.co/Zvz17SZwy2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089682259599393159",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 262,
+          "like_count": 33289,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 7240
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T14:02:08.000Z",
+        "description": "如果哪天我沓無音訊\nngl⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nevado22756",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nevado22756",
+                "start": 0,
+                "url": "https://t.co/s4fAatf6cF"
+              }
+            ]
+          }
+        },
+        "id": "2053112758531715072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089681935744499976",
+        "name": "Nevado",
+        "pinned_tweet_id": "2080926495384674599",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053112758531715072/1778510723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065997076903927808/seoscLhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 79,
+          "like_count": 12614,
+          "listed_count": 0,
+          "media_count": 684,
+          "tweet_count": 3633
+        },
+        "url": "https://t.co/s4fAatf6cF",
+        "username": "Nevado_snow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

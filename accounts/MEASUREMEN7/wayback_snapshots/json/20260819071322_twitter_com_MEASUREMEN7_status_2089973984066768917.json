@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089963427024236735",
+    "created_at": "2026-08-19T07:13:22.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089973984066768917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2089613787666243584",
+          "start": 0,
+          "username": "yaosu7982"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089973984066768917",
+    "in_reply_to_user_id": "2089613787666243584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089963427024236735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaosu7982 强强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3354,
+        "media_key": "3_2089963400218730497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEKo6-a4AEkFDP.jpg",
+        "width": 1816
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2089963414466740224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEKpwDaQAArxaX.jpg",
+        "width": 1816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089963427024236735",
+        "created_at": "2026-08-19T07:13:22.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089973984066768917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2089613787666243584",
+              "start": 0,
+              "username": "yaosu7982"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089973984066768917",
+        "in_reply_to_user_id": "2089613787666243584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089963427024236735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaosu7982 强强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089963400218730497",
+            "3_2089963414466740224"
+          ]
+        },
+        "author_id": "2089613787666243584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2089963427024236735",
+        "created_at": "2026-08-19T06:31:25.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089963427024236735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uvMfmXijRu",
+              "end": 92,
+              "expanded_url": "https://x.com/yaosu7982/status/2089963427024236735/photo/1",
+              "media_key": "3_2089963400218730497",
+              "start": 69,
+              "url": "https://t.co/uvMfmXijRu"
+            },
+            {
+              "display_url": "pic.x.com/uvMfmXijRu",
+              "end": 92,
+              "expanded_url": "https://x.com/yaosu7982/status/2089963427024236735/photo/1",
+              "media_key": "3_2089963414466740224",
+              "start": 69,
+              "url": "https://t.co/uvMfmXijRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089963427024236735",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089963400218730497"
+          },
+          {
+            "media_key": "3_2089963414466740224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 70,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "素由于找不到很搭这身衣服的鞋子，然后素又觉得与其将就，不如不穿\n于是素又赤着脚在外面乱逛啦\n素称量了一下，配饰加起来居然有三四斤重💫💫💫 https://t.co/uvMfmXijRu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089973984066768917",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 278,
+          "like_count": 33901,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 7400
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T07:23:09.000Z",
+        "description": "电波系💫💫💫",
+        "id": "2089613787666243584",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2089963427024236735",
+        "name": "素素素素",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089613787666243584/1787040278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089614286520012800/1b68y8CG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 29,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "yaosu7982",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

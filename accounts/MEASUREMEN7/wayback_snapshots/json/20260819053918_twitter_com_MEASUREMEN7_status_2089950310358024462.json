@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089950278913241088"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089950310358024462",
+    "created_at": "2026-08-19T05:39:18.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T06:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089950310358024462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4A4mLRc1nt",
+          "end": 42,
+          "expanded_url": "https://x.com/MEASUREMEN7/status/2089950310358024462/photo/1",
+          "media_key": "3_2089950278913241088",
+          "start": 19,
+          "url": "https://t.co/4A4mLRc1nt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089950310358024462",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089950278913241088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这四个鸽子怎么做到看着八个不同方向的 https://t.co/4A4mLRc1nt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2089950278913241088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQD-tKTaMAAVu1o.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089950278913241088"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089950310358024462",
+        "created_at": "2026-08-19T05:39:18.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089950310358024462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4A4mLRc1nt",
+              "end": 42,
+              "expanded_url": "https://x.com/MEASUREMEN7/status/2089950310358024462/photo/1",
+              "media_key": "3_2089950278913241088",
+              "start": 19,
+              "url": "https://t.co/4A4mLRc1nt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089950310358024462",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089950278913241088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这四个鸽子怎么做到看着八个不同方向的 https://t.co/4A4mLRc1nt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089950310358024462",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 276,
+          "like_count": 33849,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 7387
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

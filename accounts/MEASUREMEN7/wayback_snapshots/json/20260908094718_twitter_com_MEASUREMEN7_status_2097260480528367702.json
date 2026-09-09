@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2097218447230820510",
+    "created_at": "2026-09-08T09:47:18.000Z",
+    "display_text_range": [
+      17,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T10:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097260480528367702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1555622253806493696",
+          "start": 0,
+          "username": "Kaed3_tachibanA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097260480528367702",
+    "in_reply_to_user_id": "1555622253806493696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097218447230820510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaed3_tachibanA 这些基本都会有这样的情况"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2097218447230820510",
+        "created_at": "2026-09-08T09:47:18.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097260480528367702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1555622253806493696",
+              "start": 0,
+              "username": "Kaed3_tachibanA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097260480528367702",
+        "in_reply_to_user_id": "1555622253806493696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097218447230820510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaed3_tachibanA 这些基本都会有这样的情况"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555622253806493696",
+        "conversation_id": "2097218447230820510",
+        "created_at": "2026-09-08T07:00:16.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T08:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097218447230820510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097218447230820510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喹硫平有没有什么上下位替代。整个人已经浮肿到鞋子穿不进去了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2097260480528367702",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 290,
+          "like_count": 39346,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 8678
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-05T18:30:29.000Z",
+        "description": "==橘楓/楓橘｜本垢｜精神障害⚠️⚠️(治療中)｜CAN / MAN / EN / 簡単な日本語｜挨拶不要｜Pansexual 🩷💛🩵｜💊＆🩸注意‼️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Kaed3_tachibanA",
+                "end": 23,
+                "expanded_url": "https://lit.link/Kaed3_tachibanA",
+                "start": 0,
+                "url": "https://t.co/YvOv7ErSJK"
+              }
+            ]
+          }
+        },
+        "id": "1555622253806493696",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2097223225033830411",
+        "name": "ᐕ)ﾉ",
+        "pinned_tweet_id": "2034268070873899299",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1555622253806493696/1729614450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894256078331727872/WBB_Tgde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 145,
+          "like_count": 39853,
+          "listed_count": 1,
+          "media_count": 1903,
+          "tweet_count": 20414
+        },
+        "url": "https://t.co/YvOv7ErSJK",
+        "username": "Kaed3_tachibanA",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

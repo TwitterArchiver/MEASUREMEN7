@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086831679465980264",
+    "created_at": "2026-08-11T06:31:39.000Z",
+    "display_text_range": [
+      25,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087064385634349431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592440703921319938",
+          "start": 0,
+          "username": "yky29742274"
+        },
+        {
+          "end": 24,
+          "id": "2039261417686417408",
+          "start": 13,
+          "username": "Youan07054"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087064385634349431",
+    "in_reply_to_user_id": "1592440703921319938",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087063722380636452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yky29742274 @Youan07054 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086831679465980264",
+        "created_at": "2026-08-11T06:31:39.000Z",
+        "display_text_range": [
+          25,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087064385634349431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592440703921319938",
+              "start": 0,
+              "username": "yky29742274"
+            },
+            {
+              "end": 24,
+              "id": "2039261417686417408",
+              "start": 13,
+              "username": "Youan07054"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087064385634349431",
+        "in_reply_to_user_id": "1592440703921319938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087063722380636452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yky29742274 @Youan07054 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592440703921319938",
+        "conversation_id": "2086831679465980264",
+        "created_at": "2026-08-11T06:29:01.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087063722380636452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2039261417686417408",
+              "start": 0,
+              "username": "Youan07054"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087063722380636452",
+        "in_reply_to_user_id": "2039261417686417408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086831679465980264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Youan07054 問機器人吧 他們福不黑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087064385634349431",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 245,
+          "like_count": 30580,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 6376
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-15T08:53:58.000Z",
+        "description": "我們只是網友 你把手機摔了我就死了ok?",
+        "id": "1592440703921319938",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087063722380636452",
+        "name": "社底宅女家裡蹲",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592440703921319938/1781914813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068126693324382208/u0YrbeTG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 8,
+          "like_count": 348,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "yky29742274",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-01T08:43:40.000Z",
+        "description": "这里是幼安的小号！我会在这里发一些碎碎念 infj金牛\n喜欢的人是entp狮子，他是最近给我拍视频的人，求大家能去关注一下他，他拍照特别好看的，真的！\n涩图在@Youanmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Youanmiao"
+              }
+            ]
+          }
+        },
+        "id": "2039261417686417408",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2086832896204255600",
+        "name": "幼安知宁",
+        "pinned_tweet_id": "2064650504849010783",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2039261417686417408/1775035303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039271759468548098/nddTR3FY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 18,
+          "like_count": 137,
+          "listed_count": 4,
+          "media_count": 35,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "Youan07054",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

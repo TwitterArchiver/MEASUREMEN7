@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090095150680932360",
+    "created_at": "2026-08-19T15:18:21.000Z",
+    "display_text_range": [
+      14,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T16:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090096035427488192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592440703921319938",
+          "start": 0,
+          "username": "haruyuki_TuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090096035427488192",
+    "in_reply_to_user_id": "1592440703921319938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090095150680932360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haruyuki_TuT 好厉害的发型，就是不太好打理吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2090095143592620033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGCdZSbcAECs2i.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090095150680932360",
+        "created_at": "2026-08-19T15:18:21.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090096035427488192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592440703921319938",
+              "start": 0,
+              "username": "haruyuki_TuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090096035427488192",
+        "in_reply_to_user_id": "1592440703921319938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090095150680932360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haruyuki_TuT 好厉害的发型，就是不太好打理吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090095143592620033"
+          ]
+        },
+        "author_id": "1592440703921319938",
+        "conversation_id": "2090095150680932360",
+        "created_at": "2026-08-19T15:14:50.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090095150680932360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VumEGy5jWj",
+              "end": 32,
+              "expanded_url": "https://x.com/haruyuki_TuT/status/2090095150680932360/photo/1",
+              "media_key": "3_2090095143592620033",
+              "start": 9,
+              "url": "https://t.co/VumEGy5jWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090095150680932360",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090095143592620033"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有遮眼斜劉海了 https://t.co/VumEGy5jWj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090096035427488192",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 277,
+          "like_count": 34240,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 7492
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-15T08:53:58.000Z",
+        "description": "我們只是網友 你把手機摔了我就死了ok?",
+        "id": "1592440703921319938",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090095150680932360",
+        "name": "社底宅女家裡蹲",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592440703921319938/1781914813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068126693324382208/u0YrbeTG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 7,
+          "like_count": 726,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "haruyuki_TuT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

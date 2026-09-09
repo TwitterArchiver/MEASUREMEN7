@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2094291243786485955",
+    "created_at": "2026-08-31T05:46:56.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T06:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094300886894084150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1660996239218085890",
+          "start": 0,
+          "username": "coolfishrice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094300886894084150",
+    "in_reply_to_user_id": "1660996239218085890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094291243786485955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coolfishrice 可恶这个拉面看着好香"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2094291209296674816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRBqwkJaAAAAql6.jpg",
+        "width": 2304
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2094291227860697089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRBqxpTagAETiPs.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2094291243786485955",
+        "created_at": "2026-08-31T05:46:56.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094300886894084150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1660996239218085890",
+              "start": 0,
+              "username": "coolfishrice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094300886894084150",
+        "in_reply_to_user_id": "1660996239218085890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094291243786485955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coolfishrice 可恶这个拉面看着好香"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094291209296674816",
+            "3_2094291227860697089"
+          ]
+        },
+        "author_id": "1660996239218085890",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2094291243786485955",
+        "created_at": "2026-08-31T05:08:37.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094291243786485955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nfnciEWPAr",
+              "end": 39,
+              "expanded_url": "https://x.com/coolfishrice/status/2094291243786485955/photo/1",
+              "media_key": "3_2094291209296674816",
+              "start": 16,
+              "url": "https://t.co/nfnciEWPAr"
+            },
+            {
+              "display_url": "pic.x.com/nfnciEWPAr",
+              "end": 39,
+              "expanded_url": "https://x.com/coolfishrice/status/2094291243786485955/photo/1",
+              "media_key": "3_2094291227860697089",
+              "start": 16,
+              "url": "https://t.co/nfnciEWPAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094291243786485955",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094291209296674816"
+          },
+          {
+            "media_key": "3_2094291227860697089"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你就吃吧，体重一点都不累不心疼 https://t.co/nfnciEWPAr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2094300886894084150",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 290,
+          "like_count": 38070,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 8381
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-23T13:09:07.000Z",
+        "description": "【📢🌟/成人済み/♀】凉鱼饭，也叫ume。甘辛豆腐メンタル好き！雑多垢、コスプレ/歌ってみた/落書き。发言很混乱会有r18内容，请谨慎关注。墙内扩列随意，但DM只对女网友开放。",
+        "id": "1660996239218085890",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094291937100730826",
+        "name": "沢渡うめ",
+        "pinned_tweet_id": "2093922884079309196",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1660996239218085890/1787662555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093659886882336768/ULS0oPa7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 34,
+          "like_count": 167,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "coolfishrice",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

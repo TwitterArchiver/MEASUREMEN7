@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2069149152387244175",
+    "created_at": "2026-08-22T09:53:46.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T10:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091101514295336969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1678651719272611841",
+          "start": 0,
+          "username": "miokawa0701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091101514295336969",
+    "in_reply_to_user_id": "1678651719272611841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069149152387244175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miokawa0701 neko老大说的对"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2069149146674790400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcYL6LagAAzvCK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2069149152387244175",
+        "created_at": "2026-08-22T09:53:46.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091101514295336969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1678651719272611841",
+              "start": 0,
+              "username": "miokawa0701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091101514295336969",
+        "in_reply_to_user_id": "1678651719272611841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069149152387244175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miokawa0701 neko老大说的对"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069149146674790400"
+          ]
+        },
+        "author_id": "1678651719272611841",
+        "conversation_id": "2069149152387244175",
+        "created_at": "2026-06-22T20:02:55.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-22T21:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069149152387244175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aWyNHdEGX7",
+              "end": 43,
+              "expanded_url": "https://x.com/miokawa0701/status/2069149152387244175/photo/1",
+              "media_key": "3_2069149146674790400",
+              "start": 20,
+              "url": "https://t.co/aWyNHdEGX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069149152387244175",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2069149146674790400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 58297,
+          "like_count": 1165,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "不要自卑 自卑会让自己变成他人的卑自😡 https://t.co/aWyNHdEGX7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2091101514295336969",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 287,
+          "like_count": 35397,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 7847
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-11T06:26:00.000Z",
+        "description": "💜 向霓虹闪烁的神明献出拥有美貌的代价 💜‖全平台仅此账号‖不卖图包不线下‖全球随机掉落‖E杯赛博魅魔👿‖不接线下‖ 可爱老婆@sanwwww04‖BEST🔥@kendricklamar‖提问箱↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "sanwwww04"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "kendricklamar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_miokawa_1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/_miokawa_1",
+                "start": 0,
+                "url": "https://t.co/ToIRj75vcH"
+              }
+            ]
+          }
+        },
+        "id": "1678651719272611841",
+        "is_identity_verified": false,
+        "location": "距离你 5 m",
+        "most_recent_tweet_id": "2091089038807568405",
+        "name": "neko今天🐱什么",
+        "pinned_tweet_id": "1901950528382497105",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678651719272611841/1775062467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039385871192100864/MoL_KDsP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93526,
+          "following_count": 561,
+          "like_count": 16863,
+          "listed_count": 128,
+          "media_count": 894,
+          "tweet_count": 4728
+        },
+        "url": "https://t.co/ToIRj75vcH",
+        "username": "miokawa0701",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

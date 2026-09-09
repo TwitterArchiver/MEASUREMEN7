@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2083940190742364544",
+    "created_at": "2026-08-18T12:12:05.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T13:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089686769549848914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065744141632626688",
+          "start": 0,
+          "username": "nostalgia1174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089686769549848914",
+    "in_reply_to_user_id": "2065744141632626688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083940190742364544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nostalgia1174 务必捅在我身上"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083940095384801280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOukeb6a0AARgxT.jpg",
+        "width": 1984
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083940097473601536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOukejsbYAACzIv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2083940190742364544",
+        "created_at": "2026-08-18T12:12:05.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089686769549848914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065744141632626688",
+              "start": 0,
+              "username": "nostalgia1174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089686769549848914",
+        "in_reply_to_user_id": "2065744141632626688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083940190742364544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nostalgia1174 务必捅在我身上"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083940095384801280",
+            "3_2083940097473601536"
+          ]
+        },
+        "author_id": "2065744141632626688",
+        "conversation_id": "2083940190742364544",
+        "created_at": "2026-08-02T15:37:13.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083940190742364544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bv2TXkT1rJ",
+              "end": 23,
+              "expanded_url": "https://x.com/nostalgia1174/status/2083940190742364544/photo/1",
+              "media_key": "3_2083940095384801280",
+              "start": 0,
+              "url": "https://t.co/Bv2TXkT1rJ"
+            },
+            {
+              "display_url": "pic.x.com/Bv2TXkT1rJ",
+              "end": 23,
+              "expanded_url": "https://x.com/nostalgia1174/status/2083940190742364544/photo/1",
+              "media_key": "3_2083940097473601536",
+              "start": 0,
+              "url": "https://t.co/Bv2TXkT1rJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083940190742364544",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2083940095384801280"
+          },
+          {
+            "media_key": "3_2083940097473601536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Bv2TXkT1rJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089686769549848914",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 263,
+          "like_count": 33321,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 7248
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-13T10:38:00.000Z",
+        "description": "你能听我说吗",
+        "id": "2065744141632626688",
+        "is_identity_verified": false,
+        "location": "秘密",
+        "most_recent_tweet_id": "2089550981084414000",
+        "name": "所以你在听吗",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065744141632626688/1781348436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075291384517681152/tXpBAzGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "nostalgia1174",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

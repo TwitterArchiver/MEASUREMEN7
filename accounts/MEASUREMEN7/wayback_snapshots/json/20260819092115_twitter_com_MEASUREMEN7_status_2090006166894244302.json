@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090005286451077470",
+    "created_at": "2026-08-19T09:21:15.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090006166894244302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1831671299057623040",
+          "start": 0,
+          "username": "afuai377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090006166894244302",
+    "in_reply_to_user_id": "1831671299057623040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090005286451077470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afuai377 大家都被封了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090005286451077470",
+        "created_at": "2026-08-19T09:21:15.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090006166894244302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1831671299057623040",
+              "start": 0,
+              "username": "afuai377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090006166894244302",
+        "in_reply_to_user_id": "1831671299057623040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090005286451077470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afuai377 大家都被封了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831671299057623040",
+        "conversation_id": "2090005286451077470",
+        "created_at": "2026-08-19T09:17:45.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090005286451077470"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090005286451077470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我掉了好多粉絲呢。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090006166894244302",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 273,
+          "like_count": 34008,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 7432
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-05T12:30:55.000Z",
+        "description": "misery \n\n@kana40427 狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kana40427"
+              }
+            ]
+          }
+        },
+        "id": "1831671299057623040",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2090005286451077470",
+        "name": "ふ愛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831671299057623040/1786202357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086109958400344064/FjbkzIpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8992,
+          "following_count": 250,
+          "like_count": 6453,
+          "listed_count": 8,
+          "media_count": 180,
+          "tweet_count": 807
+        },
+        "url": "",
+        "username": "afuai377",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

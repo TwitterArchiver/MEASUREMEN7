@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090733322590650777",
+    "created_at": "2026-08-21T10:12:51.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T11:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090743929348243516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1895170750002204672",
+          "start": 0,
+          "username": "MiSai28846"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090743929348243516",
+    "in_reply_to_user_id": "1895170750002204672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090733322590650777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiSai28846 明明很好看啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 999,
+        "media_key": "3_2090733282094641153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPG18dWcAED6Y6.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090733322590650777",
+        "created_at": "2026-08-21T10:12:51.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090743929348243516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1895170750002204672",
+              "start": 0,
+              "username": "MiSai28846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090743929348243516",
+        "in_reply_to_user_id": "1895170750002204672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090733322590650777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiSai28846 明明很好看啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090733282094641153"
+          ]
+        },
+        "author_id": "1895170750002204672",
+        "conversation_id": "2090733322590650777",
+        "created_at": "2026-08-21T09:30:42.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090733322590650777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ub9hwA5Q2f",
+              "end": 25,
+              "expanded_url": "https://x.com/MiSai28846/status/2090733322590650777/photo/1",
+              "media_key": "3_2090733282094641153",
+              "start": 2,
+              "url": "https://t.co/Ub9hwA5Q2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090733322590650777",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090733282094641153"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "💔 https://t.co/Ub9hwA5Q2f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090743929348243516",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 288,
+          "like_count": 35002,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 7703
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-27T17:55:02.000Z",
+        "description": "休学中‖日常‖热爱人类‖欢迎私信‖门槛🚪50",
+        "id": "1895170750002204672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090733322590650777",
+        "name": "弥赛亚",
+        "pinned_tweet_id": "2085632056038486124",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1895170750002204672/1786089490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085635144526790657/l-j9Sn9d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 190,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "MiSai28846",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090375929155723395",
+    "created_at": "2026-08-20T11:16:32.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T12:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090397566483796284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "292487623",
+          "start": 0,
+          "username": "CPiovesana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090397566483796284",
+    "in_reply_to_user_id": "292487623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090375929155723395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPiovesana 好惨，小心一点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090375844195905536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKBwUhasAAukE0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090375860121718784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKBxP2bUAA64Du.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090375929155723395",
+        "created_at": "2026-08-20T11:16:32.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090397566483796284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "292487623",
+              "start": 0,
+              "username": "CPiovesana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090397566483796284",
+        "in_reply_to_user_id": "292487623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090375929155723395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPiovesana 好惨，小心一点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090375844195905536",
+            "3_2090375860121718784"
+          ]
+        },
+        "author_id": "292487623",
+        "conversation_id": "2090375929155723395",
+        "created_at": "2026-08-20T09:50:33.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090375929155723395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LSQSQ8XtLv",
+              "end": 42,
+              "expanded_url": "https://x.com/CPiovesana/status/2090375929155723395/photo/1",
+              "media_key": "3_2090375844195905536",
+              "start": 19,
+              "url": "https://t.co/LSQSQ8XtLv"
+            },
+            {
+              "display_url": "pic.x.com/LSQSQ8XtLv",
+              "end": 42,
+              "expanded_url": "https://x.com/CPiovesana/status/2090375929155723395/photo/1",
+              "media_key": "3_2090375860121718784",
+              "start": 19,
+              "url": "https://t.co/LSQSQ8XtLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090375929155723395",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090375844195905536"
+          },
+          {
+            "media_key": "3_2090375860121718784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我踏马从上铺摔下来了脚全都青青紫紫的 https://t.co/LSQSQ8XtLv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090397566483796284",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 284,
+          "like_count": 34582,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 7609
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-05-03T18:41:24.000Z",
+        "description": "od，上学中.非健全，缺爱的人，我会拼尽全力爱你，祈求🥺爱降临在我身边",
+        "id": "292487623",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090383295339270257",
+        "name": "芝麻油",
+        "pinned_tweet_id": "2089709619669295310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/292487623/1787131013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090006102075457536/hbEXWA79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 92,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "CPiovesana",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

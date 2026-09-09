@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089983623487541248"
+      ],
+      "media_source_tweet_id": [
+        "2089983627887337583"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090092726343942558",
+    "created_at": "2026-08-19T15:05:12.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T16:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090092726343942558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721895937357004800",
+          "start": 3,
+          "username": "Strf_9040C"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fxHub12Ede",
+          "end": 51,
+          "expanded_url": "https://x.com/Strf_9040C/status/2089983627887337583/photo/1",
+          "media_key": "3_2089983623487541248",
+          "start": 28,
+          "url": "https://t.co/fxHub12Ede"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090092726343942558",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089983623487541248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089983627887337583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Strf_9040C: 我：下单一份爱\n平台： https://t.co/fxHub12Ede"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 194,
+        "media_key": "3_2089983623487541248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEdCEhb0AAJTwV.jpg",
+        "width": 655
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089983623487541248"
+          ],
+          "media_source_tweet_id": [
+            "2089983627887337583"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090092726343942558",
+        "created_at": "2026-08-19T15:05:12.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090092726343942558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721895937357004800",
+              "start": 3,
+              "username": "Strf_9040C"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fxHub12Ede",
+              "end": 51,
+              "expanded_url": "https://x.com/Strf_9040C/status/2089983627887337583/photo/1",
+              "media_key": "3_2089983623487541248",
+              "start": 28,
+              "url": "https://t.co/fxHub12Ede"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090092726343942558",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089983623487541248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089983627887337583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Strf_9040C: 我：下单一份爱\n平台： https://t.co/fxHub12Ede"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089983623487541248"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2089983627887337583",
+        "created_at": "2026-08-19T07:51:41.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089983627887337583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fxHub12Ede",
+              "end": 35,
+              "expanded_url": "https://x.com/Strf_9040C/status/2089983627887337583/photo/1",
+              "media_key": "3_2089983623487541248",
+              "start": 12,
+              "url": "https://t.co/fxHub12Ede"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089983627887337583",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089983623487541248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 784,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我：下单一份爱\n平台： https://t.co/fxHub12Ede"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090092726343942558",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 276,
+          "like_count": 34223,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 7486
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "is_identity_verified": false,
+        "location": "全真模拟 战区控制 瑞典",
+        "most_recent_tweet_id": "2088836410421936513",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1786049814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 2494,
+          "like_count": 15348,
+          "listed_count": 2,
+          "media_count": 710,
+          "tweet_count": 1229
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

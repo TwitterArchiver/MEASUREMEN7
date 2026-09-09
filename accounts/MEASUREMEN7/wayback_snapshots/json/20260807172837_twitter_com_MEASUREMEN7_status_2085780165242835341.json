@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2085755751931498707",
+    "created_at": "2026-08-07T17:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T18:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085780165242835341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2004554262756651009",
+          "start": 0,
+          "username": "M2uriceRave1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085780165242835341",
+    "in_reply_to_user_id": "2004554262756651009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085779047058174168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M2uriceRave1 你可以连上了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2085755751931498707",
+        "created_at": "2026-08-07T17:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085780165242835341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2004554262756651009",
+              "start": 0,
+              "username": "M2uriceRave1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085780165242835341",
+        "in_reply_to_user_id": "2004554262756651009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085779047058174168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M2uriceRave1 你可以连上了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004554262756651009",
+        "conversation_id": "2085755751931498707",
+        "created_at": "2026-08-07T17:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085779047058174168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085779047058174168",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085755751931498707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 怎么没人嗦话了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 212,
+          "like_count": 29853,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 6032
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T14:06:07.000Z",
+        "description": "post-structuralism…｜純粹符號空轉中…｜🚪88｜申必",
+        "id": "2004554262756651009",
+        "name": "De lá grammatologie",
+        "pinned_tweet_id": "2083468059919208646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083288650322956288/12zGjylI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 53,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "M2uriceRave1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2092642349499461799",
+    "created_at": "2026-08-26T16:15:11.000Z",
+    "display_text_range": [
+      15,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T17:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092647053881135448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1643304029211230208",
+          "start": 0,
+          "username": "Bin_xian_0809"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092647053881135448",
+    "in_reply_to_user_id": "1643304029211230208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092642349499461799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bin_xian_0809 已经红成火爆辣椒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2092642349499461799",
+        "created_at": "2026-08-26T16:15:11.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092647053881135448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1643304029211230208",
+              "start": 0,
+              "username": "Bin_xian_0809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092647053881135448",
+        "in_reply_to_user_id": "1643304029211230208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092642349499461799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bin_xian_0809 已经红成火爆辣椒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643304029211230208",
+        "conversation_id": "2092642349499461799",
+        "created_at": "2026-08-26T15:56:30.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092642349499461799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092642349499461799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我要气死了 我家最近一直莫名其妙断电我他妈打排位呢 电脑直接关机了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2092647053881135448",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 289,
+          "like_count": 36677,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 8113
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-04T17:26:38.000Z",
+        "description": "Dasseinzumtode\n是彬弦\n是耻骨\n想怎么叫我都可以😌",
+        "id": "1643304029211230208",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2092642349499461799",
+        "name": "弦Xian_",
+        "pinned_tweet_id": "1969755868926546246",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643304029211230208/1758042001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967998330438553602/5xGv1bFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 55,
+          "like_count": 1019,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 487
+        },
+        "url": "",
+        "username": "Bin_xian_0809",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2093521330352304321",
+    "created_at": "2026-08-29T04:44:16.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T05:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093560340500099079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2004554262756651009",
+          "start": 0,
+          "username": "M2uriceRave1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093560340500099079",
+    "in_reply_to_user_id": "2004554262756651009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093521330352304321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M2uriceRave1 懂你意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2093521330352304321",
+        "created_at": "2026-08-29T04:44:16.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T05:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093560340500099079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2004554262756651009",
+              "start": 0,
+              "username": "M2uriceRave1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093560340500099079",
+        "in_reply_to_user_id": "2004554262756651009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093521330352304321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M2uriceRave1 懂你意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004554262756651009",
+        "conversation_id": "2093521330352304321",
+        "created_at": "2026-08-29T02:09:15.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T03:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093521330352304321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093521330352304321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我性瘾好强"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2093560340500099079",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 286,
+          "like_count": 37231,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 8233
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T14:06:07.000Z",
+        "description": "post-structuralism…｜純粹符號空轉中…",
+        "id": "2004554262756651009",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093522417268474290",
+        "name": "De lá grammatologie",
+        "pinned_tweet_id": "2083468059919208646",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004554262756651009/1780073297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092543677159940096/JlI8BiUQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 70,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "M2uriceRave1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

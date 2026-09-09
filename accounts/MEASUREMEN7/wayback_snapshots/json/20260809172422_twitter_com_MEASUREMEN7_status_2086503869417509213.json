@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086371548336902230",
+    "created_at": "2026-08-09T17:24:22.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T18:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086503869417509213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2080147029821685760",
+          "start": 0,
+          "username": "Liiimeow_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086503869417509213",
+    "in_reply_to_user_id": "2080147029821685760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086503788853289416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liiimeow_ 等我找找"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086371548336902230",
+        "created_at": "2026-08-09T17:24:22.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086503869417509213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2080147029821685760",
+              "start": 0,
+              "username": "Liiimeow_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086503869417509213",
+        "in_reply_to_user_id": "2080147029821685760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086503788853289416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liiimeow_ 等我找找"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080147029821685760",
+        "conversation_id": "2086371548336902230",
+        "created_at": "2026-08-09T17:24:03.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086503788853289416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086503788853289416",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086371548336902230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 想要测试题😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086503869417509213",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 225,
+          "like_count": 29923,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 6192
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-23T04:27:31.000Z",
+        "description": "欢迎光临喵੭",
+        "id": "2080147029821685760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086503788853289416",
+        "name": "阿狸",
+        "pinned_tweet_id": "2081986380910211296",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080147029821685760/1784786015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080168262974017536/tTCJjrih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 1,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "Liiimeow_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

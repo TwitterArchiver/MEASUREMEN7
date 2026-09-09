@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087884402655408586",
+    "created_at": "2026-08-13T17:02:17.000Z",
+    "display_text_range": [
+      12,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T18:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087947865289293939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2063228399586541568",
+          "start": 0,
+          "username": "_FanQie11_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087947865289293939",
+    "in_reply_to_user_id": "2063228399586541568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087884402655408586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FanQie11_ 你说你连着喝了三杯什么😧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087884402655408586",
+        "created_at": "2026-08-13T17:02:17.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087947865289293939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063228399586541568",
+              "start": 0,
+              "username": "_FanQie11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087947865289293939",
+        "in_reply_to_user_id": "2063228399586541568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087884402655408586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FanQie11_ 你说你连着喝了三杯什么😧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063228399586541568",
+        "conversation_id": "2087884402655408586",
+        "created_at": "2026-08-13T12:50:07.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087884402655408586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_fanqie11_/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/_fanqie11_/status/2087883885984260157",
+              "start": 23,
+              "url": "https://t.co/fqz1GWWtBe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087884402655408586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087883885984260157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "救命了呀我现在不管什么姿势都很疼，我要去吐了 https://t.co/fqz1GWWtBe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087947865289293939",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 252,
+          "like_count": 31483,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 6684
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T11:59:22.000Z",
+        "description": "夺舍成功 AD钙3.0\n前世@ANDEL0426 @adCa00414\n友跨｜无性别｜斑海豹厨\n已飞升",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "ANDEL0426"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "adCa00414"
+              }
+            ]
+          }
+        },
+        "id": "2063228399586541568",
+        "is_identity_verified": false,
+        "location": "尚兴市",
+        "most_recent_tweet_id": "2087944563059302903",
+        "name": "ADneko钙",
+        "pinned_tweet_id": "2087883128497127912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063228399586541568/1786626507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087882265040941056/TE8GWA5K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 111,
+          "like_count": 1817,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1059
+        },
+        "url": "",
+        "username": "_FanQie11_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

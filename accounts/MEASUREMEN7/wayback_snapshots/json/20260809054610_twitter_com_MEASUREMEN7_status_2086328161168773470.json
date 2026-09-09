@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086324336257073525",
+    "created_at": "2026-08-09T05:46:10.000Z",
+    "display_text_range": [
+      16,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T06:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086328161168773470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2011051704440274947",
+          "start": 0,
+          "username": "luminescence_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086328161168773470",
+    "in_reply_to_user_id": "2011051704440274947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086324336257073525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luminescence_0 比较少吧，国内有限高啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086324336257073525",
+        "created_at": "2026-08-09T05:46:10.000Z",
+        "display_text_range": [
+          16,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086328161168773470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011051704440274947",
+              "start": 0,
+              "username": "luminescence_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086328161168773470",
+        "in_reply_to_user_id": "2011051704440274947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086324336257073525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luminescence_0 比较少吧，国内有限高啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011051704440274947",
+        "conversation_id": "2086324336257073525",
+        "created_at": "2026-08-09T05:30:58.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086324336257073525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086324336257073525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇国内能不能租到高楼层在云层上面的公寓"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086328161168773470",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 220,
+          "like_count": 29694,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 6124
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-13T12:24:59.000Z",
+        "description": "Non-binary⚧️ Demisexual\nThey told me all of my cages were mental \nSo I got wasted like all my potential",
+        "id": "2011051704440274947",
+        "is_identity_verified": false,
+        "location": "武汉",
+        "most_recent_tweet_id": "2086324336257073525",
+        "name": "Lumina 🖤🩶🤍💚",
+        "pinned_tweet_id": "2085652563123425773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011051704440274947/1786021324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084587964534075392/6Jteg4vy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 427,
+          "like_count": 2955,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 466
+        },
+        "url": "",
+        "username": "luminescence_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

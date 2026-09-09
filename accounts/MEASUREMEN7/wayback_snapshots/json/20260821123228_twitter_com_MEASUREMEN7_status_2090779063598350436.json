@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090777838438023665",
+    "created_at": "2026-08-21T12:32:28.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T13:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090779063598350436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592440703921319938",
+          "start": 0,
+          "username": "haruyuki_TuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090779063598350436",
+    "in_reply_to_user_id": "1592440703921319938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090777838438023665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haruyuki_TuT 和健全人早就隔着墙了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090777838438023665",
+        "created_at": "2026-08-21T12:32:28.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090779063598350436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592440703921319938",
+              "start": 0,
+              "username": "haruyuki_TuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090779063598350436",
+        "in_reply_to_user_id": "1592440703921319938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090777838438023665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haruyuki_TuT 和健全人早就隔着墙了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592440703921319938",
+        "conversation_id": "2090777838438023665",
+        "created_at": "2026-08-21T12:27:36.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090777838438023665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/todorokidoya1/…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/todorokidoya1/status/2090671522084208779",
+              "start": 114,
+              "url": "https://t.co/fchV7124tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090777838438023665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090671522084208779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是這樣的\n雖然大眾都覺得總不可能一輩子都當神經病吧 總得變正常人的\n但事實上即使生活作息跟行為變得像健全人 內心也依舊是個神經病\n思維模式和性格已經被侵蝕太久早已定型 最多只是做到隱藏和偽裝\n我一輩子都不可能真的是個正常人的。 https://t.co/fchV7124tv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090779063598350436",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 288,
+          "like_count": 35084,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 7749
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-15T08:53:58.000Z",
+        "description": "我們只是網友 你把手機摔了我就死了ok?",
+        "id": "1592440703921319938",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090777838438023665",
+        "name": "社底宅女家裡蹲",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592440703921319938/1781914813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068126693324382208/u0YrbeTG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 10,
+          "like_count": 775,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 208
+        },
+        "url": "",
+        "username": "haruyuki_TuT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

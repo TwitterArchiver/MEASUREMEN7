@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090694299671519489",
+    "created_at": "2026-08-21T07:25:29.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T08:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090701809757393371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2083477847797362688",
+          "start": 0,
+          "username": "adCa00414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090701809757393371",
+    "in_reply_to_user_id": "2083477847797362688",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090694299671519489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adCa00414 TVT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090694275759751168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOjXeiaQAA91DX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090694299671519489",
+        "created_at": "2026-08-21T07:25:29.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090701809757393371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2083477847797362688",
+              "start": 0,
+              "username": "adCa00414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090701809757393371",
+        "in_reply_to_user_id": "2083477847797362688",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090694299671519489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adCa00414 TVT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090694275759751168"
+          ]
+        },
+        "author_id": "2083477847797362688",
+        "conversation_id": "2090694299671519489",
+        "created_at": "2026-08-21T06:55:38.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090694299671519489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cb0BWPeUL0",
+              "end": 27,
+              "expanded_url": "https://x.com/adCa00414/status/2090694299671519489/photo/1",
+              "media_key": "3_2090694275759751168",
+              "start": 4,
+              "url": "https://t.co/Cb0BWPeUL0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090694299671519489",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2090694275759751168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "T^T https://t.co/Cb0BWPeUL0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090701809757393371",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 288,
+          "like_count": 34956,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 7697
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T09:01:29.000Z",
+        "description": "前世@ANDEL0426\n我的狗狗@xxs0721 \n纯绿墙外🚪30 不加v 完全被动聊天\n可能是友跨｜烟鬼｜海豹厨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "ANDEL0426"
+              },
+              {
+                "end": 25,
+                "start": 17,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "2083477847797362688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090694299671519489",
+        "name": "ADniako喵",
+        "pinned_tweet_id": "2089180053561278594",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083477847797362688/1786896504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083478390020149248/3ahRmuL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 113,
+          "like_count": 631,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 364
+        },
+        "url": "",
+        "username": "adCa00414",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

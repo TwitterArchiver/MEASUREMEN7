@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086370533487378911",
+    "created_at": "2026-08-11T02:00:50.000Z",
+    "display_text_range": [
+      16,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T03:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086996232464150705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2068912982718070784",
+          "start": 0,
+          "username": "OuyangTianzhou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086996232464150705",
+    "in_reply_to_user_id": "2068912982718070784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086951033498980352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuyangTianzhou 已经出了，但是总感觉高中生活已经留下阴影了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086370533487378911",
+        "created_at": "2026-08-11T02:00:50.000Z",
+        "display_text_range": [
+          16,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T03:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086996232464150705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2068912982718070784",
+              "start": 0,
+              "username": "OuyangTianzhou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086996232464150705",
+        "in_reply_to_user_id": "2068912982718070784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086951033498980352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuyangTianzhou 已经出了，但是总感觉高中生活已经留下阴影了😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068912982718070784",
+        "conversation_id": "2086370533487378911",
+        "created_at": "2026-08-10T23:01:14.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T00:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086951033498980352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086951033498980352",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086370533487378911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 这么晚还没出成绩吗？😐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086996232464150705",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 232,
+          "like_count": 30358,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 6309
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T04:25:46.000Z",
+        "description": "",
+        "id": "2068912982718070784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086987965516087520",
+        "name": "Ouyang Tianzhou",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086733291835559936/9F7zvmGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 103,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "OuyangTianzhou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

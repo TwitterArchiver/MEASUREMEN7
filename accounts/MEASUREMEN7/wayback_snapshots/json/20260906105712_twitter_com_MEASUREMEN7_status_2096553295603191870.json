@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2096546529175855598",
+    "created_at": "2026-09-06T10:57:12.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T11:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096553295603191870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2075670932119859200",
+          "start": 0,
+          "username": "_1wf_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096553295603191870",
+    "in_reply_to_user_id": "2075670932119859200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096546529175855598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_1wf_0 希望可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096546523048026112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRht9GlboAAqHg3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2096546529175855598",
+        "created_at": "2026-09-06T10:57:12.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096553295603191870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075670932119859200",
+              "start": 0,
+              "username": "_1wf_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096553295603191870",
+        "in_reply_to_user_id": "2075670932119859200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096546529175855598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_1wf_0 希望可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096546523048026112"
+          ]
+        },
+        "author_id": "2075670932119859200",
+        "conversation_id": "2096546529175855598",
+        "created_at": "2026-09-06T10:30:19.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096546529175855598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wOu8c8NEOZ",
+              "end": 31,
+              "expanded_url": "https://x.com/_1wf_0/status/2096546529175855598/photo/1",
+              "media_key": "3_2096546523048026112",
+              "start": 8,
+              "url": "https://t.co/wOu8c8NEOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096546529175855598",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096546523048026112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死亡就会幸福吗 https://t.co/wOu8c8NEOZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2096553295603191870",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 287,
+          "like_count": 39095,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 8592
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ\n彼氏がいます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2096546529175855598",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 68,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

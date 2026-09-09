@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090083176958005321",
+    "created_at": "2026-08-19T14:28:37.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090083521226535192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053112758531715072",
+          "start": 0,
+          "username": "Nevado_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090083521226535192",
+    "in_reply_to_user_id": "2053112758531715072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090083176958005321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nevado_snow 西瓜好好吃🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090083149569310721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQF3jQEbwAExoRp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090083176958005321",
+        "created_at": "2026-08-19T14:28:37.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090083521226535192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053112758531715072",
+              "start": 0,
+              "username": "Nevado_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090083521226535192",
+        "in_reply_to_user_id": "2053112758531715072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090083176958005321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nevado_snow 西瓜好好吃🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090083149569310721"
+          ]
+        },
+        "author_id": "2053112758531715072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2090083176958005321",
+        "created_at": "2026-08-19T14:27:15.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090083176958005321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VuWXP0PUv6",
+              "end": 30,
+              "expanded_url": "https://x.com/Nevado_snow/status/2090083176958005321/photo/1",
+              "media_key": "3_2090083149569310721",
+              "start": 7,
+              "url": "https://t.co/VuWXP0PUv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090083176958005321",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090083149569310721"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱吃西瓜之人 https://t.co/VuWXP0PUv6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090083521226535192",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 274,
+          "like_count": 34167,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 7474
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T14:02:08.000Z",
+        "description": "如果哪天我沓無音訊\nngl⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nevado22756",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nevado22756",
+                "start": 0,
+                "url": "https://t.co/s4fAatf6cF"
+              }
+            ]
+          }
+        },
+        "id": "2053112758531715072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090083176958005321",
+        "name": "Nevado",
+        "pinned_tweet_id": "2089292340527784143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053112758531715072/1778510723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065997076903927808/seoscLhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 78,
+          "like_count": 12923,
+          "listed_count": 0,
+          "media_count": 712,
+          "tweet_count": 3743
+        },
+        "url": "https://t.co/s4fAatf6cF",
+        "username": "Nevado_snow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

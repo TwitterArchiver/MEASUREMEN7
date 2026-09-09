@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2091964553659851154",
+    "created_at": "2026-08-24T19:07:26.000Z",
+    "display_text_range": [
+      14,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T20:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091965625094824253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090325165590876160",
+          "start": 0,
+          "username": "hoshino_Fuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091965625094824253",
+    "in_reply_to_user_id": "2090325165590876160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091964553659851154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshino_Fuji 大概是连着夜宵和早餐一起做了吧，有的店会顺便做一些卖给上完夜班的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2091964537213968384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgmqbNaYAAUaWj.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2091964553659851154",
+        "created_at": "2026-08-24T19:07:26.000Z",
+        "display_text_range": [
+          14,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T20:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091965625094824253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090325165590876160",
+              "start": 0,
+              "username": "hoshino_Fuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091965625094824253",
+        "in_reply_to_user_id": "2090325165590876160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091964553659851154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshino_Fuji 大概是连着夜宵和早餐一起做了吧，有的店会顺便做一些卖给上完夜班的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091964537213968384"
+          ]
+        },
+        "author_id": "2090325165590876160",
+        "conversation_id": "2091964553659851154",
+        "created_at": "2026-08-24T19:03:11.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T20:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091964553659851154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YKj96zNzOk",
+              "end": 32,
+              "expanded_url": "https://x.com/hoshino_Fuji/status/2091964553659851154/photo/1",
+              "media_key": "3_2091964537213968384",
+              "start": 9,
+              "url": "https://t.co/YKj96zNzOk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091964553659851154",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091964537213968384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这早餐也太早了吧 https://t.co/YKj96zNzOk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2091965625094824253",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 290,
+          "like_count": 36042,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 8009
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T06:30:41.000Z",
+        "description": "|星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜一代目@hoshinofujivy（13k fo）｜二代目@realhoshinofuji（2.7k fo）｜Luv NASA｜love the world｜来吧，我的故事很多｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 101,
+                "start": 85,
+                "username": "realhoshinofuji"
+              }
+            ]
+          }
+        },
+        "id": "2090325165590876160",
+        "is_identity_verified": false,
+        "location": "台湾，真理子怀里",
+        "most_recent_tweet_id": "2091964553659851154",
+        "name": "星野藤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090325165590876160/1787394878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090738941590929408/IdtRzvyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 322,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "hoshino_Fuji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

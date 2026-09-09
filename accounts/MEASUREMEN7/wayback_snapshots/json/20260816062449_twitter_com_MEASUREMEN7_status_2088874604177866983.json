@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088840803783168014",
+    "created_at": "2026-08-16T06:24:49.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088874604177866983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1481739605753933830",
+          "start": 0,
+          "username": "manu775783284"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088874604177866983",
+    "in_reply_to_user_id": "1481739605753933830",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088840803783168014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manu775783284 挠挠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2518,
+        "media_key": "3_2088840794157559808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0NopgbMAAnU1y.jpg",
+        "width": 1888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088840803783168014",
+        "created_at": "2026-08-16T06:24:49.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088874604177866983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1481739605753933830",
+              "start": 0,
+              "username": "manu775783284"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088874604177866983",
+        "in_reply_to_user_id": "1481739605753933830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088840803783168014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manu775783284 挠挠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088840794157559808"
+          ]
+        },
+        "author_id": "1481739605753933830",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088840803783168014",
+        "created_at": "2026-08-16T04:10:31.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088840803783168014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZOe0VelFE",
+              "end": 28,
+              "expanded_url": "https://x.com/manu775783284/status/2088840803783168014/photo/1",
+              "media_key": "3_2088840794157559808",
+              "start": 5,
+              "url": "https://t.co/XZOe0VelFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088840803783168014",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088840794157559808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌蚊子 https://t.co/XZOe0VelFE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088874604177866983",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 248,
+          "like_count": 32230,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 6863
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-13T21:27:29.000Z",
+        "description": "想做一只猫",
+        "id": "1481739605753933830",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2088840803783168014",
+        "name": "饭团",
+        "pinned_tweet_id": "2087925495493275950",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481739605753933830/1785757042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084697084092100608/LMF8KhnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 2,
+          "like_count": 1715,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "manu775783284",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

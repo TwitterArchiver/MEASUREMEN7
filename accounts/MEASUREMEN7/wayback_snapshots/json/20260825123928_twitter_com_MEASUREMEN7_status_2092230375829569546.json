@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2092221614024950268",
+    "created_at": "2026-08-25T12:39:28.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T13:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092230375829569546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090325165590876160",
+          "start": 0,
+          "username": "hoshino_Fuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092230375829569546",
+    "in_reply_to_user_id": "2090325165590876160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092221614024950268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshino_Fuji 可以做电饭煲鸡了（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2092221587877744640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkQcvjbUAAhTYt.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2092221614024950268",
+        "created_at": "2026-08-25T12:39:28.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092230375829569546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090325165590876160",
+              "start": 0,
+              "username": "hoshino_Fuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092230375829569546",
+        "in_reply_to_user_id": "2090325165590876160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092221614024950268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshino_Fuji 可以做电饭煲鸡了（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092221587877744640"
+          ]
+        },
+        "author_id": "2090325165590876160",
+        "conversation_id": "2092221614024950268",
+        "created_at": "2026-08-25T12:04:39.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092221614024950268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PqNtHxFR6N",
+              "end": 35,
+              "expanded_url": "https://x.com/hoshino_Fuji/status/2092221614024950268/photo/1",
+              "media_key": "3_2092221587877744640",
+              "start": 12,
+              "url": "https://t.co/PqNtHxFR6N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092221614024950268",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092221587877744640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲戚家送了我一只电饭煲 https://t.co/PqNtHxFR6N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2092230375829569546",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 288,
+          "like_count": 36345,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 8044
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T06:30:41.000Z",
+        "description": "|星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜一代目@hoshinofujivy（13k fo）｜二代目@realhoshinofuji（2.7k fo）｜Luv NASA｜love the world｜来吧，我的故事很多｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 101,
+                "start": 85,
+                "username": "realhoshinofuji"
+              }
+            ]
+          }
+        },
+        "id": "2090325165590876160",
+        "is_identity_verified": false,
+        "location": "台湾，真理子怀里",
+        "most_recent_tweet_id": "2092221614024950268",
+        "name": "星野藤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090325165590876160/1787394878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090738941590929408/IdtRzvyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 324,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "hoshino_Fuji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

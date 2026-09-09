@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089712841842663424"
+      ],
+      "media_source_tweet_id": [
+        "2089712868921077857"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2089719276437717191",
+    "created_at": "2026-08-18T14:21:15.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T15:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089719276437717191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1880803334405435393",
+          "start": 3,
+          "username": "tiantmaoshenshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1yGyJsesZk",
+          "end": 44,
+          "expanded_url": "https://x.com/tiantmaoshenshi/status/2089712868921077857/video/1",
+          "media_key": "13_2089712841842663424",
+          "start": 21,
+          "url": "https://t.co/1yGyJsesZk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089719276437717191",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2089712841842663424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089712868921077857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tiantmaoshenshi: https://t.co/1yGyJsesZk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12179,
+        "height": 640,
+        "media_key": "13_2089712841842663424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089712841842663424/img/TDb2is1dIYTolx0q.jpg",
+        "public_metrics": {
+          "view_count": 26
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089712841842663424/vid/avc1/288x640/__Hxbxp3073pb8df.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089712841842663424/pl/aYfJxCql1H8_i-4p.m3u8"
+          }
+        ],
+        "width": 288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089712841842663424"
+          ],
+          "media_source_tweet_id": [
+            "2089712868921077857"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089719276437717191",
+        "created_at": "2026-08-18T14:21:15.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089719276437717191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1880803334405435393",
+              "start": 3,
+              "username": "tiantmaoshenshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1yGyJsesZk",
+              "end": 44,
+              "expanded_url": "https://x.com/tiantmaoshenshi/status/2089712868921077857/video/1",
+              "media_key": "13_2089712841842663424",
+              "start": 21,
+              "url": "https://t.co/1yGyJsesZk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089719276437717191",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2089712841842663424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089712868921077857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tiantmaoshenshi: https://t.co/1yGyJsesZk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089712841842663424"
+          ]
+        },
+        "author_id": "1880803334405435393",
+        "conversation_id": "2089712868921077857",
+        "created_at": "2026-08-18T13:55:47.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T14:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089712868921077857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1yGyJsesZk",
+              "end": 23,
+              "expanded_url": "https://x.com/tiantmaoshenshi/status/2089712868921077857/video/1",
+              "media_key": "13_2089712841842663424",
+              "start": 0,
+              "url": "https://t.co/1yGyJsesZk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089712868921077857",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2089712841842663424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1yGyJsesZk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089719276437717191",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 265,
+          "like_count": 33424,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 7283
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "友一切 靠近才能了解的兔子         \n喜歡視奸喜歡犯病\n有一群非常善良的天使陪著我🥹🥹\n\n                        https://t.co/wDrA82nsIu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miao53379",
+                "end": 96,
+                "expanded_url": "https://ngl.link/miao53379",
+                "start": 73,
+                "url": "https://t.co/wDrA82nsIu"
+              }
+            ]
+          }
+        },
+        "id": "1880803334405435393",
+        "is_identity_verified": false,
+        "location": "中北海 🚪114514",
+        "most_recent_tweet_id": "2089717575785836716",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2072983024334189012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880803334405435393/1781014159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081997738003300352/-VJPrMj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 1306,
+          "like_count": 14316,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 10232
+        },
+        "url": "",
+        "username": "tiantmaoshenshi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

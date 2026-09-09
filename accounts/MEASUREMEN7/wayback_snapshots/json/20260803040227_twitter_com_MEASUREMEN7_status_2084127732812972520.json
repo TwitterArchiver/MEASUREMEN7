@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084127725267406848"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2084127732812972520",
+    "created_at": "2026-08-03T04:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084127732812972520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HmtMDo6cO5",
+          "end": 29,
+          "expanded_url": "https://x.com/MEASUREMEN7/status/2084127732812972520/photo/1",
+          "media_key": "3_2084127725267406848",
+          "start": 6,
+          "url": "https://t.co/HmtMDo6cO5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084127732812972520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人玩吗🥹 https://t.co/HmtMDo6cO5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2084127725267406848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxPH7sbUAAoNHd.jpg",
+        "width": 753
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084127725267406848"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2084127732812972520",
+        "created_at": "2026-08-03T04:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084127732812972520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HmtMDo6cO5",
+              "end": 29,
+              "expanded_url": "https://x.com/MEASUREMEN7/status/2084127732812972520/photo/1",
+              "media_key": "3_2084127725267406848",
+              "start": 6,
+              "url": "https://t.co/HmtMDo6cO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084127732812972520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人玩吗🥹 https://t.co/HmtMDo6cO5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 28,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 5,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 195,
+          "like_count": 28413,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 5680
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      }
+    ]
+  }
+}

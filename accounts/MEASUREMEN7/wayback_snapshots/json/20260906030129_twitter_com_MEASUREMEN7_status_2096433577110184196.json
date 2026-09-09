@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2096432537728098515",
+    "created_at": "2026-09-06T03:01:29.000Z",
+    "display_text_range": [
+      8,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T04:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096433577110184196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1958823376539262976",
+          "start": 0,
+          "username": "O7Uywn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096433577110184196",
+    "in_reply_to_user_id": "1958823376539262976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096432537728098515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O7Uywn od是对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2096432537728098515",
+        "created_at": "2026-09-06T03:01:29.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096433577110184196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1958823376539262976",
+              "start": 0,
+              "username": "O7Uywn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096433577110184196",
+        "in_reply_to_user_id": "1958823376539262976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096432537728098515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O7Uywn od是对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958823376539262976",
+        "conversation_id": "2096432537728098515",
+        "created_at": "2026-09-06T02:57:21.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T03:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096432537728098515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096432537728098515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每次焦虑都会疯狂od……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2096433577110184196",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 287,
+          "like_count": 38990,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 8571
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-22T09:27:52.000Z",
+        "description": "我別無選擇",
+        "id": "1958823376539262976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096432537728098515",
+        "name": "柏林",
+        "pinned_tweet_id": "2068062185247719870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1958823376539262976/1772238236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089099309602181120/8jg1D6xw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 55,
+          "like_count": 1055,
+          "listed_count": 0,
+          "media_count": 649,
+          "tweet_count": 2807
+        },
+        "url": "",
+        "username": "O7Uywn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

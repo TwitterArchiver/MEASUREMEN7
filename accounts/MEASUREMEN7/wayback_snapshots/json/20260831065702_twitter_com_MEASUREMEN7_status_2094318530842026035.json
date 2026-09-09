@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2094314421502021844",
+    "created_at": "2026-08-31T06:57:02.000Z",
+    "display_text_range": [
+      11,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T07:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094318530842026035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1755853048277331968",
+          "start": 0,
+          "username": "miaodeisu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094318530842026035",
+    "in_reply_to_user_id": "1755853048277331968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094314421502021844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaodeisu 🤔并没有看见照片，原来是被删了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2094314421502021844",
+        "created_at": "2026-08-31T06:57:02.000Z",
+        "display_text_range": [
+          11,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T07:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094318530842026035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1755853048277331968",
+              "start": 0,
+              "username": "miaodeisu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094318530842026035",
+        "in_reply_to_user_id": "1755853048277331968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094314421502021844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaodeisu 🤔并没有看见照片，原来是被删了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755853048277331968",
+        "conversation_id": "2094314421502021844",
+        "created_at": "2026-08-31T06:40:43.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T07:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094314421502021844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miaodeisu/stat…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/miaodeisu/status/2094077336060850591",
+              "start": 40,
+              "url": "https://t.co/XkJewsjbRF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094314421502021844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094077336060850591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发了之后还是马上删掉了。总有一种异样的感觉。或许还得再过段时间吧（心理建设中） https://t.co/XkJewsjbRF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2094318530842026035",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 290,
+          "like_count": 38109,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 8387
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-09T07:16:20.000Z",
+        "description": "請不要注意我的垃圾｜⬇️提問箱｜想認識有趣的朋友\n(｡･ω･｡)互fo請私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iceee_r_kkeca",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iceee_r_kkeca",
+                "start": 0,
+                "url": "https://t.co/f2NVo3zv4Y"
+              }
+            ]
+          }
+        },
+        "id": "1755853048277331968",
+        "is_identity_verified": false,
+        "location": "天國",
+        "most_recent_tweet_id": "2094318347538325790",
+        "name": "ガラスみたいだ",
+        "pinned_tweet_id": "2093762741861487078",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755853048277331968/1787810910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093107432541286400/SjkojY_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 118,
+          "like_count": 1097,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 698
+        },
+        "url": "https://t.co/f2NVo3zv4Y",
+        "username": "miaodeisu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

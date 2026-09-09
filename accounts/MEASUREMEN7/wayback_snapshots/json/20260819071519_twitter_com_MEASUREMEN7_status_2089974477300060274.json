@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089963724476162431",
+    "created_at": "2026-08-19T07:15:19.000Z",
+    "display_text_range": [
+      11,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089974477300060274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1807823851818307584",
+          "start": 0,
+          "username": "uiamu7133"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089974477300060274",
+    "in_reply_to_user_id": "1807823851818307584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089963724476162431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uiamu7133 好耶，我的头像好大一个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1790,
+        "media_key": "3_2089963712249806848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEK7FYbQAAwl1N.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089963724476162431",
+        "created_at": "2026-08-19T07:15:19.000Z",
+        "display_text_range": [
+          11,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089974477300060274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1807823851818307584",
+              "start": 0,
+              "username": "uiamu7133"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089974477300060274",
+        "in_reply_to_user_id": "1807823851818307584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089963724476162431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uiamu7133 好耶，我的头像好大一个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089963712249806848"
+          ]
+        },
+        "author_id": "1807823851818307584",
+        "conversation_id": "2089963724476162431",
+        "created_at": "2026-08-19T06:32:36.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089963724476162431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zoSDZXjPHY",
+              "end": 56,
+              "expanded_url": "https://x.com/AUMIN273497/status/2089963724476162431/photo/1",
+              "media_key": "3_2089963712249806848",
+              "start": 33,
+              "url": "https://t.co/zoSDZXjPHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089963724476162431",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089963712249806848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢陪伴🦭💗\n\n卧槽我手搓的累死我了\n应该都有吧 看到的都在里面 https://t.co/zoSDZXjPHY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089974477300060274",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 278,
+          "like_count": 33909,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 7406
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-01T17:09:39.000Z",
+        "description": "天上天下 惟我独尊\n本体@xsen60102\n此为备用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "xsen60102"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uiamu",
+                "end": 23,
+                "expanded_url": "http://ngl.link/uiamu",
+                "start": 0,
+                "url": "https://t.co/Q7txBno9OX"
+              }
+            ]
+          }
+        },
+        "id": "1807823851818307584",
+        "is_identity_verified": false,
+        "location": "海拉鲁大陆",
+        "most_recent_tweet_id": "2089974312061337972",
+        "name": "uiamu 2.0",
+        "pinned_tweet_id": "2088838041079267362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807823851818307584/1786987986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089405123445637121/8zwqObXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 46,
+          "like_count": 666,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/Q7txBno9OX",
+        "username": "uiamu7133",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

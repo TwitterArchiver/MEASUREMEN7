@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089935139459695075",
+    "created_at": "2026-08-19T05:15:18.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T06:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089944271365578948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1707942291065733120",
+          "start": 0,
+          "username": "Ayanami759638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089944271365578948",
+    "in_reply_to_user_id": "1707942291065733120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089943753641357534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami759638 因为我恨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089935139459695075",
+        "created_at": "2026-08-19T05:15:18.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089944271365578948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707942291065733120",
+              "start": 0,
+              "username": "Ayanami759638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089944271365578948",
+        "in_reply_to_user_id": "1707942291065733120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089943753641357534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami759638 因为我恨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707942291065733120",
+        "conversation_id": "2089935139459695075",
+        "created_at": "2026-08-19T05:13:14.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089943753641357534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089943753641357534",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089935139459695075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 纯恨吗。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089944271365578948",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 276,
+          "like_count": 33837,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 7384
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-30T02:16:02.000Z",
+        "description": "不喜欢张元英的不要关注我 额虽然没什么关注的价值吧 但是我不喜欢不喜欢张元英的所以请不要关注我\n匿名提问https://t.co/UiciMCmnQh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nevermind89790",
+                "end": 75,
+                "expanded_url": "https://ngl.link/nevermind89790",
+                "start": 52,
+                "url": "https://t.co/UiciMCmnQh"
+              }
+            ]
+          }
+        },
+        "id": "1707942291065733120",
+        "is_identity_verified": false,
+        "location": "your heart",
+        "most_recent_tweet_id": "2089944049096499239",
+        "name": "Ayanami",
+        "pinned_tweet_id": "2088923295106187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707942291065733120/1786350443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085059369645883392/RSdLwGhJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 48,
+          "like_count": 4468,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 797
+        },
+        "url": "",
+        "username": "Ayanami759638",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

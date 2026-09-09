@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066008572509687808"
+      ],
+      "media_source_tweet_id": [
+        "2066008924957163776"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089903416609014106",
+    "created_at": "2026-08-19T02:32:57.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T03:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089903416609014106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1792463719563419648",
+          "start": 3,
+          "username": "hyouhakusha8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BN5rgNgdH7",
+          "end": 69,
+          "expanded_url": "https://x.com/hyouhakusha8964/status/2066008924957163776/photo/1",
+          "media_key": "3_2066008572509687808",
+          "start": 46,
+          "url": "https://t.co/BN5rgNgdH7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089903416609014106",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2066008572509687808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066008924957163776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hyouhakusha8964: 每一科都是99分，说了多少遍别没事在家召唤恶魔玩 https://t.co/BN5rgNgdH7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 565,
+        "media_key": "3_2066008572509687808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvv2btaEAA1GBc.png",
+        "width": 659
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066008572509687808"
+          ],
+          "media_source_tweet_id": [
+            "2066008924957163776"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089903416609014106",
+        "created_at": "2026-08-19T02:32:57.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T03:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089903416609014106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1792463719563419648",
+              "start": 3,
+              "username": "hyouhakusha8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BN5rgNgdH7",
+              "end": 69,
+              "expanded_url": "https://x.com/hyouhakusha8964/status/2066008924957163776/photo/1",
+              "media_key": "3_2066008572509687808",
+              "start": 46,
+              "url": "https://t.co/BN5rgNgdH7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089903416609014106",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2066008572509687808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066008924957163776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hyouhakusha8964: 每一科都是99分，说了多少遍别没事在家召唤恶魔玩 https://t.co/BN5rgNgdH7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066008572509687808"
+          ]
+        },
+        "author_id": "1792463719563419648",
+        "conversation_id": "2066008924957163776",
+        "created_at": "2026-06-14T04:04:46.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066008924957163776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BN5rgNgdH7",
+              "end": 48,
+              "expanded_url": "https://x.com/hyouhakusha8964/status/2066008924957163776/photo/1",
+              "media_key": "3_2066008572509687808",
+              "start": 25,
+              "url": "https://t.co/BN5rgNgdH7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066008924957163776",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2066008572509687808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 394,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每一科都是99分，说了多少遍别没事在家召唤恶魔玩 https://t.co/BN5rgNgdH7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089903416609014106",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 273,
+          "like_count": 33673,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 7352
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-20T07:54:17.000Z",
+        "description": "一花盛开一世界，一生相思为一人。\n撑，一把青竹伞，赴，一场旧时约。",
+        "id": "1792463719563419648",
+        "is_identity_verified": false,
+        "location": "你的肩旁",
+        "most_recent_tweet_id": "2089841512750489724",
+        "name": "爱大家的阿漂吖",
+        "pinned_tweet_id": "2069682477057364313",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792463719563419648/1718995372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012439866202845184/dFHzDK44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 1042,
+          "like_count": 53481,
+          "listed_count": 6,
+          "media_count": 636,
+          "tweet_count": 15369
+        },
+        "url": "",
+        "username": "hyouhakusha8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2083994597685158157",
+    "created_at": "2026-08-03T03:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084124366145736808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1784560894334443520",
+          "start": 0,
+          "username": "yidian_hb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084124366145736808",
+    "in_reply_to_user_id": "1784560894334443520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083994597685158157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yidian_hb 贫乳短发才牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083994552130846720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvWAPGbwAASdGe.jpg",
+        "width": 1710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2083994597685158157",
+        "created_at": "2026-08-03T03:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084124366145736808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1784560894334443520",
+              "start": 0,
+              "username": "yidian_hb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084124366145736808",
+        "in_reply_to_user_id": "1784560894334443520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083994597685158157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yidian_hb 贫乳短发才牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083994552130846720"
+          ]
+        },
+        "author_id": "1784560894334443520",
+        "conversation_id": "2083994597685158157",
+        "created_at": "2026-08-02T19:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083994597685158157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d2LrzP3Q8A",
+              "end": 28,
+              "expanded_url": "https://x.com/yidian_hb/status/2083994597685158157/photo/1",
+              "media_key": "3_2083994552130846720",
+              "start": 5,
+              "url": "https://t.co/d2LrzP3Q8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083994597685158157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贫乳牛逼 https://t.co/d2LrzP3Q8A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 28,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 5,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 195,
+          "like_count": 28400,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 5676
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T12:30:59.000Z",
+        "description": "⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄",
+        "id": "1784560894334443520",
+        "name": "我真不是一点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870068812730818560/uxysUn4L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 41,
+          "like_count": 1165,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "yidian_hb",
+        "verified": false
+      }
+    ]
+  }
+}

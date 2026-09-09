@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088950750185681065",
+    "created_at": "2026-08-16T16:26:58.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089026139536937226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1884587143282171904",
+          "start": 0,
+          "username": "Ritz_0916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089026139536937226",
+    "in_reply_to_user_id": "1884587143282171904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088950750185681065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ritz_0916 好多啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088950750185681065",
+        "created_at": "2026-08-16T16:26:58.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089026139536937226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1884587143282171904",
+              "start": 0,
+              "username": "Ritz_0916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089026139536937226",
+        "in_reply_to_user_id": "1884587143282171904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088950750185681065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ritz_0916 好多啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2088950750185681065",
+        "created_at": "2026-08-16T11:27:24.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088950750185681065"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088950750185681065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3225mg pr 在马桶上坐了好久，依旧厕所战神。然后社交增强，喔喔现在摇摇晃晃地有动力要收拾东西了，太好，pr治好了我的拖延症。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089026139536937226",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 252,
+          "like_count": 32437,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 6935
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖",
+        "most_recent_tweet_id": "2088950750185681065",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884587143282171904/1774320556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 1122,
+          "like_count": 11416,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1355
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

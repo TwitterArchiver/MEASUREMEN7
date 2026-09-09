@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2085289178435289570",
+    "created_at": "2026-08-06T09:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T10:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085299960464208283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1433641356",
+          "start": 0,
+          "username": "sakiiloveyouqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085299960464208283",
+    "in_reply_to_user_id": "1433641356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085289178435289570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakiiloveyouqwq 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7764,
+        "height": 970,
+        "media_key": "13_2085289150694236160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085289150694236160/img/O1sVxIwJkMtOFlRj.jpg",
+        "public_metrics": {
+          "view_count": 37
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085289150694236160/vid/avc1/320x430/gynGjqyq7HsjZrBZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085289150694236160/vid/avc1/480x646/kuxHCpyxOmOI45_4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085289150694236160/vid/avc1/720x970/jRGZpz39qIDB_IsY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085289150694236160/pl/9ihJXr99L-EWzpnv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2085289178435289570",
+        "created_at": "2026-08-06T09:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085299960464208283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1433641356",
+              "start": 0,
+              "username": "sakiiloveyouqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085299960464208283",
+        "in_reply_to_user_id": "1433641356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085289178435289570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakiiloveyouqwq 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085289150694236160"
+          ]
+        },
+        "author_id": "1433641356",
+        "conversation_id": "2085289178435289570",
+        "created_at": "2026-08-06T08:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085289178435289570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9yESA0114s",
+              "end": 34,
+              "expanded_url": "https://x.com/sakiiloveyouqwq/status/2085289178435289570/video/1",
+              "media_key": "13_2085289150694236160",
+              "start": 11,
+              "url": "https://t.co/9yESA0114s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085289178435289570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道何年何月拍的了 https://t.co/9yESA0114s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 199,
+          "like_count": 29247,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 5892
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-16T17:56:27.000Z",
+        "description": "你好这里saki |重焦重抑|餐劵|地雷女|\n最重要的…药药…|小号备用@Ankoqwqaaa\n喜欢的会互fo，欢迎私信闲聊\n🚪52 口令红包+姓/赞赏码\n想要更多朋友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Ankoqwqaaa"
+              }
+            ]
+          }
+        },
+        "id": "1433641356",
+        "location": "Tokyo-to, Japan",
+        "name": "saki",
+        "pinned_tweet_id": "2084734812410229049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066439581046882304/hc31jOTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 99,
+          "like_count": 501,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 306
+        },
+        "url": "",
+        "username": "sakiiloveyouqwq",
+        "verified": false
+      }
+    ]
+  }
+}

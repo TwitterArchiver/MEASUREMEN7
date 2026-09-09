@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2093673811053015169",
+    "created_at": "2026-08-29T12:35:12.000Z",
+    "display_text_range": [
+      14,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T13:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093678856767181169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1660996239218085890",
+          "start": 0,
+          "username": "coolfishrice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093678856767181169",
+    "in_reply_to_user_id": "1660996239218085890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093673811053015169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coolfishrice 终于变得比较健康了（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2093673811053015169",
+        "created_at": "2026-08-29T12:35:12.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T13:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093678856767181169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1660996239218085890",
+              "start": 0,
+              "username": "coolfishrice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093678856767181169",
+        "in_reply_to_user_id": "1660996239218085890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093673811053015169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coolfishrice 终于变得比较健康了（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660996239218085890",
+        "conversation_id": "2093673811053015169",
+        "created_at": "2026-08-29T12:15:09.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T13:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093673811053015169"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093673811053015169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "BMI从14.5变成了20.2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2093678856767181169",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 286,
+          "like_count": 37492,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 8282
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-23T13:09:07.000Z",
+        "description": "【成人済み/♀】凉鱼饭ume。甘辛豆腐メンタル好き！雑多垢、コスプレ/歌ってみた/お描き。发言很混乱会有r18内容。墙内扩列大欢迎！",
+        "id": "1660996239218085890",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093673811053015169",
+        "name": "沢渡うめ",
+        "pinned_tweet_id": "2003365170517852599",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1660996239218085890/1787662555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093659886882336768/ULS0oPa7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 29,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "coolfishrice",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

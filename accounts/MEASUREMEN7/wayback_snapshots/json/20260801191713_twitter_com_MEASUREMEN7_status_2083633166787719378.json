@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2083633166787719378",
+    "created_at": "2026-08-01T19:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083633166787719378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1505012566728261633",
+          "start": 3,
+          "username": "der4ngedstalker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083633166787719378",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1330
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082953863007543565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @der4ngedstalker: Estoy empezando a sentir atracción sexual hacia las autolesiones y no está bien"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2083633166787719378",
+        "created_at": "2026-08-01T19:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083633166787719378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1505012566728261633",
+              "start": 3,
+              "username": "der4ngedstalker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083633166787719378",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1330
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082953863007543565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @der4ngedstalker: Estoy empezando a sentir atracción sexual hacia las autolesiones y no está bien"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505012566728261633",
+        "conversation_id": "2082953863007543565",
+        "created_at": "2026-07-30T22:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T23:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082953863007543565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082953863007543565",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 272,
+          "impression_count": 42875,
+          "like_count": 5324,
+          "quote_count": 47,
+          "reply_count": 41,
+          "retweet_count": 1330
+        },
+        "reply_settings": "everyone",
+        "text": "Estoy empezando a sentir atracción sexual hacia las autolesiones y no está bien"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 188,
+          "like_count": 28059,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 5595
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T02:50:07.000Z",
+        "description": "#obstwt #doltwt #suicidetwt \n ♤ DNI: zoo, pedo\n ⛑️💉 #menherakei #ouji †",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "obstwt"
+              },
+              {
+                "end": 15,
+                "start": 8,
+                "tag": "doltwt"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "tag": "suicidetwt"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "tag": "menherakei"
+              },
+              {
+                "end": 69,
+                "start": 64,
+                "tag": "ouji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/der4ngedstlkr1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/der4ngedstlkr1",
+                "start": 0,
+                "url": "https://t.co/ex8NonCDy9"
+              }
+            ]
+          }
+        },
+        "id": "1505012566728261633",
+        "name": "𝐈𝐠𝐧𝐚 𓆪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069478043572228096/BxfE0ozD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 1679,
+          "like_count": 5478,
+          "listed_count": 11,
+          "media_count": 288,
+          "tweet_count": 11194
+        },
+        "url": "https://t.co/ex8NonCDy9",
+        "username": "der4ngedstalker",
+        "verified": false
+      }
+    ]
+  }
+}

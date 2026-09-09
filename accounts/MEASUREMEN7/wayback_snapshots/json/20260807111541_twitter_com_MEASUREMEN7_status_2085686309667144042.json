@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085627937047613440"
+      ],
+      "media_source_tweet_id": [
+        "2085627982367113690"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2085686309667144042",
+    "created_at": "2026-08-07T11:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085686309667144042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1423220645383475200",
+          "start": 3,
+          "username": "sysjf0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bYSvusxjBD",
+          "end": 35,
+          "expanded_url": "https://x.com/sysjf0/status/2085627982367113690/photo/1",
+          "media_key": "3_2085627937047613440",
+          "start": 12,
+          "url": "https://t.co/bYSvusxjBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085686309667144042",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085627982367113690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sysjf0: https://t.co/bYSvusxjBD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2085627937047613440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGjjwFakAAJsOm.jpg",
+        "width": 1035
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085627937047613440"
+          ]
+        },
+        "author_id": "1423220645383475200",
+        "conversation_id": "2085627982367113690",
+        "created_at": "2026-08-07T07:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085627982367113690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYSvusxjBD",
+              "end": 23,
+              "expanded_url": "https://x.com/sysjf0/status/2085627982367113690/photo/1",
+              "media_key": "3_2085627937047613440",
+              "start": 0,
+              "url": "https://t.co/bYSvusxjBD"
+            },
+            {
+              "display_url": "x.com/yklab2014/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yklab2014/status/2085534404500467952",
+              "start": 24,
+              "url": "https://t.co/WhH2yM9V9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085627982367113690",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085534404500467952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/bYSvusxjBD https://t.co/WhH2yM9V9m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085627937047613440"
+          ],
+          "media_source_tweet_id": [
+            "2085627982367113690"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2085686309667144042",
+        "created_at": "2026-08-07T11:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085686309667144042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1423220645383475200",
+              "start": 3,
+              "username": "sysjf0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYSvusxjBD",
+              "end": 35,
+              "expanded_url": "https://x.com/sysjf0/status/2085627982367113690/photo/1",
+              "media_key": "3_2085627937047613440",
+              "start": 12,
+              "url": "https://t.co/bYSvusxjBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085686309667144042",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085627982367113690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sysjf0: https://t.co/bYSvusxjBD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 208,
+          "like_count": 29703,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 6000
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T09:53:54.000Z",
+        "description": "最喜欢的推 @BeetiIsDog @umichen0502324 @citrus_404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "BeetiIsDog"
+              },
+              {
+                "end": 33,
+                "start": 18,
+                "username": "umichen0502324"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "citrus_404"
+              }
+            ]
+          }
+        },
+        "id": "1423220645383475200",
+        "location": "天空",
+        "name": "十九方",
+        "pinned_tweet_id": "1862539669592031578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034670934108336128/mwvWsTX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 954,
+          "like_count": 31288,
+          "listed_count": 2,
+          "media_count": 1953,
+          "tweet_count": 24446
+        },
+        "url": "",
+        "username": "sysjf0",
+        "verified": false
+      }
+    ]
+  }
+}

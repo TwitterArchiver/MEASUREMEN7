@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2095784126192521467",
+    "created_at": "2026-09-04T08:11:23.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T09:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095786790313758819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1710365419306127360",
+          "start": 0,
+          "username": "RaquelBarr87553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095786790313758819",
+    "in_reply_to_user_id": "1710365419306127360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095786360905011392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RaquelBarr87553 不觉得很涩吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2095784126192521467",
+        "created_at": "2026-09-04T08:11:23.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095786790313758819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1710365419306127360",
+              "start": 0,
+              "username": "RaquelBarr87553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095786790313758819",
+        "in_reply_to_user_id": "1710365419306127360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095786360905011392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RaquelBarr87553 不觉得很涩吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710365419306127360",
+        "conversation_id": "2095784126192521467",
+        "created_at": "2026-09-04T08:09:40.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095786360905011392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095786360905011392",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095785124688511348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 坏蛋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2095786790313758819",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 289,
+          "like_count": 38751,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 8525
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-06T18:45:21.000Z",
+        "description": "叫我流浪猫就好～重抑｜孤儿｜od｜4000+的无敌之人｜什么都懂一点点~\n全国漂泊中——感谢你的喜欢～我有九十九个理由抱怨现实，但我的朋友，你永远不会是其中之一！\n提问箱在下面~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/saekiyuuko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/saekiyuuko",
+                "start": 0,
+                "url": "https://t.co/KvviLwq4ND"
+              }
+            ]
+          }
+        },
+        "id": "1710365419306127360",
+        "is_identity_verified": false,
+        "location": "在你的心里",
+        "most_recent_tweet_id": "2095786360905011392",
+        "name": "捨て猫",
+        "pinned_tweet_id": "2087600524267049447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1710365419306127360/1768257368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082092424302825472/mLL_9SK-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 212,
+          "like_count": 877,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/KvviLwq4ND",
+        "username": "RaquelBarr87553",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

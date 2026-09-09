@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090421954625106342",
+    "created_at": "2026-08-20T12:58:06.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090423128438776253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058944024078409728",
+          "start": 0,
+          "username": "Suhdhhxdmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090423128438776253",
+    "in_reply_to_user_id": "2058944024078409728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090421954625106342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suhdhhxdmo 依旧要退门"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090421954625106342",
+        "created_at": "2026-08-20T12:58:06.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090423128438776253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058944024078409728",
+              "start": 0,
+              "username": "Suhdhhxdmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090423128438776253",
+        "in_reply_to_user_id": "2058944024078409728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090421954625106342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suhdhhxdmo 依旧要退门"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058944024078409728",
+        "conversation_id": "2090421954625106342",
+        "created_at": "2026-08-20T12:53:26.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090421954625106342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090421954625106342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小哥哥你真的好不要脸😂😂。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090423128438776253",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 285,
+          "like_count": 34655,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 7632
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T16:11:54.000Z",
+        "description": "。",
+        "id": "2058944024078409728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090421954625106342",
+        "name": "ㅇ",
+        "pinned_tweet_id": "2089661599737065864",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058944024078409728/1779725679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065254202356695041/Z1wu6Ia9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 23,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "Suhdhhxdmo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

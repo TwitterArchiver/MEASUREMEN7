@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2091829168283771131",
+    "created_at": "2026-08-24T13:50:11.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T14:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091885787709345883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1117316916433997824",
+          "start": 0,
+          "username": "SuperBitchBecky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091885787709345883",
+    "in_reply_to_user_id": "1117316916433997824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091829168283771131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuperBitchBecky 牛来！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2091829168283771131",
+        "created_at": "2026-08-24T13:50:11.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091885787709345883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1117316916433997824",
+              "start": 0,
+              "username": "SuperBitchBecky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091885787709345883",
+        "in_reply_to_user_id": "1117316916433997824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091829168283771131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuperBitchBecky 牛来！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1117316916433997824",
+        "conversation_id": "2091829168283771131",
+        "created_at": "2026-08-24T10:05:12.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T11:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091829168283771131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091829168283771131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5198,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打开私信功能会出现全世界的牛子 \n\n牛来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2091885787709345883",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 290,
+          "like_count": 35954,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 7980
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-14T06:41:26.000Z",
+        "description": "碧池星球的大统领/中国人/唯一小号@wurabecky ★\n日本語もオーケー☆よろしくな\n微店：https://t.co/CPNmzDZxlp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "wurabecky"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "weidian.com/?userid=178643…",
+                "end": 71,
+                "expanded_url": "https://weidian.com/?userid=1786433420&p=iphone&wfr=BuyercopyURL&share_relation=f7f7098aec05d91d_1526613160_1",
+                "start": 48,
+                "url": "https://t.co/CPNmzDZxlp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/6529995739",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/6529995739",
+                "start": 0,
+                "url": "https://t.co/WOZBX4J9NV"
+              }
+            ]
+          }
+        },
+        "id": "1117316916433997824",
+        "is_identity_verified": false,
+        "location": "R15自撮り写真購入↑↑",
+        "most_recent_tweet_id": "2091847841321042088",
+        "name": "贝贝琪Becky",
+        "pinned_tweet_id": "2069679404184490164",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117316916433997824/1756684241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079959787899682816/MERceRSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141534,
+          "following_count": 113,
+          "like_count": 672,
+          "listed_count": 722,
+          "media_count": 182,
+          "tweet_count": 750
+        },
+        "url": "https://t.co/WOZBX4J9NV",
+        "username": "SuperBitchBecky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

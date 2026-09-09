@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087174416207912999",
+    "created_at": "2026-08-12T14:13:41.000Z",
+    "display_text_range": [
+      7,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087543048079397297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1806337857575145472",
+          "start": 0,
+          "username": "TLCYJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087543048079397297",
+    "in_reply_to_user_id": "1806337857575145472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087174416207912999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TLCYJ 我感觉女生洗澡的温度真的会高一点，之前感觉要被烫熟了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087174416207912999",
+        "created_at": "2026-08-12T14:13:41.000Z",
+        "display_text_range": [
+          7,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087543048079397297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1806337857575145472",
+              "start": 0,
+              "username": "TLCYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087543048079397297",
+        "in_reply_to_user_id": "1806337857575145472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087174416207912999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TLCYJ 我感觉女生洗澡的温度真的会高一点，之前感觉要被烫熟了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806337857575145472",
+        "conversation_id": "2087174416207912999",
+        "created_at": "2026-08-11T13:48:53.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087174416207912999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087174416207912999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 92359,
+          "like_count": 830,
+          "quote_count": 2,
+          "reply_count": 295,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "我跟他一起洗澡 适合我的温度对他来说很烫 但是我忘了 我洗着呢往他几把上一冲 他问我是不是想吃烧鸟……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087543048079397297",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 244,
+          "like_count": 31126,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 6560
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-27T14:44:58.000Z",
+        "description": "纯绿聊天理性过门（198）\n碎碎念推主 普通大学生\n内容包括不限于日常生活/负能量/做爱经历",
+        "id": "1806337857575145472",
+        "is_identity_verified": false,
+        "location": "距离你0.5km",
+        "most_recent_tweet_id": "2087174591139737969",
+        "name": "甜辣脆鱼卷",
+        "pinned_tweet_id": "2040810577220755485",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1806337857575145472/1779252111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916511594919706624/cPJwMowc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2709,
+          "following_count": 115,
+          "like_count": 1105,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 2284
+        },
+        "url": "",
+        "username": "TLCYJ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

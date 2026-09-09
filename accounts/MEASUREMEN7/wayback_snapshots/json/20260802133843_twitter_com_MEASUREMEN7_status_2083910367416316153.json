@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2083887233438986658",
+    "created_at": "2026-08-02T13:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083910367416316153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2032744913981550595",
+          "start": 0,
+          "username": "yuyu177570"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083910367416316153",
+    "in_reply_to_user_id": "2032744913981550595",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083887233438986658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyu177570 萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_2083887211259510784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOt0YLMaQAAUG1-.jpg",
+        "width": 769
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2083887233438986658",
+        "created_at": "2026-08-02T13:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083910367416316153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2032744913981550595",
+              "start": 0,
+              "username": "yuyu177570"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083910367416316153",
+        "in_reply_to_user_id": "2032744913981550595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083887233438986658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyu177570 萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083887211259510784"
+          ]
+        },
+        "author_id": "2032744913981550595",
+        "conversation_id": "2083887233438986658",
+        "created_at": "2026-08-02T12:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083887233438986658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzw3cLepoa",
+              "end": 27,
+              "expanded_url": "https://x.com/yuyu177570/status/2083887233438986658/photo/1",
+              "media_key": "3_2083887211259510784",
+              "start": 4,
+              "url": "https://t.co/kzw3cLepoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083887233438986658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 152,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没发过 https://t.co/kzw3cLepoa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 193,
+          "like_count": 28276,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 5628
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T09:06:30.000Z",
+        "description": "喜欢就打点米呀谢谢支持",
+        "id": "2032744913981550595",
+        "name": "ゆゆ",
+        "pinned_tweet_id": "2047634407608250551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078761724728287232/lzu954ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 349,
+          "like_count": 2308,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "yuyu177570",
+        "verified": false
+      }
+    ]
+  }
+}

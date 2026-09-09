@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090783411367502042",
+    "created_at": "2026-08-21T13:03:23.000Z",
+    "display_text_range": [
+      12,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090786846880247833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1749231350194794496",
+          "start": 0,
+          "username": "koharuwwwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090786846880247833",
+    "in_reply_to_user_id": "1749231350194794496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090783411367502042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koharuwwwq 早安，很高兴见到老大，虽然不知道这到底是不是好事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2090783400378740736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQP0bNnbsAAfyZb.jpg",
+        "width": 2916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090783411367502042",
+        "created_at": "2026-08-21T13:03:23.000Z",
+        "display_text_range": [
+          12,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090786846880247833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1749231350194794496",
+              "start": 0,
+              "username": "koharuwwwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090786846880247833",
+        "in_reply_to_user_id": "1749231350194794496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090783411367502042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koharuwwwq 早安，很高兴见到老大，虽然不知道这到底是不是好事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090783400378740736"
+          ]
+        },
+        "author_id": "1749231350194794496",
+        "conversation_id": "2090783411367502042",
+        "created_at": "2026-08-21T12:49:44.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090783411367502042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wzxDXiYPmt",
+              "end": 35,
+              "expanded_url": "https://x.com/koharuwwwq/status/2090783411367502042/photo/1",
+              "media_key": "3_2090783400378740736",
+              "start": 12,
+              "url": "https://t.co/wzxDXiYPmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090783411367502042",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090783400378740736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呵呵。。。我恨晚安。。 https://t.co/wzxDXiYPmt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090786846880247833",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 289,
+          "like_count": 35114,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 7762
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-22T00:43:56.000Z",
+        "description": "",
+        "id": "1749231350194794496",
+        "is_identity_verified": false,
+        "location": "Minato-ku, Tokyo",
+        "most_recent_tweet_id": "2090784198659576239",
+        "name": "koharu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749231350194794496/1786602561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087788576599916545/irgOyVMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 10,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "koharuwwwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

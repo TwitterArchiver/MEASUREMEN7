@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088474912004645199",
+    "created_at": "2026-08-15T03:59:36.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T04:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088475672201343401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2054908136952352768",
+          "start": 0,
+          "username": "iuu_0_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088475672201343401",
+    "in_reply_to_user_id": "2054908136952352768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088474912004645199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iuu_0_0 我去pr80"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2088474814269050880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvAx0LbUAAkX1X.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088474912004645199",
+        "created_at": "2026-08-15T03:59:36.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088475672201343401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2054908136952352768",
+              "start": 0,
+              "username": "iuu_0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088475672201343401",
+        "in_reply_to_user_id": "2054908136952352768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088474912004645199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iuu_0_0 我去pr80"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088474814269050880"
+          ]
+        },
+        "author_id": "2054908136952352768",
+        "conversation_id": "2088474912004645199",
+        "created_at": "2026-08-15T03:56:35.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088474912004645199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tim6FUDevP",
+              "end": 26,
+              "expanded_url": "https://x.com/iuu_0_0/status/2088474912004645199/photo/1",
+              "media_key": "3_2088474814269050880",
+              "start": 3,
+              "url": "https://t.co/Tim6FUDevP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088474912004645199",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088474814269050880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦耶 https://t.co/Tim6FUDevP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088475672201343401",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 252,
+          "like_count": 31736,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 6753
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-14T12:57:32.000Z",
+        "description": "精神分裂 🚪88",
+        "id": "2054908136952352768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088474912004645199",
+        "name": "李怜彩",
+        "pinned_tweet_id": "2085929577432686615",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054908136952352768/1786283848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085743800144801792/NYl5XLYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 27,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "iuu_0_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

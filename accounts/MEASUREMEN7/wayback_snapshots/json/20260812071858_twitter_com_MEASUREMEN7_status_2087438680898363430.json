@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087434909879267360",
+    "created_at": "2026-08-12T07:18:58.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T08:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087438680898363430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1433641356",
+          "start": 0,
+          "username": "sakiiloveyouqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087438680898363430",
+    "in_reply_to_user_id": "1433641356",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087434909879267360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakiiloveyouqwq 会有人吗老大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087434909879267360",
+        "created_at": "2026-08-12T07:18:58.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T08:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087438680898363430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1433641356",
+              "start": 0,
+              "username": "sakiiloveyouqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087438680898363430",
+        "in_reply_to_user_id": "1433641356",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087434909879267360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakiiloveyouqwq 会有人吗老大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433641356",
+        "conversation_id": "2087434909879267360",
+        "created_at": "2026-08-12T07:03:59.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T08:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087434909879267360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087434909879267360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "tl某位哥哥，从互关的那天起，我就关注你了，经常翻你帖子，不善言辞的我，不敢和你聊天，怕打扰你，但是我确信这就是喜欢，马上就是七夕了，我想和你一起过，你要是同意，你就偷偷私信我，仅你可见。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087438680898363430",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 239,
+          "like_count": 30938,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 6488
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-05-16T17:56:27.000Z",
+        "description": "你好这里saki |重焦重抑|餐劵|地雷女|\n最重要的…药药|小号备用@Ankoqwqaaa\n喜欢的会互fo，欢迎私信闲聊\n🚪52/88 口令红包+姓/赞赏码\n想要更多朋友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "Ankoqwqaaa"
+              }
+            ]
+          }
+        },
+        "id": "1433641356",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2087434909879267360",
+        "name": "saki",
+        "pinned_tweet_id": "2084734812410229049",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1433641356/1781512691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066439581046882304/hc31jOTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 108,
+          "like_count": 582,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 329
+        },
+        "url": "",
+        "username": "sakiiloveyouqwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

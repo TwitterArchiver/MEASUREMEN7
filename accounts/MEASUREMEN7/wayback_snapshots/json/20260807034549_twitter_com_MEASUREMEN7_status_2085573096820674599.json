@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2085565213638799533",
+    "created_at": "2026-08-07T03:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085573096820674599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2076464287686746112",
+          "start": 0,
+          "username": "felicekiki49513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085573096820674599",
+    "in_reply_to_user_id": "2076464287686746112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085565213638799533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@felicekiki49513 好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2085565204436570112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPFqgO5bUAAo_dw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2085565213638799533",
+        "created_at": "2026-08-07T03:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085573096820674599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2076464287686746112",
+              "start": 0,
+              "username": "felicekiki49513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085573096820674599",
+        "in_reply_to_user_id": "2076464287686746112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085565213638799533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@felicekiki49513 好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085565204436570112"
+          ]
+        },
+        "author_id": "2076464287686746112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085565213638799533",
+        "created_at": "2026-08-07T03:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085565213638799533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1CyjDKlD1I",
+              "end": 34,
+              "expanded_url": "https://x.com/felicekiki49513/status/2085565213638799533/photo/1",
+              "media_key": "3_2085565204436570112",
+              "start": 11,
+              "url": "https://t.co/1CyjDKlD1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085565213638799533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贵州冰浆 我有些想念 https://t.co/1CyjDKlD1I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 209,
+          "like_count": 29623,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 5968
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-13T00:31:23.000Z",
+        "description": "我会在到处嚼嚼嚼 无聊就私信我吧\n请称呼我为felice｜绘里 最爱的是🥟\n三拳打到@Korolev114上\n谢谢你们看见我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "Korolev114"
+              }
+            ]
+          }
+        },
+        "id": "2076464287686746112",
+        "location": "嚼嚼嚼嚼嚼嚼",
+        "name": "felicekiki～绘里",
+        "pinned_tweet_id": "2084766182394216713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076465390822285312/pbRaXeau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 56,
+          "like_count": 496,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 366
+        },
+        "url": "",
+        "username": "felicekiki49513",
+        "verified": false
+      }
+    ]
+  }
+}

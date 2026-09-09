@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087508187381383613",
+    "created_at": "2026-08-12T12:29:50.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T13:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087516911504613435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870313420807163904",
+          "start": 0,
+          "username": "IzayoiMarin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087516911504613435",
+    "in_reply_to_user_id": "1870313420807163904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087508187381383613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzayoiMarin 哪来的凑企鹅😠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_2087508172646866944",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPhRn3hXYAA8QWm.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPhRn3hXYAA8QWm.mp4"
+          }
+        ],
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087508187381383613",
+        "created_at": "2026-08-12T12:29:50.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087516911504613435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870313420807163904",
+              "start": 0,
+              "username": "IzayoiMarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087516911504613435",
+        "in_reply_to_user_id": "1870313420807163904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087508187381383613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiMarin 哪来的凑企鹅😠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2087508172646866944"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "2087508187381383613",
+        "created_at": "2026-08-12T11:55:10.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087508187381383613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VXzfUQB7V2",
+              "end": 32,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2087508187381383613/photo/1",
+              "media_key": "16_2087508172646866944",
+              "start": 9,
+              "url": "https://t.co/VXzfUQB7V2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087508187381383613",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2087508172646866944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 491,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爸妈还没回家嘿嘿 https://t.co/VXzfUQB7V2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087516911504613435",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 241,
+          "like_count": 31070,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 6524
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "Hoshino Marin（星野真凛）|   09高三纯女🇨🇳   |   梗图源网络，如有侵权可删   |  恩师：@aoim33  |  251： @umodamo | 互fo评论区留言 | 碎碎念 |  恋爱脑｜厌蠢症｜JPOPアニメ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 59,
+                "username": "aoim33"
+              },
+              {
+                "end": 84,
+                "start": 76,
+                "username": "umodamo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQroFMf"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "is_identity_verified": false,
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "most_recent_tweet_id": "2087515401391354053",
+        "name": "星野まりん",
+        "pinned_tweet_id": "2087108134124822909",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870313420807163904/1784883294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076574568773197824/WCbkByx-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3184,
+          "following_count": 2194,
+          "like_count": 55302,
+          "listed_count": 9,
+          "media_count": 2857,
+          "tweet_count": 25125
+        },
+        "url": "https://t.co/BABPQroFMf",
+        "username": "IzayoiMarin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

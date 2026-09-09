@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088729720661983232"
+      ],
+      "media_source_tweet_id": [
+        "2088729724159942845"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088961401272565967",
+    "created_at": "2026-08-16T12:09:43.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088961401272565967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "36201559",
+          "start": 3,
+          "username": "VorosTwins"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qK4MA1ADOH",
+          "end": 52,
+          "expanded_url": "https://x.com/VorosTwins/status/2088729724159942845/photo/1",
+          "media_key": "3_2088729720661983232",
+          "start": 29,
+          "url": "https://t.co/qK4MA1ADOH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088961401272565967",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2088729720661983232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1883
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088729724159942845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VorosTwins: Human logic! https://t.co/qK4MA1ADOH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2088729720661983232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyonUfbwAA1KPl.jpg",
+        "width": 790
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088729720661983232"
+          ],
+          "media_source_tweet_id": [
+            "2088729724159942845"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088961401272565967",
+        "created_at": "2026-08-16T12:09:43.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088961401272565967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "36201559",
+              "start": 3,
+              "username": "VorosTwins"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qK4MA1ADOH",
+              "end": 52,
+              "expanded_url": "https://x.com/VorosTwins/status/2088729724159942845/photo/1",
+              "media_key": "3_2088729720661983232",
+              "start": 29,
+              "url": "https://t.co/qK4MA1ADOH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088961401272565967",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088729720661983232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1883
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088729724159942845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VorosTwins: Human logic! https://t.co/qK4MA1ADOH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088729720661983232"
+          ]
+        },
+        "author_id": "36201559",
+        "conversation_id": "2088729724159942845",
+        "created_at": "2026-08-15T20:49:07.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T21:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088729724159942845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qK4MA1ADOH",
+              "end": 36,
+              "expanded_url": "https://x.com/VorosTwins/status/2088729724159942845/photo/1",
+              "media_key": "3_2088729720661983232",
+              "start": 13,
+              "url": "https://t.co/qK4MA1ADOH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088729724159942845",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088729720661983232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1088,
+          "impression_count": 519928,
+          "like_count": 40832,
+          "quote_count": 31,
+          "reply_count": 56,
+          "retweet_count": 1883
+        },
+        "reply_settings": "everyone",
+        "text": "Human logic! https://t.co/qK4MA1ADOH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088961401272565967",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 251,
+          "like_count": 32388,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 6914
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-28T22:28:36.000Z",
+        "description": "Da followy for daily da jokeys! da Vinki!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cameo.com/vorostwins",
+                "end": 23,
+                "expanded_url": "https://www.cameo.com/vorostwins",
+                "start": 0,
+                "url": "https://t.co/OcI71cVuD6"
+              }
+            ]
+          }
+        },
+        "id": "36201559",
+        "is_identity_verified": false,
+        "location": "Vancouver Canada",
+        "most_recent_tweet_id": "2088811568175960118",
+        "name": "DA VINKI",
+        "pinned_tweet_id": "1952399501022625976",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36201559/1771274101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1484161306512920576/PE8QqPge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385488,
+          "following_count": 660,
+          "like_count": 92748,
+          "listed_count": 232,
+          "media_count": 5110,
+          "tweet_count": 13819
+        },
+        "url": "https://t.co/OcI71cVuD6",
+        "username": "VorosTwins",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090087787408277519",
+    "created_at": "2026-08-19T15:57:47.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T16:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090105958131544449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1619944055429009409",
+          "start": 0,
+          "username": "KarasawaKana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090105958131544449",
+    "in_reply_to_user_id": "1619944055429009409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090087787408277519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KarasawaKana 好萌好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2090087344129138690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQF7XaBbYAIzPaa.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2090087743191908352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQF7uopaAAAYbke.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090087748988473344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQF7u-PakAA0b3f.jpg",
+        "width": 1306
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090087787408277519",
+        "created_at": "2026-08-19T15:57:47.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090105958131544449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1619944055429009409",
+              "start": 0,
+              "username": "KarasawaKana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090105958131544449",
+        "in_reply_to_user_id": "1619944055429009409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090087787408277519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KarasawaKana 好萌好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090087344129138690",
+            "3_2090087743191908352",
+            "3_2090087748988473344"
+          ]
+        },
+        "author_id": "1619944055429009409",
+        "conversation_id": "2090087787408277519",
+        "created_at": "2026-08-19T14:45:35.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090087787408277519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZ9BdBOwLu",
+              "end": 35,
+              "expanded_url": "https://x.com/KarasawaKana/status/2090087787408277519/photo/1",
+              "media_key": "3_2090087344129138690",
+              "start": 12,
+              "url": "https://t.co/KZ9BdBOwLu"
+            },
+            {
+              "display_url": "pic.x.com/KZ9BdBOwLu",
+              "end": 35,
+              "expanded_url": "https://x.com/KarasawaKana/status/2090087787408277519/photo/1",
+              "media_key": "3_2090087743191908352",
+              "start": 12,
+              "url": "https://t.co/KZ9BdBOwLu"
+            },
+            {
+              "display_url": "pic.x.com/KZ9BdBOwLu",
+              "end": 35,
+              "expanded_url": "https://x.com/KarasawaKana/status/2090087787408277519/photo/1",
+              "media_key": "3_2090087748988473344",
+              "start": 12,
+              "url": "https://t.co/KZ9BdBOwLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090087787408277519",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090087344129138690"
+          },
+          {
+            "media_key": "3_2090087743191908352"
+          },
+          {
+            "media_key": "3_2090087748988473344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有几张不错遂打码发出 https://t.co/KZ9BdBOwLu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090105958131544449",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 277,
+          "like_count": 34276,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 7504
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-30T06:22:32.000Z",
+        "description": "欺负一只水母？",
+        "id": "1619944055429009409",
+        "is_identity_verified": false,
+        "location": "ペットベット",
+        "most_recent_tweet_id": "2090087787408277519",
+        "name": "水母在溶化",
+        "pinned_tweet_id": "2003354214706360632",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1619944055429009409/1697957858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985920373448458242/kBiAHFnJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 1181,
+          "like_count": 22568,
+          "listed_count": 5,
+          "media_count": 112,
+          "tweet_count": 2800
+        },
+        "url": "",
+        "username": "KarasawaKana",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

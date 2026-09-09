@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090023181868527797",
+    "created_at": "2026-08-19T14:52:38.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090089563037573492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887467599287754755",
+          "start": 0,
+          "username": "with_WhiT3Rose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090089563037573492",
+    "in_reply_to_user_id": "1887467599287754755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090023181868527797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@with_WhiT3Rose 确实好青春啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2090023166844489728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFA_zAaUAAQAxg.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090023181868527797",
+        "created_at": "2026-08-19T14:52:38.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090089563037573492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887467599287754755",
+              "start": 0,
+              "username": "with_WhiT3Rose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090089563037573492",
+        "in_reply_to_user_id": "1887467599287754755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090023181868527797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@with_WhiT3Rose 确实好青春啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090023166844489728"
+          ]
+        },
+        "author_id": "1887467599287754755",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090023181868527797",
+        "created_at": "2026-08-19T10:28:51.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090023181868527797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4j7DiKiqmw",
+              "end": 35,
+              "expanded_url": "https://x.com/with_WhiT3Rose/status/2090023181868527797/photo/1",
+              "media_key": "3_2090023166844489728",
+              "start": 12,
+              "url": "https://t.co/4j7DiKiqmw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090023181868527797",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090023166844489728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 563,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉。好青涩的恋爱口牙。 https://t.co/4j7DiKiqmw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090089563037573492",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 276,
+          "like_count": 34208,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 7481
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T11:45:28.000Z",
+        "description": "Love brain heart control",
+        "id": "1887467599287754755",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090088813695779112",
+        "name": "uuuuuv3",
+        "pinned_tweet_id": "2081952312441098328",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887467599287754755/1760720458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088857024004272128/d6HDReNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 472,
+          "like_count": 33849,
+          "listed_count": 1,
+          "media_count": 635,
+          "tweet_count": 4430
+        },
+        "url": "",
+        "username": "with_WhiT3Rose",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

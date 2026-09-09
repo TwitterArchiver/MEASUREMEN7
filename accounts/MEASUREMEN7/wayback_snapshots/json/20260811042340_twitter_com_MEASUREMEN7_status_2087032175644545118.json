@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086987682119606489",
+    "created_at": "2026-08-11T04:23:40.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T05:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087032175644545118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1519559039469858816",
+          "start": 0,
+          "username": "Ayang7748"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087032175644545118",
+    "in_reply_to_user_id": "1519559039469858816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086987682119606489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayang7748 好美啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2086987634652688384",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPZ4MkYbMAAJRSh.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPZ4MkYbMAAJRSh.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086987682119606489",
+        "created_at": "2026-08-11T04:23:40.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087032175644545118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1519559039469858816",
+              "start": 0,
+              "username": "Ayang7748"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087032175644545118",
+        "in_reply_to_user_id": "1519559039469858816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086987682119606489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayang7748 好美啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2086987634652688384"
+          ]
+        },
+        "author_id": "1519559039469858816",
+        "conversation_id": "2086987682119606489",
+        "created_at": "2026-08-11T01:26:52.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086987682119606489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KgBqCosFNb",
+              "end": 37,
+              "expanded_url": "https://x.com/Ayang7748/status/2086987682119606489/photo/1",
+              "media_key": "16_2086987634652688384",
+              "start": 14,
+              "url": "https://t.co/KgBqCosFNb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086987682119606489",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2086987634652688384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1134,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最终还是打了虎牙钉 好痛😭 https://t.co/KgBqCosFNb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087032175644545118",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 241,
+          "like_count": 30538,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 6363
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-28T06:08:10.000Z",
+        "description": "要是一直没人在意就好了",
+        "id": "1519559039469858816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087028314582172139",
+        "name": "咩",
+        "pinned_tweet_id": "1602733801460752384",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519559039469858816/1786200457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590746721385971715/hPeizbM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 30,
+          "like_count": 58,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "Ayang7748",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

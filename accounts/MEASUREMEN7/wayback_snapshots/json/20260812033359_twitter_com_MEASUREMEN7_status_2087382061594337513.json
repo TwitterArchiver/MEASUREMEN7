@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087380961139040529",
+    "created_at": "2026-08-12T03:33:59.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T04:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087382061594337513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723546829454032896",
+          "start": 0,
+          "username": "yeshsbxhjs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087382061594337513",
+    "in_reply_to_user_id": "1723546829454032896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087380961139040529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeshsbxhjs 真的吗hh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087380961139040529",
+        "created_at": "2026-08-12T03:33:59.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T04:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087382061594337513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723546829454032896",
+              "start": 0,
+              "username": "yeshsbxhjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087382061594337513",
+        "in_reply_to_user_id": "1723546829454032896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087380961139040529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeshsbxhjs 真的吗hh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723546829454032896",
+        "conversation_id": "2087380961139040529",
+        "created_at": "2026-08-12T03:29:37.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T04:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087380961139040529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087380961139040529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我再也不拍手势舞了 我跟个傻逼一样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087382061594337513",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 243,
+          "like_count": 30847,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 6467
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-12T03:43:27.000Z",
+        "description": "这里是秋秋！（欢迎宝宝互fo 会查一下成分 ）我成分很复杂 我会视监每一个关注我的人 关注你就是喜欢你",
+        "id": "1723546829454032896",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2087380961139040529",
+        "name": "秋秋OvO",
+        "pinned_tweet_id": "2051527837619036362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1723546829454032896/1774059473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051218647474135040/7Z32hHKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 185,
+          "like_count": 661,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 776
+        },
+        "url": "",
+        "username": "yeshsbxhjs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

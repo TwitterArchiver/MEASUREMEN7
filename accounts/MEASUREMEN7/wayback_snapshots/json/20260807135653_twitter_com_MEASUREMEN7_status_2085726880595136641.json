@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2085703274020389325",
+    "created_at": "2026-08-07T13:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085726880595136641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1857785242767208451",
+          "start": 0,
+          "username": "flj1110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085726880595136641",
+    "in_reply_to_user_id": "1857785242767208451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085703274020389325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flj1110 别偷图了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13445,
+        "height": 1280,
+        "media_key": "13_2085703236766580736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085703236766580736/img/48E9Zn5Zyuimdelu.jpg",
+        "public_metrics": {
+          "view_count": 493
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085703236766580736/vid/avc1/320x568/tjnH8ShRNm4lIDLD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085703236766580736/vid/avc1/480x852/Y02GWOp9W1-hhWZh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085703236766580736/vid/avc1/720x1280/0kiWC0tTToNZK4i_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085703236766580736/pl/95611VCtFnAgEdQS.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2085703274020389325",
+        "created_at": "2026-08-07T13:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085726880595136641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1857785242767208451",
+              "start": 0,
+              "username": "flj1110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085726880595136641",
+        "in_reply_to_user_id": "1857785242767208451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085703274020389325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flj1110 别偷图了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085703236766580736"
+          ]
+        },
+        "author_id": "1857785242767208451",
+        "conversation_id": "2085703274020389325",
+        "created_at": "2026-08-07T12:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085703274020389325"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "云间寄梦"
+            },
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "女高"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XkQqvwqlYJ",
+              "end": 33,
+              "expanded_url": "https://x.com/flj1110/status/2085703274020389325/video/1",
+              "media_key": "13_2085703236766580736",
+              "start": 10,
+              "url": "https://t.co/XkQqvwqlYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085703274020389325",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2084,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#云间寄梦 #女高 https://t.co/XkQqvwqlYJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 210,
+          "like_count": 29754,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 6016
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T13:58:20.000Z",
+        "description": "dy个签上不能标注x平台",
+        "id": "1857785242767208451",
+        "name": "eep",
+        "pinned_tweet_id": "1997390893415125450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980245113201709056/-8IugMsO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 24,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "flj1110",
+        "verified": false
+      }
+    ]
+  }
+}

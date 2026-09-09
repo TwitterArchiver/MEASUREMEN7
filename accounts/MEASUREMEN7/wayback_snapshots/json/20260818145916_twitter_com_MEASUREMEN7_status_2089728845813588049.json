@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089724451965603867",
+    "created_at": "2026-08-18T14:59:16.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T15:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089728845813588049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847153221900685312",
+          "start": 0,
+          "username": "wtfkanwogansha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089728845813588049",
+    "in_reply_to_user_id": "1847153221900685312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089724451965603867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtfkanwogansha 小井好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089724447586754560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAxUDDboAA0azZ.jpg",
+        "width": 1136
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089724451965603867",
+        "created_at": "2026-08-18T14:59:16.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089728845813588049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847153221900685312",
+              "start": 0,
+              "username": "wtfkanwogansha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089728845813588049",
+        "in_reply_to_user_id": "1847153221900685312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089724451965603867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtfkanwogansha 小井好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089724447586754560"
+          ]
+        },
+        "author_id": "1847153221900685312",
+        "conversation_id": "2089724451965603867",
+        "created_at": "2026-08-18T14:41:49.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089724451965603867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PLl3lKutxm",
+              "end": 23,
+              "expanded_url": "https://x.com/wtfkanwogansha/status/2089724451965603867/photo/1",
+              "media_key": "3_2089724447586754560",
+              "start": 0,
+              "url": "https://t.co/PLl3lKutxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089724451965603867",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089724447586754560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PLl3lKutxm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089728845813588049",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 269,
+          "like_count": 33466,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 7294
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "总想说深刻的话是病你知道吗。",
+        "id": "1847153221900685312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089724451965603867",
+        "name": "ダメ女",
+        "pinned_tweet_id": "1939932328668565864",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847153221900685312/1767856889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070301092878143488/Pdd_zmmF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3039,
+          "following_count": 621,
+          "like_count": 1327,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1725
+        },
+        "url": "",
+        "username": "wtfkanwogansha",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

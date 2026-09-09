@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086633282226241536"
+      ],
+      "media_source_tweet_id": [
+        "2086633289981526271"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086658098576724280",
+    "created_at": "2026-08-10T03:37:13.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T04:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086658098576724280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063266311254552576",
+          "start": 3,
+          "username": "17nuun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oPCwBJxmQL",
+          "end": 61,
+          "expanded_url": "https://x.com/17nuun/status/2086633289981526271/photo/1",
+          "media_key": "3_2086633282226241536",
+          "start": 38,
+          "url": "https://t.co/oPCwBJxmQL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086658098576724280",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086633282226241536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086633289981526271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @17nuun: 当抑郁症患者主动开药吃时实际上的患者belike： https://t.co/oPCwBJxmQL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 718,
+        "media_key": "3_2086633282226241536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPU16iuaQAAz2jU.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086633282226241536"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2086633289981526271",
+        "created_at": "2026-08-10T01:58:38.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T02:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086633289981526271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oPCwBJxmQL",
+              "end": 49,
+              "expanded_url": "https://x.com/17nuun/status/2086633289981526271/photo/1",
+              "media_key": "3_2086633282226241536",
+              "start": 26,
+              "url": "https://t.co/oPCwBJxmQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086633289981526271",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086633282226241536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 375,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "当抑郁症患者主动开药吃时实际上的患者belike： https://t.co/oPCwBJxmQL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086633282226241536"
+          ],
+          "media_source_tweet_id": [
+            "2086633289981526271"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086658098576724280",
+        "created_at": "2026-08-10T03:37:13.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086658098576724280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063266311254552576",
+              "start": 3,
+              "username": "17nuun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oPCwBJxmQL",
+              "end": 61,
+              "expanded_url": "https://x.com/17nuun/status/2086633289981526271/photo/1",
+              "media_key": "3_2086633282226241536",
+              "start": 38,
+              "url": "https://t.co/oPCwBJxmQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086658098576724280",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086633282226241536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086633289981526271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @17nuun: 当抑郁症患者主动开药吃时实际上的患者belike： https://t.co/oPCwBJxmQL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086658098576724280",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 229,
+          "like_count": 30089,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 6231
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "is_identity_verified": false,
+        "location": "正在拥抱你",
+        "most_recent_tweet_id": "2086650757064097794",
+        "name": "海月水母x17",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063266311254552576/1782389209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2623,
+          "following_count": 247,
+          "like_count": 1376,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 1116
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

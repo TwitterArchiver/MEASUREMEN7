@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086845454072058236",
+    "created_at": "2026-08-10T16:04:58.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T17:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086846277111955624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1547950839280439296",
+          "start": 0,
+          "username": "jiangdadianshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086846277111955624",
+    "in_reply_to_user_id": "1547950839280439296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086846124598730980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangdadianshen 是可爱双马尾少女！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086845454072058236",
+        "created_at": "2026-08-10T16:04:58.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086846277111955624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1547950839280439296",
+              "start": 0,
+              "username": "jiangdadianshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086846277111955624",
+        "in_reply_to_user_id": "1547950839280439296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086846124598730980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangdadianshen 是可爱双马尾少女！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547950839280439296",
+        "conversation_id": "2086845454072058236",
+        "created_at": "2026-08-10T16:04:22.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086846124598730980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086846124598730980",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086845656795353091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 喵 一直是这个发色捏"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086846277111955624",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 231,
+          "like_count": 30298,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 6295
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T14:27:03.000Z",
+        "description": "鸟在唱歌",
+        "id": "1547950839280439296",
+        "is_identity_verified": false,
+        "location": "₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "most_recent_tweet_id": "2086846271034417164",
+        "name": "MING",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547950839280439296/1662825388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007611709557747713/OoS2OsY__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 459,
+          "like_count": 26624,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 2944
+        },
+        "url": "",
+        "username": "jiangdadianshen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

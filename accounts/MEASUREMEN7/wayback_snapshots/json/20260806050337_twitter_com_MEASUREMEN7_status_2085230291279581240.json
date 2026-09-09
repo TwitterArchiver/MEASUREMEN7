@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2085230291279581240",
+    "created_at": "2026-08-06T05:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T06:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085230291279581240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1533024617811812352",
+          "start": 3,
+          "username": "Spr1ngW1nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085230291279581240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 338
+    },
+    "referenced_tweets": [
+      {
+        "id": "1612059448746602496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Spr1ngW1nd: 20:11 剧烈变形"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2085230291279581240",
+        "created_at": "2026-08-06T05:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085230291279581240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1533024617811812352",
+              "start": 3,
+              "username": "Spr1ngW1nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085230291279581240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 338
+        },
+        "referenced_tweets": [
+          {
+            "id": "1612059448746602496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Spr1ngW1nd: 20:11 剧烈变形"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533024617811812352",
+        "conversation_id": "1612053907999715328",
+        "created_at": "2023-01-08T12:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-08T12:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1612059448746602496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1612059448746602496",
+        "in_reply_to_user_id": "1533024617811812352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 491,
+          "impression_count": 670447,
+          "like_count": 1451,
+          "quote_count": 135,
+          "reply_count": 328,
+          "retweet_count": 338
+        },
+        "referenced_tweets": [
+          {
+            "id": "1612059228742782977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "20:11 剧烈变形"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 196,
+          "like_count": 29177,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 5873
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T09:55:35.000Z",
+        "description": "药物滥用的内容相关会转发到@Overdose_Wind /#StandWithUkraine/",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 29,
+                "tag": "StandWithUkraine"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "Overdose_Wind"
+              }
+            ]
+          }
+        },
+        "id": "1533024617811812352",
+        "location": "Japan",
+        "name": "Spring风#参宿四",
+        "pinned_tweet_id": "1555067952335970305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606726635713335296/TrmJq-XY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7136,
+          "following_count": 355,
+          "like_count": 4362,
+          "listed_count": 17,
+          "media_count": 450,
+          "tweet_count": 4943
+        },
+        "url": "",
+        "username": "Spr1ngW1nd",
+        "verified": false
+      }
+    ]
+  }
+}

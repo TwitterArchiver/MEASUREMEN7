@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090776583615471682",
+    "created_at": "2026-08-21T12:22:36.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T13:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090776583615471682"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ba_shui75682/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/ba_shui75682/status/2090540853165232500",
+          "start": 13,
+          "url": "https://t.co/fBPmq11AOS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090776583615471682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090540853165232500",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "显而易见，二者皆是答案！ https://t.co/fBPmq11AOS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 338,
+        "media_key": "3_2090540847452590080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQMX0xjbEAAPBnf.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090776583615471682",
+        "created_at": "2026-08-21T12:22:36.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090776583615471682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ba_shui75682/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/ba_shui75682/status/2090540853165232500",
+              "start": 13,
+              "url": "https://t.co/fBPmq11AOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090776583615471682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090540853165232500",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "显而易见，二者皆是答案！ https://t.co/fBPmq11AOS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090540847452590080"
+          ]
+        },
+        "author_id": "1816077167308201986",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090540853165232500",
+        "created_at": "2026-08-20T20:45:54.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T21:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090540853165232500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ajZM4Xl2mA",
+              "end": 23,
+              "expanded_url": "https://x.com/ba_shui75682/status/2090540853165232500/photo/1",
+              "media_key": "3_2090540847452590080",
+              "start": 0,
+              "url": "https://t.co/ajZM4Xl2mA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090540853165232500",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090540847452590080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ajZM4Xl2mA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090776583615471682",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 288,
+          "like_count": 35077,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 7745
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-24T11:45:44.000Z",
+        "description": "男的女的死的活的关注我给我打钱。。！喜欢我的给我打钱 不喜欢给我打钱 骂我的也给我打钱 骂一个啥子你有心吗😭",
+        "id": "1816077167308201986",
+        "is_identity_verified": false,
+        "location": "距离520km",
+        "most_recent_tweet_id": "2090546126915240441",
+        "name": "法！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816077167308201986/1729355255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056273945213501440/T2dBeJSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 47,
+          "like_count": 154,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "ba_shui75682",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

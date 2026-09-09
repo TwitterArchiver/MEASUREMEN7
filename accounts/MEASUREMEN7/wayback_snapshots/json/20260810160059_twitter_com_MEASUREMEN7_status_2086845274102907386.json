@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086811635285635251",
+    "created_at": "2026-08-10T16:00:59.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T17:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086845274102907386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1729426446538698752",
+          "start": 0,
+          "username": "AurelianoRen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086845274102907386",
+    "in_reply_to_user_id": "1729426446538698752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086811635285635251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AurelianoRen 鲨鱼好可爱啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2996,
+        "media_key": "3_2086811626276302848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXYHiFasAAdPZ5.jpg",
+        "width": 2603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086811635285635251",
+        "created_at": "2026-08-10T16:00:59.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086845274102907386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1729426446538698752",
+              "start": 0,
+              "username": "AurelianoRen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086845274102907386",
+        "in_reply_to_user_id": "1729426446538698752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086811635285635251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AurelianoRen 鲨鱼好可爱啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086811626276302848"
+          ]
+        },
+        "author_id": "1729426446538698752",
+        "conversation_id": "2086811635285635251",
+        "created_at": "2026-08-10T13:47:19.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T14:45:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086811156568801646",
+          "2086811635285635251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rq6I4v5nMh",
+              "end": 65,
+              "expanded_url": "https://x.com/AurelianoRen/status/2086811635285635251/photo/1",
+              "media_key": "3_2086811626276302848",
+              "start": 42,
+              "url": "https://t.co/rq6I4v5nMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086811635285635251",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086811626276302848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好孤独\n所有人的心都离我好远\n\n我的身体出了问题\n我无法卸下防备\n无法感到善意与爱 https://t.co/rq6I4v5nMh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086845274102907386",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 231,
+          "like_count": 30293,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 6292
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-28T09:06:27.000Z",
+        "description": "制服と銃器が好きな文学少女\nよかったら、友達になってください",
+        "id": "1729426446538698752",
+        "is_identity_verified": false,
+        "location": "Barranquilla, Colombia",
+        "most_recent_tweet_id": "2086815154319286709",
+        "name": "Aureliano",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1729426446538698752/1785832442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083714407205683200/GH99b-hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 68,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "AurelianoRen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

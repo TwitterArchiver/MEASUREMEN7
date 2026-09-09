@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2091111086594433172",
+    "created_at": "2026-08-22T10:36:20.000Z",
+    "display_text_range": [
+      11,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T11:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091112228263268377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2068451154959470592",
+          "start": 0,
+          "username": "I_LoveU3U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091112228263268377",
+    "in_reply_to_user_id": "2068451154959470592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091111752150680013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@I_LoveU3U 很好奇谁能绷住，我觉得瑟瑟的时候想到了估计都要不举了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2091111086594433172",
+        "created_at": "2026-08-22T10:36:20.000Z",
+        "display_text_range": [
+          11,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091112228263268377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2068451154959470592",
+              "start": 0,
+              "username": "I_LoveU3U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091112228263268377",
+        "in_reply_to_user_id": "2068451154959470592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091111752150680013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I_LoveU3U 很好奇谁能绷住，我觉得瑟瑟的时候想到了估计都要不举了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068451154959470592",
+        "conversation_id": "2091111086594433172",
+        "created_at": "2026-08-22T10:34:27.000Z",
+        "display_text_range": [
+          13,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091111752150680013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091111752150680013",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091111345320259811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 谁懂那一刻的救赎感，反正我笑没气了..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2091112228263268377",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 288,
+          "like_count": 35411,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 7855
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-20T21:50:14.000Z",
+        "description": "0?|♀|Bi🩷💜💙|LGBT-Q&女性主义友好|喜欢漫画和动漫、游戏，以及科幻相关|已有小狗老公",
+        "id": "2068451154959470592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091111752150680013",
+        "name": "idk",
+        "pinned_tweet_id": "2090824086582878497",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2068451154959470592/1787326458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090823227509780480/8L_ZTAe9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 46,
+          "like_count": 3380,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 710
+        },
+        "url": "",
+        "username": "I_LoveU3U",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

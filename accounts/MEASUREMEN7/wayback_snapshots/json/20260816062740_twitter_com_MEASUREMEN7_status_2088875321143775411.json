@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088875321143775411",
+    "created_at": "2026-08-16T06:27:40.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088875321143775411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2088447669056499712",
+          "start": 3,
+          "username": "AmeHanafogfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088875321143775411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088449819673268406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmeHanafogfox: 没懂x的封号机制\n总而言之是2.0\n努力把大号封回来吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088875321143775411",
+        "created_at": "2026-08-16T06:27:40.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088875321143775411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2088447669056499712",
+              "start": 3,
+              "username": "AmeHanafogfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088875321143775411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088449819673268406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmeHanafogfox: 没懂x的封号机制\n总而言之是2.0\n努力把大号封回来吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088447669056499712",
+        "conversation_id": "2088449819673268406",
+        "created_at": "2026-08-15T02:16:53.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T03:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088449819673268406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088449819673268406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "没懂x的封号机制\n总而言之是2.0\n努力把大号封回来吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088875321143775411",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 249,
+          "like_count": 32242,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 6867
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T02:09:14.000Z",
+        "description": "阿间/雨原花咲\nftx\n重生2.0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fooogfox",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fooogfox",
+                "start": 0,
+                "url": "https://t.co/duHV2zX82H"
+              }
+            ]
+          }
+        },
+        "id": "2088447669056499712",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2088841738555425173",
+        "name": "猫不理茶茶罐头2.0",
+        "pinned_tweet_id": "2088449819673268406",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088447669056499712/1786759959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088448047927967744/C_zVguzH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 29,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/duHV2zX82H",
+        "username": "AmeHanafogfox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

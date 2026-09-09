@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090400879396749332",
+    "created_at": "2026-08-20T12:31:31.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090416438725185909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887467599287754755",
+          "start": 0,
+          "username": "with_WhiT3Rose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090416438725185909",
+    "in_reply_to_user_id": "1887467599287754755",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090400879396749332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@with_WhiT3Rose 好舒服啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 397,
+        "media_key": "3_2090400872732008448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKYhLFboAA0tGd.jpg",
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090400879396749332",
+        "created_at": "2026-08-20T12:31:31.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090416438725185909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887467599287754755",
+              "start": 0,
+              "username": "with_WhiT3Rose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090416438725185909",
+        "in_reply_to_user_id": "1887467599287754755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090400879396749332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@with_WhiT3Rose 好舒服啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090400872732008448"
+          ]
+        },
+        "author_id": "1887467599287754755",
+        "conversation_id": "2090400879396749332",
+        "created_at": "2026-08-20T11:29:42.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090400879396749332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MW7zDTU3J0",
+              "end": 58,
+              "expanded_url": "https://x.com/with_WhiT3Rose/status/2090400879396749332/photo/1",
+              "media_key": "3_2090400872732008448",
+              "start": 35,
+              "url": "https://t.co/MW7zDTU3J0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090400879396749332",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090400872732008448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的语音系统被程咬金入侵了，现在干什么事都喜欢来一句好↑舒↑服↓啊↓ https://t.co/MW7zDTU3J0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090416438725185909",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 284,
+          "like_count": 34635,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 7626
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T11:45:28.000Z",
+        "description": "天荒地老流连在摩天轮",
+        "id": "1887467599287754755",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090413011593048342",
+        "name": "uuuuuv3",
+        "pinned_tweet_id": "2081952312441098328",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887467599287754755/1760720458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088857024004272128/d6HDReNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 471,
+          "like_count": 34052,
+          "listed_count": 1,
+          "media_count": 638,
+          "tweet_count": 4446
+        },
+        "url": "",
+        "username": "with_WhiT3Rose",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

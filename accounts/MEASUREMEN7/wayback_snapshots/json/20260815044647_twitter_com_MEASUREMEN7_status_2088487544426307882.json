@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088351603065799134",
+    "created_at": "2026-08-15T04:46:47.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T05:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088487544426307882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1888600814417051648",
+          "start": 0,
+          "username": "d1478523690"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088487544426307882",
+    "in_reply_to_user_id": "1888600814417051648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088351603065799134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d1478523690 我达成目标了，安然赴死去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088351603065799134",
+        "created_at": "2026-08-15T04:46:47.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088487544426307882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888600814417051648",
+              "start": 0,
+              "username": "d1478523690"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088487544426307882",
+        "in_reply_to_user_id": "1888600814417051648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088351603065799134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d1478523690 我达成目标了，安然赴死去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888600814417051648",
+        "conversation_id": "2088351603065799134",
+        "created_at": "2026-08-14T19:46:36.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T20:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088351603065799134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088351603065799134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目标是20岁之前谈一段恋爱。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088487544426307882",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 253,
+          "like_count": 31785,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 6763
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-09T14:48:34.000Z",
+        "description": "我只是一只猫\n仅此一个账号⚠️",
+        "id": "1888600814417051648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088351603065799134",
+        "name": "cat🐈‍⬛",
+        "pinned_tweet_id": "2050165870534816054",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888600814417051648/1777632565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898669355925192705/NAaGHFSX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 0,
+          "like_count": 198,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "d1478523690",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

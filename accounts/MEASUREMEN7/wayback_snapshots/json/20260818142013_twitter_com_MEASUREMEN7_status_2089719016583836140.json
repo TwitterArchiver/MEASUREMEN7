@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089717119542055113",
+    "created_at": "2026-08-18T14:20:13.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T15:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089719016583836140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1807823851818307584",
+          "start": 0,
+          "username": "AUMIN273497"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089719016583836140",
+    "in_reply_to_user_id": "1807823851818307584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089717119542055113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AUMIN273497 关你屁屁到底是谁这么强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089717119542055113",
+        "created_at": "2026-08-18T14:20:13.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089719016583836140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1807823851818307584",
+              "start": 0,
+              "username": "AUMIN273497"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089719016583836140",
+        "in_reply_to_user_id": "1807823851818307584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089717119542055113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AUMIN273497 关你屁屁到底是谁这么强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807823851818307584",
+        "conversation_id": "2089717119542055113",
+        "created_at": "2026-08-18T14:12:41.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089717119542055113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089717119542055113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "名字：uiamu\n性别：关你屁屁\n年龄：关你屁屁\n生日：关你屁屁\n兴趣：关你屁屁\n身高：关你屁屁\n体重：关你屁屁\n惯用手：关你屁屁\n握力：关你屁屁\n视力：关你屁屁\n恋人：关你屁屁\n血型：关你屁屁\n告白次数：关你屁屁\n被表白次数：关你屁屁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089719016583836140",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 265,
+          "like_count": 33419,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 7281
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-01T17:09:39.000Z",
+        "description": "再次亲眼看看你的笑容\n本体@xsen60102\n此为备用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "xsen60102"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uiamu",
+                "end": 23,
+                "expanded_url": "http://ngl.link/uiamu",
+                "start": 0,
+                "url": "https://t.co/Q7txBno9OX"
+              }
+            ]
+          }
+        },
+        "id": "1807823851818307584",
+        "is_identity_verified": false,
+        "location": "海拉鲁大陆",
+        "most_recent_tweet_id": "2089717119542055113",
+        "name": "uiamu 2.0",
+        "pinned_tweet_id": "2088838041079267362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807823851818307584/1786987986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089405123445637121/8zwqObXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 42,
+          "like_count": 562,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 243
+        },
+        "url": "https://t.co/Q7txBno9OX",
+        "username": "AUMIN273497",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

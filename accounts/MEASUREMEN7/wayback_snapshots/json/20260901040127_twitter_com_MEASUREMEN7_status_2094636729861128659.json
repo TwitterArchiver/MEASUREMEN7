@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2094636729861128659",
+    "created_at": "2026-09-01T04:01:27.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T05:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094636729861128659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1971182614745841666",
+          "start": 3,
+          "username": "bjsd394019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094636729861128659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094447879654174915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bjsd394019: 我现在有了一个新的发泄方式就是爬到满是太阳能板的屋顶找个落脚点弹吉他\n莫名感觉被阳光包裹着的吉他声音会更温柔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2094636729861128659",
+        "created_at": "2026-09-01T04:01:27.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094636729861128659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971182614745841666",
+              "start": 3,
+              "username": "bjsd394019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094636729861128659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094447879654174915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bjsd394019: 我现在有了一个新的发泄方式就是爬到满是太阳能板的屋顶找个落脚点弹吉他\n莫名感觉被阳光包裹着的吉他声音会更温柔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971182614745841666",
+        "conversation_id": "2094447879654174915",
+        "created_at": "2026-08-31T15:31:02.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094447879654174915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094447879654174915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在有了一个新的发泄方式就是爬到满是太阳能板的屋顶找个落脚点弹吉他\n莫名感觉被阳光包裹着的吉他声音会更温柔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2094636729861128659",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 292,
+          "like_count": 38304,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 8442
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T11:59:19.000Z",
+        "description": "独り言、いいものですね。",
+        "id": "1971182614745841666",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094584674811359392",
+        "name": "すみません",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971182614745841666/1762342253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084012084304752640/FzNM53lR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 69,
+          "like_count": 2174,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 352
+        },
+        "url": "",
+        "username": "bjsd394019",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

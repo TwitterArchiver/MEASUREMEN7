@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2085290186733441175",
+    "created_at": "2026-08-06T09:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T10:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085293168065687954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040070879888220160",
+          "start": 0,
+          "username": "Yumi320521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085293168065687954",
+    "in_reply_to_user_id": "2040070879888220160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085290186733441175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yumi320521 再关注一次就好了好像"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085290158547767296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBwWdHbkAAmIEN.jpg",
+        "width": 1102
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2085290186733441175",
+        "created_at": "2026-08-06T09:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085293168065687954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085293168065687954",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085290186733441175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 再关注一次就好了好像"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085290158547767296"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2085290186733441175",
+        "created_at": "2026-08-06T09:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085290186733441175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HyiF69zCAe",
+              "end": 62,
+              "expanded_url": "https://x.com/Yumi320521/status/2085290186733441175/photo/1",
+              "media_key": "3_2085290158547767296",
+              "start": 39,
+              "url": "https://t.co/HyiF69zCAe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085290186733441175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我解封了但是为什么关注列表是这样的 但是点进去还是能看见我关注的谁还有关注者 https://t.co/HyiF69zCAe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 197,
+          "like_count": 29227,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 5888
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi \n明日私の人生はどうなるのでしょうか\n@Yumi320521lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Yumi320521lin"
+              }
+            ]
+          }
+        },
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 2,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1710
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

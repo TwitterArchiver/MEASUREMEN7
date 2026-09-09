@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088475523701948721",
+    "created_at": "2026-08-15T03:59:01.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T04:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088475523701948721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/icecake999/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/icecake999/status/2087967352147292640",
+          "start": 6,
+          "url": "https://t.co/8oItMC2lEl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088475523701948721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087967352147292640",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "严肃学习中 https://t.co/8oItMC2lEl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 643,
+        "media_key": "3_2087967345650393088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnzPQQbYAAN1BF.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088475523701948721",
+        "created_at": "2026-08-15T03:59:01.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088475523701948721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/icecake999/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/icecake999/status/2087967352147292640",
+              "start": 6,
+              "url": "https://t.co/8oItMC2lEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088475523701948721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087967352147292640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "严肃学习中 https://t.co/8oItMC2lEl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087967345650393088"
+          ]
+        },
+        "author_id": "1900688917902282752",
+        "conversation_id": "2087967352147292640",
+        "created_at": "2026-08-13T18:19:43.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087967352147292640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZPdc84kNZ",
+              "end": 29,
+              "expanded_url": "https://x.com/icecake999/status/2087967352147292640/photo/1",
+              "media_key": "3_2087967345650393088",
+              "start": 6,
+              "url": "https://t.co/oZPdc84kNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087967352147292640",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087967345650393088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 219940,
+          "like_count": 1493,
+          "quote_count": 13,
+          "reply_count": 263,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "严肃学习中 https://t.co/oZPdc84kNZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088475523701948721",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 252,
+          "like_count": 31735,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 6752
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-14T23:22:37.000Z",
+        "description": "说点梦话",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/icecake56798",
+                "end": 23,
+                "expanded_url": "https://ngl.link/icecake56798",
+                "start": 0,
+                "url": "https://t.co/JWF1bTTtD8"
+              }
+            ]
+          }
+        },
+        "id": "1900688917902282752",
+        "is_identity_verified": false,
+        "location": "青青草原",
+        "most_recent_tweet_id": "2088426776100053213",
+        "name": "冰煮羊",
+        "pinned_tweet_id": "2003149885328228534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900688917902282752/1741994856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906728949675081728/CUWsAtPk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 38,
+          "like_count": 2333,
+          "listed_count": 4,
+          "media_count": 44,
+          "tweet_count": 1205
+        },
+        "url": "https://t.co/JWF1bTTtD8",
+        "username": "icecake999",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

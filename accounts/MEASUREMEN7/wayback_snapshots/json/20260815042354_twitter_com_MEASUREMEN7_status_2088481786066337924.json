@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088481786066337924",
+    "created_at": "2026-08-15T04:23:54.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T05:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088481786066337924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "shennainai666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088481786066337924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088316415438991869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shennainai666: 上海带刀炸街什么本事，不如你陈龙玉末日铁拳一拳给对方干轻伤二级"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088481786066337924",
+        "created_at": "2026-08-15T04:23:54.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088481786066337924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "shennainai666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088481786066337924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088316415438991869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shennainai666: 上海带刀炸街什么本事，不如你陈龙玉末日铁拳一拳给对方干轻伤二级"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2088316415438991869",
+        "created_at": "2026-08-14T17:26:47.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088316415438991869"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088316415438991869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 561,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上海带刀炸街什么本事，不如你陈龙玉末日铁拳一拳给对方干轻伤二级"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088481786066337924",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 253,
+          "like_count": 31768,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 6760
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "进群私",
+        "id": "2010357366466990080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088385969527599416",
+        "name": "河南说唱之神",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010357366466990080/1769655313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4955,
+          "following_count": 765,
+          "like_count": 1183,
+          "listed_count": 3,
+          "media_count": 510,
+          "tweet_count": 3997
+        },
+        "url": "",
+        "username": "shennainai666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

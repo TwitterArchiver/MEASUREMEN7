@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2092095322415923463",
+    "created_at": "2026-08-25T03:42:48.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T04:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092095322415923463"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_pulseofnature…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/_pulseofnature/status/2091885552618635415",
+          "start": 17,
+          "url": "https://t.co/YjJC1xyNGE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092095322415923463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091885552618635415",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下辈子能转生成这样的煤气罐就好了 https://t.co/YjJC1xyNGE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14966,
+        "height": 1280,
+        "media_key": "13_2091885505277464576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091885505277464576/img/sGdORWZJJQoAcz6C.jpg",
+        "public_metrics": {
+          "view_count": 192607
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091885505277464576/vid/avc1/320x568/EUwjCdcYZBQ6319b.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091885505277464576/vid/avc1/480x852/UvrNFVbGvY65SNWP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091885505277464576/vid/avc1/720x1280/5Te_mQHo1CCoXf0x.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091885505277464576/pl/RqpqBFCy-PueIR9a.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2092095322415923463",
+        "created_at": "2026-08-25T03:42:48.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T04:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092095322415923463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_pulseofnature…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/_pulseofnature/status/2091885552618635415",
+              "start": 17,
+              "url": "https://t.co/YjJC1xyNGE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092095322415923463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091885552618635415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下辈子能转生成这样的煤气罐就好了 https://t.co/YjJC1xyNGE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091885505277464576"
+          ]
+        },
+        "author_id": "948160254214148097",
+        "conversation_id": "2091885552618635415",
+        "created_at": "2026-08-24T13:49:15.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091885552618635415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqigZ8Pko0",
+              "end": 44,
+              "expanded_url": "https://x.com/_PulseOfNature/status/2091885552618635415/video/1",
+              "media_key": "13_2091885505277464576",
+              "start": 21,
+              "url": "https://t.co/tqigZ8Pko0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091885552618635415",
+        "lang": "ht",
+        "media_metadata": [
+          {
+            "media_key": "13_2091885505277464576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3571,
+          "impression_count": 576089,
+          "like_count": 22781,
+          "quote_count": 156,
+          "reply_count": 110,
+          "retweet_count": 2505
+        },
+        "reply_settings": "everyone",
+        "text": "Ap ap ap ap ap 🗣️‼️🦭 https://t.co/tqigZ8Pko0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2092095322415923463",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 290,
+          "like_count": 36081,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 8015
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-01-02T11:53:15.000Z",
+        "description": "I tweet those which i like more                       its intresting nature",
+        "id": "948160254214148097",
+        "is_identity_verified": true,
+        "location": "🌏",
+        "most_recent_tweet_id": "2092081786352513516",
+        "name": "Intresting nature 🌿🪐",
+        "pinned_tweet_id": "2091885552618635415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/948160254214148097/1775529615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974350311352582144/HjilxNTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24535,
+          "following_count": 5357,
+          "like_count": 14268,
+          "listed_count": 68,
+          "media_count": 5363,
+          "tweet_count": 12079
+        },
+        "url": "",
+        "username": "_PulseOfNature",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

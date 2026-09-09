@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2093173192793997552",
+    "created_at": "2026-08-28T03:36:43.000Z",
+    "display_text_range": [
+      28,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T04:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093180953405600007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2063228399586541568",
+          "start": 0,
+          "username": "_QianQian_8964_"
+        },
+        {
+          "end": 27,
+          "id": "1701232705386471424",
+          "start": 17,
+          "username": "denka0926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093180953405600007",
+    "in_reply_to_user_id": "2063228399586541568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093173192793997552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_QianQian_8964_ @denka0926 黑皮就是很棒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093173186552848387",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQxx7E3a4AMMGol.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2093173192793997552",
+        "created_at": "2026-08-28T03:36:43.000Z",
+        "display_text_range": [
+          28,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T04:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093180953405600007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2063228399586541568",
+              "start": 0,
+              "username": "_QianQian_8964_"
+            },
+            {
+              "end": 27,
+              "id": "1701232705386471424",
+              "start": 17,
+              "username": "denka0926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093180953405600007",
+        "in_reply_to_user_id": "2063228399586541568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093173192793997552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_QianQian_8964_ @denka0926 黑皮就是很棒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093173186552848387"
+          ]
+        },
+        "author_id": "2063228399586541568",
+        "conversation_id": "2093173192793997552",
+        "created_at": "2026-08-28T03:05:53.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T04:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093173192793997552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ii8GJLJMse",
+              "end": 42,
+              "expanded_url": "https://x.com/_QianQian_8964_/status/2093173192793997552/photo/1",
+              "media_key": "3_2093173186552848387",
+              "start": 19,
+              "url": "https://t.co/ii8GJLJMse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093173192793997552",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093173186552848387"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想射 我要射了 我一直在射個不停 https://t.co/ii8GJLJMse"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2093180953405600007",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 293,
+          "like_count": 37028,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 8200
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T11:59:22.000Z",
+        "description": "@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "7q468438x8964"
+              }
+            ]
+          }
+        },
+        "id": "2063228399586541568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093173192793997552",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2089426601880813891",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063228399586541568/1787364710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088817754745053184/CrWfdunH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 140,
+          "like_count": 2340,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1234
+        },
+        "url": "",
+        "username": "_QianQian_8964_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-11T13:54:36.000Z",
+        "description": "they/them/泛性戀/09\n中/粵/Eng\nintj/🇭🇰/adhd/ptsd/asd\n叫睡睡或者猫猫也行有点害羞怕生\n不会聊天不懂怎么经营账号别讨厌我\n皮下女但是性别认同是他们不喜欢被用她称呼\n回人特别慢不要嫌弃我特别敏感脆弱的小猫\n先看完再dm我别问这里有的东西\n不加别的app",
+        "id": "1701232705386471424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092956404361711758",
+        "name": "睡睡",
+        "pinned_tweet_id": "2070560115317678275",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1701232705386471424/1783418860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775426305959542784/BJIB2fLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6434,
+          "following_count": 18,
+          "like_count": 1879,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 764
+        },
+        "url": "",
+        "username": "denka0926",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088310098003165611",
+    "created_at": "2026-08-14T19:17:53.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T20:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088344376414179651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1988120900395560962",
+          "start": 0,
+          "username": "MaytomePay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088344376414179651",
+    "in_reply_to_user_id": "1988120900395560962",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088310098003165611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaytomePay 写削弱人类"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_2088310089912320000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsq9mIWgAAeXSM.jpg",
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088310098003165611",
+        "created_at": "2026-08-14T19:17:53.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T20:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088344376414179651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988120900395560962",
+              "start": 0,
+              "username": "MaytomePay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088344376414179651",
+        "in_reply_to_user_id": "1988120900395560962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088310098003165611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaytomePay 写削弱人类"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088310089912320000"
+          ]
+        },
+        "author_id": "1988120900395560962",
+        "conversation_id": "2088310098003165611",
+        "created_at": "2026-08-14T17:01:40.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088310098003165611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWM9XMKGc9",
+              "end": 57,
+              "expanded_url": "https://x.com/MaytomePay/status/2088310098003165611/photo/1",
+              "media_key": "3_2088310089912320000",
+              "start": 34,
+              "url": "https://t.co/hWM9XMKGc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088310098003165611",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088310089912320000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 308,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有人玩吗，在举牌上面随便写东西，满意的会返去码图☺️☺️，评论区挑 https://t.co/hWM9XMKGc9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088344376414179651",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 252,
+          "like_count": 31796,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 6744
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-11T05:46:54.000Z",
+        "description": "拍自己喜欢的\n玻璃心高p\n教我做事先给钱\n别问门了没福利，想过20纯圈",
+        "id": "1988120900395560962",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088310098003165611",
+        "name": "Maytome",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988120900395560962/1768377078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088309546687037440/XkSf2T9A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2889,
+          "following_count": 3,
+          "like_count": 8,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "MaytomePay",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

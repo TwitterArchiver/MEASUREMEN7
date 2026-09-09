@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086820575062921216"
+      ],
+      "media_source_tweet_id": [
+        "2086820596655313054"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087495453592137935",
+    "created_at": "2026-08-12T11:04:34.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T12:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087495453592137935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2082080789119016961",
+          "start": 3,
+          "username": "Realhoshinofuji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qv3WxqEQMn",
+          "end": 44,
+          "expanded_url": "https://x.com/Realhoshinofuji/status/2086820596655313054/photo/1",
+          "media_key": "3_2086820575062921216",
+          "start": 21,
+          "url": "https://t.co/qv3WxqEQMn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087495453592137935",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2086820575062921216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086820596655313054",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Realhoshinofuji: https://t.co/qv3WxqEQMn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1068,
+        "media_key": "3_2086820575062921216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXgQa6aEAA31Ub.jpg",
+        "width": 760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086820575062921216"
+          ]
+        },
+        "author_id": "2082080789119016961",
+        "conversation_id": "2086820596655313054",
+        "created_at": "2026-08-10T14:22:56.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086820596655313054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qv3WxqEQMn",
+              "end": 23,
+              "expanded_url": "https://x.com/Realhoshinofuji/status/2086820596655313054/photo/1",
+              "media_key": "3_2086820575062921216",
+              "start": 0,
+              "url": "https://t.co/qv3WxqEQMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086820596655313054",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086820575062921216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 42909,
+          "like_count": 1178,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qv3WxqEQMn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086820575062921216"
+          ],
+          "media_source_tweet_id": [
+            "2086820596655313054"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087495453592137935",
+        "created_at": "2026-08-12T11:04:34.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087495453592137935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2082080789119016961",
+              "start": 3,
+              "username": "Realhoshinofuji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qv3WxqEQMn",
+              "end": 44,
+              "expanded_url": "https://x.com/Realhoshinofuji/status/2086820596655313054/photo/1",
+              "media_key": "3_2086820575062921216",
+              "start": 21,
+              "url": "https://t.co/qv3WxqEQMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087495453592137935",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086820575062921216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086820596655313054",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Realhoshinofuji: https://t.co/qv3WxqEQMn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087495453592137935",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 241,
+          "like_count": 31024,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 6512
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-28T12:30:05.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」｜My beloved @nationalpurevf4｜Peace&Love🇺🇳｜pixiv illustrator | AIart |Partner @KokonaKokoro\n 旧友寻回中｜最爱的猫猫 @Kalin_1124｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "Kalin_1124"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/nkPOtCbKri"
+              }
+            ]
+          }
+        },
+        "id": "2082080789119016961",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087446356260692355",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2082097033486508340",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082080789119016961/1785242064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085266166722019328/qU3IaA0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1947,
+          "following_count": 1394,
+          "like_count": 2564,
+          "listed_count": 3,
+          "media_count": 304,
+          "tweet_count": 1175
+        },
+        "url": "https://t.co/nkPOtCbKri",
+        "username": "Realhoshinofuji",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

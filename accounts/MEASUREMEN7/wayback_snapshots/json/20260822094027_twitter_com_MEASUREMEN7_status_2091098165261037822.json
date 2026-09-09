@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2091076321212555524",
+    "created_at": "2026-08-22T09:40:27.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T10:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091098165261037822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1378250667391774725",
+          "start": 0,
+          "username": "xr04241"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091098165261037822",
+    "in_reply_to_user_id": "1378250667391774725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091096104771412109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xr04241 没错没错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2091076321212555524",
+        "created_at": "2026-08-22T09:40:27.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091098165261037822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1378250667391774725",
+              "start": 0,
+              "username": "xr04241"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091098165261037822",
+        "in_reply_to_user_id": "1378250667391774725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091096104771412109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xr04241 没错没错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1378250667391774725",
+        "conversation_id": "2091076321212555524",
+        "created_at": "2026-08-22T09:32:16.000Z",
+        "display_text_range": [
+          13,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091096104771412109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091096104771412109",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091082363073884317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 很舒服，然后就一起感冒了如果和喜欢的人也不错然后就可以回家躺在一张床上"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2091098165261037822",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 286,
+          "like_count": 35386,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 7844
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-03T07:39:13.000Z",
+        "description": "૮₍ ˶•ᴗ•˶₎ა",
+        "id": "1378250667391774725",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091096104771412109",
+        "name": "小哭",
+        "pinned_tweet_id": "2091027437891269019",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598095694895542274/OpMuyTuJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 32,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "xr04241",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

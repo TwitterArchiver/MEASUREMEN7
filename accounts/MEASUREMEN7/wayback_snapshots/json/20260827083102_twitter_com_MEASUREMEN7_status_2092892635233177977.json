@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2092883701545980359",
+    "created_at": "2026-08-27T08:31:02.000Z",
+    "display_text_range": [
+      11,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T09:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092892635233177977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1755853048277331968",
+          "start": 0,
+          "username": "miaodeisu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092892635233177977",
+    "in_reply_to_user_id": "1755853048277331968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092883701545980359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaodeisu 没有办法呢，除开把对方账号ban了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2092883701545980359",
+        "created_at": "2026-08-27T08:31:02.000Z",
+        "display_text_range": [
+          11,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092892635233177977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1755853048277331968",
+              "start": 0,
+              "username": "miaodeisu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092892635233177977",
+        "in_reply_to_user_id": "1755853048277331968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092883701545980359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaodeisu 没有办法呢，除开把对方账号ban了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755853048277331968",
+        "conversation_id": "2092883701545980359",
+        "created_at": "2026-08-27T07:55:33.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092883701545980359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092883701545980359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "屏蔽了对方是不是也会看到我的推文。如何才能让对方彻底看不到我的任何呢。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2092892635233177977",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 293,
+          "like_count": 36820,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 8142
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-09T07:16:20.000Z",
+        "description": "請不要注意我的垃圾｜⬇️提問箱｜互fo歡迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rice_ca.kee",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rice_ca.kee",
+                "start": 0,
+                "url": "https://t.co/Dui5kffGkF"
+              }
+            ]
+          }
+        },
+        "id": "1755853048277331968",
+        "is_identity_verified": false,
+        "location": "天國",
+        "most_recent_tweet_id": "2092883701545980359",
+        "name": "世の中推敲された嘘ばっか",
+        "pinned_tweet_id": "2092865251507355959",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755853048277331968/1787810910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090758729960759296/ZhSNi581_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 44,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/Dui5kffGkF",
+        "username": "miaodeisu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

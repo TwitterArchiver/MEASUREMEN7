@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087699576690253866",
+    "created_at": "2026-08-13T01:41:46.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T02:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087716208200352205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2063690530551373824",
+          "start": 0,
+          "username": "bbbukaixinunu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087716208200352205",
+    "in_reply_to_user_id": "2063690530551373824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087699576690253866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbbukaixinunu 一团橘猫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3060,
+        "media_key": "3_2087699558096941056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPj_r94bsAAPTrU.jpg",
+        "width": 4080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087699576690253866",
+        "created_at": "2026-08-13T01:41:46.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087716208200352205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2063690530551373824",
+              "start": 0,
+              "username": "bbbukaixinunu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087716208200352205",
+        "in_reply_to_user_id": "2063690530551373824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087699576690253866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbbukaixinunu 一团橘猫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087699558096941056"
+          ]
+        },
+        "author_id": "2063690530551373824",
+        "conversation_id": "2087699576690253866",
+        "created_at": "2026-08-13T00:35:41.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T01:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087699576690253866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JggaSLB7qQ",
+              "end": 45,
+              "expanded_url": "https://x.com/bbbukaixinunu/status/2087699576690253866/photo/1",
+              "media_key": "3_2087699558096941056",
+              "start": 22,
+              "url": "https://t.co/JggaSLB7qQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087699576690253866",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087699558096941056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "胖猫怕掉下去所以用一只手勾着吗哈哈哈哈哈哈 https://t.co/JggaSLB7qQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087716208200352205",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 250,
+          "like_count": 31234,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 6610
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-07T18:33:49.000Z",
+        "description": "没开私信 不聊天 熟人刷到勿扰 小号只通过互关@bukaixinunu 📭匿名箱https://t.co/uO6MSqkIz5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "bukaixinunu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/daodao41602",
+                "end": 63,
+                "expanded_url": "https://ngl.link/daodao41602",
+                "start": 40,
+                "url": "https://t.co/uO6MSqkIz5"
+              }
+            ]
+          }
+        },
+        "id": "2063690530551373824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087703642250092744",
+        "name": "叨叨（重生版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063690530551373824/1785418301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082743903938289664/CQ63mwaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 173,
+          "like_count": 1679,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 579
+        },
+        "url": "",
+        "username": "bbbukaixinunu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

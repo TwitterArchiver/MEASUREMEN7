@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2091023402228391977",
+    "created_at": "2026-08-22T04:54:29.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T05:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091026195693674858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053112758531715072",
+          "start": 0,
+          "username": "Nevado_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091026195693674858",
+    "in_reply_to_user_id": "2053112758531715072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091023402228391977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nevado_snow 那真的很扣了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2091023402228391977",
+        "created_at": "2026-08-22T04:54:29.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T05:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091026195693674858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053112758531715072",
+              "start": 0,
+              "username": "Nevado_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091026195693674858",
+        "in_reply_to_user_id": "2053112758531715072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091023402228391977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nevado_snow 那真的很扣了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053112758531715072",
+        "conversation_id": "2091023402228391977",
+        "created_at": "2026-08-22T04:43:23.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T05:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091023402228391977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091023402228391977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有很多人好奇扣女人是种什么感觉\n其实也没有什么劲爆的东西\n在这件事情上我非常有经验\n我除了必要的生活开销，购买多余的东西；有人借钱，一律不借；超过二十块钱的聚餐，绝不参加\n这就是扣女人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2091026195693674858",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 288,
+          "like_count": 35295,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 7819
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T14:02:08.000Z",
+        "description": "直女 非典型INTP-t｜brat\n175 55 我是小学生\n如果哪天我沓無音訊\nngl⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nevado22756",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nevado22756",
+                "start": 0,
+                "url": "https://t.co/s4fAatf6cF"
+              }
+            ]
+          }
+        },
+        "id": "2053112758531715072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091023402228391977",
+        "name": "Nevado",
+        "pinned_tweet_id": "2089292340527784143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053112758531715072/1778510723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065997076903927808/seoscLhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 77,
+          "like_count": 13389,
+          "listed_count": 0,
+          "media_count": 749,
+          "tweet_count": 3900
+        },
+        "url": "https://t.co/s4fAatf6cF",
+        "username": "Nevado_snow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088198676380627188",
+    "created_at": "2026-08-14T09:40:38.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T10:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088199106305098221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2078469675889872896",
+          "start": 0,
+          "username": "OmOmO7777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088199106305098221",
+    "in_reply_to_user_id": "2078469675889872896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088198676380627188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OmOmO7777777 我也想做，好无聊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088198668566577152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrFoBRawAAiACO.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088198668579188736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrFoBUbMAAu-Yk.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088198668570836993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrFoBSbwAEIyrL.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088198668612694017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrFoBcacAE-1fC.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088198676380627188",
+        "created_at": "2026-08-14T09:40:38.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088199106305098221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2078469675889872896",
+              "start": 0,
+              "username": "OmOmO7777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088199106305098221",
+        "in_reply_to_user_id": "2078469675889872896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088198676380627188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OmOmO7777777 我也想做，好无聊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088198668566577152",
+            "3_2088198668579188736",
+            "3_2088198668570836993",
+            "3_2088198668612694017"
+          ]
+        },
+        "author_id": "2078469675889872896",
+        "conversation_id": "2088198676380627188",
+        "created_at": "2026-08-14T09:38:55.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088198676380627188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NzqIG0FxxO",
+              "end": 35,
+              "expanded_url": "https://x.com/OmOmO7777777/status/2088198676380627188/photo/1",
+              "media_key": "3_2088198668566577152",
+              "start": 12,
+              "url": "https://t.co/NzqIG0FxxO"
+            },
+            {
+              "display_url": "pic.x.com/NzqIG0FxxO",
+              "end": 35,
+              "expanded_url": "https://x.com/OmOmO7777777/status/2088198676380627188/photo/1",
+              "media_key": "3_2088198668579188736",
+              "start": 12,
+              "url": "https://t.co/NzqIG0FxxO"
+            },
+            {
+              "display_url": "pic.x.com/NzqIG0FxxO",
+              "end": 35,
+              "expanded_url": "https://x.com/OmOmO7777777/status/2088198676380627188/photo/1",
+              "media_key": "3_2088198668570836993",
+              "start": 12,
+              "url": "https://t.co/NzqIG0FxxO"
+            },
+            {
+              "display_url": "pic.x.com/NzqIG0FxxO",
+              "end": 35,
+              "expanded_url": "https://x.com/OmOmO7777777/status/2088198676380627188/photo/1",
+              "media_key": "3_2088198668612694017",
+              "start": 12,
+              "url": "https://t.co/NzqIG0FxxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088198676380627188",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088198668566577152"
+          },
+          {
+            "media_key": "3_2088198668579188736"
+          },
+          {
+            "media_key": "3_2088198668570836993"
+          },
+          {
+            "media_key": "3_2088198668612694017"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无聊 做了好多测试hh https://t.co/NzqIG0FxxO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088199106305098221",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 251,
+          "like_count": 31744,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 6729
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T13:20:49.000Z",
+        "description": "只是活着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/omo78350",
+                "end": 23,
+                "expanded_url": "https://ngl.link/omo78350",
+                "start": 0,
+                "url": "https://t.co/qW03fZW9hv"
+              }
+            ]
+          }
+        },
+        "id": "2078469675889872896",
+        "is_identity_verified": false,
+        "location": "地球🌍",
+        "most_recent_tweet_id": "2088198676380627188",
+        "name": "OmO",
+        "pinned_tweet_id": "2086880344670925222",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078469675889872896/1784724788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079912578063519744/FTsQGlV6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 26,
+          "like_count": 675,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 314
+        },
+        "url": "https://t.co/qW03fZW9hv",
+        "username": "OmOmO7777777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

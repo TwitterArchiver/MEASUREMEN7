@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2084129888236380281",
+    "created_at": "2026-08-03T04:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084129888236380281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/suhdhhxdmo/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/suhdhhxdmo/status/2080990158804181378",
+          "start": 16,
+          "url": "https://t.co/cv7x7QAViy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084129888236380281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080990158804181378",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家都来支持一下可爱的电线杆！ https://t.co/cv7x7QAViy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2084129888236380281",
+        "created_at": "2026-08-03T04:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084129888236380281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suhdhhxdmo/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/suhdhhxdmo/status/2080990158804181378",
+              "start": 16,
+              "url": "https://t.co/cv7x7QAViy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084129888236380281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080990158804181378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家都来支持一下可爱的电线杆！ https://t.co/cv7x7QAViy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058944024078409728",
+        "conversation_id": "2080990158804181378",
+        "created_at": "2026-07-25T12:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080990158804181378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suhdhhxdmo/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/suhdhhxdmo/status/2080816671632310558",
+              "start": 34,
+              "url": "https://t.co/R9y7mFmCtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080990158804181378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080816671632310558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的真的很需要钱，谁可以帮我转发一下，我太需要钱了，生活费被断了。 https://t.co/R9y7mFmCtr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 28,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 5,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 195,
+          "like_count": 28417,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 5682
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T16:11:54.000Z",
+        "description": "重生。🚪80/150/300/520",
+        "id": "2058944024078409728",
+        "name": "骂我的没妈我骂的没妈。",
+        "pinned_tweet_id": "2065255390770786789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065254202356695041/Z1wu6Ia9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 29,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "Suhdhhxdmo",
+        "verified": true
+      }
+    ]
+  }
+}

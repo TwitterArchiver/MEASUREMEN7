@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2096164761075695891",
+    "created_at": "2026-09-05T09:40:26.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T10:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096171588228145354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053339374251806720",
+          "start": 0,
+          "username": "MSO_clinic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096171588228145354",
+    "in_reply_to_user_id": "2053339374251806720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096164761075695891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MSO_clinic 发生什么事了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 437,
+        "media_key": "3_2096164754373091328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcSvPcaIAAaYuU.jpg",
+        "width": 1136
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2096164761075695891",
+        "created_at": "2026-09-05T09:40:26.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096171588228145354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053339374251806720",
+              "start": 0,
+              "username": "MSO_clinic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096171588228145354",
+        "in_reply_to_user_id": "2053339374251806720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096164761075695891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MSO_clinic 发生什么事了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096164754373091328"
+          ]
+        },
+        "author_id": "2053339374251806720",
+        "conversation_id": "2096164761075695891",
+        "created_at": "2026-09-05T09:13:18.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096164761075695891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4eEYpw8Us",
+              "end": 74,
+              "expanded_url": "https://x.com/MSO_clinic/status/2096164761075695891/photo/1",
+              "media_key": "3_2096164754373091328",
+              "start": 51,
+              "url": "https://t.co/x4eEYpw8Us"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096164761075695891",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096164754373091328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老师把我全部社交媒体都封锁了并且没有给予任何解释\n我刚刚打给警察了 我手里还有证据 考完试我就去报警 https://t.co/x4eEYpw8Us"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2096171588228145354",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 287,
+          "like_count": 38899,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 8556
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T05:00:55.000Z",
+        "description": "SEMI HIATUS\nFuyumi 冬凛 \n地雷女||cos||Chinese||148cm\n中||ENG||日本語上手じゃない..\n#shhtwt #ricecaketwt #odtwt #jiraitwt #nsotwt #sliwt moot me up!! sayonara~",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 68,
+                "tag": "shhtwt"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "tag": "ricecaketwt"
+              },
+              {
+                "end": 95,
+                "start": 89,
+                "tag": "odtwt"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "tag": "jiraitwt"
+              },
+              {
+                "end": 113,
+                "start": 106,
+                "tag": "nsotwt"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "sliwt"
+              }
+            ]
+          }
+        },
+        "id": "2053339374251806720",
+        "is_identity_verified": false,
+        "location": "🇲🇾",
+        "most_recent_tweet_id": "2096164761075695891",
+        "name": "Fuyumi 想消失... 💤",
+        "pinned_tweet_id": "2069026646246695135",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053339374251806720/1779698270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060019766501556224/cV3ZmOzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 18,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "MSO_clinic",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2095885385847160857",
+    "created_at": "2026-09-04T16:12:26.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T17:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095907849918689663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1428604449845440520",
+          "start": 0,
+          "username": "KafuuChino1204_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095907849918689663",
+    "in_reply_to_user_id": "1428604449845440520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095885385847160857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KafuuChino1204_ 排序题"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 402,
+        "media_key": "3_2095885378356162560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYUparasAAvTfl.jpg",
+        "width": 432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2095885385847160857",
+        "created_at": "2026-09-04T16:12:26.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T17:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095907849918689663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1428604449845440520",
+              "start": 0,
+              "username": "KafuuChino1204_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095907849918689663",
+        "in_reply_to_user_id": "1428604449845440520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095885385847160857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KafuuChino1204_ 排序题"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095885378356162560"
+          ]
+        },
+        "author_id": "1428604449845440520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095885385847160857",
+        "created_at": "2026-09-04T14:43:10.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095885385847160857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q4cy0KTl65",
+              "end": 23,
+              "expanded_url": "https://x.com/KafuuChino1204_/status/2095885385847160857/photo/1",
+              "media_key": "3_2095885378356162560",
+              "start": 0,
+              "url": "https://t.co/Q4cy0KTl65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095885385847160857",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095885378356162560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Q4cy0KTl65"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2095907849918689663",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 289,
+          "like_count": 38775,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 8530
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-20T06:27:46.000Z",
+        "description": "08-she/her-shtwt-查主页/眼熟回fo-互fo可以来DM我！-注销不是死了是被熟人发现了-无能狂吠",
+        "id": "1428604449845440520",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2095887736700080264",
+        "name": "椛椛椛椛椛椛㭤",
+        "pinned_tweet_id": "2089001473405563356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1428604449845440520/1690811142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965790302641221632/ire85tod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 494,
+          "like_count": 2964,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 3352
+        },
+        "url": "",
+        "username": "KafuuChino1204_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2083503629567451555",
+    "created_at": "2026-08-11T04:11:21.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T05:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087029076716589430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1888300064071987200",
+          "start": 0,
+          "username": "snjiyng44952"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087029076716589430",
+    "in_reply_to_user_id": "1888300064071987200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083503629567451555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snjiyng44952 好可爱ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083503619467534336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoXgMaaYAA-gGU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2083503629567451555",
+        "created_at": "2026-08-11T04:11:21.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087029076716589430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1888300064071987200",
+              "start": 0,
+              "username": "snjiyng44952"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087029076716589430",
+        "in_reply_to_user_id": "1888300064071987200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083503629567451555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snjiyng44952 好可爱ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083503619467534336"
+          ]
+        },
+        "author_id": "1888300064071987200",
+        "conversation_id": "2083503629567451555",
+        "created_at": "2026-08-01T10:42:29.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083503629567451555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1InJYDYsqN",
+              "end": 23,
+              "expanded_url": "https://x.com/snjiyng44952/status/2083503629567451555/photo/1",
+              "media_key": "3_2083503619467534336",
+              "start": 0,
+              "url": "https://t.co/1InJYDYsqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083503629567451555",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2083503619467534336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1InJYDYsqN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087029076716589430",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 239,
+          "like_count": 30520,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 6359
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T18:53:37.000Z",
+        "description": "请给我过量的爱吧 谢谢你",
+        "id": "1888300064071987200",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2084577890679890089",
+        "name": "愛",
+        "pinned_tweet_id": "1954922134247256478",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888300064071987200/1759845115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069788989364817920/XGa7ICmC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 76,
+          "like_count": 2260,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "snjiyng44952",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

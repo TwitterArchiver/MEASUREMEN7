@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2092951466063634641",
+    "created_at": "2026-08-27T12:28:51.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092952482473492845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2088942024540270592",
+          "start": 0,
+          "username": "Michica8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092952482473492845",
+    "in_reply_to_user_id": "2088942024540270592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092951466063634641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Michica8964 好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2092951040018825216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQun4cibQAAw-kA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2092951040010387456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQun4cgagAAr3dH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2092951466063634641",
+        "created_at": "2026-08-27T12:28:51.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092952482473492845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2088942024540270592",
+              "start": 0,
+              "username": "Michica8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092952482473492845",
+        "in_reply_to_user_id": "2088942024540270592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092951466063634641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Michica8964 好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092951040018825216",
+            "3_2092951040010387456"
+          ]
+        },
+        "author_id": "2088942024540270592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092951466063634641",
+        "created_at": "2026-08-27T12:24:49.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092951466063634641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ibs6D1qqal",
+              "end": 28,
+              "expanded_url": "https://x.com/Michica8964/status/2092951466063634641/photo/1",
+              "media_key": "3_2092951040018825216",
+              "start": 5,
+              "url": "https://t.co/Ibs6D1qqal"
+            },
+            {
+              "display_url": "pic.x.com/Ibs6D1qqal",
+              "end": 28,
+              "expanded_url": "https://x.com/Michica8964/status/2092951466063634641/photo/1",
+              "media_key": "3_2092951040010387456",
+              "start": 5,
+              "url": "https://t.co/Ibs6D1qqal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092951466063634641",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092951040018825216"
+          },
+          {
+            "media_key": "3_2092951040010387456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暴力清图 https://t.co/Ibs6D1qqal"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2092952482473492845",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 291,
+          "like_count": 36837,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 8152
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T10:53:47.000Z",
+        "description": "",
+        "id": "2088942024540270592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092951504928018916",
+        "name": "给我寿司吧🍣",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088942024540270592/1786877795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088943138065018881/7gwQUe2r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 31,
+          "like_count": 606,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "Michica8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087834663754887465",
+    "created_at": "2026-08-13T09:36:29.000Z",
+    "display_text_range": [
+      13,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T10:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087835676247220463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1983965341865885696",
+          "start": 0,
+          "username": "zudnefukaos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087835676247220463",
+    "in_reply_to_user_id": "1983965341865885696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087834663754887465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zudnefukaos 我对于伊斯兰教没有一点好印象，包括拉面"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087833444575567873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPl5dL4bYAEbha4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087833444516757504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPl5dLqaAAAA4rn.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087834663754887465",
+        "created_at": "2026-08-13T09:36:29.000Z",
+        "display_text_range": [
+          13,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087835676247220463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1983965341865885696",
+              "start": 0,
+              "username": "zudnefukaos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087835676247220463",
+        "in_reply_to_user_id": "1983965341865885696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087834663754887465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zudnefukaos 我对于伊斯兰教没有一点好印象，包括拉面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087833444575567873",
+            "3_2087833444516757504"
+          ]
+        },
+        "author_id": "1983965341865885696",
+        "conversation_id": "2087834663754887465",
+        "created_at": "2026-08-13T09:32:28.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:27:42.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087833461927317880",
+          "2087834214419005927",
+          "2087834663754887465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/POfs6Wq7Nv",
+              "end": 169,
+              "expanded_url": "https://x.com/zudnefukaos/status/2087834663754887465/photo/1",
+              "media_key": "3_2087833444575567873",
+              "start": 146,
+              "url": "https://t.co/POfs6Wq7Nv"
+            },
+            {
+              "display_url": "pic.x.com/POfs6Wq7Nv",
+              "end": 169,
+              "expanded_url": "https://x.com/zudnefukaos/status/2087834663754887465/photo/1",
+              "media_key": "3_2087833444516757504",
+              "start": 146,
+              "url": "https://t.co/POfs6Wq7Nv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087834663754887465",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087833444575567873"
+          },
+          {
+            "media_key": "3_2087833444516757504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈逼的傻逼伊斯兰教\n清真寺门口穿裤衩子的男的不拦就拦我，有的男的穿那大背心子裤衩子奶头都要露出来了老不死的看门狗眼睛不抬一下的，我探个脑袋进去被像狗一样赶走说我穿的不符合条件，自己能绷住吗？\n想看自己pass不pass的跨，可以穿着短裤进去看被不被拦\n默罕默德我操你妈逼，安拉我操你妈逼 https://t.co/POfs6Wq7Nv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087835676247220463",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 249,
+          "like_count": 31408,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 6656
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T18:33:01.000Z",
+        "description": "健康快乐成长",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoodiesfighter",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoodiesfighter",
+                "start": 0,
+                "url": "https://t.co/BPA4b2DTYi"
+              }
+            ]
+          }
+        },
+        "id": "1983965341865885696",
+        "is_identity_verified": false,
+        "location": "那里",
+        "most_recent_tweet_id": "2087834663754887465",
+        "name": "k",
+        "pinned_tweet_id": "2087071908890366151",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983965341865885696/1784767348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046428467479330816/abrofo_y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 31,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/BPA4b2DTYi",
+        "username": "zudnefukaos",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

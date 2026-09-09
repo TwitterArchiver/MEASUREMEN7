@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087964683206639822",
+    "created_at": "2026-08-13T18:09:31.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T19:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087964783651987897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1874445693424910336",
+          "start": 0,
+          "username": "yuelie0_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087964783651987897",
+    "in_reply_to_user_id": "1874445693424910336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087964683206639822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuelie0_0 可愛い😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6990,
+        "height": 1190,
+        "media_key": "13_2087964644451246080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087964644451246080/img/GpLy6Z0K4lbc5SDw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087964644451246080/vid/avc1/320x528/kIuHXwbe4CYh9iCP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087964644451246080/vid/avc1/480x792/EX9s3xnGoTVpVjVm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087964644451246080/vid/avc1/720x1190/Sw97PeusYqeVgv4V.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087964644451246080/pl/ozvjg1uQ_wMFZYLa.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087964683206639822",
+        "created_at": "2026-08-13T18:09:31.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087964783651987897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1874445693424910336",
+              "start": 0,
+              "username": "yuelie0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087964783651987897",
+        "in_reply_to_user_id": "1874445693424910336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087964683206639822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuelie0_0 可愛い😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087964644451246080"
+          ]
+        },
+        "author_id": "1874445693424910336",
+        "conversation_id": "2087964683206639822",
+        "created_at": "2026-08-13T18:09:07.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087964683206639822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Salmj0VIMs",
+              "end": 36,
+              "expanded_url": "https://x.com/yuelie0_0/status/2087964683206639822/video/1",
+              "media_key": "13_2087964644451246080",
+              "start": 13,
+              "url": "https://t.co/Salmj0VIMs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087964683206639822",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087964644451246080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「豚」をお風呂に入れる🛀 https://t.co/Salmj0VIMs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087964783651987897",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 252,
+          "like_count": 31552,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 6687
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T13:21:03.000Z",
+        "description": "VO.SHAKUKIRU｜中国广州\n同擔同盤大歡迎\n@mam0_0fficialt 🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "mam0_0fficialt"
+              }
+            ]
+          }
+        },
+        "id": "1874445693424910336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087964683206639822",
+        "name": "刖裂",
+        "pinned_tweet_id": "2081322023163417063",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874445693424910336/1780143366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084337576757051392/0hvUzPHW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 165,
+          "like_count": 6885,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 648
+        },
+        "url": "",
+        "username": "yuelie0_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

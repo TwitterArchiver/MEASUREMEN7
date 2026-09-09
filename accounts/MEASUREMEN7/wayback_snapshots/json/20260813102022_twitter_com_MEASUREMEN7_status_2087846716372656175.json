@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087843799338770831",
+    "created_at": "2026-08-13T10:20:22.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T11:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087846716372656175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1749204947776819200",
+          "start": 0,
+          "username": "Ankoloveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087846716372656175",
+    "in_reply_to_user_id": "1749204947776819200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087843799338770831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ankoloveu 没绷住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087843799338770831",
+        "created_at": "2026-08-13T10:20:22.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T11:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087846716372656175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1749204947776819200",
+              "start": 0,
+              "username": "Ankoloveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087846716372656175",
+        "in_reply_to_user_id": "1749204947776819200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087843799338770831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ankoloveu 没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749204947776819200",
+        "conversation_id": "2087843799338770831",
+        "created_at": "2026-08-13T10:08:46.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T11:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087843799338770831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087843799338770831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黄皮子讨封：你看我像人还是像神\n小皮子讨封：不要聊这个话题好吗？很重要吗？\n贱皮子讨封：我只是实话实说而已\n傻皮子讨封：都是预制菜\n蠢皮子讨封：见面之前我连门槛费都不会出\n丑皮子讨封：哈哈我179，160\n狗皮子讨封：你竟敢对我不敬我要举报你，我要举报你两个号扒你以前作品举报你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087846716372656175",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 249,
+          "like_count": 31434,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 6662
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-21T22:59:01.000Z",
+        "description": "大号遭恶臭小鸡男举报。寻回互关中…",
+        "id": "1749204947776819200",
+        "is_identity_verified": false,
+        "location": "Ukyo-ku, Kyoto",
+        "most_recent_tweet_id": "2087844200440369646",
+        "name": "anko",
+        "pinned_tweet_id": "2087630635578118367",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749204947776819200/1786557313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087598796012470272/4Pq8aOdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 10,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "Ankoloveu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

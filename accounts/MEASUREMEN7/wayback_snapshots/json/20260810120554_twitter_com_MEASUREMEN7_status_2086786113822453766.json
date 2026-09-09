@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086766620031250451",
+    "created_at": "2026-08-10T12:05:54.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086786113822453766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2086344247859638272",
+          "start": 0,
+          "username": "Chi777gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086786113822453766",
+    "in_reply_to_user_id": "2086344247859638272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086766620031250451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chi777gu 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2086766614440259584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWvLf7bMAASibG.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2086766614398275584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWvLfxakAAHZxK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086766620031250451",
+        "created_at": "2026-08-10T12:05:54.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086786113822453766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2086344247859638272",
+              "start": 0,
+              "username": "Chi777gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086786113822453766",
+        "in_reply_to_user_id": "2086344247859638272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086766620031250451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chi777gu 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086766614440259584",
+            "3_2086766614398275584"
+          ]
+        },
+        "author_id": "2086344247859638272",
+        "conversation_id": "2086766620031250451",
+        "created_at": "2026-08-10T10:48:27.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086766620031250451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KSb622gADC",
+              "end": 23,
+              "expanded_url": "https://x.com/Chi777gu/status/2086766620031250451/photo/1",
+              "media_key": "3_2086766614440259584",
+              "start": 0,
+              "url": "https://t.co/KSb622gADC"
+            },
+            {
+              "display_url": "pic.x.com/KSb622gADC",
+              "end": 23,
+              "expanded_url": "https://x.com/Chi777gu/status/2086766620031250451/photo/1",
+              "media_key": "3_2086766614398275584",
+              "start": 0,
+              "url": "https://t.co/KSb622gADC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086766620031250451",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086766614440259584"
+          },
+          {
+            "media_key": "3_2086766614398275584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KSb622gADC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086786113822453766",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 227,
+          "like_count": 30170,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 6246
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T06:51:15.000Z",
+        "description": "这里是耻骨2.0 大号被冻结了现在在申诉中\n大号转世@Chi777_Guuuu_ \n我的tg粉丝群 https://t.co/zNlvIxOCJw\n欢迎互fo呀\n我的匿名箱https://t.co/ijuGnx4EI4\n纯绿🚪88 过门私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Chi777_Guuuu_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+PbG09A-bFEMwM…",
+                "end": 73,
+                "expanded_url": "https://t.me/+PbG09A-bFEMwMTJl",
+                "start": 50,
+                "url": "https://t.co/zNlvIxOCJw"
+              },
+              {
+                "display_url": "ngl.link/chigu77",
+                "end": 109,
+                "expanded_url": "https://ngl.link/chigu77",
+                "start": 86,
+                "url": "https://t.co/ijuGnx4EI4"
+              }
+            ]
+          }
+        },
+        "id": "2086344247859638272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086768922746130911",
+        "name": "耻骨2.0",
+        "pinned_tweet_id": "2086345509841825868",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086344247859638272/1786258370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086344654233255936/6-YmmduL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 9,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "Chi777gu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

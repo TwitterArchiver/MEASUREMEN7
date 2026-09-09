@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2084586810865516598",
+    "created_at": "2026-08-04T10:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084586946563871060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1954959493810515968",
+          "start": 0,
+          "username": "Chi777_Guuuu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084586946563871060",
+    "in_reply_to_user_id": "1954959493810515968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084586810865516598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chi777_Guuuu_ 被翻到dy账号了啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084586797183705088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3wpb2aoAAJgfB.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2084586810865516598",
+        "created_at": "2026-08-04T10:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084586946563871060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1954959493810515968",
+              "start": 0,
+              "username": "Chi777_Guuuu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084586946563871060",
+        "in_reply_to_user_id": "1954959493810515968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084586810865516598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chi777_Guuuu_ 被翻到dy账号了啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084586797183705088"
+          ]
+        },
+        "author_id": "1954959493810515968",
+        "conversation_id": "2084586810865516598",
+        "created_at": "2026-08-04T10:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084586810865516598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tmHN5GocrY",
+              "end": 49,
+              "expanded_url": "https://x.com/Chi777_Guuuu_/status/2084586810865516598/photo/1",
+              "media_key": "3_2084586797183705088",
+              "start": 26,
+              "url": "https://t.co/tmHN5GocrY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084586810865516598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了 你杯子姐怎么私密了 我早上看还看得到呢😂 https://t.co/tmHN5GocrY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 189,
+          "like_count": 28724,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 5762
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T17:34:08.000Z",
+        "description": "专心经营自己的下水道生活\n我只是一个心理极度黑暗扭曲的女孩 我有各种各样的奇怪癖好 但是对待感情依旧真诚 我只是在做自己的事\n纯绿🚪88",
+        "id": "1954959493810515968",
+        "name": "耻骨",
+        "pinned_tweet_id": "2083181835581006334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082533665746411520/K7wdQ2rc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 15,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "Chi777_Guuuu_",
+        "verified": false
+      }
+    ]
+  }
+}

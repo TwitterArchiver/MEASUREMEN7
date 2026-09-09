@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2091162978620244393",
+    "created_at": "2026-08-22T15:08:55.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T16:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091180824142217674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2067683458323980288",
+          "start": 0,
+          "username": "Airceyvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091180824142217674",
+    "in_reply_to_user_id": "2067683458323980288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091162978620244393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Airceyvv 美味🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2773,
+        "media_key": "3_2091162961603964928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQVNolXbsAAbzpl.jpg",
+        "width": 3071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2091162978620244393",
+        "created_at": "2026-08-22T15:08:55.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091180824142217674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2067683458323980288",
+              "start": 0,
+              "username": "Airceyvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091180824142217674",
+        "in_reply_to_user_id": "2067683458323980288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091162978620244393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Airceyvv 美味🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091162961603964928"
+          ]
+        },
+        "author_id": "2067683458323980288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2091162978620244393",
+        "created_at": "2026-08-22T13:58:00.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091162978620244393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLF3hsW7V0",
+              "end": 30,
+              "expanded_url": "https://x.com/Airceyvv/status/2091162978620244393/photo/1",
+              "media_key": "3_2091162961603964928",
+              "start": 7,
+              "url": "https://t.co/gLF3hsW7V0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091162978620244393",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091162961603964928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广东妹进食中 https://t.co/gLF3hsW7V0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2091180824142217674",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 289,
+          "like_count": 35493,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 7876
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-18T18:59:55.000Z",
+        "description": "永远怀念@VVeronie31\n我继续转世@Vennie931\n正在恋爱所以要做一个专情的女孩！现在只接受纯绿聊天哦！请和我傻傻地互动吧！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "VVeronie31"
+              },
+              {
+                "end": 31,
+                "start": 21,
+                "username": "Vennie931"
+              }
+            ]
+          }
+        },
+        "id": "2067683458323980288",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091162978620244393",
+        "name": "Vennie🍯",
+        "pinned_tweet_id": "2088599482216923644",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067683458323980288/1781810273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086298552947687424/nAD4pxtn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 27,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "Airceyvv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

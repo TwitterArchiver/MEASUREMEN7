@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087332613837275607",
+    "created_at": "2026-08-12T03:07:00.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T04:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087375271230120107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944391113571553280",
+          "start": 0,
+          "username": "Die_Leaves"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087375271230120107",
+    "in_reply_to_user_id": "1944391113571553280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087332613837275607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Die_Leaves 好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2087332605943484416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPex8ilaEAApo1Z.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087332613837275607",
+        "created_at": "2026-08-12T03:07:00.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T04:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087375271230120107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944391113571553280",
+              "start": 0,
+              "username": "Die_Leaves"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087375271230120107",
+        "in_reply_to_user_id": "1944391113571553280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087332613837275607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Die_Leaves 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087332605943484416"
+          ]
+        },
+        "author_id": "1944391113571553280",
+        "conversation_id": "2087332613837275607",
+        "created_at": "2026-08-12T00:17:30.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T01:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087332613837275607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QydMLfBWwt",
+              "end": 36,
+              "expanded_url": "https://x.com/Die_Leaves/status/2087332613837275607/photo/1",
+              "media_key": "3_2087332605943484416",
+              "start": 13,
+              "url": "https://t.co/QydMLfBWwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087332613837275607",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087332605943484416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好朋友给我画了妆，，，🤤 https://t.co/QydMLfBWwt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087375271230120107",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 243,
+          "like_count": 30815,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 6455
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-13T13:39:11.000Z",
+        "description": "⊹✿无痛去死✿⊹  | 全肯定回fo | enby | 💊 | 🔪🩸 | 双相\n被家长查获了 暂时不o不割。。。（并不\n发病乱说话🈶  随意称呼  都可以来找我互动w",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/leaf81697",
+                "end": 23,
+                "expanded_url": "https://ngl.link/leaf81697",
+                "start": 0,
+                "url": "https://t.co/aPqLDgbx7O"
+              }
+            ]
+          }
+        },
+        "id": "1944391113571553280",
+        "is_identity_verified": false,
+        "location": "漩涡",
+        "most_recent_tweet_id": "2087334319589392754",
+        "name": "绘黎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1944391113571553280/1781882160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058204238782861313/w4xLXcpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 183,
+          "like_count": 2529,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/aPqLDgbx7O",
+        "username": "Die_Leaves",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

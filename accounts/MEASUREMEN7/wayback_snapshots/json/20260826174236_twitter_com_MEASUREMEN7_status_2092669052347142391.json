@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "1518159540549681152",
+    "created_at": "2026-08-26T17:42:36.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T18:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092669052347142391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165329475514404864",
+          "start": 0,
+          "username": "notcal_car_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092669052347142391",
+    "in_reply_to_user_id": "1165329475514404864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1518159540549681152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notcal_car_ 可爱☺️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_1518159533826514944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FRGWDW4aIAApDXe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "1518159540549681152",
+        "created_at": "2026-08-26T17:42:36.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092669052347142391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165329475514404864",
+              "start": 0,
+              "username": "notcal_car_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092669052347142391",
+        "in_reply_to_user_id": "1165329475514404864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1518159540549681152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notcal_car_ 可爱☺️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1518159533826514944"
+          ]
+        },
+        "author_id": "1165329475514404864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1518159540549681152",
+        "created_at": "2022-04-24T09:26:55.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2022-04-24T09:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1518159540549681152"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "cosplay"
+            },
+            {
+              "end": 44,
+              "start": 26,
+              "tag": "originalcharacter"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "oc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cwBrNhroT2",
+              "end": 72,
+              "expanded_url": "https://x.com/notcal_car_/status/1518159540549681152/photo/1",
+              "media_key": "3_1518159533826514944",
+              "start": 49,
+              "url": "https://t.co/cwBrNhroT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1518159540549681152",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1518159533826514944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己cosplay自己的oc（草\n#cosplay #originalcharacter #oc https://t.co/cwBrNhroT2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2092669052347142391",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 291,
+          "like_count": 36727,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 8123
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-24T18:26:20.000Z",
+        "description": "疼痛實驗",
+        "id": "1165329475514404864",
+        "is_identity_verified": false,
+        "location": " ",
+        "most_recent_tweet_id": "2092621028547822024",
+        "name": "不是卡路里Notcal",
+        "pinned_tweet_id": "2028568903052558483",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165329475514404864/1769320126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960439658988625920/V3vyFxhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 278,
+          "like_count": 14473,
+          "listed_count": 9,
+          "media_count": 311,
+          "tweet_count": 1118
+        },
+        "url": "",
+        "username": "notcal_car_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

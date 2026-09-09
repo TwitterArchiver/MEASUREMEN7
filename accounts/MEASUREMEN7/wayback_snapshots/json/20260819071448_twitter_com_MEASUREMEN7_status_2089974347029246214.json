@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089972824844931493",
+    "created_at": "2026-08-19T07:14:48.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089974347029246214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1667059658002157571",
+          "start": 0,
+          "username": "yuri1000827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089974347029246214",
+    "in_reply_to_user_id": "1667059658002157571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089972824844931493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuri1000827 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089972824844931493",
+        "created_at": "2026-08-19T07:14:48.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089974347029246214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667059658002157571",
+              "start": 0,
+              "username": "yuri1000827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089974347029246214",
+        "in_reply_to_user_id": "1667059658002157571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089972824844931493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri1000827 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667059658002157571",
+        "conversation_id": "2089972824844931493",
+        "created_at": "2026-08-19T07:08:45.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089972824844931493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089972824844931493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人现在喊我一句妈妈让我接牛来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089974347029246214",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 278,
+          "like_count": 33909,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 7405
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-09T06:43:03.000Z",
+        "description": "おやすみなさい\n@jyu_ta_ro 愛してる🤍\n山中柔太朗 ガチ恋｜一途嫁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "jyu_ta_ro"
+              }
+            ]
+          }
+        },
+        "id": "1667059658002157571",
+        "is_identity_verified": false,
+        "location": "歌舞伎町",
+        "most_recent_tweet_id": "2089972824844931493",
+        "name": "嘎抓",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667059658002157571/1786228052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069745307328327680/hOsfYzNc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 117,
+          "like_count": 1246,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 622
+        },
+        "url": "",
+        "username": "yuri1000827",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

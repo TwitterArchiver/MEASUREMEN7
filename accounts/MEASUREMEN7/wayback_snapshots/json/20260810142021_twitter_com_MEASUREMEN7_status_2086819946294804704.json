@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086819946294804704",
+    "created_at": "2026-08-10T14:20:21.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086819946294804704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pearl0812lucky…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/pearl0812lucky/status/2086342467956396537",
+          "start": 9,
+          "url": "https://t.co/fBtbFLlaG9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086819946294804704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086342467956396537",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以爱到底是什么 https://t.co/fBtbFLlaG9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086819946294804704",
+        "created_at": "2026-08-10T14:20:21.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086819946294804704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pearl0812lucky…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/pearl0812lucky/status/2086342467956396537",
+              "start": 9,
+              "url": "https://t.co/fBtbFLlaG9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086819946294804704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086342467956396537",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以爱到底是什么 https://t.co/fBtbFLlaG9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2086342467956396537",
+        "created_at": "2026-08-09T06:43:01.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086342467956396537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086342467956396537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 34911,
+          "like_count": 887,
+          "quote_count": 12,
+          "reply_count": 108,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "过于频繁的交流 很容易造成一种恋爱的错觉 一种由习惯、信任和欢喜交杂出来的依恋的假象 可是我们都知道这不是爱啊 这怎么能是爱呢 这怎么不是爱呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086819946294804704",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 231,
+          "like_count": 30255,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 6279
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2086818948667056216",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12119,
+          "following_count": 75,
+          "like_count": 9196,
+          "listed_count": 13,
+          "media_count": 199,
+          "tweet_count": 2203
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

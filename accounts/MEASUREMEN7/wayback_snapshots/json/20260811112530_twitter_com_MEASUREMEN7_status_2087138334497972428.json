@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087123776840552491",
+    "created_at": "2026-08-11T11:25:30.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T12:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087138334497972428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058944024078409728",
+          "start": 0,
+          "username": "Suhdhhxdmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087138334497972428",
+    "in_reply_to_user_id": "2058944024078409728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087123776840552491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suhdhhxdmo 纯私募了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087123776840552491",
+        "created_at": "2026-08-11T11:25:30.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087138334497972428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058944024078409728",
+              "start": 0,
+              "username": "Suhdhhxdmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087138334497972428",
+        "in_reply_to_user_id": "2058944024078409728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087123776840552491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suhdhhxdmo 纯私募了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058944024078409728",
+        "conversation_id": "2087123776840552491",
+        "created_at": "2026-08-11T10:27:39.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087123776840552491"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087123776840552491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁在新疆认识库尔勒市二中“希爱力塔西”这个贱逼。\n狗娘养的带着一群人还特么敢计划轮奸，带着一群人跟小姑娘喝酒准备灌醉了轮奸，要不是人小姑娘酒量好不然特么真让这群贱货们得逞了。一群人渣玩意，还敢说暗恋呢。\n谁认识这人给我地址或者帮我弄他我给钱。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087138334497972428",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 243,
+          "like_count": 30659,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 6399
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T16:11:54.000Z",
+        "description": "重生。",
+        "id": "2058944024078409728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087126164980777404",
+        "name": "骂我的没妈我骂的没妈。",
+        "pinned_tweet_id": "2065255390770786789",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058944024078409728/1779725679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065254202356695041/Z1wu6Ia9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 31,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "Suhdhhxdmo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2092333730618851362",
+    "created_at": "2026-08-26T05:47:21.000Z",
+    "display_text_range": [
+      36,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T06:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092489053216317667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1630071617719255042",
+          "start": 0,
+          "username": "xjp66666"
+        },
+        {
+          "end": 20,
+          "id": "1547950839280439296",
+          "start": 10,
+          "username": "mmyhlzOvO"
+        },
+        {
+          "end": 35,
+          "id": "2060988391278379008",
+          "start": 21,
+          "username": "feiyoufei8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092489053216317667",
+    "in_reply_to_user_id": "1630071617719255042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092446493273960614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xjp66666 @mmyhlzOvO @feiyoufei8964 天子之怒，伏尸百万，血流千里！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2092333730618851362",
+        "created_at": "2026-08-26T05:47:21.000Z",
+        "display_text_range": [
+          36,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092489053216317667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1630071617719255042",
+              "start": 0,
+              "username": "xjp66666"
+            },
+            {
+              "end": 20,
+              "id": "1547950839280439296",
+              "start": 10,
+              "username": "mmyhlzOvO"
+            },
+            {
+              "end": 35,
+              "id": "2060988391278379008",
+              "start": 21,
+              "username": "feiyoufei8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092489053216317667",
+        "in_reply_to_user_id": "1630071617719255042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092446493273960614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xjp66666 @mmyhlzOvO @feiyoufei8964 天子之怒，伏尸百万，血流千里！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630071617719255042",
+        "conversation_id": "2092333730618851362",
+        "created_at": "2026-08-26T02:58:14.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T03:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092446493273960614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060988391278379008",
+              "start": 0,
+              "username": "feiyoufei8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092446493273960614",
+        "in_reply_to_user_id": "2060988391278379008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3523,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092333730618851362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@feiyoufei8964 去你妈的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2092489053216317667",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 291,
+          "like_count": 36542,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 8079
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-27T05:05:45.000Z",
+        "description": "中国国家主席、中央军委主席、中共中央总书记",
+        "id": "1630071617719255042",
+        "is_identity_verified": false,
+        "location": "北京中南海",
+        "most_recent_tweet_id": "2092446493273960614",
+        "name": "习近平",
+        "pinned_tweet_id": "2038453490377519598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1630071617719255042/1774229968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030322126335660032/1ja5qvvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 224,
+          "like_count": 3058,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 674
+        },
+        "url": "",
+        "username": "xjp66666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-31T07:35:51.000Z",
+        "description": "欢迎来到包蜜熊二反贼社区🍯\n\n包蜜社\n\n反对独裁专政CCP，人人有责！\n\n😋😋😋",
+        "id": "2060988391278379008",
+        "is_identity_verified": true,
+        "location": "Kramat Jati, Indonesia",
+        "most_recent_tweet_id": "2092400118150692875",
+        "name": "包蜜社熊二🍯",
+        "pinned_tweet_id": "2087212947437387903",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060988391278379008/1787320405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088741984475516928/n3miLt9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 1972,
+          "like_count": 760,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 1680
+        },
+        "url": "",
+        "username": "feiyoufei8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T14:27:03.000Z",
+        "description": "鸟在唱歌",
+        "id": "1547950839280439296",
+        "is_identity_verified": false,
+        "location": "₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "most_recent_tweet_id": "2092487533460607323",
+        "name": "MING",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547950839280439296/1662825388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007611709557747713/OoS2OsY__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 481,
+          "like_count": 27912,
+          "listed_count": 0,
+          "media_count": 345,
+          "tweet_count": 3036
+        },
+        "url": "",
+        "username": "mmyhlzOvO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

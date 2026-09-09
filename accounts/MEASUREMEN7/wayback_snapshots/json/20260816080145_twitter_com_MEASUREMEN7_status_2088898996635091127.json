@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088897304921264372",
+    "created_at": "2026-08-16T08:01:45.000Z",
+    "display_text_range": [
+      26,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T09:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088898996635091127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "449641629",
+          "start": 0,
+          "username": "licar1949"
+        },
+        {
+          "end": 25,
+          "id": "1445681460497694723",
+          "start": 11,
+          "username": "cryptochenrui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088898996635091127",
+    "in_reply_to_user_id": "449641629",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088897304921264372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@licar1949 @cryptochenrui 衣服那个突起我看走眼了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2852,
+        "media_key": "3_2088896785842688000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1Ajyyb0AA7VvZ.jpg",
+        "width": 3824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088897304921264372",
+        "created_at": "2026-08-16T08:01:45.000Z",
+        "display_text_range": [
+          26,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088898996635091127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "449641629",
+              "start": 0,
+              "username": "licar1949"
+            },
+            {
+              "end": 25,
+              "id": "1445681460497694723",
+              "start": 11,
+              "username": "cryptochenrui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088898996635091127",
+        "in_reply_to_user_id": "449641629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088897304921264372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@licar1949 @cryptochenrui 衣服那个突起我看走眼了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088896785842688000"
+          ]
+        },
+        "author_id": "449641629",
+        "conversation_id": "2088897304921264372",
+        "created_at": "2026-08-16T07:55:01.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088897304921264372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445681460497694723",
+              "start": 0,
+              "username": "cryptochenrui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JwwBXPjpiR",
+              "end": 38,
+              "expanded_url": "https://x.com/licar1949/status/2088897304921264372/photo/1",
+              "media_key": "3_2088896785842688000",
+              "start": 15,
+              "url": "https://t.co/JwwBXPjpiR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088897304921264372",
+        "in_reply_to_user_id": "1445681460497694723",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088896785842688000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@cryptochenrui https://t.co/JwwBXPjpiR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088898996635091127",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 249,
+          "like_count": 32294,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 6879
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-12-29T09:58:30.000Z",
+        "description": "我是菜菜，大号@bisco91395061 被害，寻回互关中🥹🥹！｜od自伤｜傻福精神病休学中｜LGBTQ🏳️‍🌈友好｜一般路过同人女｜直fo是喜欢泥💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "bisco91395061"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/himenonana",
+                "end": 23,
+                "expanded_url": "http://t.me/himenonana",
+                "start": 0,
+                "url": "https://t.co/PeMWnKgOVZ"
+              }
+            ]
+          }
+        },
+        "id": "449641629",
+        "is_identity_verified": false,
+        "location": "🚪52/188",
+        "most_recent_tweet_id": "2088897304921264372",
+        "name": "菜菜警官2.0（寻回互关）",
+        "pinned_tweet_id": "2086676463139561837",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/449641629/1786337077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086675062690807808/4roY9VYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 211,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/PeMWnKgOVZ",
+        "username": "licar1949",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-06T09:25:19.000Z",
+        "description": "INTJ的精神病和od频道.\n大学退学，农村穷蛆。雏见泽村民。长滨城主。豫章岛夷。crypto寄生虫。煤桶骑士。\n欢迎温良边缘人。有同类内容直fo。\n🈲过激健全品客男女拳",
+        "id": "1445681460497694723",
+        "is_identity_verified": false,
+        "location": "南昌",
+        "most_recent_tweet_id": "2088106841217868103",
+        "name": "DXM栗子",
+        "pinned_tweet_id": "2083880694317793346",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1445681460497694723/1786330998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083146894247907328/yghvpj2a_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 331,
+          "like_count": 10904,
+          "listed_count": 5,
+          "media_count": 161,
+          "tweet_count": 2916
+        },
+        "url": "",
+        "username": "cryptochenrui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

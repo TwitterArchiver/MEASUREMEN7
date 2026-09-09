@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088302816041513010",
+    "created_at": "2026-08-14T19:18:22.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T20:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088344498195902607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1557650656806273026",
+          "start": 0,
+          "username": "Chi777_Guuu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088344498195902607",
+    "in_reply_to_user_id": "1557650656806273026",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088302816041513010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chi777_Guuu_ 我也要玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13270,
+        "height": 1280,
+        "media_key": "13_2088302782847791104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088302782847791104/img/fyHW16WAj9sOkD9K.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088302782847791104/vid/avc1/320x568/wKXn0nWXFcSfq_Gt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088302782847791104/vid/avc1/480x852/c7QETmjeuPIVOZCr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088302782847791104/vid/avc1/720x1280/OZ6MFAjDUekYfd2X.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088302782847791104/pl/7-1UVF30813VkTCr.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088302816041513010",
+        "created_at": "2026-08-14T19:18:22.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T20:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088344498195902607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1557650656806273026",
+              "start": 0,
+              "username": "Chi777_Guuu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088344498195902607",
+        "in_reply_to_user_id": "1557650656806273026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088302816041513010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chi777_Guuu_ 我也要玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088302782847791104"
+          ]
+        },
+        "author_id": "1557650656806273026",
+        "conversation_id": "2088302816041513010",
+        "created_at": "2026-08-14T16:32:44.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088302816041513010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MTB0OUNdmB",
+              "end": 30,
+              "expanded_url": "https://x.com/Chi777_Guuu_/status/2088302816041513010/video/1",
+              "media_key": "13_2088302782847791104",
+              "start": 7,
+              "url": "https://t.co/MTB0OUNdmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088302816041513010",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088302782847791104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也要当电王 https://t.co/MTB0OUNdmB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088344498195902607",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 252,
+          "like_count": 31800,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 6745
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T08:50:40.000Z",
+        "description": "前世：@Chi777_Guuuu_\n我的tg群https://t.co/Yk4nsD8H1o\n我的匿名箱https://t.co/NBKKPmS96a\n我只是在做自己的事",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Chi777_Guuuu_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+PbG09A-bFEMwM…",
+                "end": 46,
+                "expanded_url": "https://t.me/+PbG09A-bFEMwMTJl",
+                "start": 23,
+                "url": "https://t.co/Yk4nsD8H1o"
+              },
+              {
+                "display_url": "ngl.link/chigu77",
+                "end": 75,
+                "expanded_url": "https://ngl.link/chigu77",
+                "start": 52,
+                "url": "https://t.co/NBKKPmS96a"
+              }
+            ]
+          }
+        },
+        "id": "1557650656806273026",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088326362251833430",
+        "name": "耻骨",
+        "pinned_tweet_id": "2087874832553902216",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557650656806273026/1786623048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087874462180098048/fyzo8_gQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 7,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "Chi777_Guuu_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2085791879036346859",
+    "created_at": "2026-08-07T18:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T19:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085791879036346859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "度量衡’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1DGLd…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1DGLddBkynZGm",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2085791881011900417/oey7f9Xl?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2085791881011900417/oey7f9Xl?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 来聊天吧",
+          "unwound_url": "https://twitter.com/i/spaces/1DGLddBkynZGm/peek",
+          "url": "https://t.co/XAOMioq2lc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085791879036346859",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/XAOMioq2lc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2085791879036346859",
+        "created_at": "2026-08-07T18:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085791879036346859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "度量衡’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1DGLd…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1DGLddBkynZGm",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2085791881011900417/oey7f9Xl?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085791881011900417/oey7f9Xl?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 来聊天吧",
+              "unwound_url": "https://twitter.com/i/spaces/1DGLddBkynZGm/peek",
+              "url": "https://t.co/XAOMioq2lc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085791879036346859",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XAOMioq2lc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 212,
+          "like_count": 29894,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 6035
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087485517810282533",
+    "created_at": "2026-08-12T18:30:14.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T19:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087607608308109643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782645819965046784",
+          "start": 0,
+          "username": "Searinia1029"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087607608308109643",
+    "in_reply_to_user_id": "1782645819965046784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087485517810282533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Searinia1029 sns吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2087485501033086976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPg9ANLbAAAdo9n.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087485517810282533",
+        "created_at": "2026-08-12T18:30:14.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087607608308109643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782645819965046784",
+              "start": 0,
+              "username": "Searinia1029"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087607608308109643",
+        "in_reply_to_user_id": "1782645819965046784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087485517810282533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Searinia1029 sns吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087485501033086976"
+          ]
+        },
+        "author_id": "1782645819965046784",
+        "conversation_id": "2087485517810282533",
+        "created_at": "2026-08-12T10:25:05.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087485517810282533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Et1ZXvIfGl",
+              "end": 28,
+              "expanded_url": "https://x.com/Searinia1029/status/2087485517810282533/photo/1",
+              "media_key": "3_2087485501033086976",
+              "start": 5,
+              "url": "https://t.co/Et1ZXvIfGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087485517810282533",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087485501033086976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "花与冠冕 https://t.co/Et1ZXvIfGl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087607608308109643",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 248,
+          "like_count": 31207,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 6584
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-23T05:41:10.000Z",
+        "description": "请君自便",
+        "id": "1782645819965046784",
+        "is_identity_verified": false,
+        "location": "Kowloon City District",
+        "most_recent_tweet_id": "2087561377292664897",
+        "name": "如同流星飞越山海🌟全世界最可爱的星酱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782645819965046784/1786548652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832400418087038979/-PB1aydX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 67,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "Searinia1029",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

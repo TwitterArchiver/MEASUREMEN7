@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086527416563040353",
+    "created_at": "2026-08-09T19:02:06.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T20:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086528465722019963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1831671299057623040",
+          "start": 0,
+          "username": "afuai377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086528465722019963",
+    "in_reply_to_user_id": "1831671299057623040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086527416563040353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afuai377 爱老大好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2086527410191958016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPTVn-qbgAACi9P.jpg",
+        "width": 881
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2086527410254843904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPTVn-5bEAA0GB5.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086527410254786560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPTVn-5aMAA-l91.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086527416563040353",
+        "created_at": "2026-08-09T19:02:06.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T20:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086528465722019963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1831671299057623040",
+              "start": 0,
+              "username": "afuai377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086528465722019963",
+        "in_reply_to_user_id": "1831671299057623040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086527416563040353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afuai377 爱老大好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086527410191958016",
+            "3_2086527410254843904",
+            "3_2086527410254786560"
+          ]
+        },
+        "author_id": "1831671299057623040",
+        "conversation_id": "2086527416563040353",
+        "created_at": "2026-08-09T18:57:56.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086527416563040353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJTedfX5LB",
+              "end": 25,
+              "expanded_url": "https://x.com/afuai377/status/2086527416563040353/photo/1",
+              "media_key": "3_2086527410191958016",
+              "start": 2,
+              "url": "https://t.co/CJTedfX5LB"
+            },
+            {
+              "display_url": "pic.x.com/CJTedfX5LB",
+              "end": 25,
+              "expanded_url": "https://x.com/afuai377/status/2086527416563040353/photo/1",
+              "media_key": "3_2086527410254843904",
+              "start": 2,
+              "url": "https://t.co/CJTedfX5LB"
+            },
+            {
+              "display_url": "pic.x.com/CJTedfX5LB",
+              "end": 25,
+              "expanded_url": "https://x.com/afuai377/status/2086527416563040353/photo/1",
+              "media_key": "3_2086527410254786560",
+              "start": 2,
+              "url": "https://t.co/CJTedfX5LB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086527416563040353",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2086527410191958016"
+          },
+          {
+            "media_key": "3_2086527410254843904"
+          },
+          {
+            "media_key": "3_2086527410254786560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🦭 https://t.co/CJTedfX5LB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086528465722019963",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 227,
+          "like_count": 29988,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 6209
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-05T12:30:55.000Z",
+        "description": "✮同成分互fo @fuaiy_37 防炸號\n\n@kana40427 狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "fuaiy_37"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "kana40427"
+              }
+            ]
+          }
+        },
+        "id": "1831671299057623040",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2086527416563040353",
+        "name": "ふ愛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831671299057623040/1786202357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086109958400344064/FjbkzIpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9055,
+          "following_count": 251,
+          "like_count": 6237,
+          "listed_count": 8,
+          "media_count": 169,
+          "tweet_count": 769
+        },
+        "url": "",
+        "username": "afuai377",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

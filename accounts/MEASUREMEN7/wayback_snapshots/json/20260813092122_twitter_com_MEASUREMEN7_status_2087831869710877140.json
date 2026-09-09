@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087823460001366474",
+    "created_at": "2026-08-13T09:21:22.000Z",
+    "display_text_range": [
+      7,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T10:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087831869710877140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2076519797408559104",
+          "start": 0,
+          "username": "rov2l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087831869710877140",
+    "in_reply_to_user_id": "2076519797408559104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087823460001366474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rov2l 发生什么了这么生气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087823460001366474",
+        "created_at": "2026-08-13T09:21:22.000Z",
+        "display_text_range": [
+          7,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087831869710877140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2076519797408559104",
+              "start": 0,
+              "username": "rov2l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087831869710877140",
+        "in_reply_to_user_id": "2076519797408559104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087823460001366474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rov2l 发生什么了这么生气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076519797408559104",
+        "conversation_id": "2087823460001366474",
+        "created_at": "2026-08-13T08:47:57.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087823460001366474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087823460001366474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我暴怒了把家里能摔得全摔了我现在得叫个保洁，老娘还是这样一点成长都没有"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087831869710877140",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 249,
+          "like_count": 31403,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 6653
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T04:11:59.000Z",
+        "description": "リアルのお姫様｜少女主義と大森靖子",
+        "id": "2076519797408559104",
+        "is_identity_verified": false,
+        "location": "揺れる心を支えてくれた",
+        "most_recent_tweet_id": "2087824381670306006",
+        "name": "ひめにゃ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076519797408559104/1786534162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087501638357708801/bRGZGvuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 66,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "rov2l",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

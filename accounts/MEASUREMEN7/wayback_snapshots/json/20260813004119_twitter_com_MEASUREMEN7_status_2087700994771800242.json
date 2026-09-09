@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087669018081866164",
+    "created_at": "2026-08-13T00:41:19.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T01:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087700994771800242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1678651719272611841",
+          "start": 0,
+          "username": "miokawa0701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087700994771800242",
+    "in_reply_to_user_id": "1678651719272611841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087669018081866164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miokawa0701 我也要去听听看有多雷霆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087669006312554496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPjj5nnaQAAIjms.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087669018081866164",
+        "created_at": "2026-08-13T00:41:19.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T01:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087700994771800242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1678651719272611841",
+              "start": 0,
+              "username": "miokawa0701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087700994771800242",
+        "in_reply_to_user_id": "1678651719272611841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087669018081866164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miokawa0701 我也要去听听看有多雷霆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087669006312554496"
+          ]
+        },
+        "author_id": "1678651719272611841",
+        "conversation_id": "2087669018081866164",
+        "created_at": "2026-08-12T22:34:15.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T23:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087669018081866164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/423fh62wUb",
+              "end": 40,
+              "expanded_url": "https://x.com/miokawa0701/status/2087669018081866164/photo/1",
+              "media_key": "3_2087669006312554496",
+              "start": 17,
+              "url": "https://t.co/423fh62wUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087669018081866164",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087669006312554496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4146,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去黑听男同语音调教被人抓到了🤣 https://t.co/423fh62wUb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087700994771800242",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 249,
+          "like_count": 31219,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 6592
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-11T06:26:00.000Z",
+        "description": "💜 向霓虹闪烁的神明献出拥有美貌的代价 💜‖全平台仅此账号‖不卖图包不线下‖全球随机掉落‖E杯赛博魅魔👿‖不接线下‖ 可爱老婆@sanwwww04‖BEST🔥@kendricklamar‖提问箱↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "sanwwww04"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "kendricklamar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_miokawa_1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/_miokawa_1",
+                "start": 0,
+                "url": "https://t.co/ToIRj75vcH"
+              }
+            ]
+          }
+        },
+        "id": "1678651719272611841",
+        "is_identity_verified": false,
+        "location": "距离你 5 m",
+        "most_recent_tweet_id": "2087669018081866164",
+        "name": "neko今天🐱什么",
+        "pinned_tweet_id": "1901950528382497105",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678651719272611841/1775062467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039385871192100864/MoL_KDsP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93682,
+          "following_count": 560,
+          "like_count": 16779,
+          "listed_count": 124,
+          "media_count": 890,
+          "tweet_count": 4689
+        },
+        "url": "https://t.co/ToIRj75vcH",
+        "username": "miokawa0701",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

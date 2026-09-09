@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089167363505803436",
+    "created_at": "2026-08-18T03:49:35.000Z",
+    "display_text_range": [
+      9,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T04:49:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089560313880584613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1794039354165547008",
+          "start": 0,
+          "username": "ggyzy76"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089560313880584613",
+    "in_reply_to_user_id": "1794039354165547008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089167363505803436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggyzy76 我靠，我第一个来，蛋白质含量多少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089167363505803436",
+        "created_at": "2026-08-18T03:49:35.000Z",
+        "display_text_range": [
+          9,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089560313880584613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1794039354165547008",
+              "start": 0,
+              "username": "ggyzy76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089560313880584613",
+        "in_reply_to_user_id": "1794039354165547008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089167363505803436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggyzy76 我靠，我第一个来，蛋白质含量多少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794039354165547008",
+        "conversation_id": "2089167363505803436",
+        "created_at": "2026-08-17T01:48:08.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T02:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089167363505803436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089167363505803436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 34156,
+          "like_count": 500,
+          "quote_count": 5,
+          "reply_count": 51,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "所有高壮男听好：我逼里有蛋白粉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089560313880584613",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 263,
+          "like_count": 33033,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 7136
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-24T16:15:01.000Z",
+        "description": "抖m 不恋痛 有幻想症 不约不卖                        我在推特有三件事:看黄片 发烧 说怪话",
+        "id": "1794039354165547008",
+        "is_identity_verified": false,
+        "location": "亚海悬城",
+        "most_recent_tweet_id": "2089167363505803436",
+        "name": "小鱼片",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794039354165547008/1756962995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963292926198599680/IxBdNvDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 96,
+          "like_count": 153,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "ggyzy76",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088452840784093445",
+    "created_at": "2026-08-17T18:01:15.000Z",
+    "display_text_range": [
+      8,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T19:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089412253644927032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2071754623484862464",
+          "start": 0,
+          "username": "h9qz6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089412253644927032",
+    "in_reply_to_user_id": "2071754623484862464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088452840784093445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h9qz6y 老大可以不要说了吗，这个真的…好伤人啊😭，我有个朋友（不是我）听不得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088452840784093445",
+        "created_at": "2026-08-17T18:01:15.000Z",
+        "display_text_range": [
+          8,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089412253644927032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2071754623484862464",
+              "start": 0,
+              "username": "h9qz6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089412253644927032",
+        "in_reply_to_user_id": "2071754623484862464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088452840784093445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h9qz6y 老大可以不要说了吗，这个真的…好伤人啊😭，我有个朋友（不是我）听不得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071754623484862464",
+        "conversation_id": "2088452840784093445",
+        "created_at": "2026-08-15T02:28:53.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T03:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088452840784093445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088452840784093445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生活的痛苦就像男人的几把 每个人都认为自己的比别人的大"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089412253644927032",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 257,
+          "like_count": 32838,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 7085
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T00:41:51.000Z",
+        "description": "收起心，大罵一句傻逼，提醒一句別暈船😁",
+        "id": "2071754623484862464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089380885032210702",
+        "name": "奴村露乃",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071754623484862464/1786972062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089338906734936064/cyXZlBrt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 180,
+          "like_count": 3415,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 730
+        },
+        "url": "",
+        "username": "h9qz6y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

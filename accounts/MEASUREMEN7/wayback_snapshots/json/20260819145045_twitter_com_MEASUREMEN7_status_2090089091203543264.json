@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090048260102873412",
+    "created_at": "2026-08-19T14:50:45.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090089091203543264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1898944368155021312",
+          "start": 0,
+          "username": "nyalvsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090089091203543264",
+    "in_reply_to_user_id": "1898944368155021312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090048260102873412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyalvsh 光很棒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090048260102873412",
+        "created_at": "2026-08-19T14:50:45.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090089091203543264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1898944368155021312",
+              "start": 0,
+              "username": "nyalvsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090089091203543264",
+        "in_reply_to_user_id": "1898944368155021312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090048260102873412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyalvsh 光很棒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898944368155021312",
+        "conversation_id": "2090048260102873412",
+        "created_at": "2026-08-19T12:08:31.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090048260102873412"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090048260102873412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "光其实是水獭\n好奇心强喜欢尝试新事物\n自来熟话痨\n戒备心强注重边界感\n喜欢收集并玩弄小物件\n超级黏人喜欢贴着人\n撒娇会发出哼唧声\n温和但不好惹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090089091203543264",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 275,
+          "like_count": 34201,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 7479
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-10T03:50:11.000Z",
+        "description": "",
+        "id": "1898944368155021312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090048260102873412",
+        "name": "にゃるる",
+        "pinned_tweet_id": "1948393085626699856",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898944368155021312/1783354726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074162147630985216/kowMo9R9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 53,
+          "like_count": 1216,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 1276
+        },
+        "url": "",
+        "username": "nyalvsh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

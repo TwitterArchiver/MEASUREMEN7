@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087740539185836525",
+    "created_at": "2026-08-13T03:18:27.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T04:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087740539185836525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2066554124477616128",
+          "start": 3,
+          "username": "xiaoyuuu6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087740539185836525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087576077308944675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoyuuu6666: 看明白了\n感觉玩推特分两波人\n一批是想做爱的\n另一批是想紫砂的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087740539185836525",
+        "created_at": "2026-08-13T03:18:27.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T04:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087740539185836525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2066554124477616128",
+              "start": 3,
+              "username": "xiaoyuuu6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087740539185836525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087576077308944675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoyuuu6666: 看明白了\n感觉玩推特分两波人\n一批是想做爱的\n另一批是想紫砂的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066554124477616128",
+        "conversation_id": "2087576077308944675",
+        "created_at": "2026-08-12T16:24:56.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087576077308944675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087576077308944675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21588,
+          "like_count": 361,
+          "quote_count": 10,
+          "reply_count": 69,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "看明白了\n感觉玩推特分两波人\n一批是想做爱的\n另一批是想紫砂的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087740539185836525",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 252,
+          "like_count": 31272,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 6623
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-15T16:17:05.000Z",
+        "description": "直男   男同就不要关注我了谢谢",
+        "id": "2066554124477616128",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087739960308937197",
+        "name": "小鱼",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067574755868475393/QUG0bFmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 89,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "xiaoyuuu6666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

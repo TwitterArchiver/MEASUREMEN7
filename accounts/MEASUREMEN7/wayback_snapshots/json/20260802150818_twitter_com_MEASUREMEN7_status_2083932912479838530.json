@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2083917606734696940",
+    "created_at": "2026-08-02T15:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083932912479838530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1838203519863508992",
+          "start": 0,
+          "username": "Aaqian07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083932912479838530",
+    "in_reply_to_user_id": "1838203519863508992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083917606734696940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aaqian07 （盯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083917593283538944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuQApDaMAAdUto.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2083917606734696940",
+        "created_at": "2026-08-02T15:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083932912479838530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1838203519863508992",
+              "start": 0,
+              "username": "Aaqian07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083932912479838530",
+        "in_reply_to_user_id": "1838203519863508992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083917606734696940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aaqian07 （盯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083917593283538944"
+          ]
+        },
+        "author_id": "1838203519863508992",
+        "conversation_id": "2083917606734696940",
+        "created_at": "2026-08-02T14:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083917606734696940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2kSdEZtr7",
+              "end": 23,
+              "expanded_url": "https://x.com/Aaqian07/status/2083917606734696940/photo/1",
+              "media_key": "3_2083917593283538944",
+              "start": 0,
+              "url": "https://t.co/E2kSdEZtr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083917606734696940",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E2kSdEZtr7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 194,
+          "like_count": 28320,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 5645
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-23T13:07:42.000Z",
+        "description": "发点喜欢的\n要联系方式88没福利 不然免开尊口\n私信挑着回",
+        "id": "1838203519863508992",
+        "location": "114514m",
+        "name": "很任性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838203656631459842/oc7iB8-o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 51,
+          "like_count": 977,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 593
+        },
+        "url": "",
+        "username": "Aaqian07",
+        "verified": false
+      }
+    ]
+  }
+}

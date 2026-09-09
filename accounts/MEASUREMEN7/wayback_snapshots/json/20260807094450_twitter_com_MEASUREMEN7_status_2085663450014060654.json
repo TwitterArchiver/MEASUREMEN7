@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2085097562584015049",
+    "created_at": "2026-08-07T09:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T10:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085663450014060654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1803968567785984001",
+          "start": 0,
+          "username": "lulu_u_8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085663450014060654",
+    "in_reply_to_user_id": "1803968567785984001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085097562584015049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lulu_u_8 重力系？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2085097562584015049",
+        "created_at": "2026-08-07T09:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085663450014060654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1803968567785984001",
+              "start": 0,
+              "username": "lulu_u_8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085663450014060654",
+        "in_reply_to_user_id": "1803968567785984001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085097562584015049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lulu_u_8 重力系？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803968567785984001",
+        "conversation_id": "2085097562584015049",
+        "created_at": "2026-08-05T20:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085097562584015049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085097562584015049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1002,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前天面基了一个他后面给我带宾馆去了就特别想操我我被他扣了他给我逼扣的疼到现在了！感觉很对不起前男友但是她和我分手的时候也和其他人做爱了…我好想哭现在好压抑好想扣逼儿 我觉得操逼是我的底线 这种事情只想和爱的人做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 208,
+          "like_count": 29686,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 5994
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T01:50:09.000Z",
+        "description": "",
+        "id": "1803968567785984001",
+        "name": "重力女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074171521761968128/Z-yV4NLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 43,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "lulu_u_8",
+        "verified": false
+      }
+    ]
+  }
+}

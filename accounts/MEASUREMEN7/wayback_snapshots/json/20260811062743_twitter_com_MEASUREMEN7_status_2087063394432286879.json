@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087063394432286879",
+    "created_at": "2026-08-11T06:27:43.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087063394432286879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youyuyazi/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/youyuyazi/status/2086832195340206200",
+          "start": 7,
+          "url": "https://t.co/7CMsf3g7uS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087063394432286879",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086832195340206200",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们是知己啊 https://t.co/7CMsf3g7uS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087063394432286879",
+        "created_at": "2026-08-11T06:27:43.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087063394432286879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youyuyazi/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/youyuyazi/status/2086832195340206200",
+              "start": 7,
+              "url": "https://t.co/7CMsf3g7uS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087063394432286879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086832195340206200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们是知己啊 https://t.co/7CMsf3g7uS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085414273430503424",
+        "conversation_id": "2086832195340206200",
+        "created_at": "2026-08-10T15:09:01.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086832195340206200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086832195340206200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14384,
+          "like_count": 387,
+          "quote_count": 5,
+          "reply_count": 44,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我几乎所有的袜子都是白色的，到底谁在污名化白色袜子，说白袜是男同专属。你们不觉得别的颜色的袜子看起来很不干净吗，尤其是黑色袜子，哪怕被汗和污渍浸透到能站起来也看不出来脏，反而白袜呢，一点点脏都非常明显，一个人如果穿着干净的白袜，我会下意识认为这是一个很爱干净的人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087063394432286879",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 245,
+          "like_count": 30577,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 6375
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T17:15:39.000Z",
+        "description": "",
+        "id": "2085414273430503424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086983471864635504",
+        "name": "鱿鱼叶子",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085414680571650048/Z9_6YlLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 64,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "youyuyazi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088801542468173912",
+    "created_at": "2026-08-16T01:46:10.000Z",
+    "display_text_range": [
+      11,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T02:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088804479361749448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1749204947776819200",
+          "start": 0,
+          "username": "Ankoloveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088804479361749448",
+    "in_reply_to_user_id": "1749204947776819200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088801542468173912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ankoloveu 有的健全b是真的恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088801542468173912",
+        "created_at": "2026-08-16T01:46:10.000Z",
+        "display_text_range": [
+          11,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088804479361749448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1749204947776819200",
+              "start": 0,
+              "username": "Ankoloveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088804479361749448",
+        "in_reply_to_user_id": "1749204947776819200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088801542468173912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ankoloveu 有的健全b是真的恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749204947776819200",
+        "conversation_id": "2088801542468173912",
+        "created_at": "2026-08-16T01:34:30.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088801542468173912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088801542468173912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道把自己二维码发贴文里咋了。我们穷逼缺爱逼本来活得就恶心难受。人家善良心软有钱愿意投喂又碍着别人什么事了。？我从来没觉得收门槛钱，陪聊陪玩，甚至黄推，甚至是做咯咯哒这些有问题，每个人有每个人生活的方式。健全逼没经历过别人承受的痛苦就随意评判真的好吗。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088804479361749448",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 257,
+          "like_count": 32175,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 6840
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-21T22:59:01.000Z",
+        "description": "この世に生きていると、愛さえもこんなにも重いものだ",
+        "id": "1749204947776819200",
+        "is_identity_verified": false,
+        "location": "Ukyo-ku, Kyoto",
+        "most_recent_tweet_id": "2088803299470549001",
+        "name": "anko",
+        "pinned_tweet_id": "2087630635578118367",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749204947776819200/1786557313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087598796012470272/4Pq8aOdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 17,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "Ankoloveu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

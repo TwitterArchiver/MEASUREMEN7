@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2096853641638674811",
+    "created_at": "2026-09-07T09:23:51.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T10:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096892193407643826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058944024078409728",
+          "start": 0,
+          "username": "Suhdhhxdmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096892193407643826",
+    "in_reply_to_user_id": "2058944024078409728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096853641638674811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suhdhhxdmo 开始众筹！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2096853641638674811",
+        "created_at": "2026-09-07T09:23:51.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096892193407643826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058944024078409728",
+              "start": 0,
+              "username": "Suhdhhxdmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096892193407643826",
+        "in_reply_to_user_id": "2058944024078409728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096853641638674811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suhdhhxdmo 开始众筹！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058944024078409728",
+        "conversation_id": "2096853641638674811",
+        "created_at": "2026-09-07T06:50:40.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096853641638674811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096853641638674811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有药我好焦虑我要怎么办但是我又没有钱。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2096892193407643826",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 289,
+          "like_count": 39145,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 8619
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T16:11:54.000Z",
+        "description": "。",
+        "id": "2058944024078409728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096853641638674811",
+        "name": "ㅇ",
+        "pinned_tweet_id": "2095086784392962551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058944024078409728/1779725679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065254202356695041/Z1wu6Ia9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 27,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "Suhdhhxdmo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

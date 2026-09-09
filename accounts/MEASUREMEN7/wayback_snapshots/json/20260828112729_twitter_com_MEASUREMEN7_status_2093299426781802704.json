@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2093276632454730129",
+    "created_at": "2026-08-28T11:27:29.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T12:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093299426781802704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1693577253123420160",
+          "start": 0,
+          "username": "Miaowu979"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093299426781802704",
+    "in_reply_to_user_id": "1693577253123420160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093276632454730129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miaowu979 东京好玩嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2093276611969781760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzP_OkXkAAbMU5.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2093276632454730129",
+        "created_at": "2026-08-28T11:27:29.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093299426781802704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1693577253123420160",
+              "start": 0,
+              "username": "Miaowu979"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093299426781802704",
+        "in_reply_to_user_id": "1693577253123420160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093276632454730129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miaowu979 东京好玩嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093276611969781760"
+          ]
+        },
+        "author_id": "1693577253123420160",
+        "conversation_id": "2093276632454730129",
+        "created_at": "2026-08-28T09:56:55.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T10:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093276632454730129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C54HzlgfJV",
+              "end": 35,
+              "expanded_url": "https://x.com/Miaowu979/status/2093276632454730129/photo/1",
+              "media_key": "3_2093276611969781760",
+              "start": 12,
+              "url": "https://t.co/C54HzlgfJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093276632454730129",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093276611969781760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1063,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在东京也是一个人呆着😑 https://t.co/C54HzlgfJV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2093299426781802704",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 287,
+          "like_count": 37153,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 8222
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-21T10:54:28.000Z",
+        "description": "成为神的第一步",
+        "id": "1693577253123420160",
+        "is_identity_verified": false,
+        "location": "东京",
+        "most_recent_tweet_id": "2093296609345892849",
+        "name": "09",
+        "pinned_tweet_id": "1937523960096452637",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1693577253123420160/1728581866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089747428937465857/wkZvXJ6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 5,
+          "like_count": 16,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "Miaowu979",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

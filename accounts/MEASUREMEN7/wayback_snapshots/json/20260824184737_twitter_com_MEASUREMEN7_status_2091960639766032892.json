@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2091958360598098160",
+    "created_at": "2026-08-24T18:47:37.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T19:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091960639766032892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090325165590876160",
+          "start": 0,
+          "username": "hoshino_Fuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091960639766032892",
+    "in_reply_to_user_id": "2090325165590876160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091958360598098160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshino_Fuji 我也想去吃一串了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2091958345716609025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQghCCFaMAEyPDr.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2091958360598098160",
+        "created_at": "2026-08-24T18:47:37.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T19:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091960639766032892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090325165590876160",
+              "start": 0,
+              "username": "hoshino_Fuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091960639766032892",
+        "in_reply_to_user_id": "2090325165590876160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091958360598098160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshino_Fuji 我也想去吃一串了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091958345716609025"
+          ]
+        },
+        "author_id": "2090325165590876160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2091958360598098160",
+        "created_at": "2026-08-24T18:38:34.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T19:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091958360598098160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4BXJobZ4C5",
+              "end": 53,
+              "expanded_url": "https://x.com/hoshino_Fuji/status/2091958360598098160/photo/1",
+              "media_key": "3_2091958345716609025",
+              "start": 30,
+              "url": "https://t.co/4BXJobZ4C5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091958360598098160",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091958345716609025"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "住在大城市的好处：失眠的话可以步行几分钟到附近的烧烤店撸串 https://t.co/4BXJobZ4C5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2091960639766032892",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 290,
+          "like_count": 36038,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 8005
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T06:30:41.000Z",
+        "description": "|星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜一代目@hoshinofujivy（13k fo）｜二代目@realhoshinofuji（2.7k fo）｜Luv NASA｜love the world｜来吧，我的故事很多｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 101,
+                "start": 85,
+                "username": "realhoshinofuji"
+              }
+            ]
+          }
+        },
+        "id": "2090325165590876160",
+        "is_identity_verified": false,
+        "location": "台湾，真理子怀里",
+        "most_recent_tweet_id": "2091958360598098160",
+        "name": "星野藤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090325165590876160/1787394878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090738941590929408/IdtRzvyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 322,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "hoshino_Fuji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

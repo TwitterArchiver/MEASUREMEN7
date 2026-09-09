@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2091175797306646646",
+    "created_at": "2026-08-22T14:57:27.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091177938670768358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "292487623",
+          "start": 0,
+          "username": "CPiovesana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091177938670768358",
+    "in_reply_to_user_id": "292487623",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091175797306646646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPiovesana 不算的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2091175797306646646",
+        "created_at": "2026-08-22T14:57:27.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091177938670768358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "292487623",
+              "start": 0,
+              "username": "CPiovesana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091177938670768358",
+        "in_reply_to_user_id": "292487623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091175797306646646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPiovesana 不算的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "292487623",
+        "conversation_id": "2091175797306646646",
+        "created_at": "2026-08-22T14:48:56.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091175797306646646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CPiovesana/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/CPiovesana/status/2091126507884470686",
+              "start": 25,
+              "url": "https://t.co/RiosrhNxdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091175797306646646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091126507884470686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能看出来这个时候的我的智商还是一只可怜的成年边牧 https://t.co/RiosrhNxdN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2091177938670768358",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 289,
+          "like_count": 35479,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 7872
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-05-03T18:41:24.000Z",
+        "description": "od，上学中.非健全，缺爱的人，我会拼尽全力爱你，祈求🥺爱降临在我身边",
+        "id": "292487623",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091175797306646646",
+        "name": "芝麻油",
+        "pinned_tweet_id": "2089709619669295310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/292487623/1787131013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090006102075457536/hbEXWA79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 125,
+          "like_count": 594,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "CPiovesana",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

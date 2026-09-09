@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2093848533975912783",
+    "created_at": "2026-08-29T23:49:26.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T00:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093848533975912783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2027535879682854912",
+          "start": 3,
+          "username": "life1564847"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093848533975912783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093796890131259865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @life1564847: 你发寂寞的那种动态是要干什么呢，你想给谁看，你想和谁在一起，谁才是你的幸福，我是谁，我们是什么关系，我没有让你开心吗，你到底怎么想的，其实你想我死对吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2093848533975912783",
+        "created_at": "2026-08-29T23:49:26.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T00:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093848533975912783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2027535879682854912",
+              "start": 3,
+              "username": "life1564847"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093848533975912783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093796890131259865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @life1564847: 你发寂寞的那种动态是要干什么呢，你想给谁看，你想和谁在一起，谁才是你的幸福，我是谁，我们是什么关系，我没有让你开心吗，你到底怎么想的，其实你想我死对吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027535879682854912",
+        "conversation_id": "2093796890131259865",
+        "created_at": "2026-08-29T20:24:14.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T21:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093796890131259865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093796890131259865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1755,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "你发寂寞的那种动态是要干什么呢，你想给谁看，你想和谁在一起，谁才是你的幸福，我是谁，我们是什么关系，我没有让你开心吗，你到底怎么想的，其实你想我死对吧。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2093848533975912783",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 285,
+          "like_count": 37637,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 8307
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T00:06:52.000Z",
+        "description": "神秘人。不约不谈不聊。敢给我发🐦的我把你🐦剁了。\n这个是匿名提问https://t.co/hozAZCEENM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/life36465",
+                "end": 55,
+                "expanded_url": "https://ngl.link/life36465",
+                "start": 32,
+                "url": "https://t.co/hozAZCEENM"
+              }
+            ]
+          }
+        },
+        "id": "2027535879682854912",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2093804482799051238",
+        "name": "life",
+        "pinned_tweet_id": "2091531174963188097",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 92,
+          "like_count": 7293,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 882
+        },
+        "url": "",
+        "username": "life1564847",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

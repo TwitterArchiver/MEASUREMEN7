@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2085696305909977226",
+    "created_at": "2026-08-07T12:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085701594377814342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2075312744417632256",
+          "start": 0,
+          "username": "4ksti7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085701594377814342",
+    "in_reply_to_user_id": "2075312744417632256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085696305909977226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4ksti7 教我弹"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19735,
+        "height": 720,
+        "media_key": "13_2085696129245786113",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085696129245786113/img/MjkBztV0bUXRzcAN.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085696129245786113/vid/avc1/480x270/nHOX9i1nJNUniphb.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085696129245786113/vid/avc1/640x360/U55bALE8DroB7xe5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085696129245786113/vid/avc1/1280x720/HXSL6A6DorSpuuVr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085696129245786113/pl/H8IGlm1aeHO00y3q.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2085696305909977226",
+        "created_at": "2026-08-07T12:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085701594377814342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085701594377814342",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085696305909977226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 教我弹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085696129245786113"
+          ]
+        },
+        "author_id": "2075312744417632256",
+        "conversation_id": "2085696305909977226",
+        "created_at": "2026-08-07T11:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085696305909977226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5QNpKk5a6t",
+              "end": 37,
+              "expanded_url": "https://x.com/4ksti7/status/2085696305909977226/video/1",
+              "media_key": "13_2085696129245786113",
+              "start": 14,
+              "url": "https://t.co/5QNpKk5a6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085696305909977226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "弹的太招笑了，明天再战😡😡 https://t.co/5QNpKk5a6t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 210,
+          "like_count": 29725,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 6005
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 320,
+          "like_count": 1863,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 283
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      }
+    ]
+  }
+}

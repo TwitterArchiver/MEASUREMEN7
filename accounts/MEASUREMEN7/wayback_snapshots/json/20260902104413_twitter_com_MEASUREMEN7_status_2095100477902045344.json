@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2094952576408301638",
+    "created_at": "2026-09-02T10:44:13.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T11:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095100477902045344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1710365419306127360",
+          "start": 0,
+          "username": "RaquelBarr87553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095100477902045344",
+    "in_reply_to_user_id": "1710365419306127360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095100021771579666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RaquelBarr87553 扣1送地狱火"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2094952576408301638",
+        "created_at": "2026-09-02T10:44:13.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095100477902045344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1710365419306127360",
+              "start": 0,
+              "username": "RaquelBarr87553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095100477902045344",
+        "in_reply_to_user_id": "1710365419306127360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095100021771579666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RaquelBarr87553 扣1送地狱火"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710365419306127360",
+        "conversation_id": "2094952576408301638",
+        "created_at": "2026-09-02T10:42:24.000Z",
+        "display_text_range": [
+          13,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095100021771579666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095100021771579666",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095099586616680529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 111大哥真请吗，能换成地狱火和小布丁吗？（man！！！）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2095100477902045344",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 289,
+          "like_count": 38596,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 8478
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-06T18:45:21.000Z",
+        "description": "叫我流浪猫就好～重抑｜孤儿｜od｜4000+的无敌之人｜什么都懂一点点~\n全国漂泊中——感谢你的喜欢～我有九十九个理由抱怨现实，但我的朋友，你永远不会是其中之一！\n提问箱在下面~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/saekiyuuko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/saekiyuuko",
+                "start": 0,
+                "url": "https://t.co/KvviLwq4ND"
+              }
+            ]
+          }
+        },
+        "id": "1710365419306127360",
+        "is_identity_verified": false,
+        "location": "在你的心里",
+        "most_recent_tweet_id": "2095100021771579666",
+        "name": "捨て猫",
+        "pinned_tweet_id": "2087600524267049447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1710365419306127360/1768257368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082092424302825472/mLL_9SK-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 209,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 280
+        },
+        "url": "https://t.co/KvviLwq4ND",
+        "username": "RaquelBarr87553",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

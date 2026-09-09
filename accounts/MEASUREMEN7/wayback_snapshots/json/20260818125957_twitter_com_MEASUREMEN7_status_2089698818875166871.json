@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089697924217536850",
+    "created_at": "2026-08-18T12:59:57.000Z",
+    "display_text_range": [
+      15,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T13:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089698818875166871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1429646030589415427",
+          "start": 0,
+          "username": "id1otchildren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089698818875166871",
+    "in_reply_to_user_id": "1429646030589415427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089697924217536850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@id1otchildren 五层刀片的吉利剃须刀，主要是不会划伤自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089697924217536850",
+        "created_at": "2026-08-18T12:59:57.000Z",
+        "display_text_range": [
+          15,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089698818875166871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1429646030589415427",
+              "start": 0,
+              "username": "id1otchildren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089698818875166871",
+        "in_reply_to_user_id": "1429646030589415427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089697924217536850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@id1otchildren 五层刀片的吉利剃须刀，主要是不会划伤自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429646030589415427",
+        "conversation_id": "2089697924217536850",
+        "created_at": "2026-08-18T12:56:24.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089697924217536850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089697924217536850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有啥刮阴毛的刮刀推荐 无毛逼自己看了赏心悦目"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089698818875166871",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 265,
+          "like_count": 33358,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 7262
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-23T03:26:08.000Z",
+        "description": "=泅 可以叫我小泅（qiú）/小球\n07双相休学中",
+        "id": "1429646030589415427",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2089697924217536850",
+        "name": "好想用杯子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429646030589415427/1744977658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089124162095009792/0S6CT3OW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 321,
+          "like_count": 3381,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "id1otchildren",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

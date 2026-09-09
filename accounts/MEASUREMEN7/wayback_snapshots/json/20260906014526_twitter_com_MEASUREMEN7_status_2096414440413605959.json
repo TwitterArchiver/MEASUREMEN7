@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2096409202616901688",
+    "created_at": "2026-09-06T01:45:26.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T02:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096414440413605959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1833100001180098560",
+          "start": 0,
+          "username": "hxjcrhvgJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096414440413605959",
+    "in_reply_to_user_id": "1833100001180098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096409202616901688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hxjcrhvgJ 我去msk太坏了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096409185659539457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRfxDA8aUAE6lOV.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096409185529344000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRfxDAdXsAANsMh.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2096409202616901688",
+        "created_at": "2026-09-06T01:45:26.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096414440413605959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1833100001180098560",
+              "start": 0,
+              "username": "hxjcrhvgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096414440413605959",
+        "in_reply_to_user_id": "1833100001180098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096409202616901688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hxjcrhvgJ 我去msk太坏了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096409185659539457",
+            "3_2096409185529344000"
+          ]
+        },
+        "author_id": "1833100001180098560",
+        "conversation_id": "2096409202616901688",
+        "created_at": "2026-09-06T01:24:37.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096409202616901688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dEFCqPGgU7",
+              "end": 28,
+              "expanded_url": "https://x.com/hxjcrhvgJ/status/2096409202616901688/photo/1",
+              "media_key": "3_2096409185659539457",
+              "start": 5,
+              "url": "https://t.co/dEFCqPGgU7"
+            },
+            {
+              "display_url": "pic.x.com/dEFCqPGgU7",
+              "end": 28,
+              "expanded_url": "https://x.com/hxjcrhvgJ/status/2096409202616901688/photo/1",
+              "media_key": "3_2096409185529344000",
+              "start": 5,
+              "url": "https://t.co/dEFCqPGgU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096409202616901688",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096409185659539457"
+          },
+          {
+            "media_key": "3_2096409185529344000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你干什么 https://t.co/dEFCqPGgU7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2096414440413605959",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 287,
+          "like_count": 38941,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 8563
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-09T11:08:05.000Z",
+        "description": "请给我点钱 谢谢",
+        "id": "1833100001180098560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096409202616901688",
+        "name": "小狱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1833100001180098560/1781917648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085197670340038656/HpCuvLLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 233,
+          "like_count": 5669,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 526
+        },
+        "url": "",
+        "username": "hxjcrhvgJ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

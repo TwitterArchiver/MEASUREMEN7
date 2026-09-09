@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089635832529584192",
+    "created_at": "2026-08-18T10:24:08.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089659603869163626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1825194278441857024",
+          "start": 0,
+          "username": "anmmming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089659603869163626",
+    "in_reply_to_user_id": "1825194278441857024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089635832529584192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anmmming 哦哈呦前辈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089635824203874304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_gtfOaQAAHfJZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089635832529584192",
+        "created_at": "2026-08-18T10:24:08.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089659603869163626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1825194278441857024",
+              "start": 0,
+              "username": "anmmming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089659603869163626",
+        "in_reply_to_user_id": "1825194278441857024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089635832529584192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anmmming 哦哈呦前辈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089635824203874304"
+          ]
+        },
+        "author_id": "1825194278441857024",
+        "conversation_id": "2089635832529584192",
+        "created_at": "2026-08-18T08:49:40.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T09:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089635832529584192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1SV50T3k2j",
+              "end": 33,
+              "expanded_url": "https://x.com/anmmming/status/2089635832529584192/photo/1",
+              "media_key": "3_2089635824203874304",
+              "start": 10,
+              "url": "https://t.co/1SV50T3k2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089635832529584192",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089635824203874304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好搞笑的麦当劳刘海 https://t.co/1SV50T3k2j"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089659603869163626",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 260,
+          "like_count": 33230,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 7205
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-18T15:33:27.000Z",
+        "description": "餐券可以找我互fo/07休学中",
+        "id": "1825194278441857024",
+        "is_identity_verified": false,
+        "location": "New York, USA",
+        "most_recent_tweet_id": "2089657009318793349",
+        "name": "安鸣",
+        "pinned_tweet_id": "2088487619135263092",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088484543791874048/BboMtA2d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 99,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 298
+        },
+        "url": "",
+        "username": "anmmming",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

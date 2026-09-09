@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090658492894044640",
+    "created_at": "2026-08-21T04:46:41.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T05:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090661846063989007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053112758531715072",
+          "start": 0,
+          "username": "Nevado_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090661846063989007",
+    "in_reply_to_user_id": "2053112758531715072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090658492894044640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nevado_snow 我生活就剩下这两了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1204,
+        "media_key": "3_2090658466574880768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOCzG7b0AAggIL.jpg",
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090658492894044640",
+        "created_at": "2026-08-21T04:46:41.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T05:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090661846063989007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053112758531715072",
+              "start": 0,
+              "username": "Nevado_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090661846063989007",
+        "in_reply_to_user_id": "2053112758531715072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090658492894044640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nevado_snow 我生活就剩下这两了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090658466574880768"
+          ]
+        },
+        "author_id": "2053112758531715072",
+        "conversation_id": "2090658492894044640",
+        "created_at": "2026-08-21T04:33:21.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T05:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090658492894044640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u6MSdQ6Inh",
+              "end": 26,
+              "expanded_url": "https://x.com/Nevado_snow/status/2090658492894044640/photo/1",
+              "media_key": "3_2090658466574880768",
+              "start": 3,
+              "url": "https://t.co/u6MSdQ6Inh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090658492894044640",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090658466574880768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情 https://t.co/u6MSdQ6Inh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090661846063989007",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 288,
+          "like_count": 34905,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 7680
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T14:02:08.000Z",
+        "description": "如果哪天我沓無音訊\nngl⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nevado22756",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nevado22756",
+                "start": 0,
+                "url": "https://t.co/s4fAatf6cF"
+              }
+            ]
+          }
+        },
+        "id": "2053112758531715072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090658492894044640",
+        "name": "Nevado",
+        "pinned_tweet_id": "2089292340527784143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053112758531715072/1778510723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065997076903927808/seoscLhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 77,
+          "like_count": 13187,
+          "listed_count": 0,
+          "media_count": 733,
+          "tweet_count": 3831
+        },
+        "url": "https://t.co/s4fAatf6cF",
+        "username": "Nevado_snow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

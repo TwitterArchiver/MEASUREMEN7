@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087571381726978325",
+    "created_at": "2026-08-12T17:13:33.000Z",
+    "display_text_range": [
+      14,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T18:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087588312768975194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2078469675889872896",
+          "start": 0,
+          "username": "OmOmO7777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087588312768975194",
+    "in_reply_to_user_id": "2078469675889872896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087571381726978325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OmOmO7777777 足控小狗的话不是奖励吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22530,
+        "height": 1280,
+        "media_key": "13_2087571112138051584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087571112138051584/img/xRH0orwkAOYHpBCM.jpg",
+        "public_metrics": {
+          "view_count": 24
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087571112138051584/vid/avc1/320x568/t1HUumwBeHwNlrio.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087571112138051584/vid/avc1/480x852/pqJJTbCSyh_oK8DX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087571112138051584/vid/avc1/720x1280/sWuqWgTZYmSpTuEc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087571112138051584/pl/Ge_O3udHmV13GYfQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087571381726978325",
+        "created_at": "2026-08-12T17:13:33.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087588312768975194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2078469675889872896",
+              "start": 0,
+              "username": "OmOmO7777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087588312768975194",
+        "in_reply_to_user_id": "2078469675889872896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087571381726978325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OmOmO7777777 足控小狗的话不是奖励吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087571112138051584"
+          ]
+        },
+        "author_id": "2078469675889872896",
+        "conversation_id": "2087571381726978325",
+        "created_at": "2026-08-12T16:06:17.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087571381726978325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Go3iU6G6Aw",
+              "end": 36,
+              "expanded_url": "https://x.com/OmOmO7777777/status/2087571381726978325/video/1",
+              "media_key": "13_2087571112138051584",
+              "start": 13,
+              "url": "https://t.co/Go3iU6G6Aw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087571381726978325",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087571112138051584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就爱这样欺负小狗^ω^ https://t.co/Go3iU6G6Aw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087588312768975194",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 245,
+          "like_count": 31181,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 6575
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T13:20:49.000Z",
+        "description": "只是活着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/omo78350",
+                "end": 23,
+                "expanded_url": "https://ngl.link/omo78350",
+                "start": 0,
+                "url": "https://t.co/qW03fZW9hv"
+              }
+            ]
+          }
+        },
+        "id": "2078469675889872896",
+        "is_identity_verified": false,
+        "location": "地球🌍",
+        "most_recent_tweet_id": "2087573603131015448",
+        "name": "OmO",
+        "pinned_tweet_id": "2086880344670925222",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078469675889872896/1784724788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079912578063519744/FTsQGlV6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 25,
+          "like_count": 583,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 264
+        },
+        "url": "https://t.co/qW03fZW9hv",
+        "username": "OmOmO7777777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

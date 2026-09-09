@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089655299955441710",
+    "created_at": "2026-08-18T10:07:02.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089655299955441710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1807823851818307584",
+          "start": 3,
+          "username": "AUMIN273497"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089655299955441710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089650183529459859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AUMIN273497: 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089655299955441710",
+        "created_at": "2026-08-18T10:07:02.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089655299955441710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1807823851818307584",
+              "start": 3,
+              "username": "AUMIN273497"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089655299955441710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089650183529459859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AUMIN273497: 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807823851818307584",
+        "conversation_id": "2089650183529459859",
+        "created_at": "2026-08-18T09:46:42.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089650183529459859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mochichuu_art/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/mochichuu_art/status/2089384182397140997",
+              "start": 5,
+              "url": "https://t.co/lMcCbW2hOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089650183529459859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089384182397140997",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/lMcCbW2hOZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089655299955441710",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 260,
+          "like_count": 33225,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 7202
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-01T17:09:39.000Z",
+        "description": "再次亲眼看看你的笑容\n本体@xsen60102\n此为备用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "xsen60102"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uiamu",
+                "end": 23,
+                "expanded_url": "http://ngl.link/uiamu",
+                "start": 0,
+                "url": "https://t.co/Q7txBno9OX"
+              }
+            ]
+          }
+        },
+        "id": "1807823851818307584",
+        "is_identity_verified": false,
+        "location": "海拉鲁大陆",
+        "most_recent_tweet_id": "2089654745673965585",
+        "name": "uiamu 2.0",
+        "pinned_tweet_id": "2088838041079267362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807823851818307584/1786987986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089405123445637121/8zwqObXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 41,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 225
+        },
+        "url": "https://t.co/Q7txBno9OX",
+        "username": "AUMIN273497",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

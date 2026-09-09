@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089916814608474378",
+    "created_at": "2026-08-19T06:41:45.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089966026582827287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058944024078409728",
+          "start": 0,
+          "username": "Suhdhhxdmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089966026582827287",
+    "in_reply_to_user_id": "2058944024078409728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089916814608474378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suhdhhxdmo 所以说不要谈啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089916814608474378",
+        "created_at": "2026-08-19T06:41:45.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089966026582827287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058944024078409728",
+              "start": 0,
+              "username": "Suhdhhxdmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089966026582827287",
+        "in_reply_to_user_id": "2058944024078409728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089916814608474378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suhdhhxdmo 所以说不要谈啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058944024078409728",
+        "conversation_id": "2089916814608474378",
+        "created_at": "2026-08-19T03:26:12.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T04:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089916814608474378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089916814608474378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坤美们我跟门槛哥恋爱了呀然后我想分手结果现在就是得还他给我的那些钱😂😂。我后悔提了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089966026582827287",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 277,
+          "like_count": 33878,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 7396
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T16:11:54.000Z",
+        "description": "。",
+        "id": "2058944024078409728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089918217628385574",
+        "name": "ㅇ",
+        "pinned_tweet_id": "2089661599737065864",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058944024078409728/1779725679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065254202356695041/Z1wu6Ia9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 24,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "Suhdhhxdmo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

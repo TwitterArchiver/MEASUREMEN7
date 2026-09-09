@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086426017959440679",
+    "created_at": "2026-08-09T15:15:32.000Z",
+    "display_text_range": [
+      13,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T16:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086471448747708550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2038184435477319680",
+          "start": 0,
+          "username": "MIMIsamaOvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086471448747708550",
+    "in_reply_to_user_id": "2038184435477319680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086426017959440679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MIMIsamaOvo 说真的老资历吃的都是狠货"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086426017959440679",
+        "created_at": "2026-08-09T15:15:32.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T16:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086471448747708550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038184435477319680",
+              "start": 0,
+              "username": "MIMIsamaOvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086471448747708550",
+        "in_reply_to_user_id": "2038184435477319680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086426017959440679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MIMIsamaOvo 说真的老资历吃的都是狠货"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038184435477319680",
+        "conversation_id": "2086426017959440679",
+        "created_at": "2026-08-09T12:15:01.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086426017959440679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086426017959440679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 889,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被我妈一眼看穿说我绝壁磕药了哈哈哈，我去我真给老资历跪了，老妈你能带我穿越回去和你一起吸毒吗，我想玩大麻冰毒摇头丸"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086471448747708550",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 225,
+          "like_count": 29902,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 6187
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-29T09:21:29.000Z",
+        "description": "梦到什么发什么，关注mimi谢谢喵\n戒毒中day0\n二号机@MIMIsamowo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "MIMIsamowo"
+              }
+            ]
+          }
+        },
+        "id": "2038184435477319680",
+        "is_identity_verified": false,
+        "location": "戒毒所",
+        "most_recent_tweet_id": "2086426017959440679",
+        "name": "MIMI",
+        "pinned_tweet_id": "2086007350859903265",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038184435477319680/1775595884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069136182697672704/2H0_ygY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 57,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 277
+        },
+        "url": "",
+        "username": "MIMIsamaOvo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

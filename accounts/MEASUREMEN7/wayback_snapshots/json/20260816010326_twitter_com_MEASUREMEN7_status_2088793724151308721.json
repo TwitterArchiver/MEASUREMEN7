@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088719040336551982",
+    "created_at": "2026-08-16T01:03:26.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T02:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088793724151308721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1749204947776819200",
+          "start": 0,
+          "username": "Ankoloveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088793724151308721",
+    "in_reply_to_user_id": "1749204947776819200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088719040336551982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ankoloveu 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3968,
+        "media_key": "3_2088719029364289536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPye5ATbcAAK3wX.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088719040336551982",
+        "created_at": "2026-08-16T01:03:26.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088793724151308721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1749204947776819200",
+              "start": 0,
+              "username": "Ankoloveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088793724151308721",
+        "in_reply_to_user_id": "1749204947776819200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088719040336551982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ankoloveu 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088719029364289536"
+          ]
+        },
+        "author_id": "1749204947776819200",
+        "conversation_id": "2088719040336551982",
+        "created_at": "2026-08-15T20:06:40.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T21:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088719040336551982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZgzwwltgA",
+              "end": 42,
+              "expanded_url": "https://x.com/Ankoloveu/status/2088719040336551982/photo/1",
+              "media_key": "3_2088719029364289536",
+              "start": 19,
+              "url": "https://t.co/YZgzwwltgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088719040336551982",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088719029364289536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 627,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有精力出去玩的时候拍的大头照一张。 https://t.co/YZgzwwltgA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088793724151308721",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 257,
+          "like_count": 32129,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 6835
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-21T22:59:01.000Z",
+        "description": "我不知道。",
+        "id": "1749204947776819200",
+        "is_identity_verified": false,
+        "location": "Ukyo-ku, Kyoto",
+        "most_recent_tweet_id": "2088792070135967931",
+        "name": "anko",
+        "pinned_tweet_id": "2087630635578118367",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749204947776819200/1786557313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087598796012470272/4Pq8aOdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 17,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "Ankoloveu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

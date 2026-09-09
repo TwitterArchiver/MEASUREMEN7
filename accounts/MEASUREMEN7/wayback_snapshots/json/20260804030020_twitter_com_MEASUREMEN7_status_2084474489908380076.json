@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2084474489908380076",
+    "created_at": "2026-08-04T03:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T04:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084474489908380076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2000183542857510912",
+          "start": 3,
+          "username": "Yi46498"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084474489908380076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084347233198318057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yi46498: 姐姐你不要再发那个粉色的伤口给我了 我才13岁 我真的很害怕我要告诉我的爸爸妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2084474489908380076",
+        "created_at": "2026-08-04T03:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084474489908380076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2000183542857510912",
+              "start": 3,
+              "username": "Yi46498"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084474489908380076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084347233198318057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yi46498: 姐姐你不要再发那个粉色的伤口给我了 我才13岁 我真的很害怕我要告诉我的爸爸妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000183542857510912",
+        "conversation_id": "2084347233198318057",
+        "created_at": "2026-08-03T18:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084347233198318057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084347233198318057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 335,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐你不要再发那个粉色的伤口给我了 我才13岁 我真的很害怕我要告诉我的爸爸妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 202,
+          "like_count": 28628,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 5724
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T12:38:25.000Z",
+        "description": "",
+        "id": "2000183542857510912",
+        "name": "Yi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083547745235951617/9XQRoK0W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 20,
+          "like_count": 2788,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 340
+        },
+        "url": "",
+        "username": "Yi46498",
+        "verified": false
+      }
+    ]
+  }
+}

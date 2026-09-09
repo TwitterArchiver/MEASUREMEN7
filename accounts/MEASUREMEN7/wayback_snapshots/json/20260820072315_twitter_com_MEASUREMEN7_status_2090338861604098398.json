@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090326797632319488"
+      ],
+      "media_source_tweet_id": [
+        "2090326885469405597"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090338861604098398",
+    "created_at": "2026-08-20T07:23:15.000Z",
+    "display_text_range": [
+      0,
+      124
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T08:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090338861604098398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1825194278441857024",
+          "start": 3,
+          "username": "anmmming"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R4VociVJCL",
+          "end": 124,
+          "expanded_url": "https://x.com/anmmming/status/2090326885469405597/photo/1",
+          "media_key": "3_2090326797632319488",
+          "start": 101,
+          "url": "https://t.co/R4VociVJCL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090338861604098398",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090326797632319488"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090326885469405597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anmmming: 可以叫我芥兔\n07/休学中\n正在戒割戒o\n互转欢迎\n遇到同类女孩子会回fo\n开放门槛\n🚪20 开放好友位\n🚪52 解锁朋友圈 我会主动发日常\n🚪88 可以聊天 掉落图包视频 https://t.co/R4VociVJCL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2090326797632319488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJVJb1asAAcBpA.jpg",
+        "width": 1900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090326797632319488"
+          ],
+          "media_source_tweet_id": [
+            "2090326885469405597"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090338861604098398",
+        "created_at": "2026-08-20T07:23:15.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090338861604098398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825194278441857024",
+              "start": 3,
+              "username": "anmmming"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4VociVJCL",
+              "end": 124,
+              "expanded_url": "https://x.com/anmmming/status/2090326885469405597/photo/1",
+              "media_key": "3_2090326797632319488",
+              "start": 101,
+              "url": "https://t.co/R4VociVJCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090338861604098398",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090326797632319488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090326885469405597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anmmming: 可以叫我芥兔\n07/休学中\n正在戒割戒o\n互转欢迎\n遇到同类女孩子会回fo\n开放门槛\n🚪20 开放好友位\n🚪52 解锁朋友圈 我会主动发日常\n🚪88 可以聊天 掉落图包视频 https://t.co/R4VociVJCL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090326797632319488"
+          ]
+        },
+        "author_id": "1825194278441857024",
+        "conversation_id": "2090326885469405597",
+        "created_at": "2026-08-20T06:35:40.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090326885469405597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4VociVJCL",
+              "end": 110,
+              "expanded_url": "https://x.com/anmmming/status/2090326885469405597/photo/1",
+              "media_key": "3_2090326797632319488",
+              "start": 87,
+              "url": "https://t.co/R4VociVJCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090326885469405597",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090326797632319488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "可以叫我芥兔\n07/休学中\n正在戒割戒o\n互转欢迎\n遇到同类女孩子会回fo\n开放门槛\n🚪20 开放好友位\n🚪52 解锁朋友圈 我会主动发日常\n🚪88 可以聊天 掉落图包视频 https://t.co/R4VociVJCL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090338861604098398",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 280,
+          "like_count": 34482,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 7575
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-18T15:33:27.000Z",
+        "description": "餐券可以找我互fo/07休学中",
+        "id": "1825194278441857024",
+        "is_identity_verified": false,
+        "location": "New York, USA",
+        "most_recent_tweet_id": "2090328674646335785",
+        "name": "安鸣",
+        "pinned_tweet_id": "2090326885469405597",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088484543791874048/BboMtA2d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 100,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 330
+        },
+        "url": "",
+        "username": "anmmming",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

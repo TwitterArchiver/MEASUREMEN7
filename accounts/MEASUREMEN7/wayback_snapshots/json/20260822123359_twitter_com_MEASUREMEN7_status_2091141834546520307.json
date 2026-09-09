@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2091136849318379807",
+    "created_at": "2026-08-22T12:33:59.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T13:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091141834546520307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799795163843436544",
+          "start": 0,
+          "username": "BeetiIsDog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091141834546520307",
+    "in_reply_to_user_id": "1799795163843436544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091136849318379807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeetiIsDog 这是什么游戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2091136849318379807",
+        "created_at": "2026-08-22T12:33:59.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091141834546520307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799795163843436544",
+              "start": 0,
+              "username": "BeetiIsDog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091141834546520307",
+        "in_reply_to_user_id": "1799795163843436544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091136849318379807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeetiIsDog 这是什么游戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799795163843436544",
+        "conversation_id": "2091136849318379807",
+        "created_at": "2026-08-22T12:14:10.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091136849318379807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091136849318379807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人和我一起玩跑跑姜饼人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2091141834546520307",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 289,
+          "like_count": 35451,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 7863
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "祝你没有痛苦地活着\n友達：@sysjf0 @Cheese_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 13,
+                "username": "sysjf0"
+              },
+              {
+                "end": 37,
+                "start": 21,
+                "username": "Cheese_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091136974640070858",
+        "name": "用户犬9706144444",
+        "pinned_tweet_id": "2086356570632601924",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078752213367930880/_vk9e0Pf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 1058,
+          "like_count": 44672,
+          "listed_count": 1,
+          "media_count": 348,
+          "tweet_count": 6419
+        },
+        "url": "",
+        "username": "BeetiIsDog",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089551404977549767",
+    "created_at": "2026-08-18T03:58:47.000Z",
+    "display_text_range": [
+      17,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T04:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089562627483836474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1426793440046632963",
+          "start": 0,
+          "username": "moneynikonikoni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089562627483836474",
+    "in_reply_to_user_id": "1426793440046632963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089551404977549767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moneynikonikoni 训练计划兄弟😭求求🙏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2089551398409326592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-T7Qob0AAaOJS.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089551404977549767",
+        "created_at": "2026-08-18T03:58:47.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089562627483836474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1426793440046632963",
+              "start": 0,
+              "username": "moneynikonikoni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089562627483836474",
+        "in_reply_to_user_id": "1426793440046632963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089551404977549767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moneynikonikoni 训练计划兄弟😭求求🙏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089551398409326592"
+          ]
+        },
+        "author_id": "1426793440046632963",
+        "conversation_id": "2089551404977549767",
+        "created_at": "2026-08-18T03:14:11.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089551404977549767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H6aw8iq5wh",
+              "end": 48,
+              "expanded_url": "https://x.com/moneynikonikoni/status/2089551404977549767/photo/1",
+              "media_key": "3_2089551398409326592",
+              "start": 25,
+              "url": "https://t.co/H6aw8iq5wh"
+            },
+            {
+              "display_url": "x.com/moneynikonikon…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/moneynikonikoni/status/2089256644425498660",
+              "start": 49,
+              "url": "https://t.co/EjyToGoNS6"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01864a8a64df9dc4"
+        },
+        "id": "2089551404977549767",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089551398409326592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089256644425498660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "两天做六次爱，做到膝盖都磨破了，感觉一滴都不剩了 https://t.co/H6aw8iq5wh https://t.co/EjyToGoNS6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2089562627483836474",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 264,
+          "like_count": 33040,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 7139
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-15T06:30:49.000Z",
+        "description": "我血液的百分之七十都流淌着游戏，mel",
+        "id": "1426793440046632963",
+        "is_identity_verified": true,
+        "location": "神圣泰拉 审判庭马上到你家门口",
+        "most_recent_tweet_id": "2089551404977549767",
+        "name": "冲击2030世锦赛冠军",
+        "pinned_tweet_id": "1977640025602023924",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426793440046632963/1786638291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081228377118400512/txShP23I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4334,
+          "following_count": 3419,
+          "like_count": 14376,
+          "listed_count": 11,
+          "media_count": 1294,
+          "tweet_count": 12053
+        },
+        "url": "",
+        "username": "moneynikonikoni",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

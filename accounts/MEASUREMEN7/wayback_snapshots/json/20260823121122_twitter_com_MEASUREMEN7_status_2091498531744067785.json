@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2091491749319548941",
+    "created_at": "2026-08-23T12:11:22.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T13:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091498531744067785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1864679714176290817",
+          "start": 0,
+          "username": "Senti_Rave1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091498531744067785",
+    "in_reply_to_user_id": "1864679714176290817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091491749319548941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Senti_Rave1 小胃袋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2091491615554867200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZ4iwvbEAAs04G.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2091491749319548941",
+        "created_at": "2026-08-23T12:11:22.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091498531744067785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1864679714176290817",
+              "start": 0,
+              "username": "Senti_Rave1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091498531744067785",
+        "in_reply_to_user_id": "1864679714176290817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091491749319548941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Senti_Rave1 小胃袋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091491615554867200"
+          ]
+        },
+        "author_id": "1864679714176290817",
+        "conversation_id": "2091491749319548941",
+        "created_at": "2026-08-23T11:44:25.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091491749319548941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0k2Gc4etZx",
+              "end": 31,
+              "expanded_url": "https://x.com/Senti_Rave1/status/2091491749319548941/photo/1",
+              "media_key": "3_2091491615554867200",
+              "start": 8,
+              "url": "https://t.co/0k2Gc4etZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091491749319548941",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091491615554867200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你这胃袋不行啊 https://t.co/0k2Gc4etZx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2091498531744067785",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 288,
+          "like_count": 35693,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 7915
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-05T14:34:43.000Z",
+        "description": "｜Post-structuralism｜绿聊88｜色图188｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pavane2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pavane2",
+                "start": 0,
+                "url": "https://t.co/4O0WqTztNf"
+              }
+            ]
+          }
+        },
+        "id": "1864679714176290817",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091491749319548941",
+        "name": "癥",
+        "pinned_tweet_id": "2089695814558061012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1864679714176290817/1781641022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066978329186680832/Fwr5j97w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 110,
+          "like_count": 1547,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/4O0WqTztNf",
+        "username": "Senti_Rave1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

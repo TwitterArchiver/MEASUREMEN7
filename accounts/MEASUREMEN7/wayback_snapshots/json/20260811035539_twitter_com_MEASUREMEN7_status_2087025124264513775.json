@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087009043470836069",
+    "created_at": "2026-08-11T03:55:39.000Z",
+    "display_text_range": [
+      7,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T04:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087025124264513775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2076519797408559104",
+          "start": 0,
+          "username": "rov2l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087025124264513775",
+    "in_reply_to_user_id": "2076519797408559104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087009043470836069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rov2l 其实完全看不出来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087009034931245056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPaLqOobkAAVaui.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087009043470836069",
+        "created_at": "2026-08-11T03:55:39.000Z",
+        "display_text_range": [
+          7,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T04:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087025124264513775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2076519797408559104",
+              "start": 0,
+              "username": "rov2l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087025124264513775",
+        "in_reply_to_user_id": "2076519797408559104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087009043470836069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rov2l 其实完全看不出来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087009034931245056"
+          ]
+        },
+        "author_id": "2076519797408559104",
+        "conversation_id": "2087009043470836069",
+        "created_at": "2026-08-11T02:51:45.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T03:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087009043470836069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nCQGUhreUd",
+              "end": 34,
+              "expanded_url": "https://x.com/rov2l/status/2087009043470836069/photo/1",
+              "media_key": "3_2087009034931245056",
+              "start": 11,
+              "url": "https://t.co/nCQGUhreUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087009043470836069",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087009034931245056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢侧躺看手机遂斜视 https://t.co/nCQGUhreUd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087025124264513775",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 238,
+          "like_count": 30514,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 6358
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T04:11:59.000Z",
+        "description": "リアルのお姫様｜少女主義と大森靖子",
+        "id": "2076519797408559104",
+        "is_identity_verified": false,
+        "location": "揺れる心を支えてくれた",
+        "most_recent_tweet_id": "2087011436119920699",
+        "name": "ひめにゃ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076519797408559104/1783916193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079245930990276613/Eh_cONzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 59,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "rov2l",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

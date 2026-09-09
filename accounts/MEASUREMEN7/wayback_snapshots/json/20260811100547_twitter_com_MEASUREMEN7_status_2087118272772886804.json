@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087111670930022453",
+    "created_at": "2026-08-11T10:05:47.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T11:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087118272772886804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "945226452303208448",
+          "start": 0,
+          "username": "AhoyPeko0813"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087118272772886804",
+    "in_reply_to_user_id": "945226452303208448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087118184579203131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AhoyPeko0813 支持你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087111670930022453",
+        "created_at": "2026-08-11T10:05:47.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087118272772886804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "945226452303208448",
+              "start": 0,
+              "username": "AhoyPeko0813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087118272772886804",
+        "in_reply_to_user_id": "945226452303208448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087118184579203131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AhoyPeko0813 支持你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "945226452303208448",
+        "conversation_id": "2087111670930022453",
+        "created_at": "2026-08-11T10:05:26.000Z",
+        "display_text_range": [
+          13,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087118184579203131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087118184579203131",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087115492150657442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 一拳 s不了，一🔪一👉s得太容易又便宜他们，至少得🔥了他们或残废才差不多 然后我才能安心自s"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087118272772886804",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 243,
+          "like_count": 30643,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 6394
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-12-25T09:35:22.000Z",
+        "description": "",
+        "id": "945226452303208448",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087118184579203131",
+        "name": "Royboy",
+        "pinned_tweet_id": "2083922507208466678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/945226452303208448/1785853416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086784312268251136/Jy4KxuDl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 52,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "AhoyPeko0813",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

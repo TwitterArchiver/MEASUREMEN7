@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2095008497847140649",
+    "created_at": "2026-09-02T04:38:43.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T05:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095008497847140649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/six91930301818…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/six919303018180/status/2094993872304910683",
+          "start": 37,
+          "url": "https://t.co/v6Qj51dDgW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095008497847140649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094993872304910683",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帮前任买的时候就想过这个问题，稍微买一点就好几百，实际用起来还是不怎么样 https://t.co/v6Qj51dDgW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1685,
+        "media_key": "3_2094993861756280832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLp0UibYAAzUXo.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2095008497847140649",
+        "created_at": "2026-09-02T04:38:43.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095008497847140649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/six91930301818…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/six919303018180/status/2094993872304910683",
+              "start": 37,
+              "url": "https://t.co/v6Qj51dDgW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095008497847140649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094993872304910683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮前任买的时候就想过这个问题，稍微买一点就好几百，实际用起来还是不怎么样 https://t.co/v6Qj51dDgW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094993861756280832"
+          ]
+        },
+        "author_id": "1662757137997778944",
+        "conversation_id": "2094993872304910683",
+        "created_at": "2026-09-02T03:40:36.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094993872304910683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCD3i8Fjnv",
+              "end": 50,
+              "expanded_url": "https://x.com/six919303018180/status/2094993872304910683/photo/1",
+              "media_key": "3_2094993861756280832",
+              "start": 27,
+              "url": "https://t.co/KCD3i8Fjnv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094993872304910683",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094993861756280832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2220,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你中的卫生巾就是很贵啊又贵又难用还不让人说了吗😭🙌🏻 https://t.co/KCD3i8Fjnv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2095008497847140649",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 289,
+          "like_count": 38510,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 8465
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-28T09:46:45.000Z",
+        "description": "不看几把\n匿名https://t.co/T2NSTzG20a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/six919303018180",
+                "end": 30,
+                "expanded_url": "https://ngl.link/six919303018180",
+                "start": 7,
+                "url": "https://t.co/T2NSTzG20a"
+              }
+            ]
+          }
+        },
+        "id": "1662757137997778944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095006639086813204",
+        "name": "woo",
+        "pinned_tweet_id": "2020021850320064684",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662757137997778944/1770211558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019039678645833728/-PZPVIy6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 84,
+          "like_count": 2782,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 981
+        },
+        "url": "",
+        "username": "six919303018180",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

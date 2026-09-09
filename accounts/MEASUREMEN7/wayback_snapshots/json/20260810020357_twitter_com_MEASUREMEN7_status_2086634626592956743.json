@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086633506374099369",
+    "created_at": "2026-08-10T02:03:57.000Z",
+    "display_text_range": [
+      14,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T03:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086634626592956743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1547081573962375170",
+          "start": 0,
+          "username": "yyds76013893"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086634626592956743",
+    "in_reply_to_user_id": "1547081573962375170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086633506374099369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyds76013893 我也经常有人认为我是女生，不得不挂一个性别在主页"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 150,
+        "media_key": "3_2086633494843887616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPU2G6yaEAA_Nml.jpg",
+        "width": 888
+      },
+      {
+        "height": 263,
+        "media_key": "3_2086633494852386816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPU2G60bwAASwlf.jpg",
+        "width": 858
+      },
+      {
+        "height": 135,
+        "media_key": "3_2086633494848090112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPU2G6zaMAAudke.jpg",
+        "width": 714
+      },
+      {
+        "height": 163,
+        "media_key": "3_2086633494835548160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPU2G6wa0AAHG8O.jpg",
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086633506374099369",
+        "created_at": "2026-08-10T02:03:57.000Z",
+        "display_text_range": [
+          14,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086634626592956743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1547081573962375170",
+              "start": 0,
+              "username": "yyds76013893"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086634626592956743",
+        "in_reply_to_user_id": "1547081573962375170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086633506374099369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyds76013893 我也经常有人认为我是女生，不得不挂一个性别在主页"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086633494843887616",
+            "3_2086633494852386816",
+            "3_2086633494848090112",
+            "3_2086633494835548160"
+          ]
+        },
+        "author_id": "1547081573962375170",
+        "conversation_id": "2086633506374099369",
+        "created_at": "2026-08-10T01:59:30.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T02:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086633506374099369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VHzTiCr3zy",
+              "end": 49,
+              "expanded_url": "https://x.com/yyds76013893/status/2086633506374099369/photo/1",
+              "media_key": "3_2086633494843887616",
+              "start": 26,
+              "url": "https://t.co/VHzTiCr3zy"
+            },
+            {
+              "display_url": "pic.x.com/VHzTiCr3zy",
+              "end": 49,
+              "expanded_url": "https://x.com/yyds76013893/status/2086633506374099369/photo/1",
+              "media_key": "3_2086633494852386816",
+              "start": 26,
+              "url": "https://t.co/VHzTiCr3zy"
+            },
+            {
+              "display_url": "pic.x.com/VHzTiCr3zy",
+              "end": 49,
+              "expanded_url": "https://x.com/yyds76013893/status/2086633506374099369/photo/1",
+              "media_key": "3_2086633494848090112",
+              "start": 26,
+              "url": "https://t.co/VHzTiCr3zy"
+            },
+            {
+              "display_url": "pic.x.com/VHzTiCr3zy",
+              "end": 49,
+              "expanded_url": "https://x.com/yyds76013893/status/2086633506374099369/photo/1",
+              "media_key": "3_2086633494835548160",
+              "start": 26,
+              "url": "https://t.co/VHzTiCr3zy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086633506374099369",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086633494843887616"
+          },
+          {
+            "media_key": "3_2086633494852386816"
+          },
+          {
+            "media_key": "3_2086633494848090112"
+          },
+          {
+            "media_key": "3_2086633494835548160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老师们我真的是男生…不知道为什么都觉得我像女孩子咕 https://t.co/VHzTiCr3zy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086634626592956743",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 227,
+          "like_count": 30048,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 6221
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-13T04:52:58.000Z",
+        "description": "你说得对，但是我是一只珠颈斑鸠。\n非常非常非常欢迎互fo或私信我\n匿名提问在下面👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/birds51127",
+                "end": 23,
+                "expanded_url": "https://ngl.link/birds51127",
+                "start": 0,
+                "url": "https://t.co/5WKo4vlkaR"
+              }
+            ]
+          }
+        },
+        "id": "1547081573962375170",
+        "is_identity_verified": false,
+        "location": "冥府",
+        "most_recent_tweet_id": "2086633506374099369",
+        "name": "珠颈斑鸠",
+        "pinned_tweet_id": "2086347325887381720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547081573962375170/1780835278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020121599710752768/OjMTw32w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 274,
+          "like_count": 1013,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 514
+        },
+        "url": "https://t.co/5WKo4vlkaR",
+        "username": "yyds76013893",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

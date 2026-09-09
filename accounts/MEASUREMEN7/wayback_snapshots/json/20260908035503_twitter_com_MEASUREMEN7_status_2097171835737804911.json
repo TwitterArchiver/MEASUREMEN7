@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2097156829180555562",
+    "created_at": "2026-09-08T03:55:03.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T04:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097171835737804911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1838620535804317696",
+          "start": 0,
+          "username": "karmakarma1221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097171835737804911",
+    "in_reply_to_user_id": "1838620535804317696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097156829180555562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karmakarma1221 蛞蝓下次小心啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2097156829180555562",
+        "created_at": "2026-09-08T03:55:03.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097171835737804911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1838620535804317696",
+              "start": 0,
+              "username": "karmakarma1221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097171835737804911",
+        "in_reply_to_user_id": "1838620535804317696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097156829180555562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karmakarma1221 蛞蝓下次小心啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838620535804317696",
+        "conversation_id": "2097156829180555562",
+        "created_at": "2026-09-08T02:55:26.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T03:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097156829180555562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097156829180555562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "然后我脖子也肩也有一点点扭伤 我就这样居然还能当天往返300多公里去周边城市找我朋友玩（？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2097171835737804911",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 290,
+          "like_count": 39228,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 8652
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-24T16:44:40.000Z",
+        "description": "这是一个存档点 我是蛞蝓 关注蛞蝓喵 关注蛞蝓谢谢喵♪( ´▽｀)\n\n我的提问箱 https://t.co/PXiBB5RMOP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/karmakarma1221",
+                "end": 64,
+                "expanded_url": "https://ngl.link/karmakarma1221",
+                "start": 41,
+                "url": "https://t.co/PXiBB5RMOP"
+              }
+            ]
+          }
+        },
+        "id": "1838620535804317696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097156829180555562",
+        "name": "蛞蝓神膜拜膜拜",
+        "pinned_tweet_id": "2095932363028976113",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1838620535804317696/1788627972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094138347459334144/xPDXKL7u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 863,
+          "like_count": 1022,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 3005
+        },
+        "url": "",
+        "username": "karmakarma1221",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

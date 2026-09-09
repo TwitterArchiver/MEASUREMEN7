@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2094054607693750507",
+    "created_at": "2026-08-30T13:36:29.000Z",
+    "display_text_range": [
+      11,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T14:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094056665087987835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1749204947776819200",
+          "start": 0,
+          "username": "Ankoloveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094056665087987835",
+    "in_reply_to_user_id": "1749204947776819200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094054607693750507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ankoloveu 在梦里结束或许更好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2094054607693750507",
+        "created_at": "2026-08-30T13:36:29.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094056665087987835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1749204947776819200",
+              "start": 0,
+              "username": "Ankoloveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094056665087987835",
+        "in_reply_to_user_id": "1749204947776819200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094054607693750507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ankoloveu 在梦里结束或许更好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749204947776819200",
+        "conversation_id": "2094054607693750507",
+        "created_at": "2026-08-30T13:28:18.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094054607693750507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094054607693750507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一次性吃300mg米氮平，7800mg普瑞，6mg劳拉，又喝了点酒，希望在睡梦中结束一切"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2094056665087987835",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 285,
+          "like_count": 37904,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 8352
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-21T22:59:01.000Z",
+        "description": "宝贝们这里是saki 2.0…\n重焦重抑。哦滴。zc。🚬\n同好会回关ᗜ֊ᗜ 小号@idtknow5557",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "idtknow5557"
+              }
+            ]
+          }
+        },
+        "id": "1749204947776819200",
+        "is_identity_verified": false,
+        "location": "Sakyo-ku, Kyoto",
+        "most_recent_tweet_id": "2094054607693750507",
+        "name": "saki",
+        "pinned_tweet_id": "2092911565809095122",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1749204947776819200/1786557313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087598796012470272/4Pq8aOdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 42,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "Ankoloveu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

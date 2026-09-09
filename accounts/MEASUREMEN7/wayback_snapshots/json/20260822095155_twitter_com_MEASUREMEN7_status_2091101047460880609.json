@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2091100487022227870",
+    "created_at": "2026-08-22T09:51:55.000Z",
+    "display_text_range": [
+      17,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T10:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091101047460880609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2063228399586541568",
+          "start": 0,
+          "username": "_QianQian_8964_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091101047460880609",
+    "in_reply_to_user_id": "2063228399586541568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091100487022227870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_QianQian_8964_ 后面那个才是本体（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13803,
+        "height": 1280,
+        "media_key": "13_2091100442566799361",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091100442566799361/img/V0q9tYo16ZP2eCXj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091100442566799361/vid/avc1/320x568/bHvidlHwbmLFmWZK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091100442566799361/vid/avc1/480x852/XJJH0WIaJnuHR3Sy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091100442566799361/vid/avc1/720x1280/u7t-KrnFZi_fHRcq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091100442566799361/pl/Zycj_dH9SMftjTnN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2091100487022227870",
+        "created_at": "2026-08-22T09:51:55.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091101047460880609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2063228399586541568",
+              "start": 0,
+              "username": "_QianQian_8964_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091101047460880609",
+        "in_reply_to_user_id": "2063228399586541568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091100487022227870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_QianQian_8964_ 后面那个才是本体（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091100442566799361"
+          ]
+        },
+        "author_id": "2063228399586541568",
+        "conversation_id": "2091100487022227870",
+        "created_at": "2026-08-22T09:49:41.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091100487022227870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JRBnBfd0Ms",
+              "end": 44,
+              "expanded_url": "https://x.com/_QianQian_8964_/status/2091100487022227870/video/1",
+              "media_key": "13_2091100442566799361",
+              "start": 21,
+              "url": "https://t.co/JRBnBfd0Ms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091100487022227870",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091100442566799361"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知識：這條影片的主角不是我身後的內褲！ https://t.co/JRBnBfd0Ms"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2091101047460880609",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 287,
+          "like_count": 35395,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 7846
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T11:59:22.000Z",
+        "description": "@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "7q468438x8964"
+              }
+            ]
+          }
+        },
+        "id": "2063228399586541568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091100694791307718",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2089426601880813891",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063228399586541568/1787364710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088817754745053184/CrWfdunH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 141,
+          "like_count": 2271,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1202
+        },
+        "url": "",
+        "username": "_QianQian_8964_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088599482216923644",
+    "created_at": "2026-08-15T12:16:07.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T13:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088600624422334470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2067683458323980288",
+          "start": 0,
+          "username": "Airceyvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088600624422334470",
+    "in_reply_to_user_id": "2067683458323980288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088599482216923644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Airceyvv 复活了快来一起cs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1954,
+        "media_key": "3_2088599475292114944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwyKCrakAA7ioZ.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088599482216923644",
+        "created_at": "2026-08-15T12:16:07.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088600624422334470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2067683458323980288",
+              "start": 0,
+              "username": "Airceyvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088600624422334470",
+        "in_reply_to_user_id": "2067683458323980288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088599482216923644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Airceyvv 复活了快来一起cs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088599475292114944"
+          ]
+        },
+        "author_id": "2067683458323980288",
+        "conversation_id": "2088599482216923644",
+        "created_at": "2026-08-15T12:11:35.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088599482216923644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u54sr3I01l",
+              "end": 28,
+              "expanded_url": "https://x.com/Airceyvv/status/2088599482216923644/photo/1",
+              "media_key": "3_2088599475292114944",
+              "start": 5,
+              "url": "https://t.co/u54sr3I01l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088599482216923644",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088599475292114944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧置顶 https://t.co/u54sr3I01l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088600624422334470",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 255,
+          "like_count": 31932,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 6792
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-18T18:59:55.000Z",
+        "description": "永远怀念@VVeronie31\n我继续转世@Vennie931\n正在恋爱所以要做一个专情的女孩！所以现在只接受纯绿聊天了！请和我傻傻地互动吧！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "VVeronie31"
+              },
+              {
+                "end": 31,
+                "start": 21,
+                "username": "Vennie931"
+              }
+            ]
+          }
+        },
+        "id": "2067683458323980288",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088599783640637678",
+        "name": "Vennie🍯",
+        "pinned_tweet_id": "2088599482216923644",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067683458323980288/1781810273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086298552947687424/nAD4pxtn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 25,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "Airceyvv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

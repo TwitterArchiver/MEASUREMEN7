@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090996938326097920"
+      ],
+      "media_source_tweet_id": [
+        "2090996944114274635"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2091031022448287864",
+    "created_at": "2026-08-22T05:13:39.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T06:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091031022448287864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1833144133709713408",
+          "start": 3,
+          "username": "xmlxiny"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tnk736XQPi",
+          "end": 46,
+          "expanded_url": "https://x.com/xmlxiny/status/2090996944114274635/photo/1",
+          "media_key": "3_2090996938326097920",
+          "start": 23,
+          "url": "https://t.co/tnk736XQPi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091031022448287864",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090996938326097920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090996944114274635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xmlxiny: 这些日本人到底咋了 https://t.co/tnk736XQPi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 717,
+        "media_key": "3_2090996938326097920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQS2owdbQAAGzAU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090996938326097920"
+          ],
+          "media_source_tweet_id": [
+            "2090996944114274635"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2091031022448287864",
+        "created_at": "2026-08-22T05:13:39.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T06:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091031022448287864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1833144133709713408",
+              "start": 3,
+              "username": "xmlxiny"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tnk736XQPi",
+              "end": 46,
+              "expanded_url": "https://x.com/xmlxiny/status/2090996944114274635/photo/1",
+              "media_key": "3_2090996938326097920",
+              "start": 23,
+              "url": "https://t.co/tnk736XQPi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091031022448287864",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090996938326097920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090996944114274635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xmlxiny: 这些日本人到底咋了 https://t.co/tnk736XQPi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090996938326097920"
+          ]
+        },
+        "author_id": "1833144133709713408",
+        "conversation_id": "2090996944114274635",
+        "created_at": "2026-08-22T02:58:14.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T03:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090996944114274635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tnk736XQPi",
+              "end": 33,
+              "expanded_url": "https://x.com/xmlxiny/status/2090996944114274635/photo/1",
+              "media_key": "3_2090996938326097920",
+              "start": 10,
+              "url": "https://t.co/tnk736XQPi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090996944114274635",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090996938326097920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1890,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这些日本人到底咋了 https://t.co/tnk736XQPi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2091031022448287864",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 288,
+          "like_count": 35307,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 7821
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-09T14:03:30.000Z",
+        "description": "",
+        "id": "1833144133709713408",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091011537242607927",
+        "name": "只吃小鱼干",
+        "pinned_tweet_id": "1954092877857927419",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1833144133709713408/1786116729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090970304525000704/THanxanc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 208,
+          "like_count": 6444,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 2642
+        },
+        "url": "",
+        "username": "xmlxiny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

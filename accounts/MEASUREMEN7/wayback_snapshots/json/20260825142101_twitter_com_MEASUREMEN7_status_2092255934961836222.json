@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2091504497906663712",
+    "created_at": "2026-08-25T14:21:01.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T15:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092255934961836222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918323916969525251",
+          "start": 0,
+          "username": "wfwc0910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092255934961836222",
+    "in_reply_to_user_id": "1918323916969525251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091504497906663712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wfwc0910 抽我😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2091504497906663712",
+        "created_at": "2026-08-25T14:21:01.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092255934961836222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918323916969525251",
+              "start": 0,
+              "username": "wfwc0910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092255934961836222",
+        "in_reply_to_user_id": "1918323916969525251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091504497906663712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wfwc0910 抽我😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918323916969525251",
+        "conversation_id": "2091504497906663712",
+        "created_at": "2026-08-23T12:35:05.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091504497906663712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091504497906663712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1510,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一百多fo啦提前做个预告喵😳\n你们都要和我说一下开学之后有手机嘛\n然后我会进行抽奖（因为我开学以后才有米）☺️☺️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2092255934961836222",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 290,
+          "like_count": 36384,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 8052
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T15:17:37.000Z",
+        "description": "本人09🇨🇳 随便发点 有的有营养 有的毫无价值\n不od 不割手 不🚬 偶尔🍺\n希望各位宝子都可以喜欢我 善语结善缘\n欢迎匿名提问 熟悉了可以加v\n@wfwctw0910 这个号算是小号。？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "wfwctw0910"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wfwc0910",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wfwc0910",
+                "start": 0,
+                "url": "https://t.co/ZW8eHbWQwm"
+              }
+            ]
+          }
+        },
+        "id": "1918323916969525251",
+        "is_identity_verified": false,
+        "location": "死了就能见到我",
+        "most_recent_tweet_id": "2092255337122525242",
+        "name": "挽风无尘",
+        "pinned_tweet_id": "2091504497906663712",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918323916969525251/1782125074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088561122727346176/2UbThLxH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 386,
+          "like_count": 1517,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 301
+        },
+        "url": "https://t.co/ZW8eHbWQwm",
+        "username": "wfwc0910",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

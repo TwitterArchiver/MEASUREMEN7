@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2092948102051418221",
+    "created_at": "2026-08-27T12:30:34.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092952913941602485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1428604449845440520",
+          "start": 0,
+          "username": "KafuuChino1204_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092952913941602485",
+    "in_reply_to_user_id": "1428604449845440520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092948102051418221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KafuuChino1204_ 居然还有这种东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092948094031970305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQulM94bQAEVzBO.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2092948102051418221",
+        "created_at": "2026-08-27T12:30:34.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092952913941602485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1428604449845440520",
+              "start": 0,
+              "username": "KafuuChino1204_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092952913941602485",
+        "in_reply_to_user_id": "1428604449845440520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092948102051418221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KafuuChino1204_ 居然还有这种东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092948094031970305"
+          ]
+        },
+        "author_id": "1428604449845440520",
+        "conversation_id": "2092948102051418221",
+        "created_at": "2026-08-27T12:11:27.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092948102051418221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/07wC17ebSJ",
+              "end": 46,
+              "expanded_url": "https://x.com/KafuuChino1204_/status/2092948102051418221/photo/1",
+              "media_key": "3_2092948094031970305",
+              "start": 23,
+              "url": "https://t.co/07wC17ebSJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092948102051418221",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092948094031970305"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "土狗吃得起烧鸟吗🤣🤣🤣绿色的烧鸟吃过吗（并不 https://t.co/07wC17ebSJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2092952913941602485",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 291,
+          "like_count": 36840,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 8153
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-20T06:27:46.000Z",
+        "description": "08-she/her-shtwt-查主页/眼熟回fo-互fo可以来DM我！-注销不是死了是被熟人发现了-无能狂吠",
+        "id": "1428604449845440520",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2092948102051418221",
+        "name": "椛椛椛椛椛椛㭤",
+        "pinned_tweet_id": "2089001473405563356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1428604449845440520/1690811142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965790302641221632/ire85tod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 495,
+          "like_count": 2822,
+          "listed_count": 0,
+          "media_count": 327,
+          "tweet_count": 3218
+        },
+        "url": "",
+        "username": "KafuuChino1204_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

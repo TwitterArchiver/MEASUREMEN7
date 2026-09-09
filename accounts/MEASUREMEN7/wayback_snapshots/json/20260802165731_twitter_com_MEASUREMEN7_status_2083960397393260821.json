@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2083907249010012322",
+    "created_at": "2026-08-02T16:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083960397393260821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1493016356182056961",
+          "start": 0,
+          "username": "Mintink3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083960397393260821",
+    "in_reply_to_user_id": "1493016356182056961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083907249010012322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintink3 看着就感觉好痒啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2083907249010012322",
+        "created_at": "2026-08-02T16:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083960397393260821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083960397393260821",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083907249010012322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 看着就感觉好痒啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2083907249010012322",
+        "created_at": "2026-08-02T13:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083907249010012322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mintink3/statu…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/mintink3/status/2083884445170585711",
+              "start": 129,
+              "url": "https://t.co/G7BF4Higq4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083907249010012322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 414,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083884445170585711",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "医生说我是晒太阳晒过敏的😂\n我三点不涂防晒跑出去骑行一小时\n然后就开始很痒起疹子 脸也痒 脸都晒红了\n医生说我免疫力低 长期不晒太阳 突然晒太阳又出汗过敏了  还有点胆碱性寻麻疹\n我以前在学校跑步也是很痒 我之前一直以为是我校服过敏 之前校医都给我涂炉甘石 https://t.co/G7BF4Higq4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 28,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 5,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 195,
+          "like_count": 28361,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 5657
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 789,
+          "like_count": 5809,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 906
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2084524140724379980",
+    "created_at": "2026-08-04T06:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T07:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084524140724379980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1223407990713114624",
+          "start": 3,
+          "username": "wmtbxsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084524140724379980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084318139148558716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wmtbxsh: 其实我很佩服那些收🚪的，是怎么做到有空回复那么多消息的，有些钱就活该人家赚…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2084524140724379980",
+        "created_at": "2026-08-04T06:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084524140724379980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223407990713114624",
+              "start": 3,
+              "username": "wmtbxsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084524140724379980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084318139148558716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wmtbxsh: 其实我很佩服那些收🚪的，是怎么做到有空回复那么多消息的，有些钱就活该人家赚…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223407990713114624",
+        "conversation_id": "2084318139148558716",
+        "created_at": "2026-08-03T16:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084318139148558716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084318139148558716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 22947,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 106,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实我很佩服那些收🚪的，是怎么做到有空回复那么多消息的，有些钱就活该人家赚…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 206,
+          "like_count": 28700,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 5741
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T00:49:51.000Z",
+        "description": "我只想安静发疯💢｜碎碎念@wjtbxsh｜推广自辨❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "wjtbxsh"
+              }
+            ]
+          }
+        },
+        "id": "1223407990713114624",
+        "location": "0.52km",
+        "name": "我明天不想说话（实习发疯版）",
+        "pinned_tweet_id": "2083874638829178904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012531606020390912/jU4-9qGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60918,
+          "following_count": 527,
+          "like_count": 5782,
+          "listed_count": 128,
+          "media_count": 646,
+          "tweet_count": 2794
+        },
+        "url": "",
+        "username": "wmtbxsh",
+        "verified": true
+      }
+    ]
+  }
+}

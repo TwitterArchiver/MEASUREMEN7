@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086837551495864413",
+    "created_at": "2026-08-10T16:10:55.000Z",
+    "display_text_range": [
+      11,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T17:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086847773375336667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957798707333939201",
+          "start": 0,
+          "username": "raku06618"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086847773375336667",
+    "in_reply_to_user_id": "1957798707333939201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086837551495864413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raku06618 感觉是被x压缩画质了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28865,
+        "height": 1280,
+        "media_key": "13_2086837142865711104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086837142865711104/img/y-MdwJpPAByUgmbt.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086837142865711104/vid/avc1/320x568/REhDGjEzoqUlYKQk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086837142865711104/vid/avc1/480x852/ZWuyMxXlPAisvUop.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086837142865711104/vid/avc1/720x1280/p8hJXVwlosX_d5n6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086837142865711104/pl/Y-RIH4vpuiyxh2RN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086837551495864413",
+        "created_at": "2026-08-10T16:10:55.000Z",
+        "display_text_range": [
+          11,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086847773375336667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957798707333939201",
+              "start": 0,
+              "username": "raku06618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086847773375336667",
+        "in_reply_to_user_id": "1957798707333939201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086837551495864413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raku06618 感觉是被x压缩画质了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086837142865711104"
+          ]
+        },
+        "author_id": "1957798707333939201",
+        "conversation_id": "2086837551495864413",
+        "created_at": "2026-08-10T15:30:18.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086837551495864413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aDzz9Kelmx",
+              "end": 37,
+              "expanded_url": "https://x.com/raku06618/status/2086837551495864413/video/1",
+              "media_key": "13_2086837142865711104",
+              "start": 14,
+              "url": "https://t.co/aDzz9Kelmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086837551495864413",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "13_2086837142865711104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ʚ̴̶̷̆ ̯ ʚ̴̶̷̆ https://t.co/aDzz9Kelmx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086847773375336667",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 231,
+          "like_count": 30305,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 6297
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-19T13:36:41.000Z",
+        "description": "你的歌声里",
+        "id": "1957798707333939201",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086837774825725962",
+        "name": "花里楽",
+        "pinned_tweet_id": "2065719184890462380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957798707333939201/1764899103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022738232379871232/4j--UxvM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 32,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 246
+        },
+        "url": "",
+        "username": "raku06618",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

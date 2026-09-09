@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090101095343542556",
+    "created_at": "2026-08-19T15:38:27.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T16:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090101095343542556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/crybabyhg/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/crybabyhg/status/2089735805975576819",
+          "start": 17,
+          "url": "https://t.co/3wWopYrXgh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090101095343542556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089735805975576819",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要怎么做可以这样呢，沙耶真的很棒 https://t.co/3wWopYrXgh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_2089735796764938240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQA7oqCXkAAw4_g.jpg",
+        "width": 2097
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090101095343542556",
+        "created_at": "2026-08-19T15:38:27.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090101095343542556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/crybabyhg/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/crybabyhg/status/2089735805975576819",
+              "start": 17,
+              "url": "https://t.co/3wWopYrXgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090101095343542556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089735805975576819",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要怎么做可以这样呢，沙耶真的很棒 https://t.co/3wWopYrXgh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089735796764938240"
+          ]
+        },
+        "author_id": "1707493614241075200",
+        "conversation_id": "2089735805975576819",
+        "created_at": "2026-08-18T15:26:56.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089735805975576819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YRDffAq4Qi",
+              "end": 23,
+              "expanded_url": "https://x.com/crybabyHG/status/2089735805975576819/photo/1",
+              "media_key": "3_2089735796764938240",
+              "start": 0,
+              "url": "https://t.co/YRDffAq4Qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089735805975576819",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089735796764938240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2028,
+          "impression_count": 188069,
+          "like_count": 13919,
+          "quote_count": 85,
+          "reply_count": 32,
+          "retweet_count": 1711
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YRDffAq4Qi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090101095343542556",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 277,
+          "like_count": 34269,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 7498
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-28T20:33:17.000Z",
+        "description": "archive",
+        "id": "1707493614241075200",
+        "is_identity_verified": false,
+        "location": "🇴🇲🇧🇭",
+        "most_recent_tweet_id": "2090088531394003411",
+        "name": "مؤسس البوصلة الأخلاقية",
+        "pinned_tweet_id": "2089735805975576819",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707493614241075200/1784298039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089297402276745216/EOuruaR-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 96,
+          "like_count": 27724,
+          "listed_count": 0,
+          "media_count": 1284,
+          "tweet_count": 10917
+        },
+        "url": "",
+        "username": "crybabyHG",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

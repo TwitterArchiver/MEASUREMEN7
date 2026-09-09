@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090623932890218714",
+    "created_at": "2026-08-21T02:16:02.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T03:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090623932890218714"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shennainai666/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/shennainai666/status/2090621626484469918",
+          "start": 3,
+          "url": "https://t.co/Ga0WNrcd32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090623932890218714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090621626484469918",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哭哭 https://t.co/Ga0WNrcd32"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2090621615612796928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNhSGZaoAAHxpP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090623932890218714",
+        "created_at": "2026-08-21T02:16:02.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090623932890218714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shennainai666/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/shennainai666/status/2090621626484469918",
+              "start": 3,
+              "url": "https://t.co/Ga0WNrcd32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090623932890218714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090621626484469918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哭哭 https://t.co/Ga0WNrcd32"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090621615612796928"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2090621626484469918",
+        "created_at": "2026-08-21T02:06:52.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090621626484469918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOj8ofLyK6",
+              "end": 23,
+              "expanded_url": "https://x.com/shennainai666/status/2090621626484469918/photo/1",
+              "media_key": "3_2090621615612796928",
+              "start": 0,
+              "url": "https://t.co/KOj8ofLyK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090621626484469918",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090621615612796928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KOj8ofLyK6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090623932890218714",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 287,
+          "like_count": 34845,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 7672
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "进群私",
+        "id": "2010357366466990080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090621842377838865",
+        "name": "河南之神",
+        "pinned_tweet_id": "2088955373269270873",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010357366466990080/1769655313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4944,
+          "following_count": 785,
+          "like_count": 1256,
+          "listed_count": 2,
+          "media_count": 528,
+          "tweet_count": 4192
+        },
+        "url": "",
+        "username": "shennainai666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

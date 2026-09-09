@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2089985526745153602",
+    "created_at": "2026-08-19T10:17:07.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T11:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090020226343784451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1899976477396918272",
+          "start": 0,
+          "username": "Qiniansea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090020226343784451",
+    "in_reply_to_user_id": "1899976477396918272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090020165723537780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiniansea 是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2089985526745153602",
+        "created_at": "2026-08-19T10:17:07.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090020226343784451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1899976477396918272",
+              "start": 0,
+              "username": "Qiniansea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090020226343784451",
+        "in_reply_to_user_id": "1899976477396918272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090020165723537780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiniansea 是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899976477396918272",
+        "conversation_id": "2089985526745153602",
+        "created_at": "2026-08-19T10:16:52.000Z",
+        "display_text_range": [
+          13,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090020165723537780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090020165723537780",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089985526745153602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 柠檬车露吗 我超级喜欢她家的柠檬味！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090020226343784451",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 275,
+          "like_count": 34066,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 7439
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-13T00:11:42.000Z",
+        "description": "能看到你穿下个季节的衣服就好｜匿名提问https://t.co/u88wDW50hU\n备用号@hopehxjirk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "hopehxjirk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/qiniansea1",
+                "end": 42,
+                "expanded_url": "https://ngl.link/qiniansea1",
+                "start": 19,
+                "url": "https://t.co/u88wDW50hU"
+              }
+            ]
+          }
+        },
+        "id": "1899976477396918272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090020165723537780",
+        "name": "萌狗痣",
+        "pinned_tweet_id": "2085738242339738037",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1899976477396918272/1786691672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162289392451584/LK85lS4s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 124,
+          "like_count": 37116,
+          "listed_count": 0,
+          "media_count": 498,
+          "tweet_count": 7766
+        },
+        "url": "",
+        "username": "Qiniansea",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

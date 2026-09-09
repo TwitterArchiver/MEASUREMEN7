@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092905314941378560",
+        "3_2092905314962288641"
+      ],
+      "media_source_tweet_id": [
+        "2092905321027281046",
+        "2092905321027281046"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092991372857086331",
+    "created_at": "2026-08-27T15:03:23.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T16:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092991372857086331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1241252086450290690",
+          "start": 3,
+          "username": "scd_6260"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CiMRYS5OhG",
+          "end": 61,
+          "expanded_url": "https://x.com/ohayoumiku06/status/2092905321027281046/photo/1",
+          "media_key": "3_2092905314941378560",
+          "start": 38,
+          "url": "https://t.co/CiMRYS5OhG"
+        },
+        {
+          "display_url": "pic.x.com/CiMRYS5OhG",
+          "end": 61,
+          "expanded_url": "https://x.com/ohayoumiku06/status/2092905321027281046/photo/1",
+          "media_key": "3_2092905314962288641",
+          "start": 38,
+          "url": "https://t.co/CiMRYS5OhG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092991372857086331",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092905314941378560"
+      },
+      {
+        "media_key": "3_2092905314962288641"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1083
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092905321027281046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @scd_6260: 君の新曲はもう聴けない。\nアンコールなんてない https://t.co/CiMRYS5OhG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092905314941378560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQt-S5WboAAhpj2.jpg",
+        "width": 1464
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092905314962288641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQt-S5basAE3vE8.jpg",
+        "width": 1464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092905314941378560",
+            "3_2092905314962288641"
+          ],
+          "media_source_tweet_id": [
+            "2092905321027281046",
+            "2092905321027281046"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092991372857086331",
+        "created_at": "2026-08-27T15:03:23.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092991372857086331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1241252086450290690",
+              "start": 3,
+              "username": "scd_6260"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CiMRYS5OhG",
+              "end": 61,
+              "expanded_url": "https://x.com/ohayoumiku06/status/2092905321027281046/photo/1",
+              "media_key": "3_2092905314941378560",
+              "start": 38,
+              "url": "https://t.co/CiMRYS5OhG"
+            },
+            {
+              "display_url": "pic.x.com/CiMRYS5OhG",
+              "end": 61,
+              "expanded_url": "https://x.com/ohayoumiku06/status/2092905321027281046/photo/1",
+              "media_key": "3_2092905314962288641",
+              "start": 38,
+              "url": "https://t.co/CiMRYS5OhG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092991372857086331",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092905314941378560"
+          },
+          {
+            "media_key": "3_2092905314962288641"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1083
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092905321027281046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @scd_6260: 君の新曲はもう聴けない。\nアンコールなんてない https://t.co/CiMRYS5OhG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092905314941378560",
+            "3_2092905314962288641"
+          ]
+        },
+        "author_id": "1241252086450290690",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092905321027281046",
+        "created_at": "2026-08-27T09:21:27.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092905321027281046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CiMRYS5OhG",
+              "end": 47,
+              "expanded_url": "https://x.com/ohayoumiku06/status/2092905321027281046/photo/1",
+              "media_key": "3_2092905314941378560",
+              "start": 24,
+              "url": "https://t.co/CiMRYS5OhG"
+            },
+            {
+              "display_url": "pic.x.com/CiMRYS5OhG",
+              "end": 47,
+              "expanded_url": "https://x.com/ohayoumiku06/status/2092905321027281046/photo/1",
+              "media_key": "3_2092905314962288641",
+              "start": 24,
+              "url": "https://t.co/CiMRYS5OhG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092905321027281046",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092905314941378560"
+          },
+          {
+            "media_key": "3_2092905314962288641"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3388,
+          "impression_count": 2115909,
+          "like_count": 31313,
+          "quote_count": 101,
+          "reply_count": 18,
+          "retweet_count": 1079
+        },
+        "reply_settings": "following",
+        "text": "君の新曲はもう聴けない。\nアンコールなんてない https://t.co/CiMRYS5OhG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2092991372857086331",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 292,
+          "like_count": 36887,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 8168
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-21T06:35:40.000Z",
+        "description": "ぼくがいきるためのうた 。絵も描く\nscd6260@gmail.com",
+        "id": "1241252086450290690",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092972365324120468",
+        "name": "吸う彩度",
+        "pinned_tweet_id": "2034555543415886092",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1241252086450290690/1787822721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092904829379350528/Swzpusdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23797,
+          "following_count": 214,
+          "like_count": 17381,
+          "listed_count": 86,
+          "media_count": 205,
+          "tweet_count": 1819
+        },
+        "url": "",
+        "username": "scd_6260",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

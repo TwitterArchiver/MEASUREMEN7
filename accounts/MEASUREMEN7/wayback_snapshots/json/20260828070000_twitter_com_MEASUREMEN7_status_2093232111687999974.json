@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2093218357785104839",
+    "created_at": "2026-08-28T07:00:00.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T08:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093232111687999974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1998714164706160643",
+          "start": 0,
+          "username": "Dmoka_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093232111687999974",
+    "in_reply_to_user_id": "1998714164706160643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093218357785104839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dmoka_T 好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1055,
+        "media_key": "3_2093218350847668224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQya_--asAAEktd.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2093218357785104839",
+        "created_at": "2026-08-28T07:00:00.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T08:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093232111687999974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1998714164706160643",
+              "start": 0,
+              "username": "Dmoka_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093232111687999974",
+        "in_reply_to_user_id": "1998714164706160643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093218357785104839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dmoka_T 好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093218350847668224"
+          ]
+        },
+        "author_id": "1998714164706160643",
+        "conversation_id": "2093218357785104839",
+        "created_at": "2026-08-28T06:05:21.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T07:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093218357785104839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LNSS2GZYT",
+              "end": 32,
+              "expanded_url": "https://x.com/Dmoka_T/status/2093218357785104839/photo/1",
+              "media_key": "3_2093218350847668224",
+              "start": 9,
+              "url": "https://t.co/9LNSS2GZYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093218357785104839",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093218350847668224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 47,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新买的外套很那个 https://t.co/9LNSS2GZYT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2093232111687999974",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 293,
+          "like_count": 37040,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 8203
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-10T11:19:33.000Z",
+        "description": "日常账号\n\n07年，可以叫我小东。我喜欢和可爱的人交朋友，很高兴认识你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moka92338",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moka92338",
+                "start": 0,
+                "url": "https://t.co/hKJMCDDXgB"
+              }
+            ]
+          }
+        },
+        "id": "1998714164706160643",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093225894047531013",
+        "name": "極東花嫁",
+        "pinned_tweet_id": "2069116612859527509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998714164706160643/1765369633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731144255152129/NyS7wDA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 58,
+          "like_count": 1176,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 274
+        },
+        "url": "https://t.co/hKJMCDDXgB",
+        "username": "Dmoka_T",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

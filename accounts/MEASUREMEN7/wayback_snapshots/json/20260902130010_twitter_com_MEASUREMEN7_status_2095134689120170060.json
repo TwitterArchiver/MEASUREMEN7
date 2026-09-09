@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2095125064350110133",
+    "created_at": "2026-09-02T13:00:10.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T14:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095134689120170060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2087442774945943552",
+          "start": 0,
+          "username": "felicemay13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095134689120170060",
+    "in_reply_to_user_id": "2087442774945943552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095125064350110133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@felicemay13 嚼嚼嚼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2095124924163911680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNhBKDbcAA_Gem.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2095124924134547456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNhBJ8bYAAfm08.jpg",
+        "width": 576
+      },
+      {
+        "duration_ms": 9600,
+        "height": 1280,
+        "media_key": "13_2095124924155490304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095124924155490304/img/f5FquMGvqGgG4XuH.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095124924155490304/vid/avc1/320x568/3COkMZ4KpE3NgRmF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095124924155490304/vid/avc1/480x852/RXKyUNmMl1i63-35.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095124924155490304/vid/avc1/720x1280/cviAPXlVfmV0aH_3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095124924155490304/pl/YjS7yDoRHucH_vDq.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2095125064350110133",
+        "created_at": "2026-09-02T13:00:10.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095134689120170060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2087442774945943552",
+              "start": 0,
+              "username": "felicemay13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095134689120170060",
+        "in_reply_to_user_id": "2087442774945943552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095125064350110133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@felicemay13 嚼嚼嚼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095124924163911680",
+            "3_2095124924134547456",
+            "13_2095124924155490304"
+          ]
+        },
+        "author_id": "2087442774945943552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095125064350110133",
+        "created_at": "2026-09-02T12:21:55.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095125064350110133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1jZFWPpPcT",
+              "end": 27,
+              "expanded_url": "https://x.com/felicemay13/status/2095125064350110133/video/1",
+              "media_key": "3_2095124924163911680",
+              "start": 4,
+              "url": "https://t.co/1jZFWPpPcT"
+            },
+            {
+              "display_url": "pic.x.com/1jZFWPpPcT",
+              "end": 27,
+              "expanded_url": "https://x.com/felicemay13/status/2095125064350110133/video/1",
+              "media_key": "3_2095124924134547456",
+              "start": 4,
+              "url": "https://t.co/1jZFWPpPcT"
+            },
+            {
+              "display_url": "pic.x.com/1jZFWPpPcT",
+              "end": 27,
+              "expanded_url": "https://x.com/felicemay13/status/2095125064350110133/video/1",
+              "media_key": "13_2095124924155490304",
+              "start": 4,
+              "url": "https://t.co/1jZFWPpPcT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095125064350110133",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095124924163911680"
+          },
+          {
+            "media_key": "3_2095124924134547456"
+          },
+          {
+            "media_key": "13_2095124924155490304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嚼嚼嚼 https://t.co/1jZFWPpPcT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2095134689120170060",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 290,
+          "like_count": 38647,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 8483
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T07:35:56.000Z",
+        "description": "我还是会到处嚼嚼嚼 最喜欢的是🥟\n这里还是绘里felice\n贝斯…………..我要玩音乐 我要弹贝斯！\n无聊就请私信我吧！有空我会回的！\n@felicekiki49513申诉中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 68,
+                "username": "felicekiki49513"
+              }
+            ]
+          }
+        },
+        "id": "2087442774945943552",
+        "is_identity_verified": false,
+        "location": "嚼嚼嚼",
+        "most_recent_tweet_id": "2095125064350110133",
+        "name": "felice",
+        "pinned_tweet_id": "2094014667396153743",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087442774945943552/1786540877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087537668322418688/7NuqC2bH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 34,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "felicemay13",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

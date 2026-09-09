@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090130038649950469",
+    "created_at": "2026-08-20T06:53:54.000Z",
+    "display_text_range": [
+      16,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T07:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090331472742019379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2037900912560160768",
+          "start": 0,
+          "username": "NolanChenDFFF1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090331472742019379",
+    "in_reply_to_user_id": "2037900912560160768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090130038649950469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NolanChenDFFF1 冲什么游戏，拿去买红宝石m9啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090130038649950469",
+        "created_at": "2026-08-20T06:53:54.000Z",
+        "display_text_range": [
+          16,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090331472742019379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2037900912560160768",
+              "start": 0,
+              "username": "NolanChenDFFF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090331472742019379",
+        "in_reply_to_user_id": "2037900912560160768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090130038649950469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NolanChenDFFF1 冲什么游戏，拿去买红宝石m9啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037900912560160768",
+        "conversation_id": "2090130038649950469",
+        "created_at": "2026-08-19T17:33:28.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090130038649950469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090130038649950469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥，那女的回你了吗，她是不是一整天没理你了，要不你把七夕准备的那1314发我吧，我能充俩648，剩下的18还能看牛来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090331472742019379",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 279,
+          "like_count": 34466,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 7568
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T14:33:52.000Z",
+        "description": "CN/EN | professional comment section terrorist\nCS2 • memes • internet nonsense\n中文区乱窜 / occasionally invades English X",
+        "id": "2037900912560160768",
+        "is_identity_verified": false,
+        "location": "天和街",
+        "most_recent_tweet_id": "2090130038649950469",
+        "name": "Astralis的dev1ce本人🇩🇰",
+        "pinned_tweet_id": "2090069833048379859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037900912560160768/1780965433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037900989722755072/Ln3tVRyy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 36,
+          "like_count": 1229,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 695
+        },
+        "url": "",
+        "username": "NolanChenDFFF1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

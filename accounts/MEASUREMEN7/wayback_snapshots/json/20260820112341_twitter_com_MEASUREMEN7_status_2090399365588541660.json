@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2090393195259810297",
+    "created_at": "2026-08-20T11:23:41.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T12:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090399365588541660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887467599287754755",
+          "start": 0,
+          "username": "with_WhiT3Rose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090399365588541660",
+    "in_reply_to_user_id": "1887467599287754755",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090393195259810297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@with_WhiT3Rose 感受！我的痛苦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_2090393185973633024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKRhvrbAAAx6ss.jpg",
+        "width": 2712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2090393195259810297",
+        "created_at": "2026-08-20T11:23:41.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090399365588541660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887467599287754755",
+              "start": 0,
+              "username": "with_WhiT3Rose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090399365588541660",
+        "in_reply_to_user_id": "1887467599287754755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090393195259810297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@with_WhiT3Rose 感受！我的痛苦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090393185973633024"
+          ]
+        },
+        "author_id": "1887467599287754755",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "2090393195259810297",
+        "created_at": "2026-08-20T10:59:10.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T11:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090393195259810297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wbKYzdZ4ZP",
+              "end": 154,
+              "expanded_url": "https://x.com/with_WhiT3Rose/status/2090393195259810297/photo/1",
+              "media_key": "3_2090393185973633024",
+              "start": 131,
+              "url": "https://t.co/wbKYzdZ4ZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090393195259810297",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090393185973633024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久不见你在干嘛呢，这么久了，我还是忘不掉你，你能和我复合吗？求求你了，想了好久，今天鼓起勇气给你发这个短信，我们和好吧，我做不到不打扰你，也做不到不想你，失去你之后，我才体会到撕心裂肺的滋味，如果未来没有了你，还有什么意义呢。是兄弟就来王者荣耀和我一起战斗！ https://t.co/wbKYzdZ4ZP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2090399365588541660",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 284,
+          "like_count": 34590,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 7611
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T11:45:28.000Z",
+        "description": "天荒地老流连在摩天轮",
+        "id": "1887467599287754755",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090393195259810297",
+        "name": "uuuuuv3",
+        "pinned_tweet_id": "2081952312441098328",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887467599287754755/1760720458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088857024004272128/d6HDReNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 471,
+          "like_count": 34018,
+          "listed_count": 1,
+          "media_count": 636,
+          "tweet_count": 4442
+        },
+        "url": "",
+        "username": "with_WhiT3Rose",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

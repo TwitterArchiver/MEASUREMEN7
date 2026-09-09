@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2093292553689006306",
+    "created_at": "2026-08-28T11:13:49.000Z",
+    "display_text_range": [
+      21,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T12:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093295988345835631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1707942291065733120",
+          "start": 0,
+          "username": "Ayanami759638"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093295988345835631",
+    "in_reply_to_user_id": "1707942291065733120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093294423350071704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami759638 @grok 气笑了，别人不是蓝v也给图"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2093292553689006306",
+        "created_at": "2026-08-28T11:13:49.000Z",
+        "display_text_range": [
+          21,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093295988345835631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707942291065733120",
+              "start": 0,
+              "username": "Ayanami759638"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093295988345835631",
+        "in_reply_to_user_id": "1707942291065733120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093294423350071704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami759638 @grok 气笑了，别人不是蓝v也给图"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707942291065733120",
+        "conversation_id": "2093292553689006306",
+        "created_at": "2026-08-28T11:07:36.000Z",
+        "display_text_range": [
+          19,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093294423350071704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            },
+            {
+              "end": 18,
+              "id": "1720665183188922368",
+              "start": 13,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093294423350071704",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093293177432367149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 @grok 这是另外的价钱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2093295988345835631",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 287,
+          "like_count": 37147,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 8219
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-30T02:16:02.000Z",
+        "description": "🐣16年/男女混血跨女男混血/135cm/531kg/ip🏠/傻子座/infp敏感破碎小蝴蝶/回避型+焦虑型+引导型+依恋型",
+        "id": "1707942291065733120",
+        "is_identity_verified": false,
+        "location": "your heart",
+        "most_recent_tweet_id": "2093295872498872673",
+        "name": "Ayanami",
+        "pinned_tweet_id": "2088923295106187503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707942291065733120/1786350443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092659056347344896/jv6k_x71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 56,
+          "like_count": 6247,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1249
+        },
+        "url": "",
+        "username": "Ayanami759638",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093296002568515847",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9011477,
+          "following_count": 5,
+          "like_count": 135,
+          "listed_count": 7464,
+          "media_count": 9312890,
+          "tweet_count": 137756420
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

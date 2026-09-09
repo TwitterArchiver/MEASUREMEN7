@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087175351369957376"
+      ],
+      "media_source_tweet_id": [
+        "2087175361125888505"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087375781907550244",
+    "created_at": "2026-08-12T03:09:02.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T04:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087375781907550244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1860970079246303232",
+          "start": 3,
+          "username": "1ju3twant2die"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NQ4ewYS1TD",
+          "end": 46,
+          "expanded_url": "https://x.com/1ju3twant2die/status/2087175361125888505/photo/1",
+          "media_key": "3_2087175351369957376",
+          "start": 23,
+          "url": "https://t.co/NQ4ewYS1TD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087375781907550244",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087175351369957376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087175361125888505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1ju3twant2die: 我智力 https://t.co/NQ4ewYS1TD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 463,
+        "media_key": "3_2087175351369957376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPci7HpbgAAm8vA.jpg",
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087175351369957376"
+          ]
+        },
+        "author_id": "1860970079246303232",
+        "conversation_id": "2087175361125888505",
+        "created_at": "2026-08-11T13:52:38.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087175361125888505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQ4ewYS1TD",
+              "end": 27,
+              "expanded_url": "https://x.com/1ju3twant2die/status/2087175361125888505/photo/1",
+              "media_key": "3_2087175351369957376",
+              "start": 4,
+              "url": "https://t.co/NQ4ewYS1TD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087175361125888505",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087175351369957376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我智力 https://t.co/NQ4ewYS1TD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087175351369957376"
+          ],
+          "media_source_tweet_id": [
+            "2087175361125888505"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087375781907550244",
+        "created_at": "2026-08-12T03:09:02.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T04:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087375781907550244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1860970079246303232",
+              "start": 3,
+              "username": "1ju3twant2die"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQ4ewYS1TD",
+              "end": 46,
+              "expanded_url": "https://x.com/1ju3twant2die/status/2087175361125888505/photo/1",
+              "media_key": "3_2087175351369957376",
+              "start": 23,
+              "url": "https://t.co/NQ4ewYS1TD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087375781907550244",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087175351369957376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087175361125888505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1ju3twant2die: 我智力 https://t.co/NQ4ewYS1TD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087375781907550244",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 243,
+          "like_count": 30818,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 6458
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-25T08:53:51.000Z",
+        "description": "Post-structuralism｜Anarcho-monarchism｜Psychoanalysis｜Drug｜ Low-Functioning Antisocial Personality Disorder｜Satanism",
+        "id": "1860970079246303232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087266960816111769",
+        "name": "RichardRamirezi ⛧",
+        "pinned_tweet_id": "2079788052814450690",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860970079246303232/1781337837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085806057444851712/00XK42OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 138,
+          "like_count": 717,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 639
+        },
+        "url": "",
+        "username": "1ju3twant2die",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2085742430423511444",
+    "created_at": "2026-08-07T15:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085743594628063333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2077517932532527104",
+          "start": 0,
+          "username": "_zz_h_dd_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085743594628063333",
+    "in_reply_to_user_id": "2077517932532527104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085742430423511444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_zz_h_dd_ 把蚊子嘴拔了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2085742430423511444",
+        "created_at": "2026-08-07T15:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085743594628063333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2077517932532527104",
+              "start": 0,
+              "username": "_zz_h_dd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085743594628063333",
+        "in_reply_to_user_id": "2077517932532527104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085742430423511444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_zz_h_dd_ 把蚊子嘴拔了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077517932532527104",
+        "conversation_id": "2085742430423511444",
+        "created_at": "2026-08-07T14:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085742430423511444"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085742430423511444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有个傻逼死蚊子在我屁股上咬了个包"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 210,
+          "like_count": 29779,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 6022
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n互fo请私信\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "location": "心の中",
+        "name": "スーユウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 128,
+          "like_count": 989,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false
+      }
+    ]
+  }
+}

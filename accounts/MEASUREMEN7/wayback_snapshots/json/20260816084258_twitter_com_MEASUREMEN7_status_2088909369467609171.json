@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088903212988596447",
+    "created_at": "2026-08-16T08:42:58.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T09:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088909369467609171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2072325192446328832",
+          "start": 0,
+          "username": "Aru_so_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088909369467609171",
+    "in_reply_to_user_id": "2072325192446328832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088903212988596447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aru_so_ すごい"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_2088903207879835648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1GZmvaAAAAOr7.jpg",
+        "width": 515
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088903212988596447",
+        "created_at": "2026-08-16T08:42:58.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088909369467609171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2072325192446328832",
+              "start": 0,
+              "username": "Aru_so_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088909369467609171",
+        "in_reply_to_user_id": "2072325192446328832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088903212988596447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aru_so_ すごい"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088903207879835648"
+          ]
+        },
+        "author_id": "2072325192446328832",
+        "conversation_id": "2088903212988596447",
+        "created_at": "2026-08-16T08:18:30.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088903212988596447"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 41,
+              "tag": "コンカフェ"
+            },
+            {
+              "end": 56,
+              "start": 48,
+              "tag": "コンカフェ大阪"
+            },
+            {
+              "end": 65,
+              "start": 57,
+              "tag": "コンカフェ難波"
+            },
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "シーシャ"
+            },
+            {
+              "end": 82,
+              "start": 72,
+              "tag": "サキュバスシーシャ"
+            },
+            {
+              "end": 91,
+              "start": 83,
+              "tag": "コンカフェ求人"
+            },
+            {
+              "end": 100,
+              "start": 92,
+              "tag": "コンカフェ募集"
+            },
+            {
+              "end": 107,
+              "start": 101,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lT7dbfMFKp",
+              "end": 131,
+              "expanded_url": "https://x.com/Aru_so_/status/2088903212988596447/photo/1",
+              "media_key": "3_2088903207879835648",
+              "start": 108,
+              "url": "https://t.co/lT7dbfMFKp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088903212988596447",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088903207879835648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 75,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "VIPER降臨\n\n17-23でいます\nイベントラストです&gt; ̫&lt;♩\n\n#コンカフェ #コンカフェ大阪　#コンカフェ難波　#シーシャ #サキュバスシーシャ #コンカフェ求人 #コンカフェ募集 #自撮り界隈 https://t.co/lT7dbfMFKp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088909369467609171",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 249,
+          "like_count": 32312,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 6885
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-01T14:25:50.000Z",
+        "description": "よくいる▶︎ @shinsaibashi_so \nたまに▶︎ @succubus_Viper @Succubus_Osaka \nにいる🔰新人サキュバスㄘｬん🍼ほぼニーハイ履いてます\nあるは急性アルコール中毒のあるฅ⸃⸃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "shinsaibashi_so"
+              },
+              {
+                "end": 46,
+                "start": 31,
+                "username": "succubus_Viper"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "Succubus_Osaka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/aru__so_?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/aru__so_?igsh=MTQ3MDJvbzZocDE2Zw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/K3IHY2yGIK"
+              }
+            ]
+          }
+        },
+        "id": "2072325192446328832",
+        "is_identity_verified": false,
+        "location": "電脳ゴールド㌠",
+        "most_recent_tweet_id": "2088903212988596447",
+        "name": "ある@電脳サキュバスシーシャ⚡️",
+        "pinned_tweet_id": "2088641501358436501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072325192446328832/1786000241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087109028476579840/LFo2b390_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 72,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/K3IHY2yGIK",
+        "username": "Aru_so_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

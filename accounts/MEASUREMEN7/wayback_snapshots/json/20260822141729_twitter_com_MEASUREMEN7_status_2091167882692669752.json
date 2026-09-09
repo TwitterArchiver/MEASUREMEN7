@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2091149177648791734",
+    "created_at": "2026-08-22T14:17:29.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091167882692669752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1481739605753933830",
+          "start": 0,
+          "username": "manu775783284"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091167882692669752",
+    "in_reply_to_user_id": "1481739605753933830",
+    "lang": "pl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091149177648791734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manu775783284 nienie"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2091149177648791734",
+        "created_at": "2026-08-22T14:17:29.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091167882692669752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1481739605753933830",
+              "start": 0,
+              "username": "manu775783284"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091167882692669752",
+        "in_reply_to_user_id": "1481739605753933830",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091149177648791734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manu775783284 nienie"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481739605753933830",
+        "conversation_id": "2091149177648791734",
+        "created_at": "2026-08-22T13:03:10.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091149177648791734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091149177648791734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好累呀，脚好痛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2091167882692669752",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 289,
+          "like_count": 35469,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 7869
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-13T21:27:29.000Z",
+        "description": "想做一只猫",
+        "id": "1481739605753933830",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2091157203168407769",
+        "name": "饭团",
+        "pinned_tweet_id": "2087925495493275950",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481739605753933830/1785757042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084697084092100608/LMF8KhnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 2,
+          "like_count": 2026,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "manu775783284",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

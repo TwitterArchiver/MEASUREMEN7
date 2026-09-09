@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2097119879648477344",
+    "created_at": "2026-09-08T05:20:16.000Z",
+    "display_text_range": [
+      8,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097193278068359588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1865081933027512324",
+          "start": 0,
+          "username": "HsyhO0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097193278068359588",
+    "in_reply_to_user_id": "1865081933027512324",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097119879648477344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HsyhO0 萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2097119866482491392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRp3aFUagAAZ7nm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2097119879648477344",
+        "created_at": "2026-09-08T05:20:16.000Z",
+        "display_text_range": [
+          8,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097193278068359588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1865081933027512324",
+              "start": 0,
+              "username": "HsyhO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097193278068359588",
+        "in_reply_to_user_id": "1865081933027512324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097119879648477344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HsyhO0 萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097119866482491392"
+          ]
+        },
+        "author_id": "1865081933027512324",
+        "conversation_id": "2097119879648477344",
+        "created_at": "2026-09-08T00:28:36.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T01:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097119879648477344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QACAWxjXyK",
+              "end": 23,
+              "expanded_url": "https://x.com/HsyhO0/status/2097119879648477344/photo/1",
+              "media_key": "3_2097119866482491392",
+              "start": 0,
+              "url": "https://t.co/QACAWxjXyK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097119879648477344",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2097119866482491392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 301,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QACAWxjXyK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2097193278068359588",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 290,
+          "like_count": 39261,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 8658
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-06T17:12:49.000Z",
+        "description": "07/病み垢/双相/精分/分离转换障碍/infj/osdd1b\n🚪50",
+        "id": "1865081933027512324",
+        "is_identity_verified": false,
+        "location": "暗い小さな部屋",
+        "most_recent_tweet_id": "2097119879648477344",
+        "name": "氷室 リリカ",
+        "pinned_tweet_id": "2067268345783857180",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1865081933027512324/1787653290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092195661693468672/m81tbdpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 217,
+          "like_count": 16456,
+          "listed_count": 1,
+          "media_count": 549,
+          "tweet_count": 2137
+        },
+        "url": "",
+        "username": "HsyhO0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

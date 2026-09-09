@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088135304758882519",
+    "created_at": "2026-08-14T06:08:10.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T07:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088145635530956817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1983965341865885696",
+          "start": 0,
+          "username": "zudnefukaos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088145635530956817",
+    "in_reply_to_user_id": "1983965341865885696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088135304758882519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zudnefukaos 我点赞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2088135292184403968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqL_B2boAAbcfj.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088135304758882519",
+        "created_at": "2026-08-14T06:08:10.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088145635530956817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1983965341865885696",
+              "start": 0,
+              "username": "zudnefukaos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088145635530956817",
+        "in_reply_to_user_id": "1983965341865885696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088135304758882519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zudnefukaos 我点赞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088135292184403968"
+          ]
+        },
+        "author_id": "1983965341865885696",
+        "conversation_id": "2088135304758882519",
+        "created_at": "2026-08-14T05:27:06.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088135304758882519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eONVeiaWGg",
+              "end": 30,
+              "expanded_url": "https://x.com/zudnefukaos/status/2088135304758882519/photo/1",
+              "media_key": "3_2088135292184403968",
+              "start": 7,
+              "url": "https://t.co/eONVeiaWGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088135304758882519",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088135292184403968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我饮用柠檬茶 https://t.co/eONVeiaWGg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088145635530956817",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 253,
+          "like_count": 31688,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 6714
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T18:33:01.000Z",
+        "description": "健康快乐成长",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoodiesfighter",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoodiesfighter",
+                "start": 0,
+                "url": "https://t.co/BPA4b2DTYi"
+              }
+            ]
+          }
+        },
+        "id": "1983965341865885696",
+        "is_identity_verified": false,
+        "location": "那里",
+        "most_recent_tweet_id": "2088135304758882519",
+        "name": "k",
+        "pinned_tweet_id": "2087071908890366151",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983965341865885696/1784767348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046428467479330816/abrofo_y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 31,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 340
+        },
+        "url": "https://t.co/BPA4b2DTYi",
+        "username": "zudnefukaos",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

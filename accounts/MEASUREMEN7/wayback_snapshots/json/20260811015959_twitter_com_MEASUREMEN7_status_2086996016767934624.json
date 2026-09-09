@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086996016767934624",
+    "created_at": "2026-08-11T01:59:59.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T02:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086996016767934624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 48,
+          "id": "1720665183188922368",
+          "start": 43,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/fooogfox/statu…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/fooogfox/status/2086915915552374785",
+          "start": 49,
+          "url": "https://t.co/DJmPjTaKg7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086996016767934624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086915915552374785",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "告訴我這個賬號上你最喜歡的帖子\n（注意，我說的是我的賬號，不是我轉帖的這個人的賬號）\n@grok https://t.co/DJmPjTaKg7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086996016767934624",
+        "created_at": "2026-08-11T01:59:59.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086996016767934624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1720665183188922368",
+              "start": 43,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/fooogfox/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/fooogfox/status/2086915915552374785",
+              "start": 49,
+              "url": "https://t.co/DJmPjTaKg7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086996016767934624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086915915552374785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "告訴我這個賬號上你最喜歡的帖子\n（注意，我說的是我的賬號，不是我轉帖的這個人的賬號）\n@grok https://t.co/DJmPjTaKg7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776162571709796352",
+        "conversation_id": "2086915915552374785",
+        "created_at": "2026-08-10T20:41:41.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T21:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086915915552374785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1720665183188922368",
+              "start": 43,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/TenpennyL62429…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/TenpennyL62429/status/2086861660778893412",
+              "start": 49,
+              "url": "https://t.co/rugMUwcKmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086915915552374785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086861660778893412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "告訴我這個賬號上你最喜歡的帖子\n（注意，我說的是我的賬號，不是我轉帖的這個人的賬號）\n@grok https://t.co/rugMUwcKmQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086996016767934624",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 232,
+          "like_count": 30355,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 6308
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086996037990834591",
+        "name": "Grok",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8953302,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7312,
+          "media_count": 9245967,
+          "tweet_count": 135291597
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-05T08:18:58.000Z",
+        "description": "五月生\nftx🏳️‍🌈🏳️‍⚧️\nhttps://t.co/xgC1f8meqx\n请称呼我为：雨原花咲/阿间。\n非典型oder（我不鼓励任何自伤行为，只在原有基础上进行探讨），同类友好，聊天完全欢迎，请和我交朋友ww\n碎碎念和不定期药物感受",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fooogfox",
+                "end": 40,
+                "expanded_url": "https://ngl.link/fooogfox",
+                "start": 17,
+                "url": "https://t.co/xgC1f8meqx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fooooogfox",
+                "end": 23,
+                "expanded_url": "https://t.me/fooooogfox",
+                "start": 0,
+                "url": "https://t.co/rO2rYtJvdt"
+              }
+            ]
+          }
+        },
+        "id": "1776162571709796352",
+        "is_identity_verified": false,
+        "location": "世界",
+        "most_recent_tweet_id": "2086973650620874907",
+        "name": "猫不理茶茶罐头",
+        "pinned_tweet_id": "2085642529572061355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776162571709796352/1786162843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085954969455513600/vrMZ8he4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 366,
+          "like_count": 1977,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/rO2rYtJvdt",
+        "username": "Fooogfox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

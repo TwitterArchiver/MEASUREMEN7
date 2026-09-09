@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2084543929937256877",
+    "created_at": "2026-08-04T08:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084550249461538894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2070105726086000640",
+          "start": 0,
+          "username": "LuoLuo_QwQ_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084550249461538894",
+    "in_reply_to_user_id": "2070105726086000640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084550118225940877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuoLuo_QwQ_ 好可爱的颜文字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2084543929937256877",
+        "created_at": "2026-08-04T08:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084550249461538894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2070105726086000640",
+              "start": 0,
+              "username": "LuoLuo_QwQ_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084550249461538894",
+        "in_reply_to_user_id": "2070105726086000640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084550118225940877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoLuo_QwQ_ 好可爱的颜文字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070105726086000640",
+        "conversation_id": "2084543929937256877",
+        "created_at": "2026-08-04T08:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084550118225940877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084550118225940877",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084549460844314626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 没什么啦！就素情绪有点不太稳定嘿嘿 过会时间就好！谢谢关心！哇咔咔ᕙ(  •̀ ᗜ •́  )ᕗ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 205,
+          "like_count": 28715,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 5748
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-25T11:25:25.000Z",
+        "description": "我只素個上網的人類…补药打探我啦～!!!(𖦹.𖦹)",
+        "id": "2070105726086000640",
+        "name": "無ᔦ ° ꒳ ° ᔨ ̖́-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070106265234391040/migUocOc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 5,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "LuoLuo_QwQ_",
+        "verified": false
+      }
+    ]
+  }
+}

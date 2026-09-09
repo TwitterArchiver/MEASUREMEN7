@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086314771889185238",
+    "created_at": "2026-08-09T05:47:58.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T06:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086328615478927676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1799795163843436544",
+          "start": 0,
+          "username": "doobeetioog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086328615478927676",
+    "in_reply_to_user_id": "1799795163843436544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086318373626056881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doobeetioog 并没有，好多fo都是人机😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086314771889185238",
+        "created_at": "2026-08-09T05:47:58.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086328615478927676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1799795163843436544",
+              "start": 0,
+              "username": "doobeetioog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086328615478927676",
+        "in_reply_to_user_id": "1799795163843436544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086318373626056881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doobeetioog 并没有，好多fo都是人机😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799795163843436544",
+        "conversation_id": "2086314771889185238",
+        "created_at": "2026-08-09T05:07:16.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086318373626056881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086318373626056881",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086314771889185238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 我们衡要火了吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086328615478927676",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 220,
+          "like_count": 29698,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 6125
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "我是小犬，可能是💊⭕也有可能不是的某cos健全逼的ADHDer   \n成分可能有：LLM/精神病学/促智   \n药理/现生社会化小技巧/抑郁焦虑治疗服药经验 可分享讨论，欢迎互fo   \n不吵架不涉现生不涉政不鼓励滥药自杀自残，看我不爽拉黑就好\n友達：@sysjf0 @Cheese_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 126,
+                "username": "sysjf0"
+              },
+              {
+                "end": 150,
+                "start": 134,
+                "username": "Cheese_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086318373626056881",
+        "name": "用户犬9706144444",
+        "pinned_tweet_id": "2078753859598729405",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078752213367930880/_vk9e0Pf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 1032,
+          "like_count": 44397,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 6351
+        },
+        "url": "",
+        "username": "doobeetioog",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

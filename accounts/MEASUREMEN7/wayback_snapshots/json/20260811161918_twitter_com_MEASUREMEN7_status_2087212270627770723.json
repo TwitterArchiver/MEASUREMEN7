@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2087063394432286879",
+    "created_at": "2026-08-11T16:19:18.000Z",
+    "display_text_range": [
+      25,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T17:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087212270627770723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592440703921319938",
+          "start": 0,
+          "username": "yky29742274"
+        },
+        {
+          "end": 24,
+          "id": "1798722691001991168",
+          "start": 13,
+          "username": "zaijianD91"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087212270627770723",
+    "in_reply_to_user_id": "1592440703921319938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087212086439051497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yky29742274 @zaijianD91 我是粥批，这种发言你知道的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2087063394432286879",
+        "created_at": "2026-08-11T16:19:18.000Z",
+        "display_text_range": [
+          25,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087212270627770723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592440703921319938",
+              "start": 0,
+              "username": "yky29742274"
+            },
+            {
+              "end": 24,
+              "id": "1798722691001991168",
+              "start": 13,
+              "username": "zaijianD91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087212270627770723",
+        "in_reply_to_user_id": "1592440703921319938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087212086439051497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yky29742274 @zaijianD91 我是粥批，这种发言你知道的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592440703921319938",
+        "conversation_id": "2087063394432286879",
+        "created_at": "2026-08-11T16:18:34.000Z",
+        "display_text_range": [
+          25,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087212086439051497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1798722691001991168",
+              "start": 0,
+              "username": "zaijianD91"
+            },
+            {
+              "end": 24,
+              "id": "1888239230020661248",
+              "start": 12,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087212086439051497",
+        "in_reply_to_user_id": "1798722691001991168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087171197507170444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaijianD91 @MEASUREMEN7 真有嗎 借我個ew用用"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2087212270627770723",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 243,
+          "like_count": 30737,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 6414
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-15T08:53:58.000Z",
+        "description": "我們只是網友 你把手機摔了我就死了ok?",
+        "id": "1592440703921319938",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087212086439051497",
+        "name": "社底宅女家裡蹲",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592440703921319938/1781914813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068126693324382208/u0YrbeTG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 8,
+          "like_count": 378,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "yky29742274",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-06T14:24:56.000Z",
+        "description": "干嘛",
+        "id": "1798722691001991168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087182565950042134",
+        "name": "没活了",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086675307256266752/mBTlB2nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "zaijianD91",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

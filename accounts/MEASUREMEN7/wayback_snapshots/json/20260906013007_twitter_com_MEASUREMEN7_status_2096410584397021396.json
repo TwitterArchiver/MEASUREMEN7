@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2096320101184413742",
+    "created_at": "2026-09-06T01:30:07.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T02:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096410584397021396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2075630222213558272",
+          "start": 0,
+          "username": "kurabakei2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096410584397021396",
+    "in_reply_to_user_id": "2075630222213558272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096320101184413742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurabakei2 怎么有ai标了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1196,
+        "media_key": "3_2096320096834928640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRegBXNbwAA3Udz.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2096320101184413742",
+        "created_at": "2026-09-06T01:30:07.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096410584397021396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2075630222213558272",
+              "start": 0,
+              "username": "kurabakei2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096410584397021396",
+        "in_reply_to_user_id": "2075630222213558272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096320101184413742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurabakei2 怎么有ai标了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096320096834928640"
+          ]
+        },
+        "author_id": "2075630222213558272",
+        "conversation_id": "2096320101184413742",
+        "created_at": "2026-09-05T19:30:34.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096320101184413742"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "修女"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2IQW3tfoID",
+              "end": 53,
+              "expanded_url": "https://x.com/kurabakei2/status/2096320101184413742/photo/1",
+              "media_key": "3_2096320096834928640",
+              "start": 30,
+              "url": "https://t.co/2IQW3tfoID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096320101184413742",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096320096834928640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高清了一下。\n求過門檻求轉發，我是一個窮窮的小女孩\n#修女 https://t.co/2IQW3tfoID"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2096410584397021396",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 286,
+          "like_count": 38917,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 8560
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T17:18:12.000Z",
+        "description": "前身是@kurabakei\n想要找回前世互關寶寶們",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "kurabakei"
+              }
+            ]
+          }
+        },
+        "id": "2075630222213558272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096320101184413742",
+        "name": "闇葉2.0",
+        "pinned_tweet_id": "2096232161653428394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075630222213558272/1783704772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075632150859403265/DMnbNGyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 61,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "kurabakei2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

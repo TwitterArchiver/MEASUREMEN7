@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2086354497450955250",
+    "created_at": "2026-08-09T08:24:50.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T09:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086368093266391367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1483028560084299776",
+          "start": 0,
+          "username": "AskYU_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086368093266391367",
+    "in_reply_to_user_id": "1483028560084299776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086354497450955250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AskYU_ 没问题！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2086354497450955250",
+        "created_at": "2026-08-09T08:24:50.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086368093266391367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1483028560084299776",
+              "start": 0,
+              "username": "AskYU_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086368093266391367",
+        "in_reply_to_user_id": "1483028560084299776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086354497450955250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AskYU_ 没问题！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1483028560084299776",
+        "conversation_id": "2086354497450955250",
+        "created_at": "2026-08-09T07:30:49.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T08:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086354497450955250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AskYU_/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/AskYU_/status/2086238565399150623",
+              "start": 14,
+              "url": "https://t.co/xctO49V5Zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086354497450955250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086238565399150623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊能帮我转转吗😭🥺🥺😭 https://t.co/xctO49V5Zi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。https://t.co/8PaLzAhM0w我的匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 33,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 10,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2086368093266391367",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 220,
+          "like_count": 29756,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 6150
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-17T10:49:03.000Z",
+        "description": "⩌⌯⩌",
+        "id": "1483028560084299776",
+        "is_identity_verified": false,
+        "location": "我说我不会原谅这个世界👁👁👁",
+        "most_recent_tweet_id": "2086354497450955250",
+        "name": "5101",
+        "pinned_tweet_id": "1725837773863887269",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1483028560084299776/1733890357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719020103059345408/GaA9engd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 66,
+          "like_count": 1108,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 427
+        },
+        "url": "",
+        "username": "AskYU_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

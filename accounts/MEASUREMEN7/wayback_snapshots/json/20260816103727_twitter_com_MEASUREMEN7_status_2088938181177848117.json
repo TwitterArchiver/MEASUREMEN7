@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2088931905144238314",
+    "created_at": "2026-08-16T10:37:27.000Z",
+    "display_text_range": [
+      17,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088938181177848117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2058088045380026368",
+          "start": 0,
+          "username": "qianyunhr"
+        },
+        {
+          "end": 16,
+          "id": "1720665183188922368",
+          "start": 11,
+          "username": "grok"
+        },
+        {
+          "end": 22,
+          "id": "1720665183188922368",
+          "start": 17,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088938181177848117",
+    "in_reply_to_user_id": "2058088045380026368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088931905144238314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianyunhr @grok @grok 不许冷暴力她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2088931905144238314",
+        "created_at": "2026-08-16T10:37:27.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088938181177848117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2058088045380026368",
+              "start": 0,
+              "username": "qianyunhr"
+            },
+            {
+              "end": 16,
+              "id": "1720665183188922368",
+              "start": 11,
+              "username": "grok"
+            },
+            {
+              "end": 22,
+              "id": "1720665183188922368",
+              "start": 17,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088938181177848117",
+        "in_reply_to_user_id": "2058088045380026368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088931905144238314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianyunhr @grok @grok 不许冷暴力她"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058088045380026368",
+        "conversation_id": "2088931905144238314",
+        "created_at": "2026-08-16T10:12:31.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088931905144238314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088931905144238314",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@grok 我到底什么时候才能死"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2088938181177848117",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 249,
+          "like_count": 32356,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 6897
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-23T07:31:46.000Z",
+        "description": "圣殿的漆已经掉了´∀`大家一起当婊子吧！\n這裡是qianyun愆昀 可以叫我千云\n^‥^希望成为有价值的人！\n梦想变成一只小鸡\n🔪/中度抑郁/前oder 致死还是小资历\n莫言 苏童 余华？ 以及荒谬主义者\n努力成为健全逼！嗯\n你很可爱呀！互fo我喜欢的入",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qianyunhr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qianyunhr",
+                "start": 0,
+                "url": "https://t.co/f0D5P8sR64"
+              }
+            ]
+          }
+        },
+        "id": "2058088045380026368",
+        "is_identity_verified": false,
+        "location": "蛋仔岛",
+        "most_recent_tweet_id": "2088937942589014217",
+        "name": "qianyun",
+        "pinned_tweet_id": "2088228222848954484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058088045380026368/1779530062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058088663800811520/EsUZ0HXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 131,
+          "like_count": 1736,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 257
+        },
+        "url": "https://t.co/f0D5P8sR64",
+        "username": "qianyunhr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088938193974431983",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8972083,
+          "following_count": 6,
+          "like_count": 131,
+          "listed_count": 7359,
+          "media_count": 9262243,
+          "tweet_count": 136085975
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}
