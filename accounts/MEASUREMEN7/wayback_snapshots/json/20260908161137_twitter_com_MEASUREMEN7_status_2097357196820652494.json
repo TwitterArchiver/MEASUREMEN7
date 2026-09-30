@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2097343590787932623",
+    "created_at": "2026-09-08T16:11:37.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T17:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097357196820652494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1525445057146286081",
+          "start": 0,
+          "username": "silent_Windows"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097357196820652494",
+    "in_reply_to_user_id": "1525445057146286081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097343590787932623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silent_Windows 可以的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 602,
+        "media_key": "3_2097343583175299073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtC4G8b0AE0YQm.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2097343590787932623",
+        "created_at": "2026-09-08T16:11:37.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097357196820652494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1525445057146286081",
+              "start": 0,
+              "username": "silent_Windows"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097357196820652494",
+        "in_reply_to_user_id": "1525445057146286081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097343590787932623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silent_Windows 可以的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097343583175299073"
+          ]
+        },
+        "author_id": "1525445057146286081",
+        "conversation_id": "2097343590787932623",
+        "created_at": "2026-09-08T15:17:33.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097343590787932623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1ogY1unQj",
+              "end": 27,
+              "expanded_url": "https://x.com/silent_Windows/status/2097343590787932623/photo/1",
+              "media_key": "3_2097343583175299073",
+              "start": 4,
+              "url": "https://t.co/g1ogY1unQj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097343590787932623",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097343583175299073"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对称哦 https://t.co/g1ogY1unQj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2097357196820652494",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 293,
+          "like_count": 39545,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 8706
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-14T11:57:05.000Z",
+        "description": "遇上真选组直接逃跑/叫我小鼠消暑啥都行 我只是一个话痨/互fo我自有人选(ฅ⁍̴̀◊⁍̴́)و ̑̑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/silent_windows",
+                "end": 23,
+                "expanded_url": "https://ngl.link/silent_windows",
+                "start": 0,
+                "url": "https://t.co/B4gQchc93T"
+              }
+            ]
+          }
+        },
+        "id": "1525445057146286081",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097356948845015543",
+        "name": "우",
+        "pinned_tweet_id": "2096504652137451564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1525445057146286081/1771856805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097338306443018240/XRtLeL1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 211,
+          "like_count": 19736,
+          "listed_count": 3,
+          "media_count": 295,
+          "tweet_count": 4744
+        },
+        "url": "https://t.co/B4gQchc93T",
+        "username": "silent_Windows",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

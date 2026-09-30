@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2103328352195235981",
+    "created_at": "2026-09-25T03:38:51.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T04:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103328352195235981"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lobihub/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/lobihub/status/2103128768759947417",
+          "start": 6,
+          "url": "https://t.co/IHzky73PDf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103328352195235981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103128768759947417",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我需要这个 https://t.co/IHzky73PDf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1688,
+        "media_key": "3_2103128762875252736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_Qd4wWEAA0CgG.jpg",
+        "width": 1350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2103328352195235981",
+        "created_at": "2026-09-25T03:38:51.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T04:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103328352195235981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lobihub/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/lobihub/status/2103128768759947417",
+              "start": 6,
+              "url": "https://t.co/IHzky73PDf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103328352195235981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103128768759947417",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我需要这个 https://t.co/IHzky73PDf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103128762875252736"
+          ]
+        },
+        "author_id": "1671905549808533507",
+        "conversation_id": "2103128768759947417",
+        "created_at": "2026-09-24T14:25:47.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T15:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103128768759947417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/do29n8lJaU",
+              "end": 47,
+              "expanded_url": "https://x.com/lobihub/status/2103128768759947417/photo/1",
+              "media_key": "3_2103128762875252736",
+              "start": 24,
+              "url": "https://t.co/do29n8lJaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103128768759947417",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2103128762875252736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 988,
+          "impression_count": 111908,
+          "like_count": 8054,
+          "quote_count": 44,
+          "reply_count": 62,
+          "retweet_count": 641
+        },
+        "reply_settings": "everyone",
+        "text": "Bom dia meus nenês&lt;3 https://t.co/do29n8lJaU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2103328352195235981",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 293,
+          "like_count": 42318,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 9275
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-22T15:39:29.000Z",
+        "description": "27 | Domme villain \nWelcome to my NSFW account  | safe acc: @pj_lobinho\n Throne profile  : https://t.co/UshHQUIuTk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "pj_lobinho"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "throne.com/pj_lobinho",
+                "end": 114,
+                "expanded_url": "https://throne.com/pj_lobinho",
+                "start": 91,
+                "url": "https://t.co/UshHQUIuTk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fansly.com/lobihub",
+                "end": 23,
+                "expanded_url": "https://fansly.com/lobihub",
+                "start": 0,
+                "url": "https://t.co/72vVdDWS3t"
+              }
+            ]
+          }
+        },
+        "id": "1671905549808533507",
+        "is_identity_verified": false,
+        "location": "$end",
+        "most_recent_tweet_id": "2103247002695786766",
+        "name": "Lobihub🔞",
+        "pinned_tweet_id": "2038101686569332912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1671905549808533507/1703902059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093494184816611328/zJzWTKr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 567,
+          "like_count": 2205,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 571
+        },
+        "url": "https://t.co/72vVdDWS3t",
+        "username": "lobihub",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

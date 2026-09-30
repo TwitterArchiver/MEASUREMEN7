@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2102236115633836062",
+    "created_at": "2026-09-22T04:04:24.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T05:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102247617350820196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1838620535804317696",
+          "start": 0,
+          "username": "karmakarma1221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102247617350820196",
+    "in_reply_to_user_id": "1838620535804317696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102236115633836062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karmakarma1221 这个测试会痛吗（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2102236037690908672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSykicSXYAA-jAV.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2102236115633836062",
+        "created_at": "2026-09-22T04:04:24.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T05:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102247617350820196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1838620535804317696",
+              "start": 0,
+              "username": "karmakarma1221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102247617350820196",
+        "in_reply_to_user_id": "1838620535804317696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102236115633836062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karmakarma1221 这个测试会痛吗（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102236037690908672"
+          ]
+        },
+        "author_id": "1838620535804317696",
+        "conversation_id": "2102236115633836062",
+        "created_at": "2026-09-22T03:18:42.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102236115633836062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g2CdbEOhyJ",
+              "end": 38,
+              "expanded_url": "https://x.com/karmakarma1221/status/2102236115633836062/photo/1",
+              "media_key": "3_2102236037690908672",
+              "start": 15,
+              "url": "https://t.co/g2CdbEOhyJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102236115633836062",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102236037690908672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蛞蝓就是非常非常干净的女孩呀 https://t.co/g2CdbEOhyJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2102247617350820196",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 302,
+          "like_count": 42077,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 9222
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-24T16:44:40.000Z",
+        "description": "这是一个存档点 我是蛞蝓 关注蛞蝓喵 关注蛞蝓谢谢喵♪( ´▽｀)\n\n我的提问箱 https://t.co/PXiBB5RMOP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/karmakarma1221",
+                "end": 64,
+                "expanded_url": "https://ngl.link/karmakarma1221",
+                "start": 41,
+                "url": "https://t.co/PXiBB5RMOP"
+              }
+            ]
+          }
+        },
+        "id": "1838620535804317696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102244407772676577",
+        "name": "蛞蝓神膜拜膜拜",
+        "pinned_tweet_id": "2095932363028976113",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1838620535804317696/1790044699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102165969766359040/cOPrTD9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 876,
+          "like_count": 1041,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 3092
+        },
+        "url": "",
+        "username": "karmakarma1221",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

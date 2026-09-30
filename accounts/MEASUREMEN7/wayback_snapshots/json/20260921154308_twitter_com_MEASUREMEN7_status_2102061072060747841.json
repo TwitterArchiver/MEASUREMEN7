@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2102041822218637681",
+    "created_at": "2026-09-21T15:43:08.000Z",
+    "display_text_range": [
+      10,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T16:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102061072060747841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1915431589024325634",
+          "start": 0,
+          "username": "yuumian7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102061072060747841",
+    "in_reply_to_user_id": "1915431589024325634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102041822218637681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuumian7 并没有，有的话只会是标准做题家长相"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2102041822218637681",
+        "created_at": "2026-09-21T15:43:08.000Z",
+        "display_text_range": [
+          10,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102061072060747841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1915431589024325634",
+              "start": 0,
+              "username": "yuumian7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102061072060747841",
+        "in_reply_to_user_id": "1915431589024325634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102041822218637681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuumian7 并没有，有的话只会是标准做题家长相"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915431589024325634",
+        "conversation_id": "2102041822218637681",
+        "created_at": "2026-09-21T14:26:39.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102041822218637681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102041822218637681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯就是完全不手淫的好男孩真的存在吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2102061072060747841",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 306,
+          "like_count": 42063,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 9212
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-24T15:44:31.000Z",
+        "description": "记性不好睡眠也不好的一个入",
+        "id": "1915431589024325634",
+        "is_identity_verified": false,
+        "location": "床",
+        "most_recent_tweet_id": "2102041822218637681",
+        "name": "yuumian",
+        "pinned_tweet_id": "2023353138447778120",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915431589024325634/1770477319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056729348468862976/Bo71s4jK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 458,
+          "like_count": 11376,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1660
+        },
+        "url": "",
+        "username": "yuumian7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

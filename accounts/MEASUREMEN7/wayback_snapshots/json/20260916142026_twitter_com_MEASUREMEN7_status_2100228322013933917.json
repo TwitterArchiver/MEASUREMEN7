@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2100223529669238975",
+    "created_at": "2026-09-16T14:20:26.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T15:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100228322013933917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1744167503746748416",
+          "start": 0,
+          "username": "Aoi_052377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100228322013933917",
+    "in_reply_to_user_id": "1744167503746748416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100223529669238975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aoi_052377 快来！一起玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2100223529669238975",
+        "created_at": "2026-09-16T14:20:26.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100228322013933917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1744167503746748416",
+              "start": 0,
+              "username": "Aoi_052377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100228322013933917",
+        "in_reply_to_user_id": "1744167503746748416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100223529669238975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aoi_052377 快来！一起玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744167503746748416",
+        "conversation_id": "2100223529669238975",
+        "created_at": "2026-09-16T14:01:24.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100223529669238975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100223529669238975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在电脑好贵呀 好想在宿舍打三角洲 难耐😡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2100228322013933917",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 299,
+          "like_count": 41034,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 9005
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-08T01:22:12.000Z",
+        "description": "可以和我交朋友˶╹ꇴ╹˶",
+        "id": "1744167503746748416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100223529669238975",
+        "name": "Aoi",
+        "pinned_tweet_id": "2034960286461915256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1744167503746748416/1763395847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086652031134056448/_TSFj9UB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 15,
+          "like_count": 1571,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 695
+        },
+        "url": "",
+        "username": "Aoi_052377",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

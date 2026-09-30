@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2101897850108183003",
+    "created_at": "2026-09-21T11:06:55.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T12:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101991559898292380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2090749040585846784",
+          "start": 0,
+          "username": "dd_zc_zz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101991559898292380",
+    "in_reply_to_user_id": "2090749040585846784",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101897850108183003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dd_zc_zz TwT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101897838599061504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HStw8qfbwAAZHh9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2101897850108183003",
+        "created_at": "2026-09-21T11:06:55.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T12:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101991559898292380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2090749040585846784",
+              "start": 0,
+              "username": "dd_zc_zz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101991559898292380",
+        "in_reply_to_user_id": "2090749040585846784",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101897850108183003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd_zc_zz TwT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101897838599061504"
+          ]
+        },
+        "author_id": "2090749040585846784",
+        "conversation_id": "2101897850108183003",
+        "created_at": "2026-09-21T04:54:33.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T05:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101897850108183003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pu0990RHhG",
+              "end": 23,
+              "expanded_url": "https://x.com/dd_zc_zz/status/2101897850108183003/photo/1",
+              "media_key": "3_2101897838599061504",
+              "start": 0,
+              "url": "https://t.co/pu0990RHhG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101897850108183003",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2101897838599061504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pu0990RHhG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2101991559898292380",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 304,
+          "like_count": 41995,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 9199
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T10:38:06.000Z",
+        "description": "前世：@_zz_h_dd_\n08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "_zz_h_dd_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/AZ2ngin121"
+              }
+            ]
+          }
+        },
+        "id": "2090749040585846784",
+        "is_identity_verified": false,
+        "location": "心中",
+        "most_recent_tweet_id": "2101977029982003434",
+        "name": "スーユウ（寻回互关",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090749040585846784/1789379227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099434712448290817/3SS-WKuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 130,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/AZ2ngin121",
+        "username": "dd_zc_zz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

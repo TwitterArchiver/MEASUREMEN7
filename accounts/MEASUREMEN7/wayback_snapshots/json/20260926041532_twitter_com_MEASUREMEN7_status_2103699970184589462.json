@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2103502805122335140",
+    "created_at": "2026-09-26T04:15:32.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T05:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103699970184589462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1870858980752543744",
+          "start": 0,
+          "username": "AzaelRose1017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103699970184589462",
+    "in_reply_to_user_id": "1870858980752543744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103502805122335140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzaelRose1017 加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103502787732463616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEko_7WYAAJuj_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2103502805122335140",
+        "created_at": "2026-09-26T04:15:32.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T05:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103699970184589462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870858980752543744",
+              "start": 0,
+              "username": "AzaelRose1017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103699970184589462",
+        "in_reply_to_user_id": "1870858980752543744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103502805122335140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzaelRose1017 加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103502787732463616"
+          ]
+        },
+        "author_id": "1870858980752543744",
+        "conversation_id": "2103502805122335140",
+        "created_at": "2026-09-25T15:12:04.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103502805122335140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpW0sRsMi2",
+              "end": 40,
+              "expanded_url": "https://x.com/AzaelRose1017/status/2103502805122335140/photo/1",
+              "media_key": "3_2103502787732463616",
+              "start": 17,
+              "url": "https://t.co/dpW0sRsMi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103502805122335140",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103502787732463616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想好想瘦到88斤，现在93斤喵 https://t.co/dpW0sRsMi2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2103699970184589462",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 296,
+          "like_count": 42507,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 9311
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T15:48:53.000Z",
+        "description": "僕らの記憶を掠わないで\n我是阿清/双相／自伤／BPD/ADHD/ed／泛性恋/心理性别是阿普唑仑/互fo会查成分",
+        "id": "1870858980752543744",
+        "is_identity_verified": false,
+        "location": "马里亚纳海沟",
+        "most_recent_tweet_id": "2103571762646483232",
+        "name": "爱与致幻剂",
+        "pinned_tweet_id": "2103462844876353965",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870858980752543744/1790265366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103064899911897089/S2d4YqfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 65,
+          "like_count": 1912,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 943
+        },
+        "url": "",
+        "username": "AzaelRose1017",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

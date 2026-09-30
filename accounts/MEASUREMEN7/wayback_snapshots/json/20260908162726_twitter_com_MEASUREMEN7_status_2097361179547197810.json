@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2096995940582523261",
+    "created_at": "2026-09-08T16:27:26.000Z",
+    "display_text_range": [
+      14,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T17:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097361179547197810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1542727639567192064",
+          "start": 0,
+          "username": "zhou72567077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097361179547197810",
+    "in_reply_to_user_id": "1542727639567192064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096995940582523261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhou72567077 推上找不到的啦，只有xyy的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2096995940582523261",
+        "created_at": "2026-09-08T16:27:26.000Z",
+        "display_text_range": [
+          14,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097361179547197810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1542727639567192064",
+              "start": 0,
+              "username": "zhou72567077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097361179547197810",
+        "in_reply_to_user_id": "1542727639567192064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096995940582523261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhou72567077 推上找不到的啦，只有xyy的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542727639567192064",
+        "conversation_id": "2096995940582523261",
+        "created_at": "2026-09-07T16:16:07.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T17:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096995940582523261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096995940582523261",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想被调，好想找一个经验丰富的S(′へ`、 )，为什么压力一大就想这样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2097361179547197810",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 294,
+          "like_count": 39584,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 8713
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-01T04:32:03.000Z",
+        "description": "",
+        "id": "1542727639567192064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097356682817106390",
+        "name": "被子外的世界好残酷",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542727639567192064/1756743628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091697334321291264/lLIsXpa0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 181,
+          "like_count": 811,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "zhou72567077",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

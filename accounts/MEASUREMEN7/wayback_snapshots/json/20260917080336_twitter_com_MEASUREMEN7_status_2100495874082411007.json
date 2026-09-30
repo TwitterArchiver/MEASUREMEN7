@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2100494169731141769",
+    "created_at": "2026-09-17T08:03:36.000Z",
+    "display_text_range": [
+      11,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T09:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100495874082411007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1755853048277331968",
+          "start": 0,
+          "username": "miaodeisu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100495874082411007",
+    "in_reply_to_user_id": "1755853048277331968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100494169731141769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaodeisu 不过好像锁推了不能开sps（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2100494169731141769].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2100494169731141769",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2100494169731141769"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2100494169731141769",
+        "created_at": "2026-09-17T08:03:36.000Z",
+        "display_text_range": [
+          11,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T09:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100495874082411007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1755853048277331968",
+              "start": 0,
+              "username": "miaodeisu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100495874082411007",
+        "in_reply_to_user_id": "1755853048277331968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100494169731141769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaodeisu 不过好像锁推了不能开sps（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2100495874082411007",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 302,
+          "like_count": 41172,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 9039
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-09T07:16:20.000Z",
+        "description": "(｡･ω･｡)互foDM不然我只会关注我很感兴趣的人哦\n社交能力有限不闲聊非必要私信禁止｜误ban致歉\n@ice_cakiiiirkk只过熟人｜谢谢你喜欢我\n請不要注意我的垃圾｜⬇️提问箱｜书签禁止",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "ice_cakiiiirkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iceee_r_kkeca",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iceee_r_kkeca",
+                "start": 0,
+                "url": "https://t.co/dKHsnSnztX"
+              }
+            ]
+          }
+        },
+        "id": "1755853048277331968",
+        "is_identity_verified": false,
+        "location": "天國",
+        "most_recent_tweet_id": "2100495141245219018",
+        "name": "みなごろし",
+        "pinned_tweet_id": "2098986788346065143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755853048277331968/1788331110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100447247674888192/xMbXy1hS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 152,
+          "like_count": 4339,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2587
+        },
+        "url": "https://t.co/dKHsnSnztX",
+        "username": "miaodeisu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

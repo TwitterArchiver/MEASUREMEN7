@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2100253189681668500",
+    "created_at": "2026-09-16T16:08:07.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T17:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100255418404794790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2043693873495445504",
+          "start": 0,
+          "username": "SadakoShu111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100255418404794790",
+    "in_reply_to_user_id": "2043693873495445504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100253189681668500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SadakoShu111 普瑞塞斯晚上好"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15046,
+        "height": 974,
+        "media_key": "13_2100253140348190720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100253140348190720/img/maXHKnJtoOxno6Ji.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100253140348190720/vid/avc1/320x432/A3yaI6SF7Avwvub1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100253140348190720/vid/avc1/480x648/Fg3LcEmq9J4Kl1Se.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100253140348190720/vid/avc1/720x974/yySh8E3jYB-KG50y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100253140348190720/pl/37vy-oM-FemK1cfG.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2100253189681668500",
+        "created_at": "2026-09-16T16:08:07.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100255418404794790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043693873495445504",
+              "start": 0,
+              "username": "SadakoShu111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100255418404794790",
+        "in_reply_to_user_id": "2043693873495445504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100253189681668500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SadakoShu111 普瑞塞斯晚上好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100253140348190720"
+          ]
+        },
+        "author_id": "2043693873495445504",
+        "conversation_id": "2100253189681668500",
+        "created_at": "2026-09-16T15:59:15.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100253189681668500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xPCb33cNBF",
+              "end": 27,
+              "expanded_url": "https://x.com/SadakoShu111/status/2100253189681668500/video/1",
+              "media_key": "13_2100253140348190720",
+              "start": 4,
+              "url": "https://t.co/xPCb33cNBF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100253189681668500",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2100253140348190720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上好 https://t.co/xPCb33cNBF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2100255418404794790",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 299,
+          "like_count": 41058,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 9012
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T14:14:34.000Z",
+        "description": "泛性恋，流动性别，dom，精神分裂重抑中焦。\n图包158/168/248，视频130/100\n具体菜单在Q群1108805294\n不接线下，不接视频通话。",
+        "id": "2043693873495445504",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100253189681668500",
+        "name": "错误",
+        "pinned_tweet_id": "2087918042957455646",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043694903666843648/XgKWIuaN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 16,
+          "like_count": 200,
+          "listed_count": 5,
+          "media_count": 70,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "SadakoShu111",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

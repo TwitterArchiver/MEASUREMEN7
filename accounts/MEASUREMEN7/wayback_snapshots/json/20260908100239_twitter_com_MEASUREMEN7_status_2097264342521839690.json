@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2097246444822692308",
+    "created_at": "2026-09-08T10:02:39.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T11:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097264342521839690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2061934893295419392",
+          "start": 0,
+          "username": "changhangon3413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097264342521839690",
+    "in_reply_to_user_id": "2061934893295419392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097246444822692308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changhangon3413 好好笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2133,
+        "media_key": "3_2097246436085915648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrqhZ1a4AAU59H.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2097246444822692308",
+        "created_at": "2026-09-08T10:02:39.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097264342521839690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2061934893295419392",
+              "start": 0,
+              "username": "changhangon3413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097264342521839690",
+        "in_reply_to_user_id": "2061934893295419392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097246444822692308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changhangon3413 好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097246436085915648"
+          ]
+        },
+        "author_id": "2061934893295419392",
+        "conversation_id": "2097246444822692308",
+        "created_at": "2026-09-08T08:51:32.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097246444822692308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eKHYC8nUi7",
+              "end": 37,
+              "expanded_url": "https://x.com/changhangon3413/status/2097246444822692308/photo/1",
+              "media_key": "3_2097246436085915648",
+              "start": 14,
+              "url": "https://t.co/eKHYC8nUi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097246444822692308",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097246436085915648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1387,
+          "like_count": 117,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫出去玩被蜜蜂蛰了（ ） https://t.co/eKHYC8nUi7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2097264342521839690",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 292,
+          "like_count": 39379,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 8686
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-02T22:17:08.000Z",
+        "description": "简介解放！写点什么呢。\n你每天都会忘记上千件事，为何不把这件事也忘了                \n                       提问箱↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hygcnhsd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hygcnhsd",
+                "start": 0,
+                "url": "https://t.co/PNPpKQuuoy"
+              }
+            ]
+          }
+        },
+        "id": "2061934893295419392",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2097246444822692308",
+        "name": "寒蝉",
+        "pinned_tweet_id": "2086033956005429492",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061934893295419392/1780673726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061935605882470400/KGS7qQ3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 1003,
+          "like_count": 8049,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 1424
+        },
+        "url": "https://t.co/PNPpKQuuoy",
+        "username": "changhangon3413",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

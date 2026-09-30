@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2099857377579459058",
+    "created_at": "2026-09-15T14:41:41.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099871281865003058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1978694130000891904",
+          "start": 0,
+          "username": "akkoA20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099871281865003058",
+    "in_reply_to_user_id": "1978694130000891904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099857377579459058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akkoA20 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1621,
+        "media_key": "3_2099857368662376448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQxJrobgAAOPqM.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2099857377579459058",
+        "created_at": "2026-09-15T14:41:41.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099871281865003058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1978694130000891904",
+              "start": 0,
+              "username": "akkoA20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099871281865003058",
+        "in_reply_to_user_id": "1978694130000891904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099857377579459058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akkoA20 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099857368662376448"
+          ]
+        },
+        "author_id": "1978694130000891904",
+        "conversation_id": "2099857377579459058",
+        "created_at": "2026-09-15T13:46:26.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T14:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099857377579459058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kItIfUr9NL",
+              "end": 34,
+              "expanded_url": "https://x.com/akkoA20/status/2099857377579459058/photo/1",
+              "media_key": "3_2099857368662376448",
+              "start": 11,
+              "url": "https://t.co/kItIfUr9NL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099857377579459058",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099857368662376448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 320,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只想存圖。對不起。 https://t.co/kItIfUr9NL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2099871281865003058",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 296,
+          "like_count": 40774,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 8955
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-16T05:27:09.000Z",
+        "description": "⋆ฅ^•ﻌ•^ฅ⋆\n低精力懶得社交之人。\n身高1.46我每張照片都p了謝謝。",
+        "id": "1978694130000891904",
+        "is_identity_verified": false,
+        "location": "‎♱˚₊‧꒰ა₍^› ꘍ ‹ ^₎⟆ ‎♱˚₊‧꒰ა",
+        "most_recent_tweet_id": "2099858818117382587",
+        "name": "novembre",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1978694130000891904/1764900458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072187133499166720/nXGsevbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 36,
+          "like_count": 1228,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 295
+        },
+        "url": "",
+        "username": "akkoA20",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

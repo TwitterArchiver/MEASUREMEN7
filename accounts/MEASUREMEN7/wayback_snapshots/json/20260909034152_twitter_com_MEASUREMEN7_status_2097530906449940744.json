@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2097405574875152392",
+    "created_at": "2026-09-09T03:41:52.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T04:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097530906449940744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2062220238922608640",
+          "start": 0,
+          "username": "NevadoSnow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097530906449940744",
+    "in_reply_to_user_id": "2062220238922608640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097405574875152392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NevadoSnow 捏捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1282,
+        "media_key": "3_2097405558064336896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRt7PhZa0AAxQMQ.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2097405574875152392",
+        "created_at": "2026-09-09T03:41:52.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097530906449940744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2062220238922608640",
+              "start": 0,
+              "username": "NevadoSnow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097530906449940744",
+        "in_reply_to_user_id": "2062220238922608640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097405574875152392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NevadoSnow 捏捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097405558064336896"
+          ]
+        },
+        "author_id": "2062220238922608640",
+        "conversation_id": "2097405574875152392",
+        "created_at": "2026-09-08T19:23:51.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T20:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097405574875152392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ADlwiaVG39",
+              "end": 27,
+              "expanded_url": "https://x.com/NevadoSnow/status/2097405574875152392/photo/1",
+              "media_key": "3_2097405558064336896",
+              "start": 4,
+              "url": "https://t.co/ADlwiaVG39"
+            },
+            {
+              "display_url": "x.com/nevadosnow/sta…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/nevadosnow/status/2096645079737970890",
+              "start": 28,
+              "url": "https://t.co/QV2sFOQFob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097405574875152392",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097405558064336896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096645079737970890",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。失眠 https://t.co/ADlwiaVG39 https://t.co/QV2sFOQFob"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2097530906449940744",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 295,
+          "like_count": 39585,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 8720
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-03T17:11:49.000Z",
+        "description": "直女 非典型INTP-t｜brat\n175 55 我是小学生",
+        "id": "2062220238922608640",
+        "is_identity_verified": false,
+        "location": "Dream",
+        "most_recent_tweet_id": "2097405574875152392",
+        "name": "Snow*",
+        "pinned_tweet_id": "2076620987723112707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062220238922608640/1780582565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062538833762398208/hCOfSjrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 5,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "NevadoSnow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2104297713080959106",
+    "created_at": "2026-09-27T19:55:10.000Z",
+    "display_text_range": [
+      17,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T20:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104298826718920847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2064742493271576576",
+          "start": 0,
+          "username": "mizukiFuyugumom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104298826718920847",
+    "in_reply_to_user_id": "2064742493271576576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104297713080959106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizukiFuyugumom 有了苹果又会想吃香蕉，吃过香蕉又会渴求其他水果，蔬菜，肉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2104297713080959106",
+        "created_at": "2026-09-27T19:55:10.000Z",
+        "display_text_range": [
+          17,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T20:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104298826718920847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2064742493271576576",
+              "start": 0,
+              "username": "mizukiFuyugumom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104298826718920847",
+        "in_reply_to_user_id": "2064742493271576576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104297713080959106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizukiFuyugumom 有了苹果又会想吃香蕉，吃过香蕉又会渴求其他水果，蔬菜，肉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064742493271576576",
+        "conversation_id": "2104297713080959106",
+        "created_at": "2026-09-27T19:50:45.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T20:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104297713080959106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104297713080959106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是说好了拥有苹果的时候只在意苹果吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2104298826718920847",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 299,
+          "like_count": 42813,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 9372
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-10T16:13:53.000Z",
+        "description": "LGBTQ+‖迷思‖语言障碍且匮乏之人‖骑士之誓‖恋爱中‖⚢ ‖恋人 myself‖she丨it丨🏳️‍⚧️ ‖泛性恋‖语言障碍‖出生性别女",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fuyugumomizuki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fuyugumomizuki",
+                "start": 0,
+                "url": "https://t.co/9MNyN3xpvz"
+              }
+            ]
+          }
+        },
+        "id": "2064742493271576576",
+        "is_identity_verified": false,
+        "location": "翌日",
+        "most_recent_tweet_id": "2104298462540124253",
+        "name": "ºₒmizuki˖Ი𐑼ֶָ֢݁ ☁︎",
+        "pinned_tweet_id": "2104243176466981297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064742493271576576/1781108241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072416771160887296/j76URQhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 5,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/9MNyN3xpvz",
+        "username": "mizukiFuyugumom",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

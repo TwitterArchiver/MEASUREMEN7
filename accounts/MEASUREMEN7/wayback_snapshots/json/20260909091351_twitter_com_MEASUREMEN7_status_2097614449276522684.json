@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2097606997885817193",
+    "created_at": "2026-09-09T09:13:51.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T10:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097614449276522684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2016164479038586887",
+          "start": 0,
+          "username": "imnotTTing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097614449276522684",
+    "in_reply_to_user_id": "2016164479038586887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097606997885817193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imnotTTing 教资融化了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 873,
+        "media_key": "3_2097606983285424128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwycA0bQAAwlxw.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2097606997885817193",
+        "created_at": "2026-09-09T09:13:51.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097614449276522684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2016164479038586887",
+              "start": 0,
+              "username": "imnotTTing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097614449276522684",
+        "in_reply_to_user_id": "2016164479038586887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097606997885817193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imnotTTing 教资融化了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097606983285424128"
+          ]
+        },
+        "author_id": "2016164479038586887",
+        "conversation_id": "2097606997885817193",
+        "created_at": "2026-09-09T08:44:14.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T09:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097606997885817193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xDumVNsOUw",
+              "end": 37,
+              "expanded_url": "https://x.com/imnotTTing/status/2097606997885817193/photo/1",
+              "media_key": "3_2097606983285424128",
+              "start": 14,
+              "url": "https://t.co/xDumVNsOUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097606997885817193",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097606983285424128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪里有教资报名费退款渠道。 https://t.co/xDumVNsOUw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2097614449276522684",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 295,
+          "like_count": 39754,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 8743
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:00:59.000Z",
+        "description": "此账号发表的所有言论意在取悦自己，如果拜读之后出现生理不适等症状，恭喜你，你怀了我的孩子T _ T\n匿名：https://t.co/RaFzW1JSdg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/imnottting",
+                "end": 76,
+                "expanded_url": "https://ngl.link/imnottting",
+                "start": 53,
+                "url": "https://t.co/RaFzW1JSdg"
+              }
+            ]
+          }
+        },
+        "id": "2016164479038586887",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097610218054234396",
+        "name": "TING×2",
+        "pinned_tweet_id": "2096821669927280863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016164479038586887/1788624653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096819237868404736/rDA0oE54_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 12,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "imnotTTing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

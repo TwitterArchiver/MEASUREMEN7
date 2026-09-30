@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2104066115479732374",
+    "created_at": "2026-09-27T04:30:28.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T05:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104066115479732374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573851064449011713",
+          "start": 3,
+          "username": "KontonAlex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104066115479732374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104003165754667500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KontonAlex: 我的推特怎么跟其他人不一样，一条消息都没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2104066115479732374",
+        "created_at": "2026-09-27T04:30:28.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T05:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104066115479732374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573851064449011713",
+              "start": 3,
+              "username": "KontonAlex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104066115479732374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104003165754667500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KontonAlex: 我的推特怎么跟其他人不一样，一条消息都没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573851064449011713",
+        "conversation_id": "2104003165754667500",
+        "created_at": "2026-09-27T00:20:19.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T01:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104003165754667500"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104003165754667500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特怎么跟其他人不一样，一条消息都没有"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2104066115479732374",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 298,
+          "like_count": 42715,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 9348
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-25T01:45:22.000Z",
+        "description": "男的｜04｜INFP｜1i/4i switch｜随便私信｜不见证 提问👉https://t.co/rx8FiRZ8aR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kontonalex1",
+                "end": 59,
+                "expanded_url": "https://ngl.link/kontonalex1",
+                "start": 36,
+                "url": "https://t.co/rx8FiRZ8aR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kontonalex1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kontonalex1",
+                "start": 0,
+                "url": "https://t.co/rx8FiRZ8aR"
+              }
+            ]
+          }
+        },
+        "id": "1573851064449011713",
+        "is_identity_verified": false,
+        "location": "在你附近",
+        "most_recent_tweet_id": "2104003165754667500",
+        "name": "小亚",
+        "pinned_tweet_id": "1978830205041955222",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573851064449011713/1746292909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095469934029795328/verjEdoP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 193,
+          "like_count": 4402,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 1582
+        },
+        "url": "https://t.co/rx8FiRZ8aR",
+        "username": "KontonAlex",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

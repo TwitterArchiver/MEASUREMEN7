@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2103453858450309423",
+    "created_at": "2026-09-25T12:26:35.000Z",
+    "display_text_range": [
+      15,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T13:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103461160079245339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1870858980752543744",
+          "start": 0,
+          "username": "AzaelRose1017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103461160079245339",
+    "in_reply_to_user_id": "1870858980752543744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103453858450309423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzaelRose1017 啤酒好像会有利尿剂的来着🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103453814443454464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTD4GYNXsAANu_n.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103453814447648768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTD4GYOXsAAX6_V.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103453814439190528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTD4GYMWoAACMpo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103453814443450369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTD4GYNXoAEgKXk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2103453858450309423",
+        "created_at": "2026-09-25T12:26:35.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T13:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103461160079245339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870858980752543744",
+              "start": 0,
+              "username": "AzaelRose1017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103461160079245339",
+        "in_reply_to_user_id": "1870858980752543744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103453858450309423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzaelRose1017 啤酒好像会有利尿剂的来着🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103453814443454464",
+            "3_2103453814447648768",
+            "3_2103453814439190528",
+            "3_2103453814443450369"
+          ]
+        },
+        "author_id": "1870858980752543744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2103453858450309423",
+        "created_at": "2026-09-25T11:57:34.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T12:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103453858450309423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I9x1Qltnrr",
+              "end": 35,
+              "expanded_url": "https://x.com/AzaelRose1017/status/2103453858450309423/photo/1",
+              "media_key": "3_2103453814443454464",
+              "start": 12,
+              "url": "https://t.co/I9x1Qltnrr"
+            },
+            {
+              "display_url": "pic.x.com/I9x1Qltnrr",
+              "end": 35,
+              "expanded_url": "https://x.com/AzaelRose1017/status/2103453858450309423/photo/1",
+              "media_key": "3_2103453814447648768",
+              "start": 12,
+              "url": "https://t.co/I9x1Qltnrr"
+            },
+            {
+              "display_url": "pic.x.com/I9x1Qltnrr",
+              "end": 35,
+              "expanded_url": "https://x.com/AzaelRose1017/status/2103453858450309423/photo/1",
+              "media_key": "3_2103453814439190528",
+              "start": 12,
+              "url": "https://t.co/I9x1Qltnrr"
+            },
+            {
+              "display_url": "pic.x.com/I9x1Qltnrr",
+              "end": 35,
+              "expanded_url": "https://x.com/AzaelRose1017/status/2103453858450309423/photo/1",
+              "media_key": "3_2103453814443450369",
+              "start": 12,
+              "url": "https://t.co/I9x1Qltnrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103453858450309423",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103453814443454464"
+          },
+          {
+            "media_key": "3_2103453814447648768"
+          },
+          {
+            "media_key": "3_2103453814439190528"
+          },
+          {
+            "media_key": "3_2103453814443450369"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明显这波是喝的想尿尿了 https://t.co/I9x1Qltnrr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2103461160079245339",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 293,
+          "like_count": 42477,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 9302
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T15:48:53.000Z",
+        "description": "人生是用药物、血肉、金钱、和一理想筑起的牢笼，你我是共同体。\n我是阿清/双相／自伤／BPD/ADHD/ed／泛性恋/性别是阿普唑仑/互fo会查成分",
+        "id": "1870858980752543744",
+        "is_identity_verified": false,
+        "location": "马里亚纳海沟",
+        "most_recent_tweet_id": "2103458158601777455",
+        "name": "爱与致幻剂",
+        "pinned_tweet_id": "2103454034820534575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870858980752543744/1790265366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103064899911897089/S2d4YqfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 62,
+          "like_count": 1893,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 934
+        },
+        "url": "",
+        "username": "AzaelRose1017",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

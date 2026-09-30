@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2098069972505530766",
+    "created_at": "2026-09-11T04:11:45.000Z",
+    "display_text_range": [
+      13,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T05:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098263199539991017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1907823299108978688",
+          "start": 0,
+          "username": "Nazi0114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098263199539991017",
+    "in_reply_to_user_id": "1907823299108978688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098069972505530766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nazi0114514 哪怕出汗也是香的，好神奇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2098069972505530766",
+        "created_at": "2026-09-11T04:11:45.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T05:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098263199539991017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1907823299108978688",
+              "start": 0,
+              "username": "Nazi0114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098263199539991017",
+        "in_reply_to_user_id": "1907823299108978688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098069972505530766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nazi0114514 哪怕出汗也是香的，好神奇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907823299108978688",
+        "conversation_id": "2098069972505530766",
+        "created_at": "2026-09-10T15:23:56.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098069972505530766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098069972505530766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 207,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bra好神奇，永远都是香香的，我完全能理解那些想埋胸埋死的宅男们"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2098263199539991017",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 296,
+          "like_count": 39980,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 8815
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-03T15:52:17.000Z",
+        "description": "我叫鼠崽 宇宙变异老鼠杀人事件",
+        "id": "1907823299108978688",
+        "is_identity_verified": false,
+        "location": "🕳️🐀",
+        "most_recent_tweet_id": "2098069972505530766",
+        "name": "牛乳小麦粉",
+        "pinned_tweet_id": "2004998593628045465",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907823299108978688/1765746077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073774620231311360/UZsLy2a-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 129,
+          "like_count": 76,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "Nazi0114514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

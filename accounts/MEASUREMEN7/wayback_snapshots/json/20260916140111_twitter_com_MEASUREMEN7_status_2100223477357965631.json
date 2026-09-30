@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2100210028489896355",
+    "created_at": "2026-09-16T14:01:11.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T15:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100223477357965631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1983965341865885696",
+          "start": 0,
+          "username": "zudnefukaos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100223477357965631",
+    "in_reply_to_user_id": "1983965341865885696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100220432159035511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zudnefukaos 收到老大🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2100210028489896355",
+        "created_at": "2026-09-16T14:01:11.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100223477357965631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1983965341865885696",
+              "start": 0,
+              "username": "zudnefukaos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100223477357965631",
+        "in_reply_to_user_id": "1983965341865885696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100220432159035511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zudnefukaos 收到老大🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983965341865885696",
+        "conversation_id": "2100210028489896355",
+        "created_at": "2026-09-16T13:49:05.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T14:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100220432159035511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100220432159035511",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100210028489896355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 和我做"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2100223477357965631",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 298,
+          "like_count": 41019,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 9003
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T18:33:01.000Z",
+        "description": "健康快乐成长\n朝身心健全人努力中……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoodiesfighter",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoodiesfighter",
+                "start": 0,
+                "url": "https://t.co/BPA4b2ErNQ"
+              }
+            ]
+          }
+        },
+        "id": "1983965341865885696",
+        "is_identity_verified": false,
+        "location": "那里",
+        "most_recent_tweet_id": "2100220432159035511",
+        "name": "k",
+        "pinned_tweet_id": "2087071908890366151",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983965341865885696/1784767348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046428467479330816/abrofo_y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 40,
+          "like_count": 755,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 439
+        },
+        "url": "https://t.co/BPA4b2ErNQ",
+        "username": "zudnefukaos",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

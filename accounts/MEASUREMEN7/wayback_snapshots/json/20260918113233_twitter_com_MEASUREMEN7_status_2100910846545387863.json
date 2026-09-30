@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099847356019539968",
+        "3_2099847356011130880",
+        "3_2099847356380278784",
+        "3_2099847356040503296"
+      ],
+      "media_source_tweet_id": [
+        "2099847363242131571",
+        "2099847363242131571",
+        "2099847363242131571",
+        "2099847363242131571"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2100910846545387863",
+    "created_at": "2026-09-18T11:32:33.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T12:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100910846545387863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "792065479082971136",
+          "start": 3,
+          "username": "ephhemere"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OasH6cWG2F",
+          "end": 55,
+          "expanded_url": "https://x.com/ephhemere/status/2099847363242131571/photo/1",
+          "media_key": "3_2099847356019539968",
+          "start": 32,
+          "url": "https://t.co/OasH6cWG2F"
+        },
+        {
+          "display_url": "pic.x.com/OasH6cWG2F",
+          "end": 55,
+          "expanded_url": "https://x.com/ephhemere/status/2099847363242131571/photo/1",
+          "media_key": "3_2099847356011130880",
+          "start": 32,
+          "url": "https://t.co/OasH6cWG2F"
+        },
+        {
+          "display_url": "pic.x.com/OasH6cWG2F",
+          "end": 55,
+          "expanded_url": "https://x.com/ephhemere/status/2099847363242131571/photo/1",
+          "media_key": "3_2099847356380278784",
+          "start": 32,
+          "url": "https://t.co/OasH6cWG2F"
+        },
+        {
+          "display_url": "pic.x.com/OasH6cWG2F",
+          "end": 55,
+          "expanded_url": "https://x.com/ephhemere/status/2099847363242131571/photo/1",
+          "media_key": "3_2099847356040503296",
+          "start": 32,
+          "url": "https://t.co/OasH6cWG2F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100910846545387863",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2099847356019539968"
+      },
+      {
+        "media_key": "3_2099847356011130880"
+      },
+      {
+        "media_key": "3_2099847356380278784"
+      },
+      {
+        "media_key": "3_2099847356040503296"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1431
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099847363242131571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ephhemere: uni student life https://t.co/OasH6cWG2F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1043,
+        "media_key": "3_2099847356019539968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQoC3oWgAAzo7X.jpg",
+        "width": 1200
+      },
+      {
+        "height": 981,
+        "media_key": "3_2099847356011130880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQoC3mWMAAFKeF.jpg",
+        "width": 736
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2099847356380278784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQoC4-W8AA5Pks.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2099847356040503296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQoC3tWYAARYRV.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099847356019539968",
+            "3_2099847356011130880",
+            "3_2099847356380278784",
+            "3_2099847356040503296"
+          ],
+          "media_source_tweet_id": [
+            "2099847363242131571",
+            "2099847363242131571",
+            "2099847363242131571",
+            "2099847363242131571"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2100910846545387863",
+        "created_at": "2026-09-18T11:32:33.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T12:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100910846545387863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "792065479082971136",
+              "start": 3,
+              "username": "ephhemere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OasH6cWG2F",
+              "end": 55,
+              "expanded_url": "https://x.com/ephhemere/status/2099847363242131571/photo/1",
+              "media_key": "3_2099847356019539968",
+              "start": 32,
+              "url": "https://t.co/OasH6cWG2F"
+            },
+            {
+              "display_url": "pic.x.com/OasH6cWG2F",
+              "end": 55,
+              "expanded_url": "https://x.com/ephhemere/status/2099847363242131571/photo/1",
+              "media_key": "3_2099847356011130880",
+              "start": 32,
+              "url": "https://t.co/OasH6cWG2F"
+            },
+            {
+              "display_url": "pic.x.com/OasH6cWG2F",
+              "end": 55,
+              "expanded_url": "https://x.com/ephhemere/status/2099847363242131571/photo/1",
+              "media_key": "3_2099847356380278784",
+              "start": 32,
+              "url": "https://t.co/OasH6cWG2F"
+            },
+            {
+              "display_url": "pic.x.com/OasH6cWG2F",
+              "end": 55,
+              "expanded_url": "https://x.com/ephhemere/status/2099847363242131571/photo/1",
+              "media_key": "3_2099847356040503296",
+              "start": 32,
+              "url": "https://t.co/OasH6cWG2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100910846545387863",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099847356019539968"
+          },
+          {
+            "media_key": "3_2099847356011130880"
+          },
+          {
+            "media_key": "3_2099847356380278784"
+          },
+          {
+            "media_key": "3_2099847356040503296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1431
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099847363242131571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ephhemere: uni student life https://t.co/OasH6cWG2F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099847356019539968",
+            "3_2099847356011130880",
+            "3_2099847356380278784",
+            "3_2099847356040503296"
+          ]
+        },
+        "author_id": "792065479082971136",
+        "conversation_id": "2099847363242131571",
+        "created_at": "2026-09-15T13:06:39.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T14:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099847363242131571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OasH6cWG2F",
+              "end": 40,
+              "expanded_url": "https://x.com/ephhemere/status/2099847363242131571/photo/1",
+              "media_key": "3_2099847356019539968",
+              "start": 17,
+              "url": "https://t.co/OasH6cWG2F"
+            },
+            {
+              "display_url": "pic.x.com/OasH6cWG2F",
+              "end": 40,
+              "expanded_url": "https://x.com/ephhemere/status/2099847363242131571/photo/1",
+              "media_key": "3_2099847356011130880",
+              "start": 17,
+              "url": "https://t.co/OasH6cWG2F"
+            },
+            {
+              "display_url": "pic.x.com/OasH6cWG2F",
+              "end": 40,
+              "expanded_url": "https://x.com/ephhemere/status/2099847363242131571/photo/1",
+              "media_key": "3_2099847356380278784",
+              "start": 17,
+              "url": "https://t.co/OasH6cWG2F"
+            },
+            {
+              "display_url": "pic.x.com/OasH6cWG2F",
+              "end": 40,
+              "expanded_url": "https://x.com/ephhemere/status/2099847363242131571/photo/1",
+              "media_key": "3_2099847356040503296",
+              "start": 17,
+              "url": "https://t.co/OasH6cWG2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099847363242131571",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099847356019539968"
+          },
+          {
+            "media_key": "3_2099847356011130880"
+          },
+          {
+            "media_key": "3_2099847356380278784"
+          },
+          {
+            "media_key": "3_2099847356040503296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6711,
+          "impression_count": 64815248,
+          "like_count": 31444,
+          "quote_count": 7309,
+          "reply_count": 638,
+          "retweet_count": 1431
+        },
+        "reply_settings": "everyone",
+        "text": "uni student life https://t.co/OasH6cWG2F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2100910846545387863",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 301,
+          "like_count": 41501,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 9093
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-10-28T18:08:20.000Z",
+        "description": "going with the idea that nothing can stop me 🎀🫧🧸",
+        "id": "792065479082971136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100904311299469518",
+        "name": "amélie",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/792065479082971136/1735211724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869881804989108224/oy37Unye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22990,
+          "following_count": 216,
+          "like_count": 49198,
+          "listed_count": 143,
+          "media_count": 1981,
+          "tweet_count": 44451
+        },
+        "url": "",
+        "username": "ephhemere",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

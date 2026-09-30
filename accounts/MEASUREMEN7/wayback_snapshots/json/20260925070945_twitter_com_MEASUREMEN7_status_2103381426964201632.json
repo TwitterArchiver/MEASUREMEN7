@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103373424022437888"
+      ],
+      "media_source_tweet_id": [
+        "2103373441839824926"
+      ]
+    },
+    "author_id": "1888239230020661248",
+    "conversation_id": "2103381426964201632",
+    "created_at": "2026-09-25T07:09:45.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T08:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103381426964201632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2011051704440274947",
+          "start": 3,
+          "username": "parsley10"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vp0XXJHWJG",
+          "end": 42,
+          "expanded_url": "https://x.com/parsley10/status/2103373441839824926/photo/1",
+          "media_key": "3_2103373424022437888",
+          "start": 19,
+          "url": "https://t.co/vp0XXJHWJG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103381426964201632",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103373424022437888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103373441839824926",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @parsley10: 上岸了 https://t.co/vp0XXJHWJG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 660,
+        "media_key": "3_2103373424022437888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTCu_CjawAAIB5x.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103373424022437888"
+          ],
+          "media_source_tweet_id": [
+            "2103373441839824926"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2103381426964201632",
+        "created_at": "2026-09-25T07:09:45.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T08:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103381426964201632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2011051704440274947",
+              "start": 3,
+              "username": "parsley10"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vp0XXJHWJG",
+              "end": 42,
+              "expanded_url": "https://x.com/parsley10/status/2103373441839824926/photo/1",
+              "media_key": "3_2103373424022437888",
+              "start": 19,
+              "url": "https://t.co/vp0XXJHWJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103381426964201632",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103373424022437888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103373441839824926",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @parsley10: 上岸了 https://t.co/vp0XXJHWJG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103373424022437888"
+          ]
+        },
+        "author_id": "2011051704440274947",
+        "conversation_id": "2103373441839824926",
+        "created_at": "2026-09-25T06:38:01.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T07:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103373441839824926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vp0XXJHWJG",
+              "end": 27,
+              "expanded_url": "https://x.com/parsley10/status/2103373441839824926/photo/1",
+              "media_key": "3_2103373424022437888",
+              "start": 4,
+              "url": "https://t.co/vp0XXJHWJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103373441839824926",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103373424022437888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "上岸了 https://t.co/vp0XXJHWJG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2103381426964201632",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 291,
+          "like_count": 42352,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 9279
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-13T12:24:59.000Z",
+        "description": "They told me all of my cages were mental \nSo I got wasted like all my potential",
+        "id": "2011051704440274947",
+        "is_identity_verified": false,
+        "location": "L’Amour, Les Baguettes, Paris",
+        "most_recent_tweet_id": "2103373441839824926",
+        "name": "Parsley",
+        "pinned_tweet_id": "2071512730700526079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011051704440274947/1786021324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084587964534075392/6Jteg4vy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 434,
+          "like_count": 3093,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 517
+        },
+        "url": "",
+        "username": "parsley10",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2101820951197564966",
+    "created_at": "2026-09-21T01:14:28.000Z",
+    "display_text_range": [
+      11,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T02:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101842466005819855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2073228681758298112",
+          "start": 0,
+          "username": "fffyyp565"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101842466005819855",
+    "in_reply_to_user_id": "2073228681758298112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101820951197564966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fffyyp565 这种人应该是连高中都没有走出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2101820951197564966",
+        "created_at": "2026-09-21T01:14:28.000Z",
+        "display_text_range": [
+          11,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T02:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101842466005819855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2073228681758298112",
+              "start": 0,
+              "username": "fffyyp565"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101842466005819855",
+        "in_reply_to_user_id": "2073228681758298112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101820951197564966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fffyyp565 这种人应该是连高中都没有走出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073228681758298112",
+        "conversation_id": "2101820951197564966",
+        "created_at": "2026-09-20T23:48:59.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T00:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101820951197564966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101820951197564966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大学还在看开学第一课绷不住了。同学们认真观看都不玩手机。我每次都被他们的认真劲吓到"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2101842466005819855",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 299,
+          "like_count": 41925,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 9184
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-04T02:15:32.000Z",
+        "description": "互fo。我是沼泽(ˆつ⩊⊂ˆ)੭。intp08\n朋友@sweety0216xyyx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "sweety0216xyyx"
+              }
+            ]
+          }
+        },
+        "id": "2073228681758298112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101825622263918888",
+        "name": "fff yy🐾",
+        "pinned_tweet_id": "2101101802561130649",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073228681758298112/1789649075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099082968795115520/74apIhlt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 216,
+          "like_count": 2146,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 607
+        },
+        "url": "",
+        "username": "fffyyp565",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

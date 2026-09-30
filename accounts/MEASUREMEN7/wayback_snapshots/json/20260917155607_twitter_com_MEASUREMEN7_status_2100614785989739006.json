@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2100613144230183012",
+    "created_at": "2026-09-17T15:56:07.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100614785989739006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2088203818697953281",
+          "start": 0,
+          "username": "yuika138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100614785989739006",
+    "in_reply_to_user_id": "2088203818697953281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100613144230183012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuika138 明明身材很好看！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2100613144230183012",
+        "created_at": "2026-09-17T15:56:07.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100614785989739006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2088203818697953281",
+              "start": 0,
+              "username": "yuika138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100614785989739006",
+        "in_reply_to_user_id": "2088203818697953281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100613144230183012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuika138 明明身材很好看！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088203818697953281",
+        "conversation_id": "2100613144230183012",
+        "created_at": "2026-09-17T15:49:35.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100613144230183012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100613144230183012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己太肥太恶心了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2100614785989739006",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 302,
+          "like_count": 41232,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 9052
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T10:03:19.000Z",
+        "description": "我是泅儿 前世 @id1otchildren\n07双相休学",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "id1otchildren"
+              }
+            ]
+          }
+        },
+        "id": "2088203818697953281",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2100613649094328818",
+        "name": "撕烂我的猪逼脸",
+        "pinned_tweet_id": "2093385767058022414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088203818697953281/1786765951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093385673109868544/JAPW3xfI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 35,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "yuika138",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

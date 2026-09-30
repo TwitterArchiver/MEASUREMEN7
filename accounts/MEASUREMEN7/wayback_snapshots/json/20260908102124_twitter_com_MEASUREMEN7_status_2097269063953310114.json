@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2097267371568468244",
+    "created_at": "2026-09-08T10:21:24.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T11:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097269063953310114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963605793577865217",
+          "start": 0,
+          "username": "kami2234523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097269063953310114",
+    "in_reply_to_user_id": "1963605793577865217",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097267371568468244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kami2234523 ⑨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2097267359644065792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRr9jUKbIAAqDRx.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2097267371568468244",
+        "created_at": "2026-09-08T10:21:24.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097269063953310114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963605793577865217",
+              "start": 0,
+              "username": "kami2234523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097269063953310114",
+        "in_reply_to_user_id": "1963605793577865217",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097267371568468244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami2234523 ⑨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097267359644065792"
+          ]
+        },
+        "author_id": "1963605793577865217",
+        "conversation_id": "2097267371568468244",
+        "created_at": "2026-09-08T10:14:41.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097267371568468244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/htDKF7jOyj",
+              "end": 33,
+              "expanded_url": "https://x.com/kami2234523/status/2097267371568468244/photo/1",
+              "media_key": "3_2097267359644065792",
+              "start": 10,
+              "url": "https://t.co/htDKF7jOyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097267371568468244",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097267359644065792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "拼了超大的琪露諾捏 https://t.co/htDKF7jOyj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2097269063953310114",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 294,
+          "like_count": 39420,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 8691
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-04T14:11:25.000Z",
+        "description": "私信大號篩選通過\n大賬號@kami07322",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "kami07322"
+              }
+            ]
+          }
+        },
+        "id": "1963605793577865217",
+        "is_identity_verified": false,
+        "location": "虛幻裡世界",
+        "most_recent_tweet_id": "2097267371568468244",
+        "name": "不眠日",
+        "pinned_tweet_id": "1979569615044059382",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1963605793577865217/1769329849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082834605577797632/nkOxWTpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 26,
+          "like_count": 1461,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 1146
+        },
+        "url": "",
+        "username": "kami2234523",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2097874730875523137",
+    "created_at": "2026-09-10T09:31:08.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T10:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097981186853458140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2088203818697953281",
+          "start": 0,
+          "username": "yuika138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097981186853458140",
+    "in_reply_to_user_id": "2088203818697953281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097970354253963477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuika138 一起一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2097874730875523137",
+        "created_at": "2026-09-10T09:31:08.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097981186853458140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2088203818697953281",
+              "start": 0,
+              "username": "yuika138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097981186853458140",
+        "in_reply_to_user_id": "2088203818697953281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097970354253963477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuika138 一起一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088203818697953281",
+        "conversation_id": "2097874730875523137",
+        "created_at": "2026-09-10T08:48:05.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097970354253963477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097970354253963477",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097874730875523137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 一起喝酒抽烟割手"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2097981186853458140",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 295,
+          "like_count": 39884,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 8783
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T10:03:19.000Z",
+        "description": "我是泅儿  前世 @id1otchildren\n07双相休学",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "id1otchildren"
+              }
+            ]
+          }
+        },
+        "id": "2088203818697953281",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2097970354253963477",
+        "name": "给你杯子藏图钉",
+        "pinned_tweet_id": "2093385767058022414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088203818697953281/1786765951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093385673109868544/JAPW3xfI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 26,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "yuika138",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

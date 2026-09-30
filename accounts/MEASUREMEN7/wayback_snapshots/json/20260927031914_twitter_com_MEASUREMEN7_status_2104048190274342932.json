@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2104014144923947464",
+    "created_at": "2026-09-27T03:19:14.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T04:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104048190274342932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1678651719272611841",
+          "start": 0,
+          "username": "miokawa0701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104048190274342932",
+    "in_reply_to_user_id": "1678651719272611841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104014144923947464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miokawa0701 顶你喵😠😠😠"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16648,
+        "height": 1184,
+        "media_key": "13_2104014098610454528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104014098610454528/img/Lq2hUtC9Px5CtdOt.jpg",
+        "public_metrics": {
+          "view_count": 3212
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104014098610454528/vid/avc1/320x350/1_qXOTXwKnfYFb8j.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104014098610454528/vid/avc1/1080x1184/MNum6dzu8aifN2B4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104014098610454528/vid/avc1/480x526/XKC5MZplIU9Wz7Rn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104014098610454528/vid/avc1/720x788/zvcQAXyzi4tNeMy5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104014098610454528/pl/SrSy9wgfrX9TS0FE.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2104014144923947464",
+        "created_at": "2026-09-27T03:19:14.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104048190274342932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1678651719272611841",
+              "start": 0,
+              "username": "miokawa0701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104048190274342932",
+        "in_reply_to_user_id": "1678651719272611841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104014144923947464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miokawa0701 顶你喵😠😠😠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104014098610454528"
+          ]
+        },
+        "author_id": "1678651719272611841",
+        "conversation_id": "2104014144923947464",
+        "created_at": "2026-09-27T01:03:57.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T02:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104014144923947464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2b5XmvhvCI",
+              "end": 25,
+              "expanded_url": "https://x.com/miokawa0701/status/2104014144923947464/video/1",
+              "media_key": "13_2104014098610454528",
+              "start": 2,
+              "url": "https://t.co/2b5XmvhvCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104014144923947464",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2104014098610454528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 4552,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "♡ https://t.co/2b5XmvhvCI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2104048190274342932",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 297,
+          "like_count": 42692,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 9342
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-11T06:26:00.000Z",
+        "description": "CN/EN ‖💜 向霓虹闪烁的神明献出拥有美貌的代价 💜‖全平台仅此账号‖不卖图包不线下‖全球随机掉落‖E杯赛博魅魔👿‖ 可爱老婆@sanwwww04‖BEST🔥@kendricklamar‖提问箱↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "sanwwww04"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "kendricklamar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_miokawa_1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/_miokawa_1",
+                "start": 0,
+                "url": "https://t.co/ToIRj75vcH"
+              }
+            ]
+          }
+        },
+        "id": "1678651719272611841",
+        "is_identity_verified": false,
+        "location": "距离你 5 m",
+        "most_recent_tweet_id": "2104021537611477445",
+        "name": "neko今天🐱什么",
+        "pinned_tweet_id": "1901950528382497105",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678651719272611841/1775062467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039385871192100864/MoL_KDsP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94694,
+          "following_count": 574,
+          "like_count": 17015,
+          "listed_count": 129,
+          "media_count": 914,
+          "tweet_count": 4807
+        },
+        "url": "https://t.co/ToIRj75vcH",
+        "username": "miokawa0701",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

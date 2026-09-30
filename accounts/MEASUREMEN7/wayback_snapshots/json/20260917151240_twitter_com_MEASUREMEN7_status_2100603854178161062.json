@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2100562379155349898",
+    "created_at": "2026-09-17T15:12:40.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100603854178161062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2073228681758298112",
+          "start": 0,
+          "username": "fffyyp565"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100603854178161062",
+    "in_reply_to_user_id": "2073228681758298112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100562379155349898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fffyyp565 太好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9581,
+        "height": 1280,
+        "media_key": "13_2100562349631606784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100562349631606784/img/fWyRyFLQTlZqzg7J.jpg",
+        "public_metrics": {
+          "view_count": 106
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100562349631606784/vid/avc1/320x568/wLUHZRE2qvrmQIGQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100562349631606784/vid/avc1/480x852/y2eOIIJEROUGX4EI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100562349631606784/vid/avc1/720x1280/ziAAURWJRt5qMfke.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100562349631606784/pl/yRsh63jlfBwaR_jH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2100562379155349898",
+        "created_at": "2026-09-17T15:12:40.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100603854178161062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2073228681758298112",
+              "start": 0,
+              "username": "fffyyp565"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100603854178161062",
+        "in_reply_to_user_id": "2073228681758298112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100562379155349898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fffyyp565 太好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100562349631606784"
+          ]
+        },
+        "author_id": "2073228681758298112",
+        "conversation_id": "2100562379155349898",
+        "created_at": "2026-09-17T12:27:52.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T13:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100562379155349898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iG7R3GB3Am",
+              "end": 31,
+              "expanded_url": "https://x.com/fffyyp565/status/2100562379155349898/video/1",
+              "media_key": "13_2100562349631606784",
+              "start": 8,
+              "url": "https://t.co/iG7R3GB3Am"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100562379155349898",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2100562349631606784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我离开了训练营 https://t.co/iG7R3GB3Am"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2100603854178161062",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 302,
+          "like_count": 41218,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 9049
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-04T02:15:32.000Z",
+        "description": "互fo。我是沼泽(ˆつ⩊⊂ˆ)੭。intp08\n朋友@sweety0216xyyx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "sweety0216xyyx"
+              }
+            ]
+          }
+        },
+        "id": "2073228681758298112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100598065745002753",
+        "name": "fff yy🐾",
+        "pinned_tweet_id": "2097553972332806477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073228681758298112/1789649075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099082968795115520/74apIhlt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 186,
+          "like_count": 1821,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 514
+        },
+        "url": "",
+        "username": "fffyyp565",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

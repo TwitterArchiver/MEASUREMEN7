@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2100964520923627956",
+    "created_at": "2026-09-18T15:54:20.000Z",
+    "display_text_range": [
+      14,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T16:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100976725886939167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2095399451301224448",
+          "start": 0,
+          "username": "urbabemeimei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100976725886939167",
+    "in_reply_to_user_id": "2095399451301224448",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100964520923627956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@urbabemeimei check my message"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2100964520923627956",
+        "created_at": "2026-09-18T15:54:20.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100976725886939167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2095399451301224448",
+              "start": 0,
+              "username": "urbabemeimei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100976725886939167",
+        "in_reply_to_user_id": "2095399451301224448",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100964520923627956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@urbabemeimei check my message"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095399451301224448",
+        "conversation_id": "2100964520923627956",
+        "created_at": "2026-09-18T15:05:50.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100964520923627956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100964520923627956",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I used to love playing a game called Haunted Domains when I was a child, but it seems can’t be played anymore…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2100976725886939167",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 300,
+          "like_count": 41513,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 9103
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T06:33:18.000Z",
+        "description": "oi!",
+        "id": "2095399451301224448",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100964647344218507",
+        "name": "Meimeiwaifu",
+        "pinned_tweet_id": "2100946226179178731",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095400694912266241/DtJF1k3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 10,
+          "like_count": 21,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "urbabemeimei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

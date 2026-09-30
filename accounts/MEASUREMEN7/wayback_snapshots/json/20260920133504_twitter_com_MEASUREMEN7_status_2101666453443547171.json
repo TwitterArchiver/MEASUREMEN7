@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2101666453443547171",
+    "created_at": "2026-09-20T13:35:04.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T14:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101666453443547171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1961425958277373952",
+          "start": 3,
+          "username": "Liu_nan_nan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101666453443547171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101527653144752349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liu_nan_nan: 师范大专里水平最次的那些人都去当了小学老师，给中国人留下了普遍的童年创伤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2101666453443547171",
+        "created_at": "2026-09-20T13:35:04.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T14:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101666453443547171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1961425958277373952",
+              "start": 3,
+              "username": "Liu_nan_nan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101666453443547171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101527653144752349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liu_nan_nan: 师范大专里水平最次的那些人都去当了小学老师，给中国人留下了普遍的童年创伤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961425958277373952",
+        "conversation_id": "2101527653144752349",
+        "created_at": "2026-09-20T04:23:31.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T05:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101527653144752349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101527653144752349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 121114,
+          "like_count": 1970,
+          "quote_count": 14,
+          "reply_count": 172,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "师范大专里水平最次的那些人都去当了小学老师，给中国人留下了普遍的童年创伤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2101666453443547171",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 300,
+          "like_count": 41904,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 9176
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-29T13:49:33.000Z",
+        "description": "上赶着不是买卖",
+        "id": "1961425958277373952",
+        "is_identity_verified": false,
+        "location": "埼玉の山奥",
+        "most_recent_tweet_id": "2101649445599486024",
+        "name": "劉喃喃",
+        "pinned_tweet_id": "2009230579519422718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961425958277373952/1771258365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006409337653309443/x4oV5msk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 228,
+          "like_count": 9990,
+          "listed_count": 10,
+          "media_count": 38,
+          "tweet_count": 439
+        },
+        "url": "",
+        "username": "Liu_nan_nan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

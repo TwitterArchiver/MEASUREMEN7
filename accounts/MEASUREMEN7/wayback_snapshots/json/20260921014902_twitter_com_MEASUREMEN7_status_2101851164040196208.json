@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2101792053260902566",
+    "created_at": "2026-09-21T01:49:02.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T02:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101851164040196208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1358061535340290048",
+          "start": 0,
+          "username": "0213bbb_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101851164040196208",
+    "in_reply_to_user_id": "1358061535340290048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101792053260902566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0213bbb_ mmk去锤他一顿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2101792053260902566",
+        "created_at": "2026-09-21T01:49:02.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T02:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101851164040196208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1358061535340290048",
+              "start": 0,
+              "username": "0213bbb_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101851164040196208",
+        "in_reply_to_user_id": "1358061535340290048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101792053260902566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0213bbb_ mmk去锤他一顿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1358061535340290048",
+        "conversation_id": "2101792053260902566",
+        "created_at": "2026-09-20T21:54:09.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T22:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101792053260902566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101792053260902566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 441,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃饭吧唧嘴真的好烦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2101851164040196208",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 299,
+          "like_count": 41946,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 9187
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-06T14:34:47.000Z",
+        "description": "地下アイドルになりたい女の子！\n応援してください～！",
+        "id": "1358061535340290048",
+        "is_identity_verified": false,
+        "location": "🩷",
+        "most_recent_tweet_id": "2101792053260902566",
+        "name": "＞𐋣＜",
+        "pinned_tweet_id": "2075038691094147373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1358061535340290048/1656101009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100280639350276096/IRy_B0AG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10943,
+          "following_count": 501,
+          "like_count": 11432,
+          "listed_count": 16,
+          "media_count": 858,
+          "tweet_count": 9490
+        },
+        "url": "",
+        "username": "0213bbb_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

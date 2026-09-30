@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2104111497148502442",
+    "created_at": "2026-09-27T12:08:51.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T13:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104181471410041068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2070894139953311744",
+          "start": 0,
+          "username": "Mememechan_3066"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104181471410041068",
+    "in_reply_to_user_id": "2070894139953311744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104111497148502442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mememechan_3066 好尴尬的文案"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104111490156666880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNOQJKbIAA7h5M.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2104111497148502442",
+        "created_at": "2026-09-27T12:08:51.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104181471410041068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2070894139953311744",
+              "start": 0,
+              "username": "Mememechan_3066"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104181471410041068",
+        "in_reply_to_user_id": "2070894139953311744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104111497148502442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mememechan_3066 好尴尬的文案"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104111490156666880"
+          ]
+        },
+        "author_id": "2070894139953311744",
+        "conversation_id": "2104111497148502442",
+        "created_at": "2026-09-27T07:30:48.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T08:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104111497148502442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rbi1vT2L5s",
+              "end": 53,
+              "expanded_url": "https://x.com/Mememechan_3066/status/2104111497148502442/photo/1",
+              "media_key": "3_2104111490156666880",
+              "start": 30,
+              "url": "https://t.co/rbi1vT2L5s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104111497148502442",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104111490156666880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们又有人盗图，帮忙举报一下，不要被骗了www(つД`) https://t.co/rbi1vT2L5s"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2104181471410041068",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 298,
+          "like_count": 42730,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 9350
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T15:40:07.000Z",
+        "description": "使用我，然后抛下我。\n地雷，请不要在不了解我的时候轻浮的说爱我。\n日常碎碎念请关注@yume_2446",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "yume_2446"
+              }
+            ]
+          }
+        },
+        "id": "2070894139953311744",
+        "is_identity_verified": false,
+        "location": "梦境",
+        "most_recent_tweet_id": "2104111497148502442",
+        "name": "赛博斐济杯",
+        "pinned_tweet_id": "2084536432283230563",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070894139953311744/1782575789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075927214512812032/TFrssCtw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 84,
+          "like_count": 913,
+          "listed_count": 6,
+          "media_count": 22,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "Mememechan_3066",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

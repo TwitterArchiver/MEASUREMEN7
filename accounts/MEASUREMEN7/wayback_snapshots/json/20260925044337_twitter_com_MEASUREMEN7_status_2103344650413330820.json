@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2103153076156977281",
+    "created_at": "2026-09-25T04:43:37.000Z",
+    "display_text_range": [
+      16,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T05:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103344650413330820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1525445057146286081",
+          "start": 0,
+          "username": "silent_Windows"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103344650413330820",
+    "in_reply_to_user_id": "1525445057146286081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103343277353373821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silent_Windows 我很讨厌这种不会保持距离的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2103153076156977281",
+        "created_at": "2026-09-25T04:43:37.000Z",
+        "display_text_range": [
+          16,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T05:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103344650413330820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1525445057146286081",
+              "start": 0,
+              "username": "silent_Windows"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103344650413330820",
+        "in_reply_to_user_id": "1525445057146286081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103343277353373821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silent_Windows 我很讨厌这种不会保持距离的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525445057146286081",
+        "conversation_id": "2103153076156977281",
+        "created_at": "2026-09-25T04:38:10.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T05:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103343277353373821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103343277353373821",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103153076156977281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 傻逼健全全部去死"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2103344650413330820",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 293,
+          "like_count": 42354,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 9278
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-14T11:57:05.000Z",
+        "description": "注意⚠️感谢你的注意\n应用分身@silent_beans\n欢迎问我问题 匿名箱↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "silent_beans"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/silent_windows",
+                "end": 23,
+                "expanded_url": "https://ngl.link/silent_windows",
+                "start": 0,
+                "url": "https://t.co/B4gQchc93T"
+              }
+            ]
+          }
+        },
+        "id": "1525445057146286081",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103344075558756517",
+        "name": "우",
+        "pinned_tweet_id": "2100553052399005868",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1525445057146286081/1771856805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101051799503597568/do6sI6BX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 246,
+          "like_count": 23359,
+          "listed_count": 2,
+          "media_count": 422,
+          "tweet_count": 6579
+        },
+        "url": "https://t.co/B4gQchc93T",
+        "username": "silent_Windows",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

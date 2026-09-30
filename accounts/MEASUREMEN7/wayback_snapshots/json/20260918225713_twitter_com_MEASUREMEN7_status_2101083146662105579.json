@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2101035455525589457",
+    "created_at": "2026-09-18T22:57:13.000Z",
+    "display_text_range": [
+      16,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T23:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101083146662105579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938824940012347392",
+          "start": 0,
+          "username": "RSO_cl1nicL0V3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101083146662105579",
+    "in_reply_to_user_id": "1938824940012347392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101035455525589457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RSO_cl1nicL0V3 闹矛盾的，o死了的，还有很多其他的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2101035455525589457",
+        "created_at": "2026-09-18T22:57:13.000Z",
+        "display_text_range": [
+          16,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T23:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101083146662105579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938824940012347392",
+              "start": 0,
+              "username": "RSO_cl1nicL0V3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101083146662105579",
+        "in_reply_to_user_id": "1938824940012347392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101035455525589457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RSO_cl1nicL0V3 闹矛盾的，o死了的，还有很多其他的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938824940012347392",
+        "conversation_id": "2101035455525589457",
+        "created_at": "2026-09-18T19:47:42.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T20:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101035455525589457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101035455525589457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "靠怎么这么多人退od圈 那些药物百科什么的也不干了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2101083146662105579",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 301,
+          "like_count": 41543,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 9108
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-28T05:01:18.000Z",
+        "description": "#shtwt #edtwt #nsotwt #jiraitwt\nADHD,BPD, DEPRESSION\nOnly shitpost and vents here",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              },
+              {
+                "end": 13,
+                "start": 7,
+                "tag": "edtwt"
+              },
+              {
+                "end": 21,
+                "start": 14,
+                "tag": "nsotwt"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "tag": "jiraitwt"
+              }
+            ]
+          }
+        },
+        "id": "1938824940012347392",
+        "is_identity_verified": false,
+        "location": "die",
+        "most_recent_tweet_id": "2101035455525589457",
+        "name": "琳酱的急救诊所💉🩺",
+        "pinned_tweet_id": "2073374236442529865",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938824940012347392/1751300233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079234386713833472/g3G35ikv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 74,
+          "like_count": 1850,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 977
+        },
+        "url": "",
+        "username": "RSO_cl1nicL0V3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

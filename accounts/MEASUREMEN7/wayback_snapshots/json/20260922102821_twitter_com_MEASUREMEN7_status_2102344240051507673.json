@@ -1,0 +1,541 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2102343426121375829",
+    "created_at": "2026-09-22T10:28:21.000Z",
+    "display_text_range": [
+      55,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T11:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102344240051507673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2073228681758298112",
+          "start": 0,
+          "username": "fffyyp565"
+        },
+        {
+          "end": 27,
+          "id": "2093710985827848193",
+          "start": 11,
+          "username": "yamazakiisuzu_N"
+        },
+        {
+          "end": 37,
+          "id": "2083196399211200512",
+          "start": 28,
+          "username": "kuukiwfn"
+        },
+        {
+          "end": 54,
+          "id": "1816265454211719169",
+          "start": 38,
+          "username": "c6ZGVx553M24590"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102344240051507673",
+    "in_reply_to_user_id": "2073228681758298112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102343426121375829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fffyyp565 @yamazakiisuzu_N @kuukiwfn @c6ZGVx553M24590 可恶啊，grok演我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 778,
+        "media_key": "3_2102343404629962752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0GMBTasAA7X3J.jpg",
+        "width": 1080
+      },
+      {
+        "height": 630,
+        "media_key": "3_2102343413261914112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0GMhdb0AAlwmy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 529,
+        "media_key": "3_2102343420065054720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0GM6zbgAAr5Uu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2102343426121375829",
+        "created_at": "2026-09-22T10:28:21.000Z",
+        "display_text_range": [
+          55,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T11:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102344240051507673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2073228681758298112",
+              "start": 0,
+              "username": "fffyyp565"
+            },
+            {
+              "end": 27,
+              "id": "2093710985827848193",
+              "start": 11,
+              "username": "yamazakiisuzu_N"
+            },
+            {
+              "end": 37,
+              "id": "2083196399211200512",
+              "start": 28,
+              "username": "kuukiwfn"
+            },
+            {
+              "end": 54,
+              "id": "1816265454211719169",
+              "start": 38,
+              "username": "c6ZGVx553M24590"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102344240051507673",
+        "in_reply_to_user_id": "2073228681758298112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102343426121375829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fffyyp565 @yamazakiisuzu_N @kuukiwfn @c6ZGVx553M24590 可恶啊，grok演我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102343404629962752",
+            "3_2102343413261914112",
+            "3_2102343420065054720"
+          ]
+        },
+        "author_id": "2073228681758298112",
+        "conversation_id": "2102343426121375829",
+        "created_at": "2026-09-22T10:25:07.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T11:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102343426121375829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 54,
+              "id": "2093710985827848193",
+              "start": 38,
+              "username": "yamazakiisuzu_N"
+            },
+            {
+              "end": 68,
+              "id": "2083196399211200512",
+              "start": 59,
+              "username": "kuukiwfn"
+            },
+            {
+              "end": 88,
+              "id": "1816265454211719169",
+              "start": 72,
+              "username": "c6ZGVx553M24590"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cgsMoI9ScD",
+              "end": 180,
+              "expanded_url": "https://x.com/fffyyp565/status/2102343426121375829/photo/1",
+              "media_key": "3_2102343404629962752",
+              "start": 157,
+              "url": "https://t.co/cgsMoI9ScD"
+            },
+            {
+              "display_url": "pic.x.com/cgsMoI9ScD",
+              "end": 180,
+              "expanded_url": "https://x.com/fffyyp565/status/2102343426121375829/photo/1",
+              "media_key": "3_2102343413261914112",
+              "start": 157,
+              "url": "https://t.co/cgsMoI9ScD"
+            },
+            {
+              "display_url": "pic.x.com/cgsMoI9ScD",
+              "end": 180,
+              "expanded_url": "https://x.com/fffyyp565/status/2102343426121375829/photo/1",
+              "media_key": "3_2102343420065054720",
+              "start": 157,
+              "url": "https://t.co/cgsMoI9ScD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102343426121375829",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102343404629962752"
+          },
+          {
+            "media_key": "3_2102343413261914112"
+          },
+          {
+            "media_key": "3_2102343420065054720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没想到最后一个关注我的是卖片的←_←\n下面是四个人。(。・`ω´・)\n第一个@yamazakiisuzu_N \n第二个@kuukiwfn\n第三个@c6ZGVx553M24590\n第四个@msksm18964\n分别是九，二，二，二。非常公平OK\n😤😤不要嫌少啊。我马上就打工了。\n私信给我发收款码呀。´ₒ⦁⩊⦁ₒ` https://t.co/cgsMoI9ScD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2102344240051507673",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 302,
+          "like_count": 42131,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 9234
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-04T02:15:32.000Z",
+        "description": "互fo。我是沼泽(ˆつ⩊⊂ˆ)੭。intp08\n朋友@sweety0216xyyx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "sweety0216xyyx"
+              }
+            ]
+          }
+        },
+        "id": "2073228681758298112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102343426121375829",
+        "name": "fff yy🐾",
+        "pinned_tweet_id": "2101101802561130649",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073228681758298112/1789649075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099082968795115520/74apIhlt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 338,
+          "like_count": 2353,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 673
+        },
+        "url": "",
+        "username": "fffyyp565",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-29T14:43:57.000Z",
+        "description": "啊…啊…啊…啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊窝乳男乳乳女乳跨乳同乳华全都乳了，很舒服啊，很舒服啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！",
+        "id": "2093710985827848193",
+        "is_identity_verified": false,
+        "location": "梦里",
+        "most_recent_tweet_id": "2102343200455438466",
+        "name": "✞山崎いすず✞",
+        "pinned_tweet_id": "2101452700554756125",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093710985827848193/1788162518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093711492566904832/TvwoUe1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 149,
+          "like_count": 5155,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 2974
+        },
+        "url": "",
+        "username": "yamazakiisuzu_N",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T14:22:20.000Z",
+        "description": "ｋｕｕｋｉ　本　體\nAGENDER | AROMANTIC ASEXUAL \nsh/od twt\njoined 31/7/26 (5th acc\n\n████████████████████",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuukiwtf",
+                "end": 23,
+                "expanded_url": "http://x.com/kuukiwtf",
+                "start": 0,
+                "url": "https://t.co/aDk4cjJeIM"
+              }
+            ]
+          }
+        },
+        "id": "2083196399211200512",
+        "is_identity_verified": false,
+        "location": "ｉｎｔｅｒｎｅｔ",
+        "most_recent_tweet_id": "2102344225236848763",
+        "name": "kuuki",
+        "pinned_tweet_id": "2091204360248381856",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083196399211200512/1785509200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083202604855926784/BKn2wpol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 202,
+          "like_count": 4377,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 523
+        },
+        "url": "https://t.co/aDk4cjJeIM",
+        "username": "kuukiwfn",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-25T00:13:38.000Z",
+        "description": "我喜欢你 请和我交朋友 拜托了🥺🥺",
+        "id": "1816265454211719169",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102280502162129002",
+        "name": "亖久",
+        "pinned_tweet_id": "1948064684076368074",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029720348569260036/ER3SM6jQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 159,
+          "like_count": 37377,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1187
+        },
+        "url": "",
+        "username": "c6ZGVx553M24590",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

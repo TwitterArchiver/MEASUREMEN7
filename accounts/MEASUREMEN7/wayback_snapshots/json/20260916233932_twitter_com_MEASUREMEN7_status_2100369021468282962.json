@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2100271570409463987",
+    "created_at": "2026-09-16T23:39:32.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T00:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100369021468282962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2096172013996089344",
+          "start": 0,
+          "username": "Mintink4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100369021468282962",
+    "in_reply_to_user_id": "2096172013996089344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100271570409463987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintink4 感觉上班真的好累"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3203,
+        "height": 720,
+        "media_key": "13_2100271549710491648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100271549710491648/img/voYHuTXsrdU0a5Zs.jpg",
+        "public_metrics": {
+          "view_count": 580
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100271549710491648/vid/avc1/480x270/fJKZJn2YSL1c_Yj2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100271549710491648/vid/avc1/640x360/6Yz3CT5mJvAL05VM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100271549710491648/vid/avc1/1280x720/DCC60s9bG4a1bFtm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100271549710491648/pl/T4hV8YcUMOWPS4xE.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 4201,
+        "height": 720,
+        "media_key": "13_2100271549752471552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100271549752471552/img/7aLZMvsMgKiB2Bon.jpg",
+        "public_metrics": {
+          "view_count": 281
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100271549752471552/vid/avc1/480x270/0_FgI4SCxrvFTKIr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100271549752471552/vid/avc1/640x360/N5E_HjSYREORAEuR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100271549752471552/vid/avc1/1280x720/DgKmFIFOj-l5EcbM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100271549752471552/pl/wG874W8sCZ7Q6nyB.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2100271570409463987",
+        "created_at": "2026-09-16T23:39:32.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T00:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100369021468282962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2096172013996089344",
+              "start": 0,
+              "username": "Mintink4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100369021468282962",
+        "in_reply_to_user_id": "2096172013996089344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100271570409463987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink4 感觉上班真的好累"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100271549710491648",
+            "13_2100271549752471552"
+          ]
+        },
+        "author_id": "2096172013996089344",
+        "conversation_id": "2100271570409463987",
+        "created_at": "2026-09-16T17:12:18.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T18:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100271570409463987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JCmGZkbITz",
+              "end": 35,
+              "expanded_url": "https://x.com/Mintink4/status/2100271570409463987/video/1",
+              "media_key": "13_2100271549710491648",
+              "start": 12,
+              "url": "https://t.co/JCmGZkbITz"
+            },
+            {
+              "display_url": "pic.x.com/JCmGZkbITz",
+              "end": 35,
+              "expanded_url": "https://x.com/Mintink4/status/2100271570409463987/video/1",
+              "media_key": "13_2100271549752471552",
+              "start": 12,
+              "url": "https://t.co/JCmGZkbITz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100271570409463987",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2100271549710491648"
+          },
+          {
+            "media_key": "13_2100271549752471552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1993,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天佩戴义乳去上班喝酒 https://t.co/JCmGZkbITz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2100369021468282962",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 300,
+          "like_count": 41070,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 9018
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T09:43:32.000Z",
+        "description": "166cm/41kg/性冷淡ENTP 前世@Mintink3 💊个人频道https://t.co/7Nto1YS4WM❤️同类互fo请私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "Mintink3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+GWs1Kp_yEDAyY…",
+                "end": 59,
+                "expanded_url": "https://t.me/+GWs1Kp_yEDAyYzc9",
+                "start": 36,
+                "url": "https://t.co/7Nto1YS4WM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+GWs1Kp_yEDAyY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+GWs1Kp_yEDAyYzc9",
+                "start": 0,
+                "url": "https://t.co/7Nto1YS4WM"
+              }
+            ]
+          }
+        },
+        "id": "2096172013996089344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100314418647269525",
+        "name": "Beatrice二世",
+        "pinned_tweet_id": "2097412785592557783",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096172013996089344/1788601626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096173219044896768/yaMgdXAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 419,
+          "like_count": 1657,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/7Nto1YS4WM",
+        "username": "Mintink4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

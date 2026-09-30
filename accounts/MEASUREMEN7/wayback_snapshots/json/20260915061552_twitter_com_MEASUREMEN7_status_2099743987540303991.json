@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2099701938900398416",
+    "created_at": "2026-09-15T06:15:52.000Z",
+    "display_text_range": [
+      9,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T07:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099743987540303991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2007704695486435328",
+          "start": 0,
+          "username": "sh11668"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099743987540303991",
+    "in_reply_to_user_id": "2007704695486435328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099718765730771364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sh11668 没有戒严啊，哪里传的谣言"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2099701938900398416",
+        "created_at": "2026-09-15T06:15:52.000Z",
+        "display_text_range": [
+          9,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T07:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099743987540303991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2007704695486435328",
+              "start": 0,
+              "username": "sh11668"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099743987540303991",
+        "in_reply_to_user_id": "2007704695486435328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099718765730771364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sh11668 没有戒严啊，哪里传的谣言"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007704695486435328",
+        "conversation_id": "2099701938900398416",
+        "created_at": "2026-09-15T04:35:39.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099718765730771364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099718765730771364",
+        "in_reply_to_user_id": "2007704695486435328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2157,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099701938900398416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "视频显示广州大学城附近，发生一男无差别持刀攻击路人😱😱😱\n现代人压力太他妈大了😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2099743987540303991",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 297,
+          "like_count": 40740,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 8945
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-04T06:44:42.000Z",
+        "description": "白天修 bug、晚上记代码，顺手把生活也 debug 一遍。\n内卷像死循环，摸鱼是唯一能跑通的注释。\n爱吐槽，但不厌世；爱观察，但不装深刻。\n社会是部没写完的烂代码，我负责加两句幽默注释，然后继续编译人生",
+        "id": "2007704695486435328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099743755150766093",
+        "name": "梭哈哥",
+        "pinned_tweet_id": "2098456241408487461",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2007704695486435328/1787967360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093512912929431552/3ylP8882_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4216,
+          "following_count": 2358,
+          "like_count": 15435,
+          "listed_count": 9,
+          "media_count": 53,
+          "tweet_count": 13540
+        },
+        "url": "",
+        "username": "sh11668",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

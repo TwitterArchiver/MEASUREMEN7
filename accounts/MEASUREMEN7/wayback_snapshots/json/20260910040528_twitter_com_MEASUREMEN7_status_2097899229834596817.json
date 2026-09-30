@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2097898081304121622",
+    "created_at": "2026-09-10T04:05:28.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T05:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097899229834596817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1985157668412280833",
+          "start": 0,
+          "username": "kkd1226586"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097899229834596817",
+    "in_reply_to_user_id": "1985157668412280833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097898081304121622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkd1226586 很好看啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2097898066556940288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR07LSga8AAlb1W.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2097898081304121622",
+        "created_at": "2026-09-10T04:05:28.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097899229834596817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1985157668412280833",
+              "start": 0,
+              "username": "kkd1226586"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097899229834596817",
+        "in_reply_to_user_id": "1985157668412280833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097898081304121622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkd1226586 很好看啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097898066556940288"
+          ]
+        },
+        "author_id": "1985157668412280833",
+        "conversation_id": "2097898081304121622",
+        "created_at": "2026-09-10T04:00:54.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097898081304121622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NNRQEBLAkI",
+              "end": 41,
+              "expanded_url": "https://x.com/kkd1226586/status/2097898081304121622/photo/1",
+              "media_key": "3_2097898066556940288",
+              "start": 18,
+              "url": "https://t.co/NNRQEBLAkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097898081304121622",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097898066556940288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像有点p重了，不过我觉得还挺好看 https://t.co/NNRQEBLAkI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2097899229834596817",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 296,
+          "like_count": 39943,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 8774
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-03T01:30:59.000Z",
+        "description": "是个家里蹲吸血鬼捏 泛性恋喵 🚪128 288 520解锁隐藏课表 888 1314（拍过的都发给你）",
+        "id": "1985157668412280833",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097898081304121622",
+        "name": "氪氪弟",
+        "pinned_tweet_id": "2062459988245917924",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1985157668412280833/1765977375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096760983478009856/e6Yijr21_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 85,
+          "like_count": 2805,
+          "listed_count": 4,
+          "media_count": 180,
+          "tweet_count": 233
+        },
+        "url": "",
+        "username": "kkd1226586",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

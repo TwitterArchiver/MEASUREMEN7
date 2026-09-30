@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2097240371315245380",
+    "created_at": "2026-09-08T09:45:13.000Z",
+    "display_text_range": [
+      8,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T10:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097259955028189444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2095572023934427136",
+          "start": 0,
+          "username": "siywx8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097259955028189444",
+    "in_reply_to_user_id": "2095572023934427136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097240371315245380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siywx8 有笨蛋关私信了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2146,
+        "media_key": "3_2097240368312147968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrlANna4AAyaOE.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2097240371315245380",
+        "created_at": "2026-09-08T09:45:13.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097259955028189444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2095572023934427136",
+              "start": 0,
+              "username": "siywx8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097259955028189444",
+        "in_reply_to_user_id": "2095572023934427136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097240371315245380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siywx8 有笨蛋关私信了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097240368312147968"
+          ]
+        },
+        "author_id": "2095572023934427136",
+        "conversation_id": "2097240371315245380",
+        "created_at": "2026-09-08T08:27:24.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097240371315245380"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QDV5ssLtyl",
+              "end": 44,
+              "expanded_url": "https://x.com/siywx8/status/2097240371315245380/photo/1",
+              "media_key": "3_2097240368312147968",
+              "start": 21,
+              "url": "https://t.co/QDV5ssLtyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097240371315245380",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097240368312147968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 468,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这么久了还是0个人和我聊天...\n#男娘 https://t.co/QDV5ssLtyl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2097259955028189444",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 290,
+          "like_count": 39342,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 8676
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T17:59:30.000Z",
+        "description": "是可爱的男孩子哦，都来找我聊天嘛，一个人好寂寞好无聊的",
+        "id": "2095572023934427136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097240371315245380",
+        "name": "超级冰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095572023934427136/1788762043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095572654543822848/nF_qDpav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "siywx8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

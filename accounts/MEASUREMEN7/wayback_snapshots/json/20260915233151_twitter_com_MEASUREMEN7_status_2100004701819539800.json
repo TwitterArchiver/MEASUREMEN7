@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2099907664574894232",
+    "created_at": "2026-09-15T23:31:51.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T00:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100004701819539800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1358061535340290048",
+          "start": 0,
+          "username": "0213bbb_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100004701819539800",
+    "in_reply_to_user_id": "1358061535340290048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099907664574894232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0213bbb_ mmk世界第一"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099907649282408448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRe4ZiagAAQvMT.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099907649269813248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRe4ZfaUAA3DDu.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099907649290878976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRe4ZkbwAAARZR.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099907649320153088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRe4ZracAAtmKc.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2099907664574894232",
+        "created_at": "2026-09-15T23:31:51.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T00:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100004701819539800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1358061535340290048",
+              "start": 0,
+              "username": "0213bbb_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100004701819539800",
+        "in_reply_to_user_id": "1358061535340290048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099907664574894232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0213bbb_ mmk世界第一"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099907649282408448",
+            "3_2099907649269813248",
+            "3_2099907649290878976",
+            "3_2099907649320153088"
+          ]
+        },
+        "author_id": "1358061535340290048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2099907664574894232",
+        "created_at": "2026-09-15T17:06:16.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T18:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099907664574894232"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "アイドル"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t0vZsWbR1r",
+              "end": 29,
+              "expanded_url": "https://x.com/0213bbb_/status/2099907664574894232/photo/1",
+              "media_key": "3_2099907649282408448",
+              "start": 6,
+              "url": "https://t.co/t0vZsWbR1r"
+            },
+            {
+              "display_url": "pic.x.com/t0vZsWbR1r",
+              "end": 29,
+              "expanded_url": "https://x.com/0213bbb_/status/2099907664574894232/photo/1",
+              "media_key": "3_2099907649269813248",
+              "start": 6,
+              "url": "https://t.co/t0vZsWbR1r"
+            },
+            {
+              "display_url": "pic.x.com/t0vZsWbR1r",
+              "end": 29,
+              "expanded_url": "https://x.com/0213bbb_/status/2099907664574894232/photo/1",
+              "media_key": "3_2099907649290878976",
+              "start": 6,
+              "url": "https://t.co/t0vZsWbR1r"
+            },
+            {
+              "display_url": "pic.x.com/t0vZsWbR1r",
+              "end": 29,
+              "expanded_url": "https://x.com/0213bbb_/status/2099907664574894232/photo/1",
+              "media_key": "3_2099907649320153088",
+              "start": 6,
+              "url": "https://t.co/t0vZsWbR1r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099907664574894232",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2099907649282408448"
+          },
+          {
+            "media_key": "3_2099907649269813248"
+          },
+          {
+            "media_key": "3_2099907649290878976"
+          },
+          {
+            "media_key": "3_2099907649320153088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 654,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#アイドル https://t.co/t0vZsWbR1r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2100004701819539800",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 297,
+          "like_count": 40813,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 8965
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-06T14:34:47.000Z",
+        "description": "",
+        "id": "1358061535340290048",
+        "is_identity_verified": false,
+        "location": "垃圾堆",
+        "most_recent_tweet_id": "2099926814546354610",
+        "name": "＞𐋣＜",
+        "pinned_tweet_id": "2075038691094147373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1358061535340290048/1656101009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998865969494765570/Cqz1u5ja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10940,
+          "following_count": 501,
+          "like_count": 11428,
+          "listed_count": 16,
+          "media_count": 857,
+          "tweet_count": 9526
+        },
+        "url": "",
+        "username": "0213bbb_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

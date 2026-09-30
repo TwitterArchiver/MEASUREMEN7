@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2098688983773458843",
+    "created_at": "2026-09-12T08:44:19.000Z",
+    "display_text_range": [
+      7,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T09:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098694181040652392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2090495944760459265",
+          "start": 0,
+          "username": "z2aqr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098694181040652392",
+    "in_reply_to_user_id": "2090495944760459265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098688983773458843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z2aqr 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "OvO嘻嘻哈哈",
+        "height": 1572,
+        "media_key": "3_2098688849719218180",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAKY7WWUAQWdN3.jpg",
+        "width": 1142
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2098688983773458843",
+        "created_at": "2026-09-12T08:44:19.000Z",
+        "display_text_range": [
+          7,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T09:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098694181040652392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2090495944760459265",
+              "start": 0,
+              "username": "z2aqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098694181040652392",
+        "in_reply_to_user_id": "2090495944760459265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098688983773458843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z2aqr 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098688849719218180"
+          ]
+        },
+        "author_id": "2090495944760459265",
+        "conversation_id": "2098688983773458843",
+        "created_at": "2026-09-12T08:23:40.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T09:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098688983773458843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vdW3r2gv5c",
+              "end": 31,
+              "expanded_url": "https://x.com/z2aqr/status/2098688983773458843/photo/1",
+              "media_key": "3_2098688849719218180",
+              "start": 8,
+              "url": "https://t.co/vdW3r2gv5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098688983773458843",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "alt_text": "OvO嘻嘻哈哈",
+            "media_key": "3_2098688849719218180"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天降温了噢~ https://t.co/vdW3r2gv5c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2098694181040652392",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 298,
+          "like_count": 40313,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 8862
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T17:49:49.000Z",
+        "description": "…我注册这个软件单纯为了我自己的⭐p，聊得来的可以和我交友…比较喜欢穿孔…因为我有恋痛癖…嗯对随时可聊无🚪",
+        "id": "2090495944760459265",
+        "is_identity_verified": false,
+        "location": "重庆",
+        "most_recent_tweet_id": "2098688983773458843",
+        "name": "白水鉴心",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090495944760459265/1787283331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090497308760670208/rOb4mgyq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 19,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "z2aqr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

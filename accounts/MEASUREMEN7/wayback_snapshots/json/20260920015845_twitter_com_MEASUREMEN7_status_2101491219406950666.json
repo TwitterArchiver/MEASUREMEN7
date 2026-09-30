@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2101457866012127523",
+    "created_at": "2026-09-20T01:58:45.000Z",
+    "display_text_range": [
+      15,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T02:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101491219406950666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2088447669056499712",
+          "start": 0,
+          "username": "AmeHanafogfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101491219406950666",
+    "in_reply_to_user_id": "2088447669056499712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101490862786297893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeHanafogfox 就是特定环境空间迫使一些人聚集在一起并且不得不去交往，难以接受和适应这种被逼无奈的社交"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2101457866012127523",
+        "created_at": "2026-09-20T01:58:45.000Z",
+        "display_text_range": [
+          15,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T02:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101491219406950666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2088447669056499712",
+              "start": 0,
+              "username": "AmeHanafogfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101491219406950666",
+        "in_reply_to_user_id": "2088447669056499712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101490862786297893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeHanafogfox 就是特定环境空间迫使一些人聚集在一起并且不得不去交往，难以接受和适应这种被逼无奈的社交"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088447669056499712",
+        "conversation_id": "2101457866012127523",
+        "created_at": "2026-09-20T01:57:20.000Z",
+        "display_text_range": [
+          13,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T02:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101490862786297893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101490862786297893",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101457866012127523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 线下交流的群体属于一个被迫的状态，你不想见的人明天还得见面，当一个群体已经形成共同规范以后，一个“不像我们”的人即使没有做什么坏事，也可能天然显得突兀；同样的朋友这个属于自主选择的群体，兴趣相似的人聚在一起 → 共同语言越来越多 → 对彼此的认同越来越强 → 不相似的人越来越难进入"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2101491219406950666",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 300,
+          "like_count": 41771,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 9148
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T02:09:14.000Z",
+        "description": "阿间/雨原花咲\nftx\n重生2.0\n唯一的挚爱/耀阳/月@kamizakajuukou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "kamizakajuukou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fooogfox",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fooogfox",
+                "start": 0,
+                "url": "https://t.co/duHV2zX82H"
+              }
+            ]
+          }
+        },
+        "id": "2088447669056499712",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2101490862786297893",
+        "name": "猫不理茶茶罐头2.0",
+        "pinned_tweet_id": "2088449819673268406",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088447669056499712/1786759959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089424509204094976/IUVFy1_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 138,
+          "like_count": 743,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/duHV2zX82H",
+        "username": "AmeHanafogfox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

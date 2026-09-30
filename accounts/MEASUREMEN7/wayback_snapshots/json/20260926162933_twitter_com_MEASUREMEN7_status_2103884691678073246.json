@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2103858609927197155",
+    "created_at": "2026-09-26T16:29:33.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T17:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103884691678073246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2098257724895350784",
+          "start": 0,
+          "username": "ice_cakiiiirkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103884691678073246",
+    "in_reply_to_user_id": "2098257724895350784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103858609927197155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ice_cakiiiirkk 抱抱你"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2103858609927197155].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2103858609927197155",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2103858609927197155"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2103858609927197155",
+        "created_at": "2026-09-26T16:29:33.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103884691678073246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2098257724895350784",
+              "start": 0,
+              "username": "ice_cakiiiirkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103884691678073246",
+        "in_reply_to_user_id": "2098257724895350784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103858609927197155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ice_cakiiiirkk 抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2103884691678073246",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 296,
+          "like_count": 42733,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 9339
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-11T03:51:26.000Z",
+        "description": "不知道是誰在使用的賬號\n請當做沒看見影響你的心情我很抱歉",
+        "id": "2098257724895350784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098291716919119931",
+        "name": "揺れるサイダー",
+        "pinned_tweet_id": "2099781287875911753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098257724895350784/1789737909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100939066468687872/NEBjcfng_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 23,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 361
+        },
+        "url": "",
+        "username": "ice_cakiiiirkk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

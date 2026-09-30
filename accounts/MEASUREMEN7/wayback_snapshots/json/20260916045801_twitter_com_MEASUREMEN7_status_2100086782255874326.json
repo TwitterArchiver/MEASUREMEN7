@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2099939765881897030",
+    "created_at": "2026-09-16T04:58:01.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T05:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100086782255874326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733403821794119680",
+          "start": 0,
+          "username": "sakiyoko8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100086782255874326",
+    "in_reply_to_user_id": "1733403821794119680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099939765881897030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakiyoko8964 好怪（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2099939765881897030",
+        "created_at": "2026-09-16T04:58:01.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100086782255874326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733403821794119680",
+              "start": 0,
+              "username": "sakiyoko8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100086782255874326",
+        "in_reply_to_user_id": "1733403821794119680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099939765881897030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakiyoko8964 好怪（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733403821794119680",
+        "conversation_id": "2099939765881897030",
+        "created_at": "2026-09-15T19:13:49.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T20:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099939765881897030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099939765881897030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不手冲就会遗精。做春梦好烦。所以我不得不每隔一段时间手冲一下。每次手冲我的手都在强奸我。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2100086782255874326",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 297,
+          "like_count": 40853,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 8971
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-09T08:30:59.000Z",
+        "description": "我叫世子 yoko） 私信只回🚪 我只有这一个账号。 前世：@asanaskyoko00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "asanaskyoko00"
+              }
+            ]
+          }
+        },
+        "id": "1733403821794119680",
+        "is_identity_verified": false,
+        "location": "🚪100 288 520",
+        "most_recent_tweet_id": "2099942660907864352",
+        "name": "serimo",
+        "pinned_tweet_id": "2069124253140881483",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733403821794119680/1757302874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763915052468572160/5JF2Jnpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 60,
+          "like_count": 1127,
+          "listed_count": 4,
+          "media_count": 185,
+          "tweet_count": 908
+        },
+        "url": "",
+        "username": "sakiyoko8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

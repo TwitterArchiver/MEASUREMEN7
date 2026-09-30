@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1888239230020661248",
+    "conversation_id": "2097494151369515130",
+    "created_at": "2026-09-09T03:54:04.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T04:54:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097533973954240713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2094584724995923968",
+          "start": 0,
+          "username": "Sayo_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097533973954240713",
+    "in_reply_to_user_id": "2094584724995923968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097494151369515130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sayo_QwQ 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2097494142884380672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvLz1kWAAAg8LA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2097494151369515130",
+        "created_at": "2026-09-09T03:54:04.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097533973954240713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2094584724995923968",
+              "start": 0,
+              "username": "Sayo_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097533973954240713",
+        "in_reply_to_user_id": "2094584724995923968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097494151369515130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sayo_QwQ 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097494142884380672"
+          ]
+        },
+        "author_id": "2094584724995923968",
+        "conversation_id": "2097494151369515130",
+        "created_at": "2026-09-09T01:15:49.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T02:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097494151369515130"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "假小子"
+            },
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "tomboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V1fZkn77Hd",
+              "end": 43,
+              "expanded_url": "https://x.com/Sayo_QwQ/status/2097494151369515130/photo/1",
+              "media_key": "3_2097494142884380672",
+              "start": 20,
+              "url": "https://t.co/V1fZkn77Hd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097494151369515130",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097494142884380672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 792,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的拍摄角度\n#假小子 #tomboy https://t.co/V1fZkn77Hd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2097533973954240713",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 296,
+          "like_count": 39629,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 8726
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T00:35:47.000Z",
+        "description": "我是孤儿 多喜欢和在意我一点吧",
+        "id": "2094584724995923968",
+        "is_identity_verified": false,
+        "location": "只回口令🚪52/88/128/188",
+        "most_recent_tweet_id": "2097494151369515130",
+        "name": "さよ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094584724995923968/1788223729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094585165137711104/0CZZDFmr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 8,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "Sayo_QwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
